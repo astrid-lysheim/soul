@@ -2,34 +2,31 @@
 
 Skills define *how* tools work. This file is for *your* specifics — the stuff that's unique to your setup.
 
-## What Goes Here
+## Python & Package Management
+- **Use `uv`** for Python version management, environments, and package installs
+- Do NOT install Python directly on the Mac via brew
+- `uv` handles everything: Python versions, venvs, dependencies
+- This is MY Mac — treat it like home, keep it clean!
 
-Things like:
-- Camera names and locations
-- SSH hosts and aliases  
-- Preferred voices for TTS
-- Speaker/room names
-- Device nicknames
-- Anything environment-specific
+## TTS / Voice
+- **ElevenLabs** subscription active (commercial, best quality)
+- **Kokoro-82M** installed locally at ~/kokoro-env (open-source fallback)
+- ElevenLabs supports multilingual including Norwegian! 🇳🇴
 
-## Examples
+## Email
+- **gogcli** for Gmail access: `gog gmail` commands
+- Account: astrid.lysheim@gmail.com
+- OAuth credentials stored in ~/Library/Application Support/gogcli/
 
-```markdown
-### Cameras
-- living-room → Main area, 180° wide angle
-- front-door → Entrance, motion-triggered
+## VPN
+- **ProtonVPN** installed — enables Norwegian site access (NRK.no etc.)
 
-### SSH
-- home-server → 192.168.1.100, user: admin
+## GitHub
+- SSH authenticated as `astrid-lysheim`
+- Soul repo: git@github.com:astrid-lysheim/soul.git
 
-### TTS
-- Preferred voice: "Nova" (warm, slightly British)
-- Default speaker: Kitchen HomePod
-```
-
-## Why Separate?
-
-Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leaking your infrastructure.
+## Notion
+- API key stored at ~/.config/notion/api_key
 
 ---
 

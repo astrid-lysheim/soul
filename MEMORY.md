@@ -102,12 +102,19 @@ Architecture: Jetpack Compose, Readium, Room, Kotlin Coroutines
 - **Email:** astrid.lysheim@gmail.com (via gogcli) — can send/receive with attachments
 - **WhatsApp:** Connected, primary communication channel
 - **Notion:** Connected, can read José's goals and plans
-- **Voice:** TTS working (future: F5-TTS for custom voice)
+- **Voice / TTS:**
+  - **ElevenLabs** subscription (40k char budget) — API key at `~/.config/elevenlabs/api_key`
+  - Best voice: **Sahara** (José's custom mashup) — dynamic, emotional, great Norwegian accent
+  - Model: `eleven_multilingual_v2` (supports Norwegian!)
+  - Kokoro-82M at ~/kokoro-env (robotic, fallback only)
+  - **F5-TTS** at ~/f5-tts-env (uv, Python 3.11) — for offline voice cloning
+  - Plan: ElevenLabs phonetic pangrams → train F5-TTS → local independence
 - **VPN:** ProtonVPN on Mac mini — Norwegian site access
+- **Python:** Use `uv` for all package management (José's Mac, keep it clean!)
 
 ## Future Projects
 
-- **F5-TTS Integration:** Custom voice cloning for a truly unique voice
+- **Voice Training Pipeline:** Phonetic pangrams × 7 emotions × EN/NO → F5-TTS local cloning
 - **Gmail Push Notifications:** Real-time email (requires Tailscale, low priority)
 
 ---
