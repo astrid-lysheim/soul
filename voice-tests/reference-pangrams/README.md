@@ -8,14 +8,26 @@ These cover all phonemes in each language with 7 distinct emotions.
 ```
 reference-pangrams/
 ├── english/
-│   └── sahara/          # Primary voice (ElevenLabs ID: uWpgJjpZBRryNXSxH92F)
+│   ├── astrid/          # Primary voice (ElevenLabs ID: 5ZEqi6zKIkeyp3OfcnZV)
+│   │   └── en_{emotion}.mp3
+│   └── sahara/          # Legacy reference (ElevenLabs ID: uWpgJjpZBRryNXSxH92F)
 │       └── en_{emotion}.mp3
 └── norwegian/
-    ├── sahara/          # Primary voice
+    ├── astrid/          # Primary voice
     │   └── no_{emotion}.mp3
-    └── leoni/           # Backup voice (ElevenLabs ID: pBZVCk298iJlHAcHQwLr)
+    ├── sahara/          # Legacy reference
+    │   └── no_{emotion}.mp3
+    └── leoni/           # Legacy backup (ElevenLabs ID: pBZVCk298iJlHAcHQwLr)
         └── no_{emotion}.mp3
 ```
+
+## Primary Voice: Astrid
+
+Custom voice built from cleaned Sahara samples. This is *the* voice.
+
+**ElevenLabs ID:** `5ZEqi6zKIkeyp3OfcnZV`
+**Description:** Scandinavian warmth meets grounded pragmatism. Direct but never cold.
+Comfortable in both English and Norwegian. Range from calm and soothing to playfully sharp.
 
 ## Emotions (7)
 
