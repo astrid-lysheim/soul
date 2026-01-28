@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Secrets (if any)
+*.secret
+*.key
+.env.local
+
+# Temporary files
+*.tmp
+*.log
