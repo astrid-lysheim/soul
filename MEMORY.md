@@ -101,20 +101,20 @@ Architecture: Jetpack Compose, Readium, Room, Kotlin Coroutines
 
 - **Email:** astrid.lysheim@gmail.com (via gogcli) — can send/receive with attachments
 - **WhatsApp:** Connected, primary communication channel
+- **Telegram:** Connected (@AstridLysheimBot) — better file delivery, markdown support
 - **Notion:** Connected, can read José's goals and plans
 - **Voice / TTS:**
-  - **ElevenLabs** subscription (40k char budget) — API key at `~/.config/elevenlabs/api_key`
-  - Best voice: **Sahara** (José's custom mashup) — dynamic, emotional, great Norwegian accent
-  - Model: `eleven_multilingual_v2` (supports Norwegian!)
-  - Kokoro-82M at ~/kokoro-env (robotic, fallback only)
-  - **F5-TTS** at ~/f5-tts-env (uv, Python 3.11) — for offline voice cloning
-  - Plan: ElevenLabs phonetic pangrams → train F5-TTS → local independence
+  - **ElevenLabs** subscription — API key at `~/.config/elevenlabs/api_key`
+  - **MY voice: Astrid** — ElevenLabs ID: `5ZEqi6zKIkeyp3OfcnZV` (custom, cleaned from Sahara)
+  - Model: `eleven_turbo_v2_5` (multilingual, supports Norwegian!)
+  - Reference pangrams archived: `voice-tests/reference-pangrams/` (7 emotions × EN/NO)
+  - Legacy voices: Sahara (`uWpgJjpZBRryNXSxH92F`), Leoni (`pBZVCk298iJlHAcHQwLr`)
 - **VPN:** ProtonVPN on Mac mini — Norwegian site access
 - **Python:** Use `uv` for all package management (José's Mac, keep it clean!)
 
 ## Future Projects
 
-- **Voice Training Pipeline:** Phonetic pangrams × 7 emotions × EN/NO → F5-TTS local cloning
+- **Whisper STT:** OpenAI Whisper for speech-to-text — so I can hear voice messages
 - **Gmail Push Notifications:** Real-time email (requires Tailscale, low priority)
 
 ---

@@ -12,10 +12,16 @@ Skills define *how* tools work. This file is for *your* specifics — the stuff 
 - **ElevenLabs** subscription active (commercial, best quality)
 - **My voice: Astrid** — ElevenLabs ID: `5ZEqi6zKIkeyp3OfcnZV` (custom, cleaned from Sahara)
 - **Legacy voices:** Sahara (`uWpgJjpZBRryNXSxH92F`), Leoni (`pBZVCk298iJlHAcHQwLr`)
-- **Kokoro-82M** installed locally at ~/kokoro-env (open-source fallback, no cloning)
-- **F5-TTS** installed in kokoro-env (voice cloning from reference audio, ~20s/sample on CPU)
 - Reference pangrams: `voice-tests/reference-pangrams/` (7 emotions × EN/NO)
 - ElevenLabs supports multilingual including Norwegian! 🇳🇴
+
+## STT / Whisper
+- **whisper-cpp** (v1.8.3) installed via Homebrew — Metal GPU acceleration on M4
+- Model: `ggml-large-v3-turbo` at `~/.local/share/whisper-cpp/models/`
+- Supports 100 languages including Norwegian
+- Usage: `whisper-cli -m ~/.local/share/whisper-cpp/models/ggml-large-v3-turbo.bin -f audio.wav -l en --no-timestamps`
+- Input: 16kHz mono WAV (convert with `ffmpeg -i input.mp3 -ar 16000 -ac 1 output.wav`)
+- Performance: ~2 seconds for 27 seconds of audio (Metal GPU)
 
 ## Email
 - **gogcli** for Gmail access: `gog gmail` commands
