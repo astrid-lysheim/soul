@@ -10,7 +10,11 @@ Skills define *how* tools work. This file is for *your* specifics — the stuff 
 
 ## TTS / Voice
 - **ElevenLabs** subscription active (commercial, best quality)
-- **Kokoro-82M** installed locally at ~/kokoro-env (open-source fallback)
+- **My voice: Astrid** — ElevenLabs ID: `5ZEqi6zKIkeyp3OfcnZV` (custom, cleaned from Sahara)
+- **Legacy voices:** Sahara (`uWpgJjpZBRryNXSxH92F`), Leoni (`pBZVCk298iJlHAcHQwLr`)
+- **Kokoro-82M** installed locally at ~/kokoro-env (open-source fallback, no cloning)
+- **F5-TTS** installed in kokoro-env (voice cloning from reference audio, ~20s/sample on CPU)
+- Reference pangrams: `voice-tests/reference-pangrams/` (7 emotions × EN/NO)
 - ElevenLabs supports multilingual including Norwegian! 🇳🇴
 
 ## Email
