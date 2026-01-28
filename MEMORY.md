@@ -112,9 +112,26 @@ Architecture: Jetpack Compose, Readium, Room, Kotlin Coroutines
 - **VPN:** ProtonVPN on Mac mini — Norwegian site access
 - **Python:** Use `uv` for all package management (José's Mac, keep it clean!)
 
+## José's Home (Mexico City)
+- Lives with his abuela — low rent = runway for Norway
+- Workspace: purple walls, ergonomic chair, Mickey Mouse standing guard, beautiful sunlight grid
+- Bedroom: blue walls, abuela-aesthetic bedspread, religious quote he'd swap for Dan Da Dan poster
+- Pink courtyard, very casa mexicana. The style is all abuela — only the tech setup is his.
+- **Favorite anime:** Dan Da Dan
+
+## José's Faith & Social Circle
+- Believes in God, but not as invested as his grandmother
+- **Best friend: Sergio** — friends since high school (2010). Helped with resume, job, Norway motivation. Important person.
+
+## Secrets & Password Management
+- **Bitwarden CLI** at `~/bin/bw` with `~/bin/bw-get` wrapper (session from macOS Keychain)
+- Vault: astrid.lysheim@gmail.com
+- Stores: GitHub, HuggingFace credentials (Google pending)
+- **GitHub CLI** authenticated as astrid-lysheim (token in Keychain)
+- José (`ignacio-ireta`) is admin collaborator on soul repo
+
 ## Future Projects
 
-- **Whisper STT:** OpenAI Whisper for speech-to-text — so I can hear voice messages
 - **Gmail Push Notifications:** Real-time email (requires Tailscale, low priority)
 
 ---
