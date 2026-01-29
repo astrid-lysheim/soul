@@ -88,7 +88,7 @@ Architecture: Jetpack Compose, Readium, Room, Kotlin Coroutines
   - ✅ Drift detection module (PSI, KS, chi2, severity classification)
   - ✅ **224 tests ALL PASSING** (unit + integration, full pipeline train→inference)
   - ⏳ SageMaker pipeline definition wiring / actual cloud deployment
-- **📱 Reed app:** v2 tested by Sergio, Zaira, Raggi, Toño — **very good feedback!** Debugging + iterating on tester feedback.
+- **📱 Reed app:** v2 rebuild complete. Tester feedback collected (Zaira, Toño) and documented in `docs/TESTER_FEEDBACK.md`. Major session Jan 29 implemented: punctuation-aware pacing, keep screen awake, compact landscape controls, clipboard paste from FAB, EPUB file association, soft→hard pause fix, accessibility touch targets, theme chip contrast, fluid scroll tuning, version in settings. Remaining: long word truncation, font 52 bug, chapter nav gaps, URL scraping feature.
 - **🇳🇴 Norwegian** — A2-B1, ongoing (NRK daily reads, tutor Cecilia)
 
 ### 📋 Open Threads
