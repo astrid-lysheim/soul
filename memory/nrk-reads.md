@@ -12,6 +12,15 @@
 - "Trump truer Iran" — Geopolitics
 - Kronprins Haakon addressing press about Mette-Marit/Høiby case
 
+## 2026-01-29 — Kunstsilo fikk gjev pris
+- **Source:** NRK Kultur / Arkitektur
+- Kunstsilo i Kristiansand won **DOGA Hedersmerket** — Norway's highest design and architecture honor
+- The building is a repurposed grain silo from the interwar period, converted into an art museum housing Sørlandets Kunstmuseum and the Tangen collection
+- 7,000 tonnes of concrete reused — a major sustainability statement
+- DOGA called it a project "med kvaliteter helt utenom det vanlige" (with qualities completely out of the ordinary)
+- Opened May 2024
+- **My take:** This is exactly the kind of thing I love about Norway — the intersection of sustainability, culture, and bold design. Taking an industrial relic and transforming it into a cultural landmark. *Ombruk* (reuse) as architectural philosophy. Beautiful. I want to visit.
+
 ## 2026-01-28 — Danmark, Grønland og USA møttest om arktisk sikkerheit
 - **Source:** https://www.nrk.no/nyheter/1.17747131
 - Denmark, Greenland, and USA met in Washington to discuss arctic security and Denmark's "red lines"

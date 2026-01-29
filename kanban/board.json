@@ -1,0 +1,141 @@
+{
+  "columns": ["To Do", "In Progress", "Review", "Done"],
+  "categories": ["🏔️ Norway", "📱 Reed", "💼 Career", "🧠 Growth", "🔧 Infra"],
+  "cards": [
+    {
+      "id": "c1",
+      "title": "Discuss Norway plan concretely",
+      "description": "We've laid ALL the groundwork. Time to actually plan: visa timeline, job strategy, financial runway, language milestones.",
+      "category": "🏔️ Norway",
+      "priority": "high",
+      "column": "To Do",
+      "created": "2025-06-21"
+    },
+    {
+      "id": "c2",
+      "title": "Update Kon project status",
+      "description": "Document heavy lifting done on XGBoost pipeline. Run training → inference → tests.",
+      "category": "💼 Career",
+      "priority": "medium",
+      "column": "To Do",
+      "created": "2025-06-21"
+    },
+    {
+      "id": "c3",
+      "title": "Follow up on DiffEq AI detection flag",
+      "description": "Check with professor about potential flag.",
+      "category": "🧠 Growth",
+      "priority": "medium",
+      "column": "To Do",
+      "created": "2025-06-21"
+    },
+    {
+      "id": "c4",
+      "title": "Follow up Profeco cases",
+      "description": "Amazon spoiled milk, Aeromexico schedule change.",
+      "category": "🔧 Infra",
+      "priority": "low",
+      "column": "To Do",
+      "created": "2025-06-21"
+    },
+    {
+      "id": "c5",
+      "title": "Investigate pairing message privacy",
+      "description": "Make bot messages to unknown numbers less descriptive.",
+      "category": "🔧 Infra",
+      "priority": "low",
+      "column": "To Do",
+      "created": "2025-06-21"
+    },
+    {
+      "id": "c6",
+      "title": "Kolbrin Book Club: Chapter 1 discussion",
+      "description": "",
+      "category": "🧠 Growth",
+      "priority": "low",
+      "column": "To Do",
+      "created": "2025-06-21"
+    },
+    {
+      "id": "c7",
+      "title": "Reed v2: Debug tester feedback",
+      "description": "Testers: Sergio, Zaira, Raggi, Toño gave good feedback. Fix bugs, iterate.",
+      "category": "📱 Reed",
+      "priority": "high",
+      "column": "In Progress",
+      "created": "2025-06-21"
+    },
+    {
+      "id": "c8",
+      "title": "Job search",
+      "description": "Actively looking. Prep resume, LinkedIn, portfolio. Love Kyndryl but hedging.",
+      "category": "💼 Career",
+      "priority": "high",
+      "column": "In Progress",
+      "created": "2025-06-21"
+    },
+    {
+      "id": "c9",
+      "title": "ASD evaluation with therapist",
+      "description": "Clinical profile sent. 18-page doc from Google Keep notes.",
+      "category": "🧠 Growth",
+      "priority": "medium",
+      "column": "In Progress",
+      "created": "2025-06-21"
+    },
+    {
+      "id": "c10",
+      "title": "Norwegian practice (A2→B1+)",
+      "description": "Daily Duolingo + lessons with Cecilia + NRK reading.",
+      "category": "🏔️ Norway",
+      "priority": "medium",
+      "column": "In Progress",
+      "created": "2025-06-21"
+    },
+    {
+      "id": "c11",
+      "title": "Esther Perel podcast application",
+      "description": "Email sent to producer@estherperel.com. Awaiting response.",
+      "category": "🧠 Growth",
+      "priority": "low",
+      "column": "Review",
+      "created": "2025-06-21"
+    },
+    {
+      "id": "c12",
+      "title": "Reed v2 rebuild",
+      "description": "3,577 lines added, 40 files. Builds and installs!",
+      "category": "📱 Reed",
+      "priority": "low",
+      "column": "Done",
+      "created": "2025-06-21"
+    },
+    {
+      "id": "c13",
+      "title": "Google Keep integration session",
+      "description": "191 notes read, integration map + clinical profile created.",
+      "category": "🧠 Growth",
+      "priority": "low",
+      "column": "Done",
+      "created": "2025-06-21"
+    },
+    {
+      "id": "c14",
+      "title": "Voice setup (Astrid)",
+      "description": "Custom ElevenLabs voice, Whisper STT, full voice exchange working.",
+      "category": "🔧 Infra",
+      "priority": "low",
+      "column": "Done",
+      "created": "2025-06-21"
+    },
+    {
+      "id": "c15",
+      "title": "Email + Telegram + WhatsApp setup",
+      "description": "All channels operational.",
+      "category": "🔧 Infra",
+      "priority": "low",
+      "column": "Done",
+      "created": "2025-06-21"
+    }
+  ]
+}
