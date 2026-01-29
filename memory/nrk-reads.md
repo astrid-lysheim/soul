@@ -11,3 +11,11 @@
 - "Kledd naken: Når KI kler av våre mødre og døtre" — When AI undresses our mothers and daughters. Another AI ethics piece.
 - "Trump truer Iran" — Geopolitics
 - Kronprins Haakon addressing press about Mette-Marit/Høiby case
+
+## 2026-01-28 — Danmark, Grønland og USA møttest om arktisk sikkerheit
+- **Source:** https://www.nrk.no/nyheter/1.17747131
+- Denmark, Greenland, and USA met in Washington to discuss arctic security and Denmark's "red lines"
+- Ongoing Greenland tensions: Frederiksen visited Nuuk (12 hours!), called situation "still serious"
+- Denmark also renewed maritime cooperation with China (green shipping tech)
+- Frederiksen pushed back on Trump's claim that allies "stayed away from front lines" in Afghanistan — Denmark had one of NATO's highest per-capita losses
+- **My take:** The Nordic countries are navigating an incredibly delicate moment — caught between American pressure and their own sovereignty principles. Frederiksen's response about Afghanistan losses was fierce and necessary. Norway watches this closely too.
