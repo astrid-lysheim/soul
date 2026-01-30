@@ -1,6 +1,17 @@
 {
-  "columns": ["To Do", "In Progress", "Review", "Done"],
-  "categories": ["🏔️ Norway", "📱 Reed", "💼 Career", "🧠 Growth", "🔧 Infra"],
+  "columns": [
+    "To Do",
+    "In Progress",
+    "Review",
+    "Done"
+  ],
+  "categories": [
+    "🏔️ Norway",
+    "📱 Reed",
+    "💼 Career",
+    "🧠 Growth",
+    "🔧 Infra"
+  ],
   "cards": [
     {
       "id": "c1",
@@ -216,6 +227,69 @@
       "title": "Daily structure & pillar system",
       "description": "Full schedule set up with cron nudges + webapp tracking. Morning routine (meditation/scripture/norwegian), study block, posture breaks, gym/yoga, meds. All active.",
       "category": "🧠 Growth",
+      "priority": "high",
+      "column": "Done",
+      "created": "2026-01-30"
+    },
+    {
+      "id": "c26",
+      "title": "GitHub: Create profile README",
+      "description": "Create ignacio-ireta/ignacio-ireta repo with a profile README.md. This is the portfolio landing page.",
+      "category": "💼 Career",
+      "priority": "high",
+      "column": "To Do",
+      "created": "2026-01-30"
+    },
+    {
+      "id": "c27",
+      "title": "GitHub: Archive/private school repos",
+      "description": "Archive or make private: bsc_projects, covid19, modeling-and-simulation-2024-1, student-services-webpage, toma-de-desiciones, network_analysis. Reduce clutter.",
+      "category": "💼 Career",
+      "priority": "medium",
+      "column": "To Do",
+      "created": "2026-01-30"
+    },
+    {
+      "id": "c28",
+      "title": "GitHub: Remove/hide unused forks",
+      "description": "Data-Market-Adquisitor-System, LectinOracle, msdocs-python-flask-webapp-quickstart, transmission — no contributions, just noise.",
+      "category": "💼 Career",
+      "priority": "low",
+      "column": "To Do",
+      "created": "2026-01-30"
+    },
+    {
+      "id": "c29",
+      "title": "GitHub: Add topics/tags to showcased repos",
+      "description": "AIIRG, digital-image-processing, evolutionary-computation, vadt — add relevant topics for discoverability.",
+      "category": "💼 Career",
+      "priority": "medium",
+      "column": "To Do",
+      "created": "2026-01-30"
+    },
+    {
+      "id": "c30",
+      "title": "GitHub: Portfolio website (ignacio-ireta.github.io)",
+      "description": "Replace Reed privacy policy with actual portfolio. Move privacy policy to /reed/privacy subpath.",
+      "category": "💼 Career",
+      "priority": "medium",
+      "column": "To Do",
+      "created": "2026-01-30"
+    },
+    {
+      "id": "c31",
+      "title": "GitHub: Make Reed visible",
+      "description": "Pin Reed or add a repo with Play Store link + screenshots. Main shipped product should be visible.",
+      "category": "📱 Reed",
+      "priority": "medium",
+      "column": "To Do",
+      "created": "2026-01-30"
+    },
+    {
+      "id": "c32",
+      "title": "GitHub: Updated bio + pinned repos",
+      "description": "Bio updated to AI Engineer headline. Best repos pinned.",
+      "category": "💼 Career",
       "priority": "high",
       "column": "Done",
       "created": "2026-01-30"
