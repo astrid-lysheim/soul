@@ -5,7 +5,7 @@
     {
       "id": "c1",
       "title": "Discuss Norway plan concretely",
-      "description": "We've laid ALL the groundwork. Time to actually plan: visa timeline, job strategy, financial runway, language milestones.",
+      "description": "ONE PATH locked: Bachelor's → OMSCS → Skilled Worker Visa. Now need: timeline, finances, job strategy, language milestones.",
       "category": "🏔️ Norway",
       "priority": "high",
       "column": "To Do",
@@ -14,17 +14,8 @@
     {
       "id": "c2",
       "title": "Update Kon project status",
-      "description": "Document heavy lifting done on XGBoost pipeline. Run training → inference → tests.",
+      "description": "Core refactor done. 224 tests passing. SageMaker pipeline wiring still pending.",
       "category": "💼 Career",
-      "priority": "medium",
-      "column": "To Do",
-      "created": "2025-06-21"
-    },
-    {
-      "id": "c3",
-      "title": "Follow up on DiffEq AI detection flag",
-      "description": "Check with professor about potential flag.",
-      "category": "🧠 Growth",
       "priority": "medium",
       "column": "To Do",
       "created": "2025-06-21"
@@ -50,25 +41,61 @@
     {
       "id": "c6",
       "title": "Kolbrin Book Club: Chapter 1 discussion",
-      "description": "",
+      "description": "José has the epub. Chapter 1 read, discussion pending.",
       "category": "🧠 Growth",
       "priority": "low",
       "column": "To Do",
       "created": "2025-06-21"
     },
     {
-      "id": "c7",
-      "title": "Reed v2: Debug tester feedback",
-      "description": "Testers: Sergio, Zaira, Raggi, Toño gave good feedback. Fix bugs, iterate.",
-      "category": "📱 Reed",
+      "id": "c16",
+      "title": "Bachelor's degree: 2 courses remaining",
+      "description": "Diff Eq + Multivariate Stats. Exámenes extraordinarios ~June/July 2026. Need to relearn prereqs. PHASE 0 — nothing moves without this.",
+      "category": "🧠 Growth",
       "priority": "high",
-      "column": "In Progress",
-      "created": "2025-06-21"
+      "column": "To Do",
+      "created": "2026-01-29"
+    },
+    {
+      "id": "c17",
+      "title": "Georgia Tech OMSCS research",
+      "description": "Deadlines, costs, financial aid. Blocked by zero savings. Need bachelor's first.",
+      "category": "🏔️ Norway",
+      "priority": "medium",
+      "column": "To Do",
+      "created": "2026-01-29"
+    },
+    {
+      "id": "c18",
+      "title": "Financial planning",
+      "description": "Zero savings. 'Financial Health' spreadsheet shared. Review together and build a plan.",
+      "category": "🏔️ Norway",
+      "priority": "high",
+      "column": "To Do",
+      "created": "2026-01-29"
+    },
+    {
+      "id": "c19",
+      "title": "LinkedIn & portfolio polish",
+      "description": "Resumes done. Need to add LinkedIn/GitHub links, update profiles.",
+      "category": "💼 Career",
+      "priority": "medium",
+      "column": "To Do",
+      "created": "2026-01-29"
+    },
+    {
+      "id": "c20",
+      "title": "Reed: remaining tester feedback",
+      "description": "Long word truncation, font 52 bug, chapter nav gaps, URL scraping feature, word-by-word nav.",
+      "category": "📱 Reed",
+      "priority": "medium",
+      "column": "To Do",
+      "created": "2026-01-29"
     },
     {
       "id": "c8",
       "title": "Job search",
-      "description": "Actively looking. Prep resume, LinkedIn, portfolio. Love Kyndryl but hedging.",
+      "description": "Actively looking. Resumes done ✅. Need LinkedIn/portfolio work.",
       "category": "💼 Career",
       "priority": "high",
       "column": "In Progress",
@@ -77,7 +104,7 @@
     {
       "id": "c9",
       "title": "ASD evaluation with therapist",
-      "description": "Clinical profile sent. 18-page doc from Google Keep notes.",
+      "description": "Clinical profile sent (18 pages, 17 appendices). Awaiting therapist review.",
       "category": "🧠 Growth",
       "priority": "medium",
       "column": "In Progress",
@@ -86,25 +113,63 @@
     {
       "id": "c10",
       "title": "Norwegian practice (A2→B1+)",
-      "description": "Daily Duolingo + lessons with Cecilia + NRK reading.",
+      "description": "Tutor Cecilia + NRK daily reads + daily practice.",
       "category": "🏔️ Norway",
       "priority": "medium",
       "column": "In Progress",
       "created": "2025-06-21"
     },
     {
-      "id": "c11",
-      "title": "Esther Perel podcast application",
-      "description": "Email sent to producer@estherperel.com. Awaiting response.",
+      "id": "c3",
+      "title": "DiffEq exam — registration issue",
+      "description": "Colosi says work was good but name not on system list. Asked if grade can carry to next extraordinario. Awaiting reply.",
       "category": "🧠 Growth",
-      "priority": "low",
+      "priority": "high",
       "column": "Review",
-      "created": "2025-06-21"
+      "created": "2025-06-21",
+      "updated": "2026-01-29"
+    },
+    {
+      "id": "c11",
+      "title": "Esther Perel podcast",
+      "description": "Jesse (producer) replied! Call scheduled: Jan 31 at 2:00 PM CT.",
+      "category": "🧠 Growth",
+      "priority": "high",
+      "column": "Review",
+      "created": "2025-06-21",
+      "updated": "2026-01-29"
+    },
+    {
+      "id": "c21",
+      "title": "US Visa — Embassy appointment",
+      "description": "B1/B2 tourist visa. Jan 31 at 11:15 AM. Presa Angostura 225, Col. Irrigación, CDMX. First US visa ever.",
+      "category": "🏔️ Norway",
+      "priority": "high",
+      "column": "Review",
+      "created": "2026-01-29"
+    },
+    {
+      "id": "c22",
+      "title": "Reed v2 submitted to Google Play",
+      "description": "Build signed, published to Play Store. Google approved. Testers can download. Release notes in EN/ES/FR/NO.",
+      "category": "📱 Reed",
+      "priority": "high",
+      "column": "Done",
+      "created": "2026-01-29"
+    },
+    {
+      "id": "c23",
+      "title": "Resumes rewritten (all 4 versions)",
+      "description": "AI Engineer, Data Scientist, Data Engineering, ML Engineer. Sergio's feedback applied. Uploaded to Google Drive.",
+      "category": "💼 Career",
+      "priority": "high",
+      "column": "Done",
+      "created": "2026-01-29"
     },
     {
       "id": "c12",
       "title": "Reed v2 rebuild",
-      "description": "3,577 lines added, 40 files. Builds and installs!",
+      "description": "3,577 lines added, 40 files. Full v2 with all tester feedback implemented.",
       "category": "📱 Reed",
       "priority": "low",
       "column": "Done",
@@ -136,6 +201,24 @@
       "priority": "low",
       "column": "Done",
       "created": "2025-06-21"
+    },
+    {
+      "id": "c24",
+      "title": "Norway plan: ONE PATH locked",
+      "description": "Bachelor's → Georgia Tech OMSCS → Skilled Worker Visa. Spain/golden visa is fallback only.",
+      "category": "🏔️ Norway",
+      "priority": "high",
+      "column": "Done",
+      "created": "2026-01-29"
+    },
+    {
+      "id": "c25",
+      "title": "Daily structure & pillar system",
+      "description": "Full schedule set up with cron nudges + webapp tracking. Morning routine (meditation/scripture/norwegian), study block, posture breaks, gym/yoga, meds. All active.",
+      "category": "🧠 Growth",
+      "priority": "high",
+      "column": "Done",
+      "created": "2026-01-30"
     }
   ]
 }
