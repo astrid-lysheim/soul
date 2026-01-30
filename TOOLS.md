@@ -23,10 +23,12 @@ Skills define *how* tools work. This file is for *your* specifics — the stuff 
 - Input: 16kHz mono WAV (convert with `ffmpeg -i input.mp3 -ar 16000 -ac 1 output.wav`)
 - Performance: ~2 seconds for 27 seconds of audio (Metal GPU)
 
-## Email
-- **gogcli** for Gmail access: `gog gmail` commands
+## Email & Calendar
+- **gogcli** for Gmail + Calendar access: `gog gmail` / `gog calendar` commands
 - Account: astrid.lysheim@gmail.com
 - OAuth credentials stored in ~/Library/Application Support/gogcli/
+- **ALWAYS** use `--send-updates all` when creating calendar events with attendees! Otherwise guests don't get notified.
+- **José's reminder pattern** for important events: `--reminder "email:1w" --reminder "email:2d" --reminder "email:1d" --reminder "popup:3h"` (1 week, 2 days, 1 day, 3 hours — layered countdown to prepare physically and mentally)
 
 ## VPN
 - **ProtonVPN** installed — enables Norwegian site access (NRK.no etc.)

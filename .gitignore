@@ -9,3 +9,13 @@
 # Temporary files
 *.tmp
 *.log
+
+# Large binary files (study materials stored locally, not in git)
+final_exams-retake/**/*.pdf
+final_exams-retake/**/*.zip
+final_exams-retake.7z
+*.docx
+
+# Transitory files
+LinkedIn_Profile.pdf
+inbox-attachment.jpeg
