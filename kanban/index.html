@@ -389,6 +389,7 @@
 <header>
   <h1>Astrid & José — <span>Mission Control</span> 🏔️</h1>
   <div class="header-actions">
+    <button class="btn-theme" id="resetBtn" onclick="resetAllData()" title="Reset to defaults">🔄</button>
     <button class="btn-theme" id="themeToggle" onclick="toggleTheme()" title="Toggle theme">☀️</button>
     <button class="btn-add-global" id="globalAddBtn" onclick="globalAdd()">+ New Card</button>
   </div>
@@ -1215,6 +1216,16 @@ function toggleStudyTopic(topicId) {
 /* ══════════════════════════════════════════════════════════════
    THEME & KEYBOARD & BOOT
    ══════════════════════════════════════════════════════════════ */
+function resetAllData() {
+  if (!confirm('Reset everything to defaults? This will clear your board, habits, schedule, and study progress.')) return;
+  localStorage.removeItem('kanban_board');
+  localStorage.removeItem('habits_data');
+  localStorage.removeItem('schedule_data');
+  localStorage.removeItem('study_progress');
+  localStorage.removeItem('mc_active_tab');
+  location.reload();
+}
+
 function toggleTheme() {
   const html = document.documentElement;
   const next = html.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
