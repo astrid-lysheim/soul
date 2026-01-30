@@ -22,7 +22,7 @@ Tools:        Git · Docker · Terraform · Jupyter
 | [**digital-image-processing**](https://github.com/ignacio-ireta/digital-image-processing) | Image processing techniques: filtering, edge detection, frequency domain, ML classification |
 | [**evolutionary-computation**](https://github.com/ignacio-ireta/evolutionary-computation-and-genetic-algorithms) | Genetic algorithms and evolutionary computation implementations |
 | [**vadt**](https://github.com/ignacio-ireta/vadt) | Video accent detection tool |
-| 📱 **Reed** | RSVP speed reader for Android — [Google Play](https://play.google.com/store/apps/details?id=com.ireta.reed) |
+| 📱 **Reed** | RSVP speed reader for Android — *coming soon to Google Play* |
 
 ## 📱 Reed — My shipped app
 
