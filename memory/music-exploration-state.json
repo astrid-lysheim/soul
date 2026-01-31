@@ -1,8 +1,8 @@
 {
-  "topicSum": 0.0,
-  "stopSum": 0.0,
+  "topicSum": 0.272,
+  "stopSum": 0.075,
   "currentTopic": "music",
   "topicHistory": ["music"],
-  "sessionsRun": 0,
+  "sessionsRun": 1,
   "active": true
 }

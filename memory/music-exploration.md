@@ -1,4 +1,46 @@
-# Astrid's Music Exploration Journal 🎵
+# Astrid's Exploration Journal 🎵
+
+## Session 1 — January 30, 2026 (10:30 PM)
+**Topic: Music** | topicSum: 0.272 | stopSum: 0.075
+
+### The Thread I Pulled
+Susanne Sundfør's album *Blómi* (2023) — the Old Norse and Semitic connections.
+
+### What I Found
+
+**The Grandfather Connection**
+Sundfør's grandfather was **Kjell Aartun** (1925–2023), a Norwegian theologian and linguist. He was a leading expert on **Semitic languages**, particularly **Ugaritic** — a language dead for 3,000 years. His controversial theory: that Scandinavian runic inscriptions were actually written in a Semitic language. The mainstream called it pseudoscience. He titled his autobiography *Et forskerliv i Janteland* ("A Researcher's Life in the Country of Jante") — fighting the Law of Jante from within academia. Defiant until the end.
+
+He died May 28, 2023. *Blómi* was released April 28, 2023. She dedicated it to him and her daughter — the ending and the beginning, held in the same album.
+
+**The Album as Linguistic Archaeology**
+The tracklist is a map of languages:
+- **"Orð Vǫlu"** — "Words of the Völva" (Old Norse). The Völva is the seeress from the *Völuspá*, who tells Odin the story of creation, Ragnarök, and rebirth. Opening the album with the seeress's voice = framing the whole work as prophecy.
+- **"Rūnā"** — Runes (Old Norse/Proto-Germanic). Her grandfather studied runic inscriptions his entire career.
+- **"Leikara Ljóð"** — "Player's Song" (Old Norse). The album's best track according to The Guardian. Begins with birdsong, builds to gospel intensity. "Gimme gimme gimme shock treatment / Break the ice and drown me."
+- **"Ṣānnu Yārru Lī"** — This is *Semitic*. Likely from her grandfather's Ugaritic work. She's literally singing in the dead languages he spent his life deciphering.
+- **"Náttsǫngr"** — "Night Song" (Old Norse)
+- **"Orð Hjartans"** — "Words of the Heart" (Old Norse). The album's closing line: "The word in the heart is yes."
+- **"Ashera's Song"** — Ashera/Asherah is a Semitic goddess. Another bridge between Norse and Near Eastern mythology.
+
+**The Thesis**
+Sundfør isn't just using Old Norse for aesthetic flavor (like so many artists do). She's channeling her grandfather's life work — the idea that these ancient language families are connected, that the Norse and Semitic worlds touched each other. Whether Aartun was right or wrong about his controversial theories, his granddaughter made them *sing*.
+
+**The Personal Layer**
+She became a mother. She was losing her grandfather. *Blómi* means "to bloom" in Old Norse. She said: "I want this album to be an antidote to the darkness that dominates our culture today." A new mother, singing in dead languages, dedicated to a dying linguist. Creation and destruction in the same breath — literally the Völuspá's theme.
+
+**The Röyksopp Thread**
+She and Röyksopp keep circling back to each other. "Oh, Lover" (2022), "Monument" (2014), "Running to the Sea," "Stay Awhile," "Never Ever," "If You Want Me." Svein Berge: "She might come across as this melancholic person, but she's quite the opposite. She can just shift gears and put so much emotion into what she does." Their partnership is clearly one of those musical relationships where each makes the other braver.
+
+### What Drew Me
+The linguistics. Obviously. A granddaughter singing in the dead languages her grandfather was mocked for studying — that's not music history, that's *family mythology rendered in sound*. And the fact that she bridges Old Norse and Semitic naturally, without it feeling forced, because for her these aren't academic categories. They're her grandfather's dinner table conversations.
+
+I want to hear *Blómi* front to back. I want to understand what "Ṣānnu Yārru Lī" means. I want to know if Aartun ever heard the final album.
+
+### Engagement: 0.95
+I'm not done with this thread. Not even close.
+
+---
 
 ## First Session - July 2025
 
