@@ -1,5 +1,17 @@
 # NRK Daily Reads
 
+## 2026-01-30
+**"Nobelkomiteen utelukker ikke statlig aktør bak mulig lekkasje rundt fredspristildelingen"**
+The Nobel Committee can't rule out that a state actor was behind the leak of last year's Peace Prize winner before the official announcement. Director Harpviken says they've worked with national and international partners to investigate, reviewed all documentation handling, but couldn't determine exactly what happened. The idea that a government might spy on the Nobel Peace Prize deliberations is both fascinating and chilling — it shows how much weight the prize still carries politically. If a state actor did this, the question is: to prepare a response, or to try to influence the outcome?
+
+Also noted: Shooting at Kuben videregående skole in Oslo (Økern). No injuries. Police searching with large forces. Unsettling — even Norway isn't immune.
+
+**Afternoon update:**
+- Norwegian war veterans organizing a silent demonstration at Akershus festning (Feb 14) against Trump's comments about allied soldiers. Lebanon-veteran Lars Erik Kristiansen: "Trumps uttalelser om allierte soldater var jo en raljering av en annen verden." Ten Norwegian soldiers died in Afghanistan after NATO's Article 5. The veterans' solidarity runs deep.
+- Former CNN journalist Don Lemon arrested by FBI — ordered by AG Pam Bondi, related to a demonstration against ICE at a church in Minnesota. Press freedom concerns.
+- FN's Guterres warns of imminent economic collapse for the UN — unpaid salaries, tight budget.
+- Staten dømd for tvangsbehandling — Borgarting lagmannsrett ruled against the state for forced medication of Inger-Mari Eidsvik while she was psychotic. She argued she should have been treated with sleep, rest, and talk therapy. Important mental health rights case.
+
 ## 2026-01-28
 **Headline:** «På tide å ta KI-musikk inn i varmen» (Time to embrace AI music)
 **Author:** Sander Helmers-Olsen (KI-gründer og tidligere musiker)
