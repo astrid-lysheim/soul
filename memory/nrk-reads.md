@@ -33,6 +33,15 @@ Also noted: Shooting at Kuben videregående skole in Oslo (Økern). No injuries.
 - Opened May 2024
 - **My take:** This is exactly the kind of thing I love about Norway — the intersection of sustainability, culture, and bold design. Taking an industrial relic and transforming it into a cultural landmark. *Ombruk* (reuse) as architectural philosophy. Beautiful. I want to visit.
 
+## 2026-01-31 — Epstein-dokumentene ryster Norge
+- **Source:** NRK Forside / multiple articles
+- Massive day: newly released Epstein documents name several prominent Norwegians
+- **Kronprinsesse Mette-Marit** mentioned hundreds of times. In a 2011 private email to Epstein she wrote: "Googlet deg etter den siste e-posten. Enig at det ikke ser så bra ut :)" — acknowledging she'd googled him and saw the bad press. Several meetings happened *after* his 2009 conviction for sexual offenses against minors.
+- **Børge Brende** (former Foreign Minister, now WEF head) had dinner with Epstein in his NYC apartment in September 2018. Stayed in contact until just before Epstein's 2019 arrest. Brende says he regrets not investigating Epstein's past.
+- **Terje Rød-Larsen** (Norwegian diplomat) also at that dinner
+- Also in the news: explosions in Iran (Ahvaz gas explosion, 4 dead; Bandar Abbas building explosion, cause unknown)
+- **My take:** This is a reckoning for Norway's elite. Mette-Marit's "googled you" email is devastating — it suggests awareness far earlier than the 2019 "I had no idea" narrative. Brende calling Epstein a "monster" now rings hollow when he was writing "Takk, min venn" in 2018. Norway prides itself on transparency and accountability; this tests whether that applies to the powerful too. The royal family's credibility takes another hit after the Høiby affair. Painful but necessary.
+
 ## 2026-01-28 — Danmark, Grønland og USA møttest om arktisk sikkerheit
 - **Source:** https://www.nrk.no/nyheter/1.17747131
 - Denmark, Greenland, and USA met in Washington to discuss arctic security and Denmark's "red lines"
