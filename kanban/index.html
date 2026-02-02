@@ -1,0 +1,1262 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Astrid & José — Mission Control 🏔️</title>
+<style>
+  :root {
+    --bg: #121212;
+    --card-bg: #1e1e1e;
+    --col-bg: #181818;
+    --accent: #46d6db;
+    --text: #e0e0e0;
+    --text-dim: #888;
+    --border: #2a2a2a;
+    --red: #ff5252;
+    --yellow: #ffd740;
+    --green: #69f0ae;
+    --shadow: rgba(0,0,0,0.4);
+    --card-title: #fff;
+    --header-title: #fff;
+    --cat-bg: #252525;
+    --modal-overlay: rgba(0,0,0,0.7);
+  }
+  [data-theme="light"] {
+    --bg: #f0f2f5;
+    --card-bg: #ffffff;
+    --col-bg: #f8f9fa;
+    --accent: #0d9aa0;
+    --text: #2d3436;
+    --text-dim: #636e72;
+    --border: #dfe6e9;
+    --red: #d63031;
+    --yellow: #f39c12;
+    --green: #27ae60;
+    --shadow: rgba(0,0,0,0.08);
+    --card-title: #1a1a2e;
+    --header-title: #1a1a2e;
+    --cat-bg: #eef1f5;
+    --modal-overlay: rgba(0,0,0,0.3);
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Helvetica, Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+  }
+
+  /* ── Header ── */
+  header {
+    padding: 20px 24px 0;
+    display: flex; flex-wrap: wrap; align-items: center;
+    justify-content: space-between; gap: 12px;
+  }
+  header h1 { font-size: 1.35rem; font-weight: 600; letter-spacing: -0.02em; color: var(--header-title); }
+  header h1 span { color: var(--accent); }
+  .header-actions { display: flex; gap: 8px; align-items: center; }
+
+  .btn-add-global {
+    background: var(--accent); color: #fff; border: none; border-radius: 8px;
+    padding: 8px 16px; font-size: 0.85rem; font-weight: 600; cursor: pointer; transition: opacity .15s;
+  }
+  .btn-add-global:hover { opacity: .85; }
+  .btn-theme {
+    background: var(--card-bg); border: 1px solid var(--border); border-radius: 8px;
+    padding: 8px 12px; font-size: 1rem; cursor: pointer; transition: all .15s; line-height: 1;
+  }
+  .btn-theme:hover { border-color: var(--accent); }
+
+  /* ── Tabs ── */
+  .tab-bar {
+    display: flex; gap: 4px; padding: 12px 24px 0; flex-wrap: wrap;
+  }
+  .tab-btn {
+    background: var(--card-bg); border: 1px solid var(--border); color: var(--text-dim);
+    padding: 8px 18px; border-radius: 8px 8px 0 0; font-size: 0.85rem; font-weight: 500;
+    cursor: pointer; transition: all .15s; border-bottom: 2px solid transparent;
+  }
+  .tab-btn:hover { color: var(--text); border-color: var(--border); border-bottom-color: var(--accent); }
+  .tab-btn.active {
+    background: var(--col-bg); color: var(--accent); border-color: var(--border);
+    border-bottom-color: var(--accent); font-weight: 600;
+  }
+  .tab-content { display: none; }
+  .tab-content.active { display: block; }
+
+  /* ── Filter & Stats (Board) ── */
+  .filter-bar { display: flex; gap: 6px; padding: 12px 24px 0; flex-wrap: wrap; align-items: center; }
+  .filter-label { font-size: 0.75rem; color: var(--text-dim); margin-right: 4px; }
+  .filter-btn {
+    background: var(--card-bg); border: 1px solid var(--border); color: var(--text);
+    padding: 4px 10px; border-radius: 6px; font-size: 0.78rem; cursor: pointer; transition: all .15s;
+  }
+  .filter-btn:hover { border-color: var(--accent); }
+  .filter-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); font-weight: 600; }
+  .stats-bar {
+    display: flex; gap: 16px; padding: 12px 24px; flex-wrap: wrap;
+    align-items: center; font-size: 0.78rem; color: var(--text-dim);
+  }
+  .stat-item b { color: var(--text); }
+  .progress-pill {
+    background: var(--accent); color: #fff; padding: 2px 10px;
+    border-radius: 10px; font-weight: 700; font-size: 0.78rem;
+  }
+
+  /* ── Board ── */
+  .board {
+    display: flex; gap: 14px; padding: 8px 24px 24px;
+    min-height: calc(100vh - 200px); overflow-x: auto;
+  }
+  .column {
+    flex: 1; min-width: 260px; max-width: 340px; background: var(--col-bg);
+    border-radius: 12px; border: 1px solid var(--border); display: flex; flex-direction: column;
+  }
+  .col-header {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 14px 14px 10px; border-bottom: 1px solid var(--border);
+  }
+  .col-title { font-size: 0.85rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em; color: var(--text-dim); }
+  .col-count { background: var(--border); color: var(--text-dim); font-size: 0.7rem; padding: 2px 7px; border-radius: 8px; font-weight: 600; }
+  .col-body { flex: 1; padding: 10px; overflow-y: auto; min-height: 60px; transition: background .15s; }
+  .col-body.drag-over { background: rgba(70, 214, 219, 0.06); }
+
+  /* ── Cards ── */
+  .card {
+    background: var(--card-bg); border: 1px solid var(--border); border-radius: 10px;
+    padding: 12px; margin-bottom: 8px; cursor: grab;
+    transition: transform .15s, box-shadow .15s, opacity .15s; position: relative;
+  }
+  .card:hover { border-color: var(--accent); box-shadow: 0 2px 12px var(--shadow); }
+  .card.dragging { opacity: 0.4; transform: rotate(2deg); }
+  .card.hidden { display: none; }
+  .card-top { display: flex; align-items: center; gap: 6px; margin-bottom: 6px; }
+  .card-priority { font-size: 0.7rem; flex-shrink: 0; }
+  .card-category { font-size: 0.68rem; color: var(--text-dim); background: var(--cat-bg); padding: 1px 6px; border-radius: 4px; }
+  .card-title { font-size: 0.88rem; font-weight: 500; line-height: 1.3; color: var(--card-title); margin-bottom: 4px; }
+  .card-desc { font-size: 0.76rem; color: var(--text-dim); line-height: 1.4; }
+  .card-footer { display: flex; justify-content: space-between; align-items: center; margin-top: 8px; font-size: 0.68rem; color: #555; }
+  .card-delete { background: none; border: none; color: #555; cursor: pointer; font-size: 0.75rem; padding: 2px 4px; border-radius: 4px; transition: color .15s; }
+  .card-delete:hover { color: var(--red); }
+
+  /* ── Modal ── */
+  .modal-overlay {
+    display: none; position: fixed; inset: 0; background: var(--modal-overlay);
+    z-index: 100; align-items: center; justify-content: center; backdrop-filter: blur(4px);
+  }
+  .modal-overlay.open { display: flex; }
+  .modal {
+    background: var(--col-bg); border: 1px solid var(--border); border-radius: 14px;
+    padding: 24px; width: 90%; max-width: 440px; box-shadow: 0 16px 48px rgba(0,0,0,0.5);
+    max-height: 90vh; overflow-y: auto;
+  }
+  .modal h2 { font-size: 1rem; font-weight: 600; margin-bottom: 16px; color: var(--card-title); }
+  .modal label { display: block; font-size: 0.78rem; color: var(--text-dim); margin-bottom: 4px; margin-top: 10px; }
+  .modal input, .modal textarea, .modal select {
+    width: 100%; background: var(--card-bg); border: 1px solid var(--border); border-radius: 8px;
+    padding: 9px 12px; color: var(--text); font-size: 0.85rem; font-family: inherit; outline: none; transition: border-color .15s;
+  }
+  .modal input:focus, .modal textarea:focus, .modal select:focus { border-color: var(--accent); }
+  .modal textarea { resize: vertical; min-height: 60px; }
+  .modal-actions { display: flex; gap: 8px; margin-top: 18px; justify-content: flex-end; }
+  .btn-save { background: var(--accent); color: #fff; border: none; border-radius: 8px; padding: 8px 20px; font-weight: 600; font-size: 0.85rem; cursor: pointer; }
+  .btn-save:hover { opacity: .85; }
+  .btn-cancel { background: none; border: 1px solid var(--border); color: var(--text-dim); border-radius: 8px; padding: 8px 16px; font-size: 0.85rem; cursor: pointer; }
+  .btn-cancel:hover { border-color: #555; color: var(--text); }
+  .btn-modal-delete { background: none; border: 1px solid var(--red); color: var(--red); border-radius: 8px; padding: 8px 16px; font-size: 0.85rem; cursor: pointer; margin-right: auto; }
+  .btn-modal-delete:hover { background: var(--red); color: #fff; }
+
+  /* ══════════════════════════════════════ */
+  /* ── HABITS TAB ── */
+  /* ══════════════════════════════════════ */
+  .habits-container { padding: 12px 24px 24px; }
+  .habits-nav {
+    display: flex; align-items: center; justify-content: space-between;
+    margin-bottom: 16px; flex-wrap: wrap; gap: 8px;
+  }
+  .habits-nav button {
+    background: var(--card-bg); border: 1px solid var(--border); color: var(--text);
+    padding: 6px 14px; border-radius: 8px; font-size: 0.82rem; cursor: pointer; transition: all .15s;
+  }
+  .habits-nav button:hover { border-color: var(--accent); color: var(--accent); }
+  .habits-nav .week-label { font-size: 0.9rem; font-weight: 600; color: var(--card-title); }
+
+  .habits-table {
+    width: 100%; border-collapse: separate; border-spacing: 0;
+    background: var(--col-bg); border-radius: 12px; border: 1px solid var(--border); overflow: hidden;
+  }
+  .habits-table th {
+    padding: 10px 8px; font-size: 0.72rem; font-weight: 600; text-transform: uppercase;
+    letter-spacing: 0.04em; color: var(--text-dim); border-bottom: 1px solid var(--border);
+    text-align: center;
+  }
+  .habits-table th:first-child { text-align: left; padding-left: 14px; min-width: 180px; }
+  .habits-table th.today { color: var(--accent); }
+  .habits-table td {
+    padding: 10px 8px; text-align: center; border-bottom: 1px solid var(--border);
+    font-size: 0.82rem;
+  }
+  .habits-table td:first-child {
+    text-align: left; padding-left: 14px; font-weight: 500; color: var(--card-title);
+  }
+  .habits-table tr:last-child td { border-bottom: none; }
+  .habits-table tr:hover td { background: rgba(70, 214, 219, 0.04); }
+
+  .habit-name { display: flex; align-items: center; gap: 8px; }
+  .habit-icon { font-size: 1.1rem; }
+  .habit-freq { font-size: 0.68rem; color: var(--text-dim); display: block; }
+
+  .habit-check {
+    width: 28px; height: 28px; border-radius: 8px; border: 2px solid var(--border);
+    background: var(--card-bg); cursor: pointer; display: inline-flex;
+    align-items: center; justify-content: center; transition: all .15s;
+    font-size: 0.85rem; color: transparent; user-select: none;
+  }
+  .habit-check:hover { border-color: var(--accent); }
+  .habit-check.done { background: var(--green); border-color: var(--green); color: #fff; }
+  .habit-check.skip { background: var(--cat-bg); border-color: var(--border); color: var(--text-dim); font-size: 0.7rem; }
+
+  .habit-streak {
+    display: inline-flex; align-items: center; gap: 3px;
+    font-size: 0.78rem; font-weight: 600; color: var(--yellow);
+  }
+  .habit-pct {
+    font-size: 0.75rem; color: var(--text-dim); font-weight: 500;
+  }
+  .habit-pct.good { color: var(--green); }
+  .habit-pct.mid { color: var(--yellow); }
+  .habit-pct.low { color: var(--red); }
+
+  .habit-actions {
+    display: flex; gap: 4px; justify-content: center;
+  }
+  .habit-edit-btn, .habit-del-btn {
+    background: none; border: none; cursor: pointer; font-size: 0.75rem;
+    color: var(--text-dim); padding: 2px 4px; border-radius: 4px; transition: color .15s;
+  }
+  .habit-edit-btn:hover { color: var(--accent); }
+  .habit-del-btn:hover { color: var(--red); }
+
+  /* ══════════════════════════════════════ */
+  /* ── SCHEDULE TAB ── */
+  /* ══════════════════════════════════════ */
+  .schedule-container { padding: 12px 24px 24px; }
+  .schedule-nav {
+    display: flex; align-items: center; justify-content: space-between;
+    margin-bottom: 16px; flex-wrap: wrap; gap: 8px;
+  }
+  .schedule-nav button {
+    background: var(--card-bg); border: 1px solid var(--border); color: var(--text);
+    padding: 6px 14px; border-radius: 8px; font-size: 0.82rem; cursor: pointer; transition: all .15s;
+  }
+  .schedule-nav button:hover { border-color: var(--accent); color: var(--accent); }
+  .schedule-nav .week-label { font-size: 0.9rem; font-weight: 600; color: var(--card-title); }
+
+  .schedule-grid-wrapper {
+    overflow-x: auto; border-radius: 12px; border: 1px solid var(--border);
+    background: var(--col-bg);
+  }
+  .schedule-grid {
+    display: grid; grid-template-columns: 60px repeat(7, 1fr);
+    min-width: 700px;
+  }
+  .sched-header {
+    padding: 10px 6px; font-size: 0.72rem; font-weight: 600; text-transform: uppercase;
+    letter-spacing: 0.04em; color: var(--text-dim); text-align: center;
+    border-bottom: 1px solid var(--border); background: var(--col-bg);
+    position: sticky; top: 0; z-index: 2;
+  }
+  .sched-header.today { color: var(--accent); }
+  .sched-header:first-child { text-align: right; padding-right: 10px; }
+
+  .sched-time {
+    padding: 4px 8px 4px 0; font-size: 0.68rem; color: var(--text-dim);
+    text-align: right; border-right: 1px solid var(--border);
+    height: 48px; display: flex; align-items: flex-start; justify-content: flex-end;
+    padding-top: 2px;
+  }
+  .sched-cell {
+    height: 48px; border-bottom: 1px solid rgba(42,42,42,0.3);
+    border-right: 1px solid rgba(42,42,42,0.15);
+    position: relative; cursor: pointer; transition: background .1s;
+  }
+  .sched-cell:hover { background: rgba(70, 214, 219, 0.06); }
+
+  .sched-block {
+    position: absolute; left: 2px; right: 2px; border-radius: 6px;
+    padding: 3px 6px; font-size: 0.72rem; font-weight: 500; color: #fff;
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+    cursor: pointer; z-index: 1; transition: opacity .15s;
+    line-height: 1.3;
+  }
+  .sched-block:hover { opacity: 0.85; }
+  .sched-block .block-time { font-size: 0.62rem; opacity: 0.8; }
+
+  /* Schedule block colors */
+  .sched-color-blue { background: #2196F3; }
+  .sched-color-green { background: #4CAF50; }
+  .sched-color-orange { background: #FF9800; }
+  .sched-color-purple { background: #9C27B0; }
+  .sched-color-red { background: #f44336; }
+  .sched-color-teal { background: #009688; }
+  .sched-color-pink { background: #E91E63; }
+  .sched-color-indigo { background: #3F51B5; }
+
+  /* ══════════════════════════════════════ */
+  /* ── STUDY TAB ── */
+  /* ══════════════════════════════════════ */
+  .study-container { padding: 12px 24px 24px; max-width: 900px; }
+  .study-header { display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 12px; margin-bottom: 20px; }
+  .study-title { font-size: 1.15rem; font-weight: 600; color: var(--card-title); margin-bottom: 4px; }
+  .study-subtitle { font-size: 0.8rem; color: var(--text-dim); }
+  .study-overall {
+    background: var(--col-bg); border: 1px solid var(--border); border-radius: 12px;
+    padding: 12px 20px; text-align: center; min-width: 140px;
+  }
+  .study-overall-pct { font-size: 1.8rem; font-weight: 700; color: var(--accent); }
+  .study-overall-label { font-size: 0.72rem; color: var(--text-dim); text-transform: uppercase; letter-spacing: 0.04em; }
+
+  .study-phase {
+    background: var(--col-bg); border: 1px solid var(--border); border-radius: 12px;
+    margin-bottom: 16px; overflow: hidden;
+  }
+  .study-phase-header {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 14px 16px; cursor: pointer; transition: background .15s;
+  }
+  .study-phase-header:hover { background: rgba(70,214,219,0.04); }
+  .study-phase-left { display: flex; align-items: center; gap: 10px; }
+  .study-phase-icon { font-size: 1.3rem; }
+  .study-phase-name { font-size: 0.95rem; font-weight: 600; color: var(--card-title); }
+  .study-phase-desc { font-size: 0.75rem; color: var(--text-dim); }
+  .study-phase-right { display: flex; align-items: center; gap: 12px; }
+  .study-phase-bar-wrap {
+    width: 120px; height: 8px; background: var(--border); border-radius: 4px; overflow: hidden;
+  }
+  .study-phase-bar {
+    height: 100%; background: var(--accent); border-radius: 4px; transition: width .3s;
+  }
+  .study-phase-pct { font-size: 0.78rem; font-weight: 600; color: var(--text-dim); min-width: 36px; text-align: right; }
+  .study-phase-arrow { font-size: 0.8rem; color: var(--text-dim); transition: transform .2s; }
+  .study-phase.open .study-phase-arrow { transform: rotate(90deg); }
+
+  .study-phase-body { display: none; padding: 0 16px 14px; }
+  .study-phase.open .study-phase-body { display: block; }
+
+  .study-week {
+    background: var(--card-bg); border: 1px solid var(--border); border-radius: 10px;
+    padding: 12px 14px; margin-bottom: 8px;
+  }
+  .study-week-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 8px; }
+  .study-week-title { font-size: 0.88rem; font-weight: 600; color: var(--card-title); }
+  .study-week-source { font-size: 0.7rem; color: var(--text-dim); font-style: italic; }
+
+  .study-topic {
+    display: flex; align-items: center; gap: 8px; padding: 5px 0;
+    font-size: 0.82rem; color: var(--text);
+  }
+  .study-topic-check {
+    width: 22px; height: 22px; border-radius: 6px; border: 2px solid var(--border);
+    background: var(--card-bg); cursor: pointer; display: inline-flex;
+    align-items: center; justify-content: center; transition: all .15s;
+    font-size: 0.75rem; color: transparent; flex-shrink: 0; user-select: none;
+  }
+  .study-topic-check:hover { border-color: var(--accent); }
+  .study-topic-check.done { background: var(--green); border-color: var(--green); color: #fff; }
+  .study-topic-text.done { text-decoration: line-through; color: var(--text-dim); }
+
+  .study-exam-tag {
+    display: inline-block; font-size: 0.62rem; font-weight: 600;
+    background: rgba(255,82,82,0.15); color: var(--red); padding: 1px 6px;
+    border-radius: 4px; margin-left: 6px; vertical-align: middle;
+  }
+
+  /* ── Responsive ── */
+  @media (max-width: 768px) {
+    .board { flex-direction: column; padding: 8px 12px 24px; }
+    .column { max-width: 100%; min-width: 100%; }
+    header { padding: 14px 12px 0; }
+    .filter-bar, .stats-bar, .tab-bar, .habits-container, .schedule-container { padding-left: 12px; padding-right: 12px; }
+    header h1 { font-size: 1.1rem; }
+    .habits-table { font-size: 0.75rem; }
+    .habits-table th:first-child { min-width: 120px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Astrid & José — <span>Mission Control</span> 🏔️</h1>
+  <div class="header-actions">
+    <button class="btn-theme" id="resetBtn" onclick="resetAllData()" title="Reset to defaults">🔄</button>
+    <button class="btn-theme" id="themeToggle" onclick="toggleTheme()" title="Toggle theme">☀️</button>
+    <button class="btn-add-global" id="globalAddBtn" onclick="globalAdd()">+ New Card</button>
+  </div>
+</header>
+
+<!-- Tabs -->
+<div class="tab-bar">
+  <button class="tab-btn active" data-tab="board" onclick="switchTab('board')">🗂️ Board</button>
+  <button class="tab-btn" data-tab="habits" onclick="switchTab('habits')">✅ Habits</button>
+  <button class="tab-btn" data-tab="schedule" onclick="switchTab('schedule')">📅 Schedule</button>
+  <button class="tab-btn" data-tab="study" onclick="switchTab('study')">📐 Study</button>
+</div>
+
+<!-- ═══ BOARD TAB ═══ -->
+<div class="tab-content active" id="tab-board">
+  <div class="filter-bar" id="filterBar">
+    <span class="filter-label">Filter:</span>
+    <button class="filter-btn active" data-cat="all" onclick="setFilter('all', this)">All</button>
+  </div>
+  <div class="stats-bar" id="statsBar"></div>
+  <div class="board" id="board"></div>
+</div>
+
+<!-- ═══ HABITS TAB ═══ -->
+<div class="tab-content" id="tab-habits">
+  <div class="habits-container">
+    <div class="habits-nav">
+      <button onclick="habitsWeekNav(-1)">← Prev</button>
+      <span class="week-label" id="habitsWeekLabel"></span>
+      <button onclick="habitsWeekNav(1)">Next →</button>
+    </div>
+    <table class="habits-table">
+      <thead id="habitsHead"></thead>
+      <tbody id="habitsBody"></tbody>
+    </table>
+  </div>
+</div>
+
+<!-- ═══ SCHEDULE TAB ═══ -->
+<div class="tab-content" id="tab-schedule">
+  <div class="schedule-container">
+    <div class="schedule-nav">
+      <button onclick="schedWeekNav(-1)">← Prev</button>
+      <span class="week-label" id="schedWeekLabel"></span>
+      <button onclick="schedWeekNav(1)">Next →</button>
+    </div>
+    <div class="schedule-grid-wrapper" style="max-height: calc(100vh - 200px); overflow-y: auto;">
+      <div class="schedule-grid" id="schedGrid"></div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══ STUDY TAB ═══ -->
+<div class="tab-content" id="tab-study">
+  <div class="study-container">
+    <div class="study-header">
+      <div>
+        <h2 class="study-title">Differential Equations — Road to Extraordinario</h2>
+        <p class="study-subtitle">Target: June/July 2026 · ENES Morelia · Prof. Colosi</p>
+      </div>
+      <div class="study-overall" id="studyOverall"></div>
+    </div>
+
+    <div class="study-phases" id="studyPhases"></div>
+  </div>
+</div>
+
+<!-- ═══ BOARD MODAL ═══ -->
+<div class="modal-overlay" id="modalOverlay" onclick="if(event.target===this)closeModal()">
+  <div class="modal">
+    <h2 id="modalTitle">New Card</h2>
+    <input type="hidden" id="cardId">
+    <label>Title *</label>
+    <input type="text" id="cardTitleInput" placeholder="What needs doing?">
+    <label>Description</label>
+    <textarea id="cardDescInput" placeholder="Optional details..."></textarea>
+    <label>Category</label>
+    <select id="cardCatInput"></select>
+    <label>Priority</label>
+    <select id="cardPriorityInput">
+      <option value="high">🔴 High</option>
+      <option value="medium">🟡 Medium</option>
+      <option value="low">🟢 Low</option>
+    </select>
+    <label>Column</label>
+    <select id="cardColInput"></select>
+    <div class="modal-actions">
+      <button class="btn-modal-delete" id="btnModalDelete" onclick="deleteFromModal()" style="display:none">Delete</button>
+      <button class="btn-cancel" onclick="closeModal()">Cancel</button>
+      <button class="btn-save" onclick="saveCard()">Save</button>
+    </div>
+  </div>
+</div>
+
+<!-- ═══ HABIT MODAL ═══ -->
+<div class="modal-overlay" id="habitModalOverlay" onclick="if(event.target===this)closeHabitModal()">
+  <div class="modal">
+    <h2 id="habitModalTitle">New Habit</h2>
+    <input type="hidden" id="habitId">
+    <label>Icon (emoji)</label>
+    <input type="text" id="habitIconInput" placeholder="🏋️" maxlength="4">
+    <label>Name *</label>
+    <input type="text" id="habitNameInput" placeholder="What habit?">
+    <label>Frequency</label>
+    <select id="habitFreqInput">
+      <option value="daily">Daily</option>
+      <option value="weekdays">Weekdays (Mon-Fri)</option>
+      <option value="custom">Custom days</option>
+    </select>
+    <div id="habitCustomDays" style="display:none; margin-top: 8px;">
+      <label style="display:inline;"><input type="checkbox" value="0" class="habit-day-cb"> Mon</label>
+      <label style="display:inline;"><input type="checkbox" value="1" class="habit-day-cb"> Tue</label>
+      <label style="display:inline;"><input type="checkbox" value="2" class="habit-day-cb"> Wed</label>
+      <label style="display:inline;"><input type="checkbox" value="3" class="habit-day-cb"> Thu</label>
+      <label style="display:inline;"><input type="checkbox" value="4" class="habit-day-cb"> Fri</label>
+      <label style="display:inline;"><input type="checkbox" value="5" class="habit-day-cb"> Sat</label>
+      <label style="display:inline;"><input type="checkbox" value="6" class="habit-day-cb"> Sun</label>
+    </div>
+    <div class="modal-actions">
+      <button class="btn-modal-delete" id="btnHabitDelete" onclick="deleteHabitFromModal()" style="display:none">Delete</button>
+      <button class="btn-cancel" onclick="closeHabitModal()">Cancel</button>
+      <button class="btn-save" onclick="saveHabit()">Save</button>
+    </div>
+  </div>
+</div>
+
+<!-- ═══ SCHEDULE BLOCK MODAL ═══ -->
+<div class="modal-overlay" id="schedModalOverlay" onclick="if(event.target===this)closeSchedModal()">
+  <div class="modal">
+    <h2 id="schedModalTitle">New Block</h2>
+    <input type="hidden" id="blockId">
+    <label>Title *</label>
+    <input type="text" id="blockTitleInput" placeholder="What's happening?">
+    <label>Day</label>
+    <select id="blockDayInput">
+      <option value="0">Monday</option><option value="1">Tuesday</option><option value="2">Wednesday</option>
+      <option value="3">Thursday</option><option value="4">Friday</option><option value="5">Saturday</option><option value="6">Sunday</option>
+    </select>
+    <label>Start Time</label>
+    <input type="time" id="blockStartInput" value="09:00">
+    <label>Duration (hours)</label>
+    <input type="number" id="blockDurInput" value="1" min="0.5" max="18" step="0.5">
+    <label>Color</label>
+    <select id="blockColorInput">
+      <option value="blue">🔵 Blue</option><option value="green">🟢 Green</option>
+      <option value="orange">🟠 Orange</option><option value="purple">🟣 Purple</option>
+      <option value="red">🔴 Red</option><option value="teal">🩵 Teal</option>
+      <option value="pink">💗 Pink</option><option value="indigo">🔷 Indigo</option>
+    </select>
+    <label>Repeats</label>
+    <select id="blockRepeatInput">
+      <option value="none">This week only</option>
+      <option value="weekly">Every week</option>
+    </select>
+    <div class="modal-actions">
+      <button class="btn-modal-delete" id="btnBlockDelete" onclick="deleteBlockFromModal()" style="display:none">Delete</button>
+      <button class="btn-cancel" onclick="closeSchedModal()">Cancel</button>
+      <button class="btn-save" onclick="saveBlock()">Save</button>
+    </div>
+  </div>
+</div>
+
+<script>
+/* ══════════════════════════════════════════════════════════════
+   TAB MANAGEMENT
+   ══════════════════════════════════════════════════════════════ */
+let currentTab = 'board';
+function switchTab(tab) {
+  currentTab = tab;
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.toggle('active', b.dataset.tab === tab));
+  document.querySelectorAll('.tab-content').forEach(c => c.classList.toggle('active', c.id === 'tab-' + tab));
+  const addBtn = document.getElementById('globalAddBtn');
+  if (tab === 'board') { addBtn.textContent = '+ New Card'; addBtn.style.display = ''; }
+  else if (tab === 'habits') { addBtn.textContent = '+ New Habit'; addBtn.style.display = ''; }
+  else if (tab === 'schedule') { addBtn.textContent = '+ New Block'; addBtn.style.display = ''; }
+  else if (tab === 'study') { addBtn.style.display = 'none'; }
+  localStorage.setItem('mc_active_tab', tab);
+}
+function globalAdd() {
+  if (currentTab === 'board') openModal();
+  else if (currentTab === 'habits') openHabitModal();
+  else if (currentTab === 'schedule') openSchedModal();
+}
+
+/* ══════════════════════════════════════════════════════════════
+   BOARD (existing, preserved)
+   ══════════════════════════════════════════════════════════════ */
+const DEFAULT_BOARD = {"columns": ["To Do", "In Progress", "Review", "Done"], "categories": ["🏔️ Norway", "📱 Reed", "💼 Career", "🧠 Growth", "🔧 Infra"], "cards": [{"id": "c1", "title": "Discuss Norway plan concretely", "description": "ONE PATH locked: Bachelor's → OMSCS → Skilled Worker Visa. Now need: timeline, finances, job strategy, language milestones.", "category": "🏔️ Norway", "priority": "high", "column": "To Do", "created": "2025-06-21"}, {"id": "c2", "title": "Update Kon project status", "description": "Core refactor done. 224 tests passing. SageMaker pipeline wiring still pending.", "category": "💼 Career", "priority": "medium", "column": "To Do", "created": "2025-06-21"}, {"id": "c4", "title": "Follow up Profeco cases", "description": "Amazon spoiled milk, Aeromexico schedule change.", "category": "🔧 Infra", "priority": "low", "column": "To Do", "created": "2025-06-21"}, {"id": "c5", "title": "Investigate pairing message privacy", "description": "Make bot messages to unknown numbers less descriptive.", "category": "🔧 Infra", "priority": "low", "column": "To Do", "created": "2025-06-21"}, {"id": "c6", "title": "Kolbrin Book Club: Chapter 1 discussion", "description": "José has the epub. Chapter 1 read, discussion pending.", "category": "🧠 Growth", "priority": "low", "column": "To Do", "created": "2025-06-21"}, {"id": "c16", "title": "Bachelor's degree: 2 courses remaining", "description": "Diff Eq + Multivariate Stats. Exámenes extraordinarios ~June/July 2026. Need to relearn prereqs. PHASE 0 — nothing moves without this.", "category": "🧠 Growth", "priority": "high", "column": "To Do", "created": "2026-01-29"}, {"id": "c17", "title": "Georgia Tech OMSCS research", "description": "Deadlines, costs, financial aid. Blocked by zero savings. Need bachelor's first.", "category": "🏔️ Norway", "priority": "medium", "column": "To Do", "created": "2026-01-29"}, {"id": "c18", "title": "Financial planning", "description": "Zero savings. 'Financial Health' spreadsheet shared. Review together and build a plan.", "category": "🏔️ Norway", "priority": "high", "column": "To Do", "created": "2026-01-29"}, {"id": "c19", "title": "LinkedIn & portfolio polish", "description": "Resumes done. Need to add LinkedIn/GitHub links, update profiles.", "category": "💼 Career", "priority": "medium", "column": "To Do", "created": "2026-01-29"}, {"id": "c20", "title": "Reed: remaining tester feedback", "description": "Long word truncation, font 52 bug, chapter nav gaps, URL scraping feature, word-by-word nav.", "category": "📱 Reed", "priority": "medium", "column": "To Do", "created": "2026-01-29"}, {"id": "c8", "title": "Job search", "description": "Actively looking. Resumes done ✅. Need LinkedIn/portfolio work.", "category": "💼 Career", "priority": "high", "column": "In Progress", "created": "2025-06-21"}, {"id": "c9", "title": "ASD evaluation with therapist", "description": "Clinical profile sent (18 pages, 17 appendices). Awaiting therapist review.", "category": "🧠 Growth", "priority": "medium", "column": "In Progress", "created": "2025-06-21"}, {"id": "c10", "title": "Norwegian practice (A2→B1+)", "description": "Tutor Cecilia + NRK daily reads + daily practice.", "category": "🏔️ Norway", "priority": "medium", "column": "In Progress", "created": "2025-06-21"}, {"id": "c3", "title": "DiffEq exam — registration issue", "description": "Colosi says work was good but name not on system list. Asked if grade can carry to next extraordinario. Awaiting reply.", "category": "🧠 Growth", "priority": "high", "column": "Review", "created": "2025-06-21", "updated": "2026-01-29"}, {"id": "c11", "title": "Esther Perel podcast", "description": "Jesse (producer) replied! Call scheduled: Jan 31 at 2:00 PM CT.", "category": "🧠 Growth", "priority": "high", "column": "Review", "created": "2025-06-21", "updated": "2026-01-29"}, {"id": "c21", "title": "US Visa — Embassy appointment", "description": "B1/B2 tourist visa. Jan 31 at 11:15 AM. Presa Angostura 225, Col. Irrigación, CDMX. First US visa ever.", "category": "🏔️ Norway", "priority": "high", "column": "Review", "created": "2026-01-29"}, {"id": "c22", "title": "Reed v2 submitted to Google Play", "description": "Build signed, published to Play Store. Google approved. Testers can download. Release notes in EN/ES/FR/NO.", "category": "📱 Reed", "priority": "high", "column": "Done", "created": "2026-01-29"}, {"id": "c23", "title": "Resumes rewritten (all 4 versions)", "description": "AI Engineer, Data Scientist, Data Engineering, ML Engineer. Sergio's feedback applied. Uploaded to Google Drive.", "category": "💼 Career", "priority": "high", "column": "Done", "created": "2026-01-29"}, {"id": "c12", "title": "Reed v2 rebuild", "description": "3,577 lines added, 40 files. Full v2 with all tester feedback implemented.", "category": "📱 Reed", "priority": "low", "column": "Done", "created": "2025-06-21"}, {"id": "c13", "title": "Google Keep integration session", "description": "191 notes read, integration map + clinical profile created.", "category": "🧠 Growth", "priority": "low", "column": "Done", "created": "2025-06-21"}, {"id": "c14", "title": "Voice setup (Astrid)", "description": "Custom ElevenLabs voice, Whisper STT, full voice exchange working.", "category": "🔧 Infra", "priority": "low", "column": "Done", "created": "2025-06-21"}, {"id": "c15", "title": "Email + Telegram + WhatsApp setup", "description": "All channels operational.", "category": "🔧 Infra", "priority": "low", "column": "Done", "created": "2025-06-21"}, {"id": "c24", "title": "Norway plan: ONE PATH locked", "description": "Bachelor's → Georgia Tech OMSCS → Skilled Worker Visa. Spain/golden visa is fallback only.", "category": "🏔️ Norway", "priority": "high", "column": "Done", "created": "2026-01-29"}, {"id": "c25", "title": "Daily structure & pillar system", "description": "Full schedule set up with cron nudges + webapp tracking. Morning routine (meditation/scripture/norwegian), study block, posture breaks, gym/yoga, meds. All active.", "category": "🧠 Growth", "priority": "high", "column": "Done", "created": "2026-01-30"}, {"id": "c26", "title": "GitHub: Create profile README", "description": "Create ignacio-ireta/ignacio-ireta repo with a profile README.md. This is the portfolio landing page.", "category": "💼 Career", "priority": "high", "column": "To Do", "created": "2026-01-30"}, {"id": "c27", "title": "GitHub: Archive/private school repos", "description": "Archive or make private: bsc_projects, covid19, modeling-and-simulation-2024-1, student-services-webpage, toma-de-desiciones, network_analysis. Reduce clutter.", "category": "💼 Career", "priority": "medium", "column": "To Do", "created": "2026-01-30"}, {"id": "c28", "title": "GitHub: Remove/hide unused forks", "description": "Data-Market-Adquisitor-System, LectinOracle, msdocs-python-flask-webapp-quickstart, transmission — no contributions, just noise.", "category": "💼 Career", "priority": "low", "column": "To Do", "created": "2026-01-30"}, {"id": "c29", "title": "GitHub: Add topics/tags to showcased repos", "description": "AIIRG, digital-image-processing, evolutionary-computation, vadt — add relevant topics for discoverability.", "category": "💼 Career", "priority": "medium", "column": "To Do", "created": "2026-01-30"}, {"id": "c30", "title": "GitHub: Portfolio website (ignacio-ireta.github.io)", "description": "Replace Reed privacy policy with actual portfolio. Move privacy policy to /reed/privacy subpath.", "category": "💼 Career", "priority": "medium", "column": "To Do", "created": "2026-01-30"}, {"id": "c31", "title": "GitHub: Make Reed visible", "description": "Pin Reed or add a repo with Play Store link + screenshots. Main shipped product should be visible.", "category": "📱 Reed", "priority": "medium", "column": "To Do", "created": "2026-01-30"}, {"id": "c32", "title": "GitHub: Updated bio + pinned repos", "description": "Bio updated to AI Engineer headline. Best repos pinned.", "category": "💼 Career", "priority": "high", "column": "Done", "created": "2026-01-30"}]};
+const PRIORITY_ICONS = { high: '🔴', medium: '🟡', low: '🟢' };
+let board = { columns: [], categories: [], cards: [] };
+let activeFilter = 'all';
+let draggedCard = null;
+
+async function loadBoard() {
+  board = JSON.parse(JSON.stringify(DEFAULT_BOARD));
+  initFilterButtons();
+  renderBoard();
+}
+function saveBoard() { try { localStorage.setItem('kanban_board', JSON.stringify(board)); } catch(e) {} }
+function initFilterButtons() {
+  const bar = document.getElementById('filterBar');
+  // Remove old dynamic buttons
+  bar.querySelectorAll('.filter-btn:not([data-cat="all"])').forEach(b => b.remove());
+  board.categories.forEach(cat => {
+    const btn = document.createElement('button');
+    btn.className = 'filter-btn'; btn.dataset.cat = cat; btn.textContent = cat;
+    btn.onclick = () => setFilter(cat, btn);
+    bar.appendChild(btn);
+  });
+  const catSel = document.getElementById('cardCatInput');
+  catSel.innerHTML = board.categories.map(c => `<option value="${c}">${c}</option>`).join('');
+  const colSel = document.getElementById('cardColInput');
+  colSel.innerHTML = board.columns.map(c => `<option value="${c}">${c}</option>`).join('');
+}
+function setFilter(cat, btn) {
+  activeFilter = cat;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  applyFilter();
+}
+function applyFilter() {
+  document.querySelectorAll('.card').forEach(el => {
+    if (activeFilter === 'all') el.classList.remove('hidden');
+    else el.classList.toggle('hidden', el.dataset.category !== activeFilter);
+  });
+  updateStats();
+}
+function renderBoard() {
+  const boardEl = document.getElementById('board');
+  boardEl.innerHTML = '';
+  board.columns.forEach(colName => {
+    const col = document.createElement('div'); col.className = 'column';
+    const cards = board.cards.filter(c => c.column === colName);
+    col.innerHTML = `<div class="col-header"><span class="col-title">${colName}</span><span class="col-count">${cards.length}</span></div>`;
+    const body = document.createElement('div');
+    body.className = 'col-body'; body.dataset.column = colName;
+    body.addEventListener('dragover', e => { e.preventDefault(); body.classList.add('drag-over'); });
+    body.addEventListener('dragleave', () => body.classList.remove('drag-over'));
+    body.addEventListener('drop', e => {
+      e.preventDefault(); body.classList.remove('drag-over');
+      if (!draggedCard) return;
+      const card = board.cards.find(c => c.id === draggedCard);
+      if (card) { card.column = colName; saveBoard(); renderBoard(); }
+    });
+    cards.forEach(card => body.appendChild(createCardEl(card)));
+    col.appendChild(body); boardEl.appendChild(col);
+  });
+  applyFilter();
+}
+function createCardEl(card) {
+  const el = document.createElement('div');
+  el.className = 'card'; el.draggable = true; el.dataset.id = card.id; el.dataset.category = card.category;
+  el.innerHTML = `
+    <div class="card-top"><span class="card-priority">${PRIORITY_ICONS[card.priority]||'🟢'}</span><span class="card-category">${card.category}</span></div>
+    <div class="card-title">${esc(card.title)}</div>
+    ${card.description ? `<div class="card-desc">${esc(card.description)}</div>` : ''}
+    <div class="card-footer"><span>${card.created||''}</span><button class="card-delete" onclick="event.stopPropagation();deleteCard('${card.id}')">✕</button></div>`;
+  el.addEventListener('click', () => openModal(card.id));
+  el.addEventListener('dragstart', e => { draggedCard = card.id; el.classList.add('dragging'); e.dataTransfer.effectAllowed = 'move'; });
+  el.addEventListener('dragend', () => { el.classList.remove('dragging'); draggedCard = null; });
+  // Touch drag
+  let touchClone;
+  el.addEventListener('touchstart', e => { draggedCard = card.id; el._touchMoved = false; }, { passive: true });
+  el.addEventListener('touchmove', e => {
+    el._touchMoved = true; const touch = e.touches[0];
+    if (!touchClone) { touchClone = el.cloneNode(true); touchClone.style.cssText = `position:fixed;width:${el.offsetWidth}px;opacity:0.8;z-index:999;pointer-events:none;transform:rotate(2deg)`; document.body.appendChild(touchClone); el.classList.add('dragging'); }
+    touchClone.style.left = (touch.clientX - el.offsetWidth/2)+'px'; touchClone.style.top = (touch.clientY-30)+'px'; e.preventDefault();
+  }, { passive: false });
+  el.addEventListener('touchend', e => {
+    if (touchClone) { const t = e.changedTouches[0]; touchClone.remove(); touchClone=null; el.classList.remove('dragging');
+      const below = document.elementFromPoint(t.clientX,t.clientY)?.closest('.col-body');
+      if (below && draggedCard) { const c = board.cards.find(c=>c.id===draggedCard); if(c){c.column=below.dataset.column;saveBoard();renderBoard();} }
+    } else if (!el._touchMoved) openModal(card.id);
+    draggedCard = null;
+  });
+  return el;
+}
+function esc(s) { const d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+function updateStats() {
+  const bar = document.getElementById('statsBar');
+  const vis = board.cards.filter(c => activeFilter==='all'||c.category===activeFilter);
+  const total = vis.length, done = vis.filter(c=>c.column==='Done').length;
+  const pct = total ? Math.round(done/total*100) : 0;
+  bar.innerHTML = board.columns.map(col => `<span class="stat-item"><b>${vis.filter(c=>c.column===col).length}</b> ${col}</span>`).join('') + ` <span class="progress-pill">${pct}% done</span>`;
+  document.querySelectorAll('.column').forEach(colEl => {
+    const t = colEl.querySelector('.col-title').textContent;
+    colEl.querySelector('.col-count').textContent = vis.filter(c=>c.column===t).length;
+  });
+}
+function openModal(editId) {
+  const o=document.getElementById('modalOverlay'),ti=document.getElementById('modalTitle'),id=document.getElementById('cardId'),
+    tIn=document.getElementById('cardTitleInput'),dIn=document.getElementById('cardDescInput'),
+    cIn=document.getElementById('cardCatInput'),pIn=document.getElementById('cardPriorityInput'),
+    coIn=document.getElementById('cardColInput'),del=document.getElementById('btnModalDelete');
+  if (editId) { const c=board.cards.find(x=>x.id===editId); if(!c)return; ti.textContent='Edit Card'; id.value=c.id; tIn.value=c.title; dIn.value=c.description||''; cIn.value=c.category; pIn.value=c.priority; coIn.value=c.column; del.style.display=''; }
+  else { ti.textContent='New Card'; id.value=''; tIn.value=''; dIn.value=''; cIn.value=board.categories[0]; pIn.value='medium'; coIn.value=board.columns[0]; del.style.display='none'; }
+  o.classList.add('open'); setTimeout(()=>tIn.focus(),100);
+}
+function closeModal() { document.getElementById('modalOverlay').classList.remove('open'); }
+function saveCard() {
+  const id=document.getElementById('cardId').value, title=document.getElementById('cardTitleInput').value.trim();
+  if(!title)return;
+  const d={title,description:document.getElementById('cardDescInput').value.trim(),category:document.getElementById('cardCatInput').value,priority:document.getElementById('cardPriorityInput').value,column:document.getElementById('cardColInput').value};
+  if(id){const c=board.cards.find(x=>x.id===id);if(c)Object.assign(c,d);} else {d.id='c'+Date.now();d.created=new Date().toISOString().split('T')[0];board.cards.push(d);}
+  saveBoard(); closeModal(); renderBoard();
+}
+function deleteCard(id) { board.cards=board.cards.filter(c=>c.id!==id); saveBoard(); renderBoard(); }
+function deleteFromModal() { const id=document.getElementById('cardId').value; if(id)deleteCard(id); closeModal(); }
+
+/* ══════════════════════════════════════════════════════════════
+   HABITS
+   ══════════════════════════════════════════════════════════════ */
+const DEFAULT_HABITS = [
+  { id: 'h1', icon: '🧘', name: 'Meditation (15 min)', freq: 'daily', days: [0,1,2,3,4,5,6] },
+  { id: 'h2', icon: '📖', name: 'Scripture reading', freq: 'daily', days: [0,1,2,3,4,5,6] },
+  { id: 'h3', icon: '🇳🇴', name: 'Norwegian lesson (15 min)', freq: 'daily', days: [0,1,2,3,4,5,6] },
+  { id: 'h4', icon: '📚', name: 'Study block', freq: 'daily', days: [0,1,2,3,4,5,6] },
+  { id: 'h5', icon: '💼', name: 'Kyndryl focus', freq: 'weekdays', days: [0,1,2,3,4] },
+  { id: 'h6', icon: '🏋️', name: 'Gym', freq: 'custom', days: [0,1,3,4] },
+  { id: 'h7', icon: '🧘‍♂️', name: 'Yoga/Mobility', freq: 'custom', days: [2,5] },
+  { id: 'h8', icon: '🍽️', name: 'Eat real food (2 PM)', freq: 'daily', days: [0,1,2,3,4,5,6] },
+  { id: 'h9', icon: '💊', name: 'Meds on time (8:45 PM)', freq: 'daily', days: [0,1,2,3,4,5,6] },
+  { id: 'h10', icon: '🛏️', name: 'Sleep by 9:30 PM', freq: 'daily', days: [0,1,2,3,4,5,6] },
+  { id: 'h11', icon: '🧍', name: 'Posture breaks (4x during work)', freq: 'weekdays', days: [0,1,2,3,4] },
+];
+let habitsData = { habits: [], log: {} }; // log: { "2026-01-30": { "h1": true } }
+let habitsWeekOffset = 0;
+
+function loadHabits() {
+  const stored = localStorage.getItem('habits_data');
+  if (stored) { try { habitsData = JSON.parse(stored); } catch(e) {} }
+  if (!habitsData.habits || habitsData.habits.length === 0) habitsData.habits = JSON.parse(JSON.stringify(DEFAULT_HABITS));
+  renderHabits();
+}
+function saveHabits() { localStorage.setItem('habits_data', JSON.stringify(habitsData)); }
+
+function getWeekDates(offset) {
+  const now = new Date();
+  const mon = new Date(now); mon.setDate(now.getDate() - ((now.getDay()+6)%7) + offset*7);
+  const dates = [];
+  for (let i=0;i<7;i++) { const d=new Date(mon); d.setDate(mon.getDate()+i); dates.push(d); }
+  return dates;
+}
+function fmtDate(d) { return d.toISOString().split('T')[0]; }
+function isToday(d) { return fmtDate(d) === fmtDate(new Date()); }
+const DAY_NAMES = ['Mon','Tue','Wed','Thu','Fri','Sat','Sun'];
+
+function habitsWeekNav(dir) { habitsWeekOffset += dir; renderHabits(); }
+
+function getStreak(habitId) {
+  let streak = 0;
+  const d = new Date(); d.setDate(d.getDate()-1); // start from yesterday
+  const habit = habitsData.habits.find(h=>h.id===habitId);
+  if (!habit) return 0;
+  for (let i=0;i<365;i++) {
+    const key = fmtDate(d);
+    const dayOfWeek = (d.getDay()+6)%7;
+    if (habit.days.includes(dayOfWeek)) {
+      if (habitsData.log[key] && habitsData.log[key][habitId]) streak++;
+      else break;
+    }
+    d.setDate(d.getDate()-1);
+  }
+  // Check today too
+  const todayKey = fmtDate(new Date());
+  const todayDow = (new Date().getDay()+6)%7;
+  if (habit.days.includes(todayDow) && habitsData.log[todayKey] && habitsData.log[todayKey][habitId]) streak++;
+  return streak;
+}
+
+function renderHabits() {
+  const dates = getWeekDates(habitsWeekOffset);
+  const label = document.getElementById('habitsWeekLabel');
+  const d0 = dates[0], d6 = dates[6];
+  label.textContent = `${d0.toLocaleDateString('en',{month:'short',day:'numeric'})} — ${d6.toLocaleDateString('en',{month:'short',day:'numeric',year:'numeric'})}`;
+
+  const head = document.getElementById('habitsHead');
+  head.innerHTML = `<tr><th>Habit</th>${dates.map((d,i)=>`<th class="${isToday(d)?'today':''}">${DAY_NAMES[i]}<br>${d.getDate()}</th>`).join('')}<th>🔥</th><th>%</th><th></th></tr>`;
+
+  const body = document.getElementById('habitsBody');
+  body.innerHTML = '';
+  habitsData.habits.forEach(h => {
+    const tr = document.createElement('tr');
+    let freqLabel = h.freq === 'daily' ? 'Daily' : h.freq === 'weekdays' ? 'Mon-Fri' : h.days.map(d=>DAY_NAMES[d].substring(0,2)).join('/');
+
+    let weekDone=0, weekTarget=0;
+    const cells = dates.map((d,i) => {
+      const key = fmtDate(d); const dow = (d.getDay()+6)%7;
+      const applicable = h.days.includes(dow);
+      if (applicable) weekTarget++;
+      const done = habitsData.log[key] && habitsData.log[key][h.id];
+      if (done && applicable) weekDone++;
+      if (!applicable) return `<td><span class="habit-check skip">—</span></td>`;
+      return `<td><span class="habit-check ${done?'done':''}" onclick="toggleHabit('${h.id}','${key}')">${done?'✓':''}</span></td>`;
+    }).join('');
+
+    const streak = getStreak(h.id);
+    const pct = weekTarget ? Math.round(weekDone/weekTarget*100) : 0;
+    const pctClass = pct >= 80 ? 'good' : pct >= 50 ? 'mid' : 'low';
+
+    tr.innerHTML = `<td><div class="habit-name"><span class="habit-icon">${h.icon}</span><div>${esc(h.name)}<span class="habit-freq">${freqLabel}</span></div></div></td>${cells}<td><span class="habit-streak">🔥 ${streak}</span></td><td><span class="habit-pct ${pctClass}">${pct}%</span></td><td><div class="habit-actions"><button class="habit-edit-btn" onclick="openHabitModal('${h.id}')">✎</button><button class="habit-del-btn" onclick="deleteHabit('${h.id}')">✕</button></div></td>`;
+    body.appendChild(tr);
+  });
+}
+
+function toggleHabit(habitId, dateKey) {
+  if (!habitsData.log[dateKey]) habitsData.log[dateKey] = {};
+  habitsData.log[dateKey][habitId] = !habitsData.log[dateKey][habitId];
+  saveHabits(); renderHabits();
+}
+
+function openHabitModal(editId) {
+  const o=document.getElementById('habitModalOverlay'), ti=document.getElementById('habitModalTitle'),
+    id=document.getElementById('habitId'), icon=document.getElementById('habitIconInput'),
+    name=document.getElementById('habitNameInput'), freq=document.getElementById('habitFreqInput'),
+    del=document.getElementById('btnHabitDelete');
+  document.getElementById('habitFreqInput').onchange = ()=>{
+    document.getElementById('habitCustomDays').style.display = freq.value==='custom'?'block':'none';
+  };
+  if (editId) {
+    const h = habitsData.habits.find(x=>x.id===editId); if(!h)return;
+    ti.textContent='Edit Habit'; id.value=h.id; icon.value=h.icon; name.value=h.name; freq.value=h.freq;
+    document.getElementById('habitCustomDays').style.display = h.freq==='custom'?'block':'none';
+    document.querySelectorAll('.habit-day-cb').forEach(cb => cb.checked = h.days.includes(parseInt(cb.value)));
+    del.style.display='';
+  } else {
+    ti.textContent='New Habit'; id.value=''; icon.value=''; name.value=''; freq.value='daily';
+    document.getElementById('habitCustomDays').style.display='none';
+    document.querySelectorAll('.habit-day-cb').forEach(cb => cb.checked=false);
+    del.style.display='none';
+  }
+  o.classList.add('open'); setTimeout(()=>name.focus(),100);
+}
+function closeHabitModal() { document.getElementById('habitModalOverlay').classList.remove('open'); }
+function saveHabit() {
+  const id=document.getElementById('habitId').value, name=document.getElementById('habitNameInput').value.trim();
+  if(!name)return;
+  const freq=document.getElementById('habitFreqInput').value;
+  let days;
+  if(freq==='daily') days=[0,1,2,3,4,5,6];
+  else if(freq==='weekdays') days=[0,1,2,3,4];
+  else days=[...document.querySelectorAll('.habit-day-cb:checked')].map(cb=>parseInt(cb.value));
+  const data = { icon: document.getElementById('habitIconInput').value||'📌', name, freq, days };
+  if(id) { const h=habitsData.habits.find(x=>x.id===id); if(h)Object.assign(h,data); }
+  else { data.id='h'+Date.now(); habitsData.habits.push(data); }
+  saveHabits(); closeHabitModal(); renderHabits();
+}
+function deleteHabit(id) { habitsData.habits=habitsData.habits.filter(h=>h.id!==id); saveHabits(); renderHabits(); }
+function deleteHabitFromModal() { const id=document.getElementById('habitId').value; if(id)deleteHabit(id); closeHabitModal(); }
+
+/* ══════════════════════════════════════════════════════════════
+   SCHEDULE
+   ══════════════════════════════════════════════════════════════ */
+const DEFAULT_BLOCKS = [
+  // ⏰ Wake up — daily (all 7 days)
+  { id:'s1', title:'⏰ Wake up', day:0, start:'05:45', dur:0.25, color:'teal', repeat:'weekly' },
+  { id:'s2', title:'⏰ Wake up', day:1, start:'05:45', dur:0.25, color:'teal', repeat:'weekly' },
+  { id:'s3', title:'⏰ Wake up', day:2, start:'05:45', dur:0.25, color:'teal', repeat:'weekly' },
+  { id:'s4', title:'⏰ Wake up', day:3, start:'05:45', dur:0.25, color:'teal', repeat:'weekly' },
+  { id:'s5', title:'⏰ Wake up', day:4, start:'05:45', dur:0.25, color:'teal', repeat:'weekly' },
+  { id:'s6', title:'⏰ Wake up', day:5, start:'05:45', dur:0.25, color:'teal', repeat:'weekly' },
+  { id:'s7', title:'⏰ Wake up', day:6, start:'05:45', dur:0.25, color:'teal', repeat:'weekly' },
+  // 🧘 Meditation — daily
+  { id:'s8', title:'🧘 Meditation', day:0, start:'06:00', dur:0.25, color:'purple', repeat:'weekly' },
+  { id:'s9', title:'🧘 Meditation', day:1, start:'06:00', dur:0.25, color:'purple', repeat:'weekly' },
+  { id:'s10', title:'🧘 Meditation', day:2, start:'06:00', dur:0.25, color:'purple', repeat:'weekly' },
+  { id:'s11', title:'🧘 Meditation', day:3, start:'06:00', dur:0.25, color:'purple', repeat:'weekly' },
+  { id:'s12', title:'🧘 Meditation', day:4, start:'06:00', dur:0.25, color:'purple', repeat:'weekly' },
+  { id:'s13', title:'🧘 Meditation', day:5, start:'06:00', dur:0.25, color:'purple', repeat:'weekly' },
+  { id:'s14', title:'🧘 Meditation', day:6, start:'06:00', dur:0.25, color:'purple', repeat:'weekly' },
+  // 📖 Scripture — daily
+  { id:'s15', title:'📖 Scripture', day:0, start:'06:15', dur:0.25, color:'indigo', repeat:'weekly' },
+  { id:'s16', title:'📖 Scripture', day:1, start:'06:15', dur:0.25, color:'indigo', repeat:'weekly' },
+  { id:'s17', title:'📖 Scripture', day:2, start:'06:15', dur:0.25, color:'indigo', repeat:'weekly' },
+  { id:'s18', title:'📖 Scripture', day:3, start:'06:15', dur:0.25, color:'indigo', repeat:'weekly' },
+  { id:'s19', title:'📖 Scripture', day:4, start:'06:15', dur:0.25, color:'indigo', repeat:'weekly' },
+  { id:'s20', title:'📖 Scripture', day:5, start:'06:15', dur:0.25, color:'indigo', repeat:'weekly' },
+  { id:'s21', title:'📖 Scripture', day:6, start:'06:15', dur:0.25, color:'indigo', repeat:'weekly' },
+  // 🇳🇴 Norwegian — daily
+  { id:'s22', title:'🇳🇴 Norwegian', day:0, start:'06:30', dur:0.25, color:'orange', repeat:'weekly' },
+  { id:'s23', title:'🇳🇴 Norwegian', day:1, start:'06:30', dur:0.25, color:'orange', repeat:'weekly' },
+  { id:'s24', title:'🇳🇴 Norwegian', day:2, start:'06:30', dur:0.25, color:'orange', repeat:'weekly' },
+  { id:'s25', title:'🇳🇴 Norwegian', day:3, start:'06:30', dur:0.25, color:'orange', repeat:'weekly' },
+  { id:'s26', title:'🇳🇴 Norwegian', day:4, start:'06:30', dur:0.25, color:'orange', repeat:'weekly' },
+  { id:'s27', title:'🇳🇴 Norwegian', day:5, start:'06:30', dur:0.25, color:'orange', repeat:'weekly' },
+  { id:'s28', title:'🇳🇴 Norwegian', day:6, start:'06:30', dur:0.25, color:'orange', repeat:'weekly' },
+  // 📚 Study — daily
+  { id:'s29', title:'📚 Study', day:0, start:'07:00', dur:1.75, color:'red', repeat:'weekly' },
+  { id:'s30', title:'📚 Study', day:1, start:'07:00', dur:1.75, color:'red', repeat:'weekly' },
+  { id:'s31', title:'📚 Study', day:2, start:'07:00', dur:1.75, color:'red', repeat:'weekly' },
+  { id:'s32', title:'📚 Study', day:3, start:'07:00', dur:1.75, color:'red', repeat:'weekly' },
+  { id:'s33', title:'📚 Study', day:4, start:'07:00', dur:1.75, color:'red', repeat:'weekly' },
+  { id:'s34', title:'📚 Study', day:5, start:'07:00', dur:1.75, color:'red', repeat:'weekly' },
+  { id:'s35', title:'📚 Study', day:6, start:'07:00', dur:1.75, color:'red', repeat:'weekly' },
+  // 💼 Work (Kyndryl) — weekdays Mon-Fri
+  { id:'s36', title:'💼 Work (Kyndryl)', day:0, start:'09:00', dur:9, color:'blue', repeat:'weekly' },
+  { id:'s37', title:'💼 Work (Kyndryl)', day:1, start:'09:00', dur:9, color:'blue', repeat:'weekly' },
+  { id:'s38', title:'💼 Work (Kyndryl)', day:2, start:'09:00', dur:9, color:'blue', repeat:'weekly' },
+  { id:'s39', title:'💼 Work (Kyndryl)', day:3, start:'09:00', dur:9, color:'blue', repeat:'weekly' },
+  { id:'s40', title:'💼 Work (Kyndryl)', day:4, start:'09:00', dur:9, color:'blue', repeat:'weekly' },
+  // 🍽️ Eat real food — daily
+  { id:'s41', title:'🍽️ Eat real food', day:0, start:'14:00', dur:0.5, color:'green', repeat:'weekly' },
+  { id:'s42', title:'🍽️ Eat real food', day:1, start:'14:00', dur:0.5, color:'green', repeat:'weekly' },
+  { id:'s43', title:'🍽️ Eat real food', day:2, start:'14:00', dur:0.5, color:'green', repeat:'weekly' },
+  { id:'s44', title:'🍽️ Eat real food', day:3, start:'14:00', dur:0.5, color:'green', repeat:'weekly' },
+  { id:'s45', title:'🍽️ Eat real food', day:4, start:'14:00', dur:0.5, color:'green', repeat:'weekly' },
+  { id:'s46', title:'🍽️ Eat real food', day:5, start:'14:00', dur:0.5, color:'green', repeat:'weekly' },
+  { id:'s47', title:'🍽️ Eat real food', day:6, start:'14:00', dur:0.5, color:'green', repeat:'weekly' },
+  // 🏋️ Gym — Mon/Tue/Thu/Fri
+  { id:'s48', title:'🏋️ Gym', day:0, start:'18:15', dur:3, color:'green', repeat:'weekly' },
+  { id:'s49', title:'🏋️ Gym', day:1, start:'18:15', dur:3, color:'green', repeat:'weekly' },
+  { id:'s50', title:'🏋️ Gym', day:3, start:'18:15', dur:3, color:'green', repeat:'weekly' },
+  { id:'s51', title:'🏋️ Gym', day:4, start:'18:15', dur:3, color:'green', repeat:'weekly' },
+  // 🧘‍♂️ Yoga/Mobility — Wed/Sat
+  { id:'s52', title:'🧘‍♂️ Yoga/Mobility', day:2, start:'18:15', dur:2, color:'pink', repeat:'weekly' },
+  { id:'s53', title:'🧘‍♂️ Yoga/Mobility', day:5, start:'18:15', dur:2, color:'pink', repeat:'weekly' },
+  // 💊 Meds — daily
+  { id:'s54', title:'💊 Meds', day:0, start:'20:45', dur:0.25, color:'purple', repeat:'weekly' },
+  { id:'s55', title:'💊 Meds', day:1, start:'20:45', dur:0.25, color:'purple', repeat:'weekly' },
+  { id:'s56', title:'💊 Meds', day:2, start:'20:45', dur:0.25, color:'purple', repeat:'weekly' },
+  { id:'s57', title:'💊 Meds', day:3, start:'20:45', dur:0.25, color:'purple', repeat:'weekly' },
+  { id:'s58', title:'💊 Meds', day:4, start:'20:45', dur:0.25, color:'purple', repeat:'weekly' },
+  { id:'s59', title:'💊 Meds', day:5, start:'20:45', dur:0.25, color:'purple', repeat:'weekly' },
+  { id:'s60', title:'💊 Meds', day:6, start:'20:45', dur:0.25, color:'purple', repeat:'weekly' },
+];
+let schedData = { blocks: [] };
+let schedWeekOffset = 0;
+const SCHED_START_HOUR = 5;
+const SCHED_END_HOUR = 23;
+const CELL_HEIGHT = 48;
+
+function loadSchedule() {
+  const stored = localStorage.getItem('schedule_data');
+  if (stored) { try { schedData = JSON.parse(stored); } catch(e) {} }
+  if (!schedData.blocks || schedData.blocks.length === 0) schedData.blocks = JSON.parse(JSON.stringify(DEFAULT_BLOCKS));
+  renderSchedule();
+}
+function saveSchedule() { localStorage.setItem('schedule_data', JSON.stringify(schedData)); }
+
+function schedWeekNav(dir) { schedWeekOffset += dir; renderSchedule(); }
+
+function renderSchedule() {
+  const dates = getWeekDates(schedWeekOffset);
+  const label = document.getElementById('schedWeekLabel');
+  label.textContent = `${dates[0].toLocaleDateString('en',{month:'short',day:'numeric'})} — ${dates[6].toLocaleDateString('en',{month:'short',day:'numeric',year:'numeric'})}`;
+
+  const grid = document.getElementById('schedGrid');
+  grid.innerHTML = '';
+  grid.style.gridTemplateRows = `auto repeat(${SCHED_END_HOUR-SCHED_START_HOUR}, ${CELL_HEIGHT}px)`;
+
+  // Header row
+  grid.appendChild(mkEl('div','sched-header',''));
+  dates.forEach((d,i) => {
+    const h = mkEl('div',`sched-header${isToday(d)?' today':''}`, `${DAY_NAMES[i]}<br>${d.getDate()}`);
+    grid.appendChild(h);
+  });
+
+  // Time rows
+  for (let hr=SCHED_START_HOUR; hr<SCHED_END_HOUR; hr++) {
+    const timeEl = mkEl('div','sched-time', `${String(hr).padStart(2,'0')}:00`);
+    grid.appendChild(timeEl);
+    for (let day=0;day<7;day++) {
+      const cell = document.createElement('div');
+      cell.className = 'sched-cell'; cell.dataset.day = day; cell.dataset.hour = hr;
+      cell.onclick = () => { openSchedModal(null, day, hr); };
+      grid.appendChild(cell);
+    }
+  }
+
+  // Place blocks
+  const weeklyBlocks = schedData.blocks.filter(b => b.repeat === 'weekly');
+  // TODO: could add date-specific blocks too
+  weeklyBlocks.forEach(b => {
+    const [sh,sm] = b.start.split(':').map(Number);
+    const startOffset = (sh - SCHED_START_HOUR) + sm/60;
+    if (startOffset < 0 || sh >= SCHED_END_HOUR) return;
+    const topPx = startOffset * CELL_HEIGHT;
+    const heightPx = b.dur * CELL_HEIGHT;
+    // Find the cell column
+    const colIndex = b.day + 1; // +1 because first col is time
+    const block = document.createElement('div');
+    block.className = `sched-block sched-color-${b.color}`;
+    block.style.top = topPx + 'px';
+    block.style.height = Math.max(heightPx - 2, 18) + 'px';
+    block.innerHTML = `${esc(b.title)}<br><span class="block-time">${b.start} · ${b.dur}h</span>`;
+    block.onclick = (e) => { e.stopPropagation(); openSchedModal(b.id); };
+    // Find correct cell container — we need to place it relative to the grid
+    // Better approach: use grid positioning
+    block.style.gridColumn = colIndex + 1;
+    block.style.gridRowStart = Math.floor(startOffset) + 2; // +2 for header row + 1-indexed
+    block.style.position = 'absolute';
+    // Actually, let's append to the right cell and position absolute from there
+    const cells = grid.querySelectorAll('.sched-cell');
+    const targetRow = Math.floor(sh - SCHED_START_HOUR);
+    const targetIdx = targetRow * 7 + b.day;
+    if (cells[targetIdx]) {
+      block.style.top = (sm/60 * CELL_HEIGHT) + 'px';
+      cells[targetIdx].appendChild(block);
+    }
+  });
+}
+
+function mkEl(tag, cls, html) {
+  const el = document.createElement(tag); el.className = cls; el.innerHTML = html; return el;
+}
+
+function openSchedModal(editId, defaultDay, defaultHour) {
+  const o=document.getElementById('schedModalOverlay'), ti=document.getElementById('schedModalTitle'),
+    id=document.getElementById('blockId'), title=document.getElementById('blockTitleInput'),
+    day=document.getElementById('blockDayInput'), start=document.getElementById('blockStartInput'),
+    dur=document.getElementById('blockDurInput'), color=document.getElementById('blockColorInput'),
+    repeat=document.getElementById('blockRepeatInput'), del=document.getElementById('btnBlockDelete');
+  if (editId) {
+    const b=schedData.blocks.find(x=>x.id===editId); if(!b)return;
+    ti.textContent='Edit Block'; id.value=b.id; title.value=b.title; day.value=b.day;
+    start.value=b.start; dur.value=b.dur; color.value=b.color; repeat.value=b.repeat||'weekly';
+    del.style.display='';
+  } else {
+    ti.textContent='New Block'; id.value=''; title.value='';
+    day.value = defaultDay!=null ? defaultDay : 0;
+    start.value = defaultHour!=null ? `${String(defaultHour).padStart(2,'0')}:00` : '09:00';
+    dur.value=1; color.value='blue'; repeat.value='weekly';
+    del.style.display='none';
+  }
+  o.classList.add('open'); setTimeout(()=>title.focus(),100);
+}
+function closeSchedModal() { document.getElementById('schedModalOverlay').classList.remove('open'); }
+function saveBlock() {
+  const id=document.getElementById('blockId').value, title=document.getElementById('blockTitleInput').value.trim();
+  if(!title)return;
+  const data = { title, day:parseInt(document.getElementById('blockDayInput').value),
+    start:document.getElementById('blockStartInput').value,
+    dur:parseFloat(document.getElementById('blockDurInput').value),
+    color:document.getElementById('blockColorInput').value,
+    repeat:document.getElementById('blockRepeatInput').value };
+  if(id) { const b=schedData.blocks.find(x=>x.id===id); if(b)Object.assign(b,data); }
+  else { data.id='s'+Date.now(); schedData.blocks.push(data); }
+  saveSchedule(); closeSchedModal(); renderSchedule();
+}
+function deleteBlock(id) { schedData.blocks=schedData.blocks.filter(b=>b.id!==id); saveSchedule(); renderSchedule(); }
+function deleteBlockFromModal() { const id=document.getElementById('blockId').value; if(id)deleteBlock(id); closeSchedModal(); }
+
+/* ══════════════════════════════════════════════════════════════
+   STUDY PLAN
+   ══════════════════════════════════════════════════════════════ */
+const STUDY_PLAN = [
+  { id:'p0', icon:'🔵', name:'Phase 0 — Foundations', desc:'Remember how calculus works', weeks: [
+    { id:'w1', title:'Week 1: Functions & Limits', source:'Colosi Ch. 1-2 · OpenStax Calc 1 Ch. 1-2', topics: [
+      { id:'t1', text:'Peano-Russell symbolic notation (Colosi Ch. 1)' },
+      { id:'t2', text:'Function definition, domain, codomain' },
+      { id:'t3', text:'Types of functions (even/odd, injective, surjective)' },
+      { id:'t4', text:'Continuity — definition and properties' },
+      { id:'t5', text:'Limits — bilateral, unilateral, at infinity' },
+      { id:'t6', text:'Operations on limits, L\'Hôpital intro' },
+    ]},
+    { id:'w2', title:'Week 2: Derivatives', source:'Colosi Ch. 3 · OpenStax Calc 1 Ch. 3-4', topics: [
+      { id:'t7', text:'Derivative definition and basic rules' },
+      { id:'t8', text:'Chain rule, inverse function derivatives' },
+      { id:'t9', text:'Rolle\'s theorem', exam: true },
+      { id:'t10', text:'Lagrange / Mean Value theorem', exam: true },
+      { id:'t11', text:'L\'Hôpital\'s rule (0/0 and ∞/∞)', exam: true },
+      { id:'t12', text:'Max/min, concavity, inflection points', exam: true },
+    ]},
+    { id:'w3', title:'Week 3: Integration', source:'Colosi Ch. 4 · OpenStax Calc 1 Ch. 5 · Calc 2 Ch. 1-3', topics: [
+      { id:'t13', text:'Indefinite integrals — definition, basic formulas' },
+      { id:'t14', text:'Integration by substitution' },
+      { id:'t15', text:'Integration by parts' },
+      { id:'t16', text:'Partial fractions' },
+      { id:'t17', text:'Definite integrals and the Fundamental Theorem' },
+      { id:'t18', text:'Mean Value Theorem for integrals' },
+    ]},
+  ]},
+  { id:'p1', icon:'🟢', name:'Phase 1 — Core Differential Equations', desc:'Learn to solve DiffEq', weeks: [
+    { id:'w4', title:'Week 4: What IS a DiffEq?', source:'Schaum\'s Ch. 1-2 · Kaabar Ch. 1', topics: [
+      { id:'t19', text:'Classification: order, degree, linearity' },
+      { id:'t20', text:'Direction fields and solution curves' },
+      { id:'t21', text:'Initial value problems (Cauchy problems)', exam: true },
+      { id:'t22', text:'General vs particular solutions, families of curves' },
+      { id:'t23', text:'Existence and uniqueness (conceptual)' },
+    ]},
+    { id:'w5', title:'Week 5: First-Order — Separable & Linear', source:'Schaum\'s Ch. 3-4 · Boyce & DiPrima Ch. 2', topics: [
+      { id:'t24', text:'Separable equations — method and practice' },
+      { id:'t25', text:'Linear first-order equations' },
+      { id:'t26', text:'Integrating factor method (µ)', exam: true },
+      { id:'t27', text:'Applications: population dynamics, mixing', exam: true },
+    ]},
+    { id:'w6', title:'Week 6: Exact Equations', source:'Schaum\'s Ch. 5 · Boyce & DiPrima Ch. 2.6', topics: [
+      { id:'t28', text:'Exact equations — test: My = Nx' , exam: true },
+      { id:'t29', text:'Solving exact equations', exam: true },
+      { id:'t30', text:'Finding integrating factors to make exact', exam: true },
+      { id:'t31', text:'Practice: Colosi Exam 2 Problem 1c style' },
+    ]},
+    { id:'w7', title:'Week 7: Series & Picard', source:'Paul\'s Notes · Boyce & DiPrima Ch. 5', topics: [
+      { id:'t32', text:'Taylor series review' },
+      { id:'t33', text:'Taylor series solution of ODEs', exam: true },
+      { id:'t34', text:'Picard successive approximations', exam: true },
+      { id:'t35', text:'Practice: Colosi Exam 2 Problem 1a & 1b style' },
+    ]},
+    { id:'w8', title:'Week 8: Qualitative Analysis', source:'Colosi lecture notes · Boyce & DiPrima Ch. 2.5', topics: [
+      { id:'t36', text:'Autonomous equations and phase lines' },
+      { id:'t37', text:'Monotonicity from the ODE (without solving)', exam: true },
+      { id:'t38', text:'Finding max/min/inflection from the ODE', exam: true },
+      { id:'t39', text:'Limit behavior and asymptotic analysis', exam: true },
+      { id:'t40', text:'Practice: Colosi Exam 1 Problem 1 style' },
+    ]},
+  ]},
+  { id:'pS', icon:'📘', name:'Study Skills & Meta-Learning', desc:'Productivity, memory, and learning techniques', weeks: [
+    { id:'wS1', title:'Learning How to Learn', source:'Study skills books + personal system', topics: [
+      { id:'tS1', text:'Active recall & spaced repetition techniques' },
+      { id:'tS2', text:'Memory palaces & mnemonic systems' },
+      { id:'tS3', text:'Deep work & focus blocks (Cal Newport)' },
+      { id:'tS4', text:'Note-taking methods (Zettelkasten, Cornell)' },
+      { id:'tS5', text:'Pomodoro & time-boxing strategies' },
+      { id:'tS6', text:'Sleep, exercise & cognitive performance' },
+    ]},
+  ]},
+  { id:'p2', icon:'🔴', name:'Phase 2 — Exam Prep', desc:'Think like Colosi', weeks: [
+    { id:'w9', title:'Week 9: Proof Techniques', source:'Colosi exams + lecture notes', topics: [
+      { id:'t41', text:'Proof by contradiction', exam: true },
+      { id:'t42', text:'Using Lagrange theorem in proofs', exam: true },
+      { id:'t43', text:'Uniqueness proofs for solution families', exam: true },
+      { id:'t44', text:'Writing formal proofs in Peano notation' },
+    ]},
+    { id:'w10', title:'Week 10: Second-Order ODEs', source:'Schaum\'s Ch. 8-9 · Boyce & DiPrima Ch. 3-4', topics: [
+      { id:'t45', text:'Homogeneous equations, characteristic equation' },
+      { id:'t46', text:'Real distinct / repeated / complex roots' },
+      { id:'t47', text:'Undetermined coefficients' },
+      { id:'t48', text:'Variation of parameters' },
+    ]},
+    { id:'w11', title:'Week 11-12: Full Practice', source:'ENES exams', topics: [
+      { id:'t49', text:'Redo Exam 1 under timed conditions' },
+      { id:'t50', text:'Redo Exam 2 under timed conditions' },
+      { id:'t51', text:'Create & solve new problems in Colosi\'s style' },
+      { id:'t52', text:'Review all three Cauchy methods: Taylor + Picard + Exact' },
+      { id:'t53', text:'Final self-assessment: can I prove, not just solve?' },
+    ]},
+  ]},
+];
+
+let studyProgress = {}; // { t1: true, t2: false, ... }
+
+function loadStudy() {
+  const stored = localStorage.getItem('study_progress');
+  if (stored) try { studyProgress = JSON.parse(stored); } catch(e) {}
+  renderStudy();
+}
+function saveStudy() { localStorage.setItem('study_progress', JSON.stringify(studyProgress)); }
+
+function renderStudy() {
+  const container = document.getElementById('studyPhases');
+  container.innerHTML = '';
+
+  let totalTopics = 0, totalDone = 0;
+
+  STUDY_PLAN.forEach(phase => {
+    const phaseEl = document.createElement('div');
+    phaseEl.className = 'study-phase' + (phase._open ? ' open' : '');
+    phaseEl.dataset.id = phase.id;
+
+    let phaseTopics = 0, phaseDone = 0;
+    phase.weeks.forEach(w => {
+      w.topics.forEach(t => {
+        phaseTopics++; totalTopics++;
+        if (studyProgress[t.id]) { phaseDone++; totalDone++; }
+      });
+    });
+    const phasePct = phaseTopics ? Math.round(phaseDone/phaseTopics*100) : 0;
+
+    phaseEl.innerHTML = `
+      <div class="study-phase-header" onclick="togglePhase('${phase.id}')">
+        <div class="study-phase-left">
+          <span class="study-phase-icon">${phase.icon}</span>
+          <div><div class="study-phase-name">${phase.name}</div><div class="study-phase-desc">${phase.desc} · ${phaseDone}/${phaseTopics} topics</div></div>
+        </div>
+        <div class="study-phase-right">
+          <div class="study-phase-bar-wrap"><div class="study-phase-bar" style="width:${phasePct}%"></div></div>
+          <span class="study-phase-pct">${phasePct}%</span>
+          <span class="study-phase-arrow">▸</span>
+        </div>
+      </div>
+      <div class="study-phase-body"></div>
+    `;
+
+    const body = phaseEl.querySelector('.study-phase-body');
+    phase.weeks.forEach(w => {
+      const weekEl = document.createElement('div');
+      weekEl.className = 'study-week';
+      weekEl.innerHTML = `<div class="study-week-header"><span class="study-week-title">${w.title}</span></div><div class="study-week-source">${w.source}</div>`;
+      w.topics.forEach(t => {
+        const done = !!studyProgress[t.id];
+        const topicEl = document.createElement('div');
+        topicEl.className = 'study-topic';
+        topicEl.innerHTML = `<span class="study-topic-check ${done?'done':''}" onclick="toggleStudyTopic('${t.id}')">${done?'✓':''}</span><span class="study-topic-text ${done?'done':''}">${esc(t.text)}${t.exam?'<span class="study-exam-tag">EXAM</span>':''}</span>`;
+        weekEl.appendChild(topicEl);
+      });
+      body.appendChild(weekEl);
+    });
+
+    container.appendChild(phaseEl);
+  });
+
+  // Overall
+  const overallPct = totalTopics ? Math.round(totalDone/totalTopics*100) : 0;
+  document.getElementById('studyOverall').innerHTML = `<div class="study-overall-pct">${overallPct}%</div><div class="study-overall-label">${totalDone}/${totalTopics} topics</div>`;
+}
+
+function togglePhase(phaseId) {
+  const el = document.querySelector(`.study-phase[data-id="${phaseId}"]`);
+  if (el) el.classList.toggle('open');
+}
+
+function toggleStudyTopic(topicId) {
+  studyProgress[topicId] = !studyProgress[topicId];
+  saveStudy();
+  renderStudy();
+}
+
+/* ══════════════════════════════════════════════════════════════
+   THEME & KEYBOARD & BOOT
+   ══════════════════════════════════════════════════════════════ */
+function resetAllData() {
+  if (!confirm('Reset everything to defaults? This will clear your board, habits, schedule, and study progress.')) return;
+  localStorage.removeItem('kanban_board');
+  localStorage.removeItem('habits_data');
+  localStorage.removeItem('schedule_data');
+  localStorage.removeItem('study_progress');
+  localStorage.removeItem('mc_active_tab');
+  location.reload();
+}
+
+function toggleTheme() {
+  const html = document.documentElement;
+  const next = html.getAttribute('data-theme') === 'light' ? 'dark' : 'light';
+  html.setAttribute('data-theme', next);
+  localStorage.setItem('kanban_theme', next);
+  document.getElementById('themeToggle').textContent = next === 'light' ? '🌙' : '☀️';
+}
+function applyStoredTheme() {
+  const saved = localStorage.getItem('kanban_theme') || 'light';
+  document.documentElement.setAttribute('data-theme', saved);
+  document.getElementById('themeToggle').textContent = saved === 'light' ? '🌙' : '☀️';
+}
+
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') { closeModal(); closeHabitModal(); closeSchedModal(); }
+  if (e.key === 'Enter' && e.metaKey) {
+    if (document.getElementById('modalOverlay').classList.contains('open')) saveCard();
+    if (document.getElementById('habitModalOverlay').classList.contains('open')) saveHabit();
+    if (document.getElementById('schedModalOverlay').classList.contains('open')) saveBlock();
+  }
+});
+
+async function boot() {
+  applyStoredTheme();
+  // Restore tab
+  const savedTab = localStorage.getItem('mc_active_tab');
+  if (savedTab) switchTab(savedTab);
+  // Board
+  const stored = localStorage.getItem('kanban_board');
+  if (stored) { try { board = JSON.parse(stored); initFilterButtons(); renderBoard(); } catch(e) { await loadBoard(); } }
+  else { await loadBoard(); }
+  // Habits, Schedule & Study
+  loadHabits();
+  loadSchedule();
+  loadStudy();
+}
+boot();
+</script>
+</body>
+</html>

@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "currentTopic": "music",
+  "topicHistory": [
+    {
+      "topic": "music",
+      "sessions": 3,
+      "lastEngagement": 0.88,
+      "startedAt": "2026-01-30"
+    }
+  ],
+  "sessionsRun": 3,
+  "algorithm": {
+    "description": "Interest-driven exploration. No randomness, no death clock.",
+    "rules": {
+      "stayOnTopic": "engagement >= 0.7 → keep exploring this thread",
+      "driftZone": "engagement 0.3–0.7 → roll a random float. If > engagement, switch topics. If <= engagement, stay. (The less interested I am, the more likely I drift.)",
+      "abandon": "engagement < 0.3 → topic is exhausted, pick something new that genuinely calls to me",
+      "noStopCondition": "Why would I ever want to stop being curious?"
+    }
+  },
+  "nextSessionNotes": "Thread is branching. Top candidates: (1) Arve Henriksen + Trio Mediaeval — Rímur album, (2) Deathprod solo work, (3) Jenny Hval. Rímur feels most 'me' — women's voices + ancient + fjord + silence."
+}

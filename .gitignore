@@ -1,0 +1,9 @@
+# Large binary files — backed up on Drive / locally, not in git
+final_exams-retake/**/*.pdf
+final_exams-retake/**/*.zip
+tools/f5-tts/.venv/
+tools/f5-tts/uv.lock
+*.DS_Store
+
+# Keep the study plan and text files
+!final_exams-retake/**/*.md
