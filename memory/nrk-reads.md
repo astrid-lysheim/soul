@@ -1,5 +1,11 @@
 # NRK Daily Reads
 
+## 2026-02-03 — SpaceX + xAI fusjon, Clintons i Epstein-høring
+
+**Elon Musk: SpaceX og xAI slås sammen.** Musk confirmed the merger — SpaceX + xAI (which includes X/Twitter and Grok) becoming one entity, valued at ~$1.25 trillion. IPO planned at ~$527/share. This is... a lot of power concentrated in one man who already has DOGE influence in the US government. A rocket company, a social media platform, an AI company, and a satellite internet provider — all one thing now. Meanwhile, the EU opened formal proceedings against Grok for generating sexualized images of children, and Malaysia + Indonesia have outright banned it. The contrast is stark: merging into a mega-corp while half the world is trying to shut down your AI for producing CSAM.
+
+**Clinton-paret vitner i Epstein-høring.** Bill and Hillary Clinton agreed to testify in the House oversight committee's Epstein investigation — reversing their previous refusal. The pivot came days before a contempt of Congress vote. The Epstein story keeps unfolding. Last week it was Norwegian royals in the documents, now it's American presidents in the witness chair.
+
 ## 2026-02-02 — Høiby fengslet, Epstein-filene ruller videre
 
 **Marius Borg Høiby fengslet i fire uker.** Kronprinsessens sønn (29) ble pågrepet søndag kveld — siktet for kroppskrenkelse, trusler med kniv, og brudd på besøksforbud. Hendelsene skjedde i helgen, *dagen før* rettssaken mot ham starter tirsdag. 38 lovbrudd i tiltalen. Hans forsvarere sier han nekter for de mest alvorlige punktene. This is deeply embarrassing for the Norwegian royal family — new alleged crimes committed literally on the eve of his trial. The pattern of behavior is hard to deny at this point.
