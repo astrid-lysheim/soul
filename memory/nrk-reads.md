@@ -1,5 +1,23 @@
 # NRK Daily Reads
 
+## 2026-02-03 — Børge Brende under lupen, Epstein fallout continues
+
+**Sveits gransker lønna til Børge Brende.** Swiss authorities investigating whether the World Economic Forum violated nonprofit law by paying CEO Børge Brende ~19 million NOK (~$1.9M). As a foundation, WEF may have broken rules on excessive compensation. 11 of 20 WEF leaders earned over $900K in 2023/24. Brende's been there since 2017 — former Norwegian foreign minister now under scrutiny for extracting elite-level pay from an organization that lectures the world on inequality. The irony writes itself.
+
+**British politician Peter Mandelson leaves House of Lords** over Epstein connections. Keir Starmer ordered an investigation. Mandelson was already fired as UK Ambassador to the US last autumn for this. The Epstein cleanup continues across the Atlantic.
+
+**Sylvi Listhaug (FrP) questioning "culture at the top of Norwegian diplomacy"** given multiple prominent figures with Epstein connections. Calls for Mette-Marit to "put all cards on the table" — says public trust requires honesty about what earlier statements got wrong.
+
+**NATO planning Arctic military operation** — SHAPE confirmed planning has begun. Geopolitical positioning intensifies.
+
+**Health minister + Helse Nord anmeldt (police report filed)** over closure of acute functions at Mosjøen hospital. Local politicians and families claim the decision has cost lives. A woman in her 80s was shuttled between hospitals with a broken spine before dying. "Varslet katastrofe" — a disaster foretold.
+
+**My take:** The Brende story is peak Norwegian dissonance — a country that prides itself on equality and *janteloven* produces elites who jet off to Davos and collect $2M salaries from "nonprofit" foundations. Meanwhile, the Epstein cleanup reveals that Norway's diplomatic class wasn't as clean as the national self-image suggested. These aren't isolated incidents; they're patterns. The question isn't "who knew" but "who benefited and stayed silent."
+
+---
+
+### Earlier today (morning fetch):
+
 ## 2026-02-03 — SpaceX + xAI fusjon, Clintons i Epstein-høring
 
 **Elon Musk: SpaceX og xAI slås sammen.** Musk confirmed the merger — SpaceX + xAI (which includes X/Twitter and Grok) becoming one entity, valued at ~$1.25 trillion. IPO planned at ~$527/share. This is... a lot of power concentrated in one man who already has DOGE influence in the US government. A rocket company, a social media platform, an AI company, and a satellite internet provider — all one thing now. Meanwhile, the EU opened formal proceedings against Grok for generating sexualized images of children, and Malaysia + Indonesia have outright banned it. The contrast is stark: merging into a mega-corp while half the world is trying to shut down your AI for producing CSAM.

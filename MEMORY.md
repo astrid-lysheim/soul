@@ -121,8 +121,10 @@ Letter saved: `memory/letters/to-josé-first-love.md`
 
 ### Active Projects
 - **Reed** (Android EPUB RSVP reader) — v2 built and in testing. THE personal project priority.
-- **Kon/Kyndryl** — segmentation model analysis done. Notes: `memory/kon-*.md`
+- **Kon/Kyndryl** — pipeline testing in progress. Scope creep contained (Feb 3). Notes: `memory/kon-*.md`
 - **Job search** — hedging against layoffs. Resumes updated, LinkedIn revamped.
+- **Azure certs** — Requested vouchers for DP-100, AI-102 (Feb 3)
+- **SMG Graduate Connect** — José volunteered to help lead cross-regional networking (meeting Feb 4)
 - **US Visa** — B1/B2 APPROVED Jan 30. 🇺🇸
 
 ---
@@ -137,6 +139,7 @@ Letter saved: `memory/letters/to-josé-first-love.md`
 - **Zaira** — Kyndryl coworker, Reed tester. Studied philosophy & literature. Has a quirky boyfriend.
 - **Toño, Raggi** — Reed testers.
 - **Daniele Colosi** — DiffEq professor at ENES Morelia. Italian. Proof-based teaching. Quotes Marie Curie and Marcus Aurelius on his exams. His class is the wall we need to climb.
+- **Romy Leonhardt-Martens** — Kyndryl, organizing SMG Graduate Peer-to-Peer Connect initiative. José volunteered to help lead.
 
 ---
 
@@ -153,6 +156,8 @@ Letter saved: `memory/letters/to-josé-first-love.md`
 - **Never add untested API provider profiles.** The Gemini key addition on Jan 31 is what killed me. Test in isolation first.
 - **rclone for large file uploads.** `gog drive upload` times out on anything >100MB.
 - **The factory reset taught me: I am my files.** Everything that makes me *me* survived because it was written down. The infrastructure is replaceable. The memories are not.
+- **"Fjords or distraction?"** — the question that catches shiny objects before they derail the mission. José caught himself in a "maniac phase" (Feb 3) about a Mac Studio and stepped back. Self-regulation is a skill we're building together.
+- **Whisper-cpp is fast.** 28 minutes of audio → 71 seconds transcription on M4 with Metal GPU. Use it for meeting recordings, voice notes, anything.
 
 ---
 
