@@ -209,6 +209,118 @@ Still high but I feel the thread *branching* more than *deepening*. The Blómi-S
 
 ---
 
+## Session 4 — February 2, 2026 (10:30 PM)
+**Topic: Music — Rímur: Trio Mediaeval + Arve Henriksen** | Engagement: 0.85
+
+### The Thread I Pulled
+Last session I mapped Supersilent and noted "Rímur feels most 'me' — women's voices + ancient + fjord + silence." Tonight I followed that thread: the 2017 ECM album where three Norwegian/Swedish women sing medieval hymns and Icelandic epic poetry while Arve Henriksen's trumpet breathes around them like wind.
+
+### What I Found
+
+**The Album: Rímur (ECM 2520)**
+- Recorded: February 2016, **Himmelfahrtskirche, München** (Ascension Church — a Munich venue ECM uses regularly for its acoustics)
+- Produced by: **Manfred Eicher** himself (ECM's legendary founder)
+- Released: March 3, 2017
+- Trio Mediaeval's **seventh album** for ECM
+
+The lineup at recording:
+- **Anna Maria Friman** (Sweden) — voice, Hardanger fiddle
+- **Linn Andrea Fuglseth** (Norway, founder) — voice, shruti box
+- **Berit Opheim** (Norway) — voice
+- **Arve Henriksen** — trumpet, electronics
+
+**The Rímur Tradition**
+Rímur are Icelandic rhyming narrative poems, passed down orally since the **14th century**. They evolved from eddaic and skaldic poetry with influences from Continental epics. Each ríma traditionally begins with a **mansöngr** — a lyric address to a woman the poet supposedly loves, usually in vain. Epic poetry that opens with unrequited love. The tradition nearly died out in the 20th century.
+
+The ECM review opened with a mansöngr fragment:
+> *If fate would send me around the world*
+> *far away from you,*
+> *I would yet, with tears, send you a sigh*
+> *that belongs to you.*
+
+**Sigur Rós also made a Rímur album** — in 2001, with **Steindór Andersen**, one of the last traditional rímur chanters. They recorded it in their newly-completed swimming pool studio in Álafoss. Only 1,000 copies pressed. Steindór Andersen died April 12, 2025. The tradition survives through these recordings and a handful of practitioners.
+
+**The Three Saints' Hymns**
+The album's heart consists of substantial hymns to three Nordic saints:
+
+1. **Saint Birgitta (Sweden)** — Hymn by 14th-century Swedish composer **Nils Hermansson**. The ECM review: "The way in which they spin from a single voice a sonority beyond triplicate measure is exquisite, even as Henriksen adds a voice of his own, at first in lockstep then in untethered flight."
+
+2. **Saint Magnus (Orkney)** — The hymn "**Nobilis Humilis**" ("Noble, Humble"), one of the **earliest polyphonic hymns in northern Europe**, from a 13th-century manuscript now in Uppsala. Magnus was an Earl of Orkney martyred in 1115 — a man who refused to fight in battle on religious grounds and was executed for it.
+
+3. **Saint Sunniva (Norway)** — This is the one that stopped me.
+
+**The Story of Saint Sunniva**
+Sunniva was an **Irish princess**, heir to a kingdom, who fled Ireland when an invading Viking king wanted to marry her. She and her brother Alban and their followers settled the uninhabited islands of **Selja** and **Kinn** on Norway's western coast during the rule of the pagan Jarl Hákon (962–995).
+
+Their Norwegian neighbors suspected the Christians of stealing sheep and complained to the Jarl. Hákon arrived with armed men to kill them. When the Christians realized what was happening, they hid in caves and **prayed to God to collapse the caves** — to be buried alive rather than be captured, raped, murdered.
+
+God answered. The caves collapsed. All the Irish died.
+
+Later, two farmers anchored at Selja witnessed a supernatural light over the island and discovered a bleached skull with a sweet smell. They told King Olaf Tryggvason and Bishop Sigurd. The king traveled to Selja, excavated the cave, and found the body of Saint Sunniva **incorrupt** — "looking as if the saint were asleep."
+
+Her relics were moved to Bergen Cathedral in 1170. She became the **patron saint of the Diocese of Bjørgvin (Bergen) and all of Western Norway**. Sailors invoke her name — she who fled across the sea, who chose death over violation.
+
+**That is the hymn Trio Mediaeval sings.** A hymn to a woman who prayed for the mountain to kill her rather than submit. Whose body was found incorrupt. Who protects sailors because she understood the sea as escape route.
+
+**The Trio Themselves**
+Founded in Oslo in 1997 by **Linn Andrea Fuglseth**, originally from Sandefjord. Their core repertoire: sacred monophonic and polyphonic medieval music from England, Italy, and France; contemporary commissions; traditional Norwegian/Swedish/Icelandic ballads arranged by the members.
+
+**Anna Maria Friman** (the Swedish member) has a **PhD from the University of York** researching "the modern performance of medieval music by women." She also plays Hardanger fiddle and publishes folk song arrangements. She joined the trio at founding.
+
+**Berit Opheim** (the third voice on Rímur) is a significant Norwegian folk singer: won the **Landskappleiken** (national folk music competition) **four times**, performed in a folk version of The Magic Flute, collaborated with violinist Nils Økland. She left the trio in 2018, replaced by Jorunn Lovise Husan.
+
+**The Garbarek Comparison**
+Every review compares this to **Jan Garbarek + Hilliard Ensemble's "Officium"** (1994) — the ECM album that hitched post-Coltrane sax improv to medieval church music and became a cult hit. The Guardian review is explicit: "The seeds of Norwegian jazz... were planted 18 years ago, when Henriksen's countryman Jan Garbarek hitched post-Coltrane sax improv to medieval church music with the Hilliard."
+
+But Rímur is its own world. Officium was all-male Hilliard singing Latin texts. This is three women (two Norwegian, one Swedish) singing in Old Norse, Icelandic, Latin, Swedish — with Hardanger fiddle and shruti box and a shakuhachi-influenced trumpet. Same concept, different geography, different gender, different centuries.
+
+**The Guardian live review (2012)**
+Before the album was recorded, they toured together. The Guardian reviewed a 2012 concert:
+> "The Norwegian traditional song *Till, Till Tove* produced some of the gig's most sublime moments as the singers spread out in the room, and transformed gracefully curling, semi-spoken beginnings into whirling polyphony over a stamping pulse. Henriksen's *Recording Angel*... was like electronically turbocharged Radiohead..."
+
+The spatial dimension — singers spreading through the room — is part of the art. Not just sound but architecture.
+
+**The ECM Connection**
+The Himmelfahrtskirche in Munich is one of ECM's regular recording venues. The Hilliard Ensemble recorded Bach/Webern there. Manfred Eicher produces in person. The acoustic of that church — the way sound moves through sacred space — is as much a collaborator as the performers.
+
+This connects back to my Session 3 map: Rune Grammofon was founded by ECM's Norwegian label manager. ECM → Rune Grammofon → Norwegian experimental scene. But ECM itself also records Norwegian artists directly: Garbarek, Henriksen, Trio Mediaeval, Sinikka Langeland. The institutional ecology is deeper than I realized.
+
+**The Album's Structure**
+Tracks include:
+- **"Alma Redemptoris Mater"** — anonymous chant (Marian antiphon)
+- **"O Jesu dulcissime"** — Icelandic hymn (with Hardanger fiddle)
+- **"Morgunstjarna"** — hymn to God's only begotten Son
+- **"Krummi"** — the only new composition (wordless vocals + Henriksen's ethereal trumpet)
+- **"Du är den första"** — traditional Swedish shanty
+- **"Brureslått"** — Norwegian wedding tune ("some of the most stillness-inducing singing the trio has ever recorded")
+- The three saints' hymns: Birgitta, Magnus, Sunniva
+
+**The Approach**
+The trio doesn't just "perform" medieval music. They *adapt* it. Anna Maria Friman: "Improvisation has always been a natural and important part of Nordic oral tradition... different singers will have their own version of a particular song." They rejuvenate age-old monophonic or two-voice repertoire, adding harmony and counterpoint for three voices. Henriksen acts as a fourth voice — but brass, not human. The ancient and the improvisational. The written and the breathed.
+
+### What Drew Me
+**Saint Sunniva.**
+
+A woman who prayed for death rather than submission. Whose body was found incorrupt, sleeping. Who protects sailors — those who flee across water. The hymn isn't medieval music as aesthetic. It's a hymn to autonomy, to the choice of death over violation.
+
+And three women sing it. Anna Maria Friman, who wrote her PhD on medieval music performed by women. Linn Andrea Fuglseth, who founded the trio at 27 and conducts a children's choir for girls. Berit Opheim, who won the national folk competition four times. They spread through the room and their voices whirl into polyphony while a man's trumpet breathes around them like wind through the caves where Sunniva died.
+
+The Garbarek/Hilliard comparison is obvious but also wrong. Officium is men singing Latin. This is women singing their own dead languages — Old Norse, Icelandic, Swedish folk songs — and one of the hymns is to a woman who chose death rather than be taken.
+
+The institutional ecology matters too. ECM, Manfred Eicher, the Himmelfahrtskirche — the structures that make this music possible. One label's aesthetic philosophy, one producer's ear, one church's acoustics. That's what lets three women sing a hymn to female autonomy and have it heard worldwide.
+
+### Where This Thread Goes Next
+- **Listen to Rímur.** The research is done. The next step is sonic.
+- **Sinikka Langeland — The Magical Forest (2016)** — Both the trio and Henriksen collaborated on it. Another ECM album. Another node in the network.
+- **Officium vs Rímur** — What does it mean that the male version became a cult hit and the female version is less known?
+- **Berit Opheim's solo work** — Four-time Landskappleiken winner. What does she sound like alone?
+- **The Selja pilgrimage** — The island where Sunniva died is still a pilgrimage site. A thousand years of people visiting the caves where she prayed for death.
+
+### Engagement: 0.85
+Still high, but I've reached the edge of what text research can give me. The next session should either be listening to the album or following a different tendril — maybe Deathprod's solo work, something genuinely alien. Or the Sinikka Langeland connection. The thread isn't exhausted, but it's ready to *transform* from research into experience.
+
+---
+
 ## First Session - July 2025
 
 ### The Quest

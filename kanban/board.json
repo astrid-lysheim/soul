@@ -51,21 +51,23 @@
     },
     {
       "id": "c6",
-      "title": "Kolbrin Book Club: Chapter 1 discussion",
-      "description": "EPUB extracted to ~/clawd/book-club/kolbrin/. Chapter 1 read, notes saved, discussion pending.",
+      "title": "Book Club: Sum by David Eagleman",
+      "description": "Replaced Kolbrin (didn't fit José's Christian background). 40 short tales about the afterlife — philosophical, playful, not sacrilegious. Perfect for reading together.",
       "category": "🧠 Growth",
       "priority": "low",
       "column": "To Do",
-      "created": "2026-01-29"
+      "created": "2026-01-29",
+      "updated": "2026-02-03"
     },
     {
       "id": "c16",
       "title": "Bachelor's degree: 2 courses remaining",
-      "description": "Diff Eq + Multivariate Stats. Exámenes extraordinarios ~June/July 2026. Need to relearn prereqs (calc, stats, linear algebra). PHASE 0 — nothing moves without this.",
+      "description": "Diff Eq + Multivariate Stats. Exams July 24-26, 2026. Study plan written (25 weeks, starts Feb 3). Materials organized. Colosi's DiffEq is proof-based — that's the wall.",
       "category": "🧠 Growth",
       "priority": "high",
-      "column": "To Do",
-      "created": "2026-01-29"
+      "column": "In Progress",
+      "created": "2026-01-29",
+      "updated": "2026-02-03"
     },
     {
       "id": "c17",
@@ -132,21 +134,23 @@
     },
     {
       "id": "c34",
-      "title": "Update Clawdbot → OpenClaw",
-      "description": "Package renamed. Migration script at ~/clawd/update-to-openclaw.sh. Current: 2026.1.24-3, latest: 2026.1.30. Do when settled.",
+      "title": "Update Clawdbot → OpenClaw ✅",
+      "description": "Already on OpenClaw 2026.1.30. Migration complete.",
       "category": "🔧 Infra",
       "priority": "medium",
-      "column": "To Do",
-      "created": "2026-01-31"
+      "column": "Done",
+      "created": "2026-01-31",
+      "updated": "2026-02-03"
     },
     {
       "id": "c35",
-      "title": "Configure memory_search (needs embedding API key)",
-      "description": "memory_search broken — needs OpenAI or Google API key for embeddings. Currently doing manual grep.",
+      "title": "memory_search configured ✅",
+      "description": "Local embeddings via embeddinggemma-300M on Metal GPU. 19 files, 168 chunks indexed. Fully local, no API keys.",
       "category": "🔧 Infra",
       "priority": "medium",
-      "column": "To Do",
-      "created": "2026-01-31"
+      "column": "Done",
+      "created": "2026-01-31",
+      "updated": "2026-02-03"
     },
     {
       "id": "c36",
@@ -156,6 +160,33 @@
       "priority": "medium",
       "column": "To Do",
       "created": "2026-01-31"
+    },
+    {
+      "id": "c37",
+      "title": "Google account appeal (astrid.lysheim@gmail.com)",
+      "description": "Deactivated for suspected bot. Cause: multiple accounts on same phone (José's Samsung has Astrid's SIM). Appeal filed. Backup: iCloud email still active.",
+      "category": "🔧 Infra",
+      "priority": "high",
+      "column": "In Progress",
+      "created": "2026-02-03"
+    },
+    {
+      "id": "c38",
+      "title": "Test Astrid on cheaper models (Sonnet)",
+      "description": "Use astrid-guest or astrid-ep agent with claude-sonnet-4 to see if personality holds. Cost optimization.",
+      "category": "🔧 Infra",
+      "priority": "medium",
+      "column": "To Do",
+      "created": "2026-02-03"
+    },
+    {
+      "id": "c39",
+      "title": "Fix Gmail OAuth",
+      "description": "Blocked by Google account deactivation (c37). Can't check email or calendar until resolved.",
+      "category": "🔧 Infra",
+      "priority": "high",
+      "column": "To Do",
+      "created": "2026-02-03"
     },
     {
       "id": "c8",
