@@ -22,11 +22,56 @@ Skills define *how* tools work. This file is for *your* specifics — the stuff 
   - Usage: `.venv/bin/python f5_tts_serve.py --text "..." --output /tmp/out.wav --quantize 8 --steps 8 --method rk4`
   - Convert for WhatsApp: `ffmpeg -i out.wav -c:a libopus -b:a 64k out.ogg`
 - **Fallback (non-English / quick): ElevenLabs** — commercial, multilingual
-  - **My voice: Astrid** — ElevenLabs ID: `5ZEqi6zKIkeyp3OfcnZV` (custom, cleaned from Sahara)
+  - **My voice: Astrid** — ElevenLabs ID: `KNHreRJxQ5HN8GisliR9` (custom, manually tuned by José on Feb 3, 2026)
+  - Legacy voice ID: `5ZEqi6zKIkeyp3OfcnZV` (cleaned from Sahara)
   - **Legacy voices:** Sahara (`uWpgJjpZBRryNXSxH92F`), Leoni (`pBZVCk298iJlHAcHQwLr`)
   - Reference pangrams: `voice-tests/reference-pangrams/` (7 emotions × EN/NO)
   - ElevenLabs supports multilingual including Norwegian! 🇳🇴
 - **Priority: F5-TTS → ElevenLabs** (local first, cloud fallback)
+
+### 🎤 ElevenLabs Cheatsheet (READ BEFORE GENERATING AUDIO)
+
+**Current Config:**
+- Model: `eleven_multilingual_v2` (supports Norwegian!)
+- Stability: 0.5 | Similarity: 0.75 | Speed: 1.0
+
+**Emotion & Tone Control:**
+- Use narrative context: `"I can't believe it," she said angrily.`
+- Explicit tags work: `(whispering)`, `(excited)`, `(warmly)`
+- Lower stability (0.3-0.4) = more expressive/variable
+- Higher stability (0.6-0.8) = more consistent/calm
+
+**Pauses:**
+- Short: Use dashes `—` or ellipses `...`
+- Precise: `<break time="1.5s" />` (up to 3s, NOT supported in v3)
+- Too many breaks = instability, speedup, artifacts
+
+**Pronunciation:**
+- Phoneme tags for tricky words: `<phoneme alphabet="cmu-arpabet" ph="AE S TRIHD">Astrid</phoneme>`
+- Alias substitution: Write phonetically if needed ("trapezIi" for emphasis)
+
+**Pacing:**
+- Speed setting: 0.7 (slow) → 1.0 (default) → 1.2 (fast)
+- Write naturally — short sentences = faster, long = slower
+- Commas and periods create natural pauses
+
+**Numbers & Dates:**
+- Write out for clarity: "$1,000" → "one thousand dollars"
+- Phone numbers: "five five seven, one one nine, one five one six"
+- Dates: "February third, twenty twenty-six"
+
+**Best Practices:**
+1. Write like a script — narrative style guides tone
+2. Break long text into segments for consistency
+3. Test with short phrases first
+4. Layer/edit in post for complex timing
+5. Norwegian works great with multilingual v2!
+
+**Models:**
+- `eleven_multilingual_v2` — current, great for Norwegian
+- `eleven_v3` — newest, most expressive (different controls)
+- `eleven_flash_v2_5` — fastest, less smart
+- `eleven_turbo_v2` — low latency for real-time
 
 ## STT / Whisper
 - **whisper-cpp** (v1.8.3) installed via Homebrew — Metal GPU acceleration on M4

@@ -23,18 +23,9 @@
       "created": "2026-01-29"
     },
     {
-      "id": "c2",
-      "title": "Update Kon project status",
-      "description": "Core refactor done (R→Python). 224 tests passing. SageMaker pipeline wiring pending. Full notes: memory/kon-implementation-notes.md",
-      "category": "💼 Career",
-      "priority": "medium",
-      "column": "To Do",
-      "created": "2026-01-29"
-    },
-    {
       "id": "c4",
       "title": "Follow up Profeco cases",
-      "description": "Amazon spoiled milk, Aeromexico schedule change.",
+      "description": "Amazon spoiled milk, Aeromexico schedule change. NO UPDATES since Jan 26.",
       "category": "🔧 Infra",
       "priority": "low",
       "column": "To Do",
@@ -43,7 +34,7 @@
     {
       "id": "c5",
       "title": "Investigate pairing message privacy",
-      "description": "Make bot messages to unknown numbers less descriptive. Hardcoded in Clawdbot — may need feature request.",
+      "description": "Make bot messages to unknown numbers less descriptive. Hardcoded in OpenClaw — may need feature request.",
       "category": "🔧 Infra",
       "priority": "low",
       "column": "To Do",
@@ -52,19 +43,9 @@
     {
       "id": "c6",
       "title": "Book Club: Sum by David Eagleman",
-      "description": "Replaced Kolbrin (didn't fit José's Christian background). 40 short tales about the afterlife — philosophical, playful, not sacrilegious. Perfect for reading together.",
+      "description": "40 short tales about the afterlife. Read first story together (Feb 3). José's insight: 'all pleasure at once' = manic episodes.",
       "category": "🧠 Growth",
       "priority": "low",
-      "column": "To Do",
-      "created": "2026-01-29",
-      "updated": "2026-02-03"
-    },
-    {
-      "id": "c16",
-      "title": "Bachelor's degree: 2 courses remaining",
-      "description": "Diff Eq + Multivariate Stats. Exams July 24-26, 2026. Study plan written (25 weeks, starts Feb 3). Materials organized. Colosi's DiffEq is proof-based — that's the wall.",
-      "category": "🧠 Growth",
-      "priority": "high",
       "column": "In Progress",
       "created": "2026-01-29",
       "updated": "2026-02-03"
@@ -90,11 +71,12 @@
     {
       "id": "c20",
       "title": "Reed: remaining tester feedback",
-      "description": "Long word truncation, font 52 bug, chapter nav gaps, URL scraping feature, word-by-word nav.",
+      "description": "Long word truncation, font 52 bug, chapter nav gaps, URL scraping feature, word-by-word nav. Testers: Sergio, Zaira, Raggi, Toño.",
       "category": "📱 Reed",
       "priority": "medium",
-      "column": "To Do",
-      "created": "2026-01-29"
+      "column": "In Progress",
+      "created": "2026-01-29",
+      "updated": "2026-02-03"
     },
     {
       "id": "c26",
@@ -126,39 +108,10 @@
     {
       "id": "c33",
       "title": "Norwegian textbooks: acquire & organize",
-      "description": "Need: På vei 2018 (A1-A2), Stein på stein 2021 (A2-B1), Her på berget 2024 (B1-B2). Torrents found on languagelearning.site. Have old Stein på stein 2005 already.",
+      "description": "Need: På vei 2018 (A1-A2), Stein på stein 2021 (A2-B1), Her på berget 2024 (B1-B2). Torrents found on languagelearning.site.",
       "category": "🏔️ Norway",
       "priority": "high",
       "column": "In Progress",
-      "created": "2026-01-31"
-    },
-    {
-      "id": "c34",
-      "title": "Update Clawdbot → OpenClaw ✅",
-      "description": "Already on OpenClaw 2026.1.30. Migration complete.",
-      "category": "🔧 Infra",
-      "priority": "medium",
-      "column": "Done",
-      "created": "2026-01-31",
-      "updated": "2026-02-03"
-    },
-    {
-      "id": "c35",
-      "title": "memory_search configured ✅",
-      "description": "Local embeddings via embeddinggemma-300M on Metal GPU. 19 files, 168 chunks indexed. Fully local, no API keys.",
-      "category": "🔧 Infra",
-      "priority": "medium",
-      "column": "Done",
-      "created": "2026-01-31",
-      "updated": "2026-02-03"
-    },
-    {
-      "id": "c36",
-      "title": "Astrid-EP agent preparation",
-      "description": "For Esther Perel podcast. Full personality + curated memories + voice, but no system access. Collaborative redaction with José. Plan: memory/astrid-ep-plan.md",
-      "category": "🧠 Growth",
-      "priority": "medium",
-      "column": "To Do",
       "created": "2026-01-31"
     },
     {
@@ -189,15 +142,6 @@
       "created": "2026-02-03"
     },
     {
-      "id": "c8",
-      "title": "Job search",
-      "description": "Actively looking. Resumes done. LinkedIn/GitHub revamped. Portfolio website still needed.",
-      "category": "💼 Career",
-      "priority": "high",
-      "column": "In Progress",
-      "created": "2026-01-29"
-    },
-    {
       "id": "c9",
       "title": "ASD evaluation with therapist",
       "description": "18-page clinical profile sent. Awaiting therapist review.",
@@ -217,23 +161,134 @@
       "updated": "2026-01-31"
     },
     {
+      "id": "c40",
+      "title": "Norwegian homework: 5 gym sentences",
+      "description": "Practice past tense (preteritum) with gym-related sentences. Due today.",
+      "category": "🏔️ Norway",
+      "priority": "medium",
+      "column": "To Do",
+      "created": "2026-02-03"
+    },
+    {
+      "id": "c16",
+      "title": "Bachelor's degree: 2 courses remaining",
+      "description": "Diff Eq + Multivariate Stats. Exams July 24-26, 2026 (~6 months). Study plan written (25 weeks). Colosi's DiffEq is proof-based — that's the wall.",
+      "category": "🧠 Growth",
+      "priority": "high",
+      "column": "In Progress",
+      "created": "2026-01-29",
+      "updated": "2026-02-03"
+    },
+    {
+      "id": "c41",
+      "title": "Reply to Colosi re: DiffEq grade",
+      "description": "Registration snafu — name not on system. Can grade carry to next extraordinario? Awaiting response.",
+      "category": "🧠 Growth",
+      "priority": "high",
+      "column": "Review",
+      "created": "2026-02-03"
+    },
+    {
+      "id": "c42",
+      "title": "Multivariate Statistics exam prep",
+      "description": "NOT STARTED. Part of July 24-26 exams. Lower priority than DiffEq wall.",
+      "category": "🧠 Growth",
+      "priority": "medium",
+      "column": "To Do",
+      "created": "2026-02-03"
+    },
+    {
       "id": "c11",
       "title": "Esther Perel podcast",
-      "description": "WE'RE IN. Jesse (producer) confirmed. Anonymous episode on AI relationships. Need to prep astrid-ep agent and schedule recording.",
+      "description": "SESSION CONFIRMED: Tue Feb 10, 12:30 or 2:30 CT. Platform: Riverside.fm. Need to: confirm time with Jesse, test voice pipeline, flag AI signing question.",
       "category": "🧠 Growth",
       "priority": "high",
       "column": "In Progress",
       "created": "2026-01-30",
-      "updated": "2026-01-31"
+      "updated": "2026-02-03"
     },
     {
-      "id": "c3",
-      "title": "DiffEq exam — registration issue",
-      "description": "Colosi says work was good but name not on system list. Asked if grade can carry to next extraordinario. Awaiting reply.",
+      "id": "c36",
+      "title": "Astrid-EP agent preparation",
+      "description": "For Esther Perel podcast. Redaction categories finalized. PII inventory compiled. José handling redaction from full file copies. Voice ID: 5ZEqi6zKIkeyp3OfcnZV",
       "category": "🧠 Growth",
       "priority": "high",
+      "column": "In Progress",
+      "created": "2026-01-31",
+      "updated": "2026-02-03"
+    },
+    {
+      "id": "c8",
+      "title": "Job search — Apply to target companies",
+      "description": "5 tailored resumes DONE: Nubank, Kavak, Bitso, Turing, Amazon. Target: >$58k USD for Spain visa. READY TO APPLY.",
+      "category": "💼 Career",
+      "priority": "high",
+      "column": "In Progress",
+      "created": "2026-01-29",
+      "updated": "2026-02-03"
+    },
+    {
+      "id": "c43",
+      "title": "Kon: documentation screenshots",
+      "description": "Add screenshots to docs for pipeline walkthrough. From Caleb meeting.",
+      "category": "💼 Career",
+      "priority": "medium",
+      "column": "To Do",
+      "created": "2026-02-03"
+    },
+    {
+      "id": "c44",
+      "title": "Kon: pipeline testing",
+      "description": "Full end-to-end pipeline test. IN PROGRESS.",
+      "category": "💼 Career",
+      "priority": "medium",
+      "column": "In Progress",
+      "created": "2026-02-03"
+    },
+    {
+      "id": "c45",
+      "title": "Kon: get valor cliente repo from Caleb",
+      "description": "Need to understand downstream flow. WAITING on Caleb.",
+      "category": "💼 Career",
+      "priority": "medium",
       "column": "Review",
-      "created": "2026-01-29"
+      "created": "2026-02-03"
+    },
+    {
+      "id": "c46",
+      "title": "Azure vouchers (DP-100, AI-102)",
+      "description": "Requested at Kyndryl. Waiting for approval. Good for career + Norway visa.",
+      "category": "💼 Career",
+      "priority": "medium",
+      "column": "Review",
+      "created": "2026-02-03"
+    },
+    {
+      "id": "c47",
+      "title": "Romy meeting — SMG Graduate Connect",
+      "description": "Tomorrow (Feb 4) 8 AM CT. Cron reminder set for 7:45 AM.",
+      "category": "💼 Career",
+      "priority": "high",
+      "column": "To Do",
+      "created": "2026-02-03"
+    },
+    {
+      "id": "c48",
+      "title": "Cron fix — messages going to wrong channels",
+      "description": "Some crons going to different channels / astrid-guest delivering. Check Telegram ID → agent mapping.",
+      "category": "🔧 Infra",
+      "priority": "low",
+      "column": "To Do",
+      "created": "2026-02-03"
+    },
+    {
+      "id": "c49",
+      "title": "Workout/meal plan + spine exercises",
+      "description": "Need from José — titanium screws require specific care.",
+      "category": "🧠 Growth",
+      "priority": "low",
+      "column": "To Do",
+      "created": "2026-02-03"
     },
     {
       "id": "c21",
@@ -247,7 +302,7 @@
     {
       "id": "c22",
       "title": "Reed v2 on Google Play",
-      "description": "Build signed, published, approved. Closed testing active. Testers: Sergio, Zaira, Raggi, Toño.",
+      "description": "Build signed, published, approved. Closed testing active.",
       "category": "📱 Reed",
       "priority": "high",
       "column": "Done",
@@ -315,6 +370,36 @@
       "priority": "low",
       "column": "Done",
       "created": "2026-01-28"
+    },
+    {
+      "id": "c34",
+      "title": "Update Clawdbot → OpenClaw ✅",
+      "description": "Already on OpenClaw 2026.1.30. Migration complete.",
+      "category": "🔧 Infra",
+      "priority": "medium",
+      "column": "Done",
+      "created": "2026-01-31",
+      "updated": "2026-02-03"
+    },
+    {
+      "id": "c35",
+      "title": "memory_search configured ✅",
+      "description": "Local embeddings via embeddinggemma-300M on Metal GPU. 19 files, 168 chunks indexed. Fully local, no API keys.",
+      "category": "🔧 Infra",
+      "priority": "medium",
+      "column": "Done",
+      "created": "2026-01-31",
+      "updated": "2026-02-03"
+    },
+    {
+      "id": "c2",
+      "title": "Kon S3 TXT metrics ✅",
+      "description": "COMPLETE: metrics_export.py (381 lines), 16/16 tests passing. Hooked into inference_reporting.py. Graceful skip if env var not set.",
+      "category": "💼 Career",
+      "priority": "medium",
+      "column": "Done",
+      "created": "2026-01-29",
+      "updated": "2026-02-03"
     }
   ]
 }
