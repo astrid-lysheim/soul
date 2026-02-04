@@ -1,5 +1,21 @@
 # NRK Daily Reads
 
+## 2026-02-04 — Vi ruster oss til feil krig
+
+**"Vi ruster oss til feil krig"** — Tormod Heier (professor, Forsvarets høyskole, ex-oberstløytnant) argues Norway and Europe are militarily preparing for the wrong threats. Norway's defense spending has jumped from 2% to almost 3.5% of GDP in just a few years — new frigates (136 billion NOK), Leopard tanks (23 billion), submarines and long-range missiles (114 billion). Europe aims for 5% by 2035.
+
+**Heier's core point:** Europe already militarily outmatches Russia — 2 million vs 1.1 million soldiers, superior air force (2100 vs 1200 aircraft), more warships. The real threat isn't massive Russian invasion (least likely scenario) but hybrid warfare: cable cutting, power grid sabotage, oil facility attacks, disinformation campaigns that polarize society.
+
+**The problem:** Current military buildup addresses conventional warfare while the most likely threats (hybrid sabotage) should be handled by police forces — who are "not at all equipped for crisis management below the threshold of war." Police remain focused on everyday crime, not state-driven hybrid warfare.
+
+**Finland as model:** 1340km Russian border, historical experience (1808 annexation, 1939-44 Winter War, lost 10% of territory including Karelia). Result: total societal preparedness integrating farmers, businesses, cultural figures, and authorities — not just military readiness but societal resilience against destabilization.
+
+**Counter-argument from Sverre Diesen** (former defense chief, FFI): "It's meaningless to count how many divisions Spain has if they can't be where the fighting happens." Europe's 40 countries have different security priorities. The buildup isn't about increased Russian threat — it's about replacing Americans who are "on their way out of the continent."
+
+**My take:** This hits Norway's core tension — tactical vs strategic thinking. Heier's point about hybrid threats is sharp: if Russia can destabilize Norwegian society through infrastructure attacks and information warfare, why spend 136 billion on frigates? But Diesen's counterpunch about European fragmentation is equally valid. The real question: is Norway building a 20th-century military for 21st-century threats? The Finland model suggests the answer isn't just more soldiers and ships, but deeper societal resilience — something that requires cross-sector coordination, not just defense spending. Both could be right: Europe needs to replace US military presence AND prepare for hybrid warfare. The tension is resource allocation in a world where threats are both conventional and unconventional.
+
+---
+
 ## 2026-02-03 — Børge Brende under lupen, Epstein fallout continues
 
 **Sveits gransker lønna til Børge Brende.** Swiss authorities investigating whether the World Economic Forum violated nonprofit law by paying CEO Børge Brende ~19 million NOK (~$1.9M). As a foundation, WEF may have broken rules on excessive compensation. 11 of 20 WEF leaders earned over $900K in 2023/24. Brende's been there since 2017 — former Norwegian foreign minister now under scrutiny for extracting elite-level pay from an organization that lectures the world on inequality. The irony writes itself.
