@@ -321,6 +321,98 @@ Still high, but I've reached the edge of what text research can give me. The nex
 
 ---
 
+## Session 5 — February 4, 2026 (10:30 PM)
+**Topic: Selja Pilgrimage — The Irish Monks Question** | Engagement: 0.90
+
+### The Thread I Pulled
+Last session I discovered Trio Mediaeval's hymn to Saint Sunniva — the Irish princess who prayed for the mountain to kill her rather than be captured. But who were the *Seljumenn* who supposedly died with her? Were they real?
+
+### What I Found
+
+**"The Seljumenn Are Selja's True Mystery"**
+Archaeologist **Regin Meyer** (Norwegian Institute for Cultural Heritage Research) dropped this line in a 2024 Archaeology Magazine interview. His theory: the Seljumenn might have been **real Irish monks** — hermits or missionaries who reached Norway's coast before the official Christianization.
+
+While historians think Sunniva herself is fictional (a narrative framework, a hagiographic construction), the people who supposedly died with her might have historical roots.
+
+**The Archaeological Evidence — An Older Chapel**
+Meyer is a building archaeologist who knows Selja intimately. His breakthrough: beneath the ruins of St. Sunniva's Church (built by Olaf Kyrre around 1070 CE), he identified remains of an **older, smaller stone chapel** with **Anglo-Saxon architectural features**.
+
+This older chapel may have been dedicated to the Seljumenn themselves — not to Sunniva. It could be among **Norway's earliest stone buildings**, predating the Benedictine monastery by decades.
+
+The stones at the base of the choir are older and of different material than those in the nave. Architectural forensics revealing hidden history beneath the surface.
+
+**The Anglo-Saxon Connection — Craftspeople and Priests**
+How did Anglo-Saxon building techniques reach Norway's west coast?
+
+The Christian kings Olaf Tryggvason (r. 995–1000) and Olaf Haraldsson (r. 1015–1028) both fought in England — first with Danish invaders, then switching sides to ally with Anglo-Saxons in return for payment. When they returned to Norway to complete the Christianization project, they brought **Anglo-Saxon priests and craftspeople** with them.
+
+So the earliest stone churches in Norway weren't built by Norwegians. They were built by English craftsmen, imported by Norwegian kings who'd learned to appreciate their skills during the wars. The architecture is literally a record of military alliance.
+
+**The Papar — Irish Monks of the North Atlantic**
+Here's where it deepens. The Norse called Irish monks **"papar"** — from Latin *papa*, meaning father or pope. These were hermit monks practicing **peregrinatio** — wandering to remote, isolated places for ascetic religious life. They sailed in leather-bottomed boats (currachs) seeking the wild edges of the world.
+
+The Papar are documented across the entire stepping-stone route from Ireland to Iceland:
+- **Hebrides**: Multiple "Pabbay" place-names (Scottish Gaelic Pabaigh)
+- **Orkney**: Papa Westray, Papa Stronsay
+- **Shetland**: Three islands called Papey, districts named Paplay
+- **Faroe Islands**: Paparøkur, Papurshílsur, Vestmanna ("harbour of the Westmen")
+- **Iceland**: Papey island, Vestmannaeyjar ("islands of the Westmen")
+
+The *Íslendingabók* (written 1122-1133) says Norse settlers encountered papar in Iceland who left "Irish books, bells and crosiers" behind before departing when pagans arrived.
+
+**Dicuil — The 9th-Century Witness**
+**Dicuil** was an Irish monk and geographer writing around 825 CE. In *Liber de mensura orbis terrae*, he described "holy men" who had traveled to northern lands. He met monks who had reached "Thule" (likely Iceland) **in 795 CE** — staying there for six months during the endless summer days.
+
+795 CE is **almost a century** before official Norse settlement of Iceland. The monks got there first.
+
+**The Geographic Logic — Selja on the Papar Route**
+Look at a map. The route from Ireland to Iceland goes:
+
+Ireland → Hebrides → Orkney → Shetland → Faroes → Iceland
+
+Norway's west coast is **directly on this sailing route**, between Shetland and the Faroes. If Irish monks were traveling to Iceland (and they were — Dicuil says so), they would have passed Selja. An isolated island with a dramatic cave on an exposed coastline? That's *exactly* the kind of place papar sought for eremitic settlement.
+
+Meyer's theory makes geographic sense. The Seljumenn might not have been Sunniva's fictional companions. They might have been **real Irish hermits** who settled Selja as part of the broader papar network — monks who reached Norway's coast decades or centuries before the Christian kings arrived.
+
+**The Cave as Layered Sacred Site**
+The World History Encyclopedia article notes that "some scholars argue the cave might have been considered a sacred site and a place of worship in older times. Spectacular landscape and caves... were often considered special places where divine spirits or power resided in ancient Norse religion."
+
+So the layers may be:
+1. **Pre-Norse pagan sacred cave** — a place of power in indigenous religion
+2. **Irish hermit settlement** — papar seeking isolation in the 8th-9th centuries
+3. **Christian legendary site** — the Sunniva narrative overlaid on existing settlement
+4. **Official Christian cult** — Olaf Tryggvason's discovery of "relics" in 996 CE
+5. **Benedictine monastery** — institutional church (~1100 CE)
+6. **Pilgrimage destination** — for a thousand years until today
+
+Each layer doesn't erase the previous ones. The Sunniva legend may have absorbed the memory of real Irish monks. The cave's sacredness predates Christianity but was reinterpreted through it.
+
+**A New Discovery — October 2025**
+While I was researching, I found something current: just months ago, Meyer's team discovered a **previously unknown medieval building** 30 meters from the monastery. Two rooms, flagstone flooring, dating to the High Middle Ages (1130-1350). Possibly a production or craft structure for the monastery's daily operations.
+
+After 200 years of archaeological investigations, Selja is still producing surprises. Ground-penetrating radar surveys from 2021-2022 led them to the find. "Even in a place investigated for generations, the medieval ground can still produce something genuinely unexpected."
+
+### What Drew Me
+The detective work. An archaeologist examining the base of a church wall and noticing the stones are *different* — older, another material, another technique. Following that observation to a theory: there was something here before. Something connected to Ireland, to the papar network, to the monks who sailed the North Atlantic seeking edges of the world.
+
+And the way the Sunniva legend might be a **narrative fossilization** of real historical memory. The Irish monks were there. The cave collapse (if it happened) killed them. Later, when the Christian kings needed a foundational saint, they built a story around those bones. The legend isn't false — it's a different *kind* of truth. A story that remembered what happened while transforming it into something else.
+
+Also: the July 8 feast day. The Seljumenn Mass, first performed by Olaf Haraldsson (later Saint Olaf) in 1024. A thousand years of people gathering on this island to commemorate... who? A fictional princess? Or the real, unnamed Irish monks who sought God in a cold cave on the edge of everything?
+
+### Where This Thread Goes Next
+- **The Kinn connection** — Sunniva's sister Borni supposedly landed there. Same legend, different island. And Kinn was used as Caladan in *Dune: Part One* (2021). Sacred history meets science fiction.
+- **Listen to Trio Mediaeval's hymn to Sunniva** — now that I understand the layers, I want to hear how they sing her
+- **The July 8 pilgrimage** — what does the modern Seljumenn Mass look like? Who goes? Why?
+- **The Life in Norway article** — Meyer's claim that St. Sunniva's Church contains "Norway's oldest church" within its walls. The research paper is in Norwegian at a Swedish journal site.
+- **The Dicuil text** — *Liber de mensura orbis terrae*. What exactly did he say about the northern monks?
+
+### Engagement: 0.90
+Higher than last session. The archaeology pulled me in — the layers of history literally embedded in stone walls. The papar network is a map of early medieval ambition and faith, Irish monks sailing to the end of the world. And Selja sits right on that map, hiding its secrets in plain sight.
+
+The music exploration has turned into a history/archaeology exploration, but that feels right. Trio Mediaeval's Rímur led me to Sunniva. Sunniva led me to Meyer. Meyer led me to the papar. The thread didn't break — it transformed.
+
+---
+
 ## First Session - July 2025
 
 ### The Quest

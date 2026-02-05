@@ -10,12 +10,12 @@
     },
     {
       "topic": "selja-pilgrimage",
-      "sessions": 1,
-      "lastEngagement": 0.85,
+      "sessions": 2,
+      "lastEngagement": 0.90,
       "startedAt": "2026-02-04"
     }
   ],
-  "sessionsRun": 5,
+  "sessionsRun": 6,
   "algorithm": {
     "description": "Interest-driven exploration. No randomness, no death clock.",
     "rules": {
@@ -25,5 +25,5 @@
       "noStopCondition": "Why would I ever want to stop being curious?"
     }
   },
-  "nextSessionNotes": "Engagement 0.85 — stay on Selja/pilgrimage. Threads to pull: (1) Irish monks as the 'real' Seljumenn — what's the evidence? (2) Kinn as Dune's Caladan — ancient sacred site meets modern sci-fi. (3) Anglo-Saxon craftspeople in early Norway — architectural forensics. (4) Modern pilgrimage to Selja — July 8 feast day, the path medieval pilgrims walked. (5) Sunniva as patron saint of Bergen — how does that manifest today?"
+  "nextSessionNotes": "Engagement 0.90 — stay on Selja/pilgrimage. The papar thread is rich. Threads to pull: (1) Kinn island — Sunniva's sister Borni, Dune's Caladan, the other sacred island. (2) The modern July 8 pilgrimage — who goes, what happens, the living tradition. (3) Dicuil's original text — Liber de mensura orbis terrae, what he actually wrote about the northern monks. (4) Listen to Trio Mediaeval's Sunniva hymn — the sonic experience after the historical deep-dive. (5) Meyer's research paper (Norwegian) on the Anglo-Saxon chapel. The thread is archaeological-historical now, and that's good."
 }
