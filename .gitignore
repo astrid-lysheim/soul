@@ -7,3 +7,6 @@ tools/f5-tts/uv.lock
 
 # Keep the study plan and text files
 !final_exams-retake/**/*.md
+kanban-pro/backend/node_modules/
+*.log
+*.err
