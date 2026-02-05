@@ -1,9 +1,0 @@
-# Entity Resolver Dependencies
-# For Apple Silicon (recommended - fastest):
-mlx-embedding-models>=0.1.0
-
-# Alternative for CPU/CUDA:
-# sentence-transformers>=2.2.0
-
-# Core dependencies
-numpy>=1.24.0

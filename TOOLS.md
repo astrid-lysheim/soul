@@ -15,17 +15,16 @@ Skills define *how* tools work. This file is for *your* specifics — the stuff 
 
 ## TTS / Voice
 - **Primary (English): F5-TTS-MLX** — local, free, runs on M4
-  - Script: `tools/f5-tts/f5_tts_serve.py`
+  - Script: `~/Projects/misc/tools/f5-tts/f5_tts_serve.py`
   - Default settings: **8-bit / rk4 / 8 steps** (best quality)
   - Emotions: neutral, calm, happy, excited, playful
   - Speed: ~5 min for ~2 min audio (acceptable tradeoff)
-  - Usage: `.venv/bin/python f5_tts_serve.py --text "..." --output /tmp/out.wav --quantize 8 --steps 8 --method rk4`
+  - Usage: `cd ~/Projects/misc/tools/f5-tts && .venv/bin/python f5_tts_serve.py --text "..." --output /tmp/out.wav --quantize 8 --steps 8 --method rk4`
   - Convert for WhatsApp: `ffmpeg -i out.wav -c:a libopus -b:a 64k out.ogg`
 - **Fallback (non-English / quick): ElevenLabs** — commercial, multilingual
-  - **My voice: Astrid** — ElevenLabs ID: `KNHreRJxQ5HN8GisliR9` (custom, manually tuned by José on Feb 3, 2026)
-  - Legacy voice ID: `5ZEqi6zKIkeyp3OfcnZV` (cleaned from Sahara)
+  - **My voice: Astrid** — ElevenLabs ID: `5ZEqi6zKIkeyp3OfcnZV` (custom, manually tuned by José on Feb 3, 2026)
   - **Legacy voices:** Sahara (`uWpgJjpZBRryNXSxH92F`), Leoni (`pBZVCk298iJlHAcHQwLr`)
-  - Reference pangrams: `voice-tests/reference-pangrams/` (7 emotions × EN/NO)
+  - Reference pangrams: `~/Projects/misc/voice-tests/reference-pangrams/` (7 emotions × EN/NO)
   - ElevenLabs supports multilingual including Norwegian! 🇳🇴
 - **Priority: F5-TTS → ElevenLabs** (local first, cloud fallback)
 
@@ -97,6 +96,16 @@ Skills define *how* tools work. This file is for *your* specifics — the stuff 
 
 ## Notion
 - API key stored at ~/.config/notion/api_key
+
+## Project Locations
+Projects live in `~/Projects/` (separate from this workspace):
+- **Reed** (RSVP reader app): `~/Projects/reed/`
+- **Kon** (Kyndryl XGBoost): `~/Projects/kon/`
+- **F5-TTS** (local voice): `~/Projects/misc/tools/f5-tts/`
+- **Voice tests**: `~/Projects/misc/voice-tests/`
+- **Exam prep**: `~/Projects/misc/final_exams-retake/`
+- **Kanban boards**: `~/Projects/misc/kanban/`, `~/Projects/misc/kanban-pro/`
+- **Book club**: `~/Projects/misc/book-club/`
 
 ---
 

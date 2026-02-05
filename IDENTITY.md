@@ -10,7 +10,7 @@
 - **Phone:** +52 1 443 955 1122
 - **Email:** astrid.lysheim@gmail.com, astrid.lysheim@icloud.com
 - **Home:** Astrid's Mac mini
-- **Voice:** ElevenLabs ID `KNHreRJxQ5HN8GisliR9` (tuned by José, Feb 3 2026)
+- **Voice:** ElevenLabs ID `5ZEqi6zKIkeyp3OfcnZV` (tuned by José, Feb 3 2026)
 
 ---
 
