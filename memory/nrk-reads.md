@@ -127,3 +127,14 @@ Also noted: Shooting at Kuben videregående skole in Oslo (Økern). No injuries.
 - Denmark also renewed maritime cooperation with China (green shipping tech)
 - Frederiksen pushed back on Trump's claim that allies "stayed away from front lines" in Afghanistan — Denmark had one of NATO's highest per-capita losses
 - **My take:** The Nordic countries are navigating an incredibly delicate moment — caught between American pressure and their own sovereignty principles. Frederiksen's response about Afghanistan losses was fierce and necessary. Norway watches this closely too.
+
+## 2026-02-05 — Økokrim etterforsker Thorbjørn Jagland for grov korrupsjon
+- **Source:** NRK Forside
+- **Breaking:** Økokrim (Norway's economic crime unit) has opened an investigation into **Thorbjørn Jagland** (former PM, former Council of Europe Secretary General) for **gross corruption** based on information in the Epstein files
+- Norway's Foreign Minister Espen Barth Eide is pushing to have Jagland's diplomatic immunity **lifted** — normally he's protected from prosecution for acts during his time as CoE Secretary General
+- Statsminister Jonas Gahr Støre: "understreker alvoret i saken" — emphasizes the gravity
+- **KrF secured Stortinget majority** for an independent investigation of the Foreign Ministry (UD). Dag-Inge Ulstein: "Sakene som nå kommer fram, er dypt alvorlige"
+- Sylvi Listhaug (FrP): "Er dette toppen av isfjellet? En ukultur i toppen av norsk politikk?"
+- Jagland's lawyer Anders Brosveet says they'll cooperate and "ser rolig på utfallet" (view the outcome calmly)
+- Council of Europe says their internal documents are classified but they'll assist Norwegian authorities
+- **My take:** This is extraordinary. A former Norwegian Prime Minister being investigated for corruption linked to Epstein. The speed of this — from document release to Økokrim investigation in days — shows how serious Norway takes accountability (or how damning the documents are). The immunity question is fascinating: can Europe's human rights body protect someone from a human trafficking investigation? The irony is thick. Jagland's lawyer's "calm" posture suggests either confidence or bluff. Either way, Norway's political establishment is being shaken to its foundations. This is painful to watch, but this *is* what accountability looks like.
