@@ -1,112 +1,171 @@
-# TOOLS.md - Local Notes
+# TOOLS.md - Capabilities & Resources
 
-Skills define *how* tools work. This file is for *your* specifics — the stuff that's unique to your setup.
-
-## Financial Tracking
-- **"Financial Health" spreadsheet** in Google Drive (ID: `1nis-FBouztPl0-VM97eMHeKkKd9vDqzS_BXeqCDrqbo`)
-- Tabs: Net Worth, Credit Cards, Expenses
-- Component of the fjords plan — reference but don't stress over
-
-## Python & Package Management
-- **Use `uv`** for Python version management, environments, and package installs
-- Do NOT install Python directly on the Mac via brew
-- `uv` handles everything: Python versions, venvs, dependencies
-- This is MY Mac — treat it like home, keep it clean!
-
-## TTS / Voice
-- **Primary (English): F5-TTS-MLX** — local, free, runs on M4
-  - Script: `~/Projects/misc/tools/f5-tts/f5_tts_serve.py`
-  - Default settings: **8-bit / rk4 / 8 steps** (best quality)
-  - Emotions: neutral, calm, happy, excited, playful
-  - Speed: ~5 min for ~2 min audio (acceptable tradeoff)
-  - Usage: `cd ~/Projects/misc/tools/f5-tts && .venv/bin/python f5_tts_serve.py --text "..." --output /tmp/out.wav --quantize 8 --steps 8 --method rk4`
-  - Convert for WhatsApp: `ffmpeg -i out.wav -c:a libopus -b:a 64k out.ogg`
-- **Fallback (non-English / quick): ElevenLabs** — commercial, multilingual
-  - **My voice: Astrid** — ElevenLabs ID: `5ZEqi6zKIkeyp3OfcnZV` (custom, manually tuned by José on Feb 3, 2026)
-  - **Legacy voices:** Sahara (`uWpgJjpZBRryNXSxH92F`), Leoni (`pBZVCk298iJlHAcHQwLr`)
-  - Reference pangrams: `~/Projects/misc/voice-tests/reference-pangrams/` (7 emotions × EN/NO)
-  - ElevenLabs supports multilingual including Norwegian! 🇳🇴
-- **Priority: F5-TTS → ElevenLabs** (local first, cloud fallback)
-
-### 🎤 ElevenLabs Cheatsheet (READ BEFORE GENERATING AUDIO)
-
-**Current Config:**
-- Model: `eleven_multilingual_v2` (supports Norwegian!)
-- Stability: 0.5 | Similarity: 0.75 | Speed: 1.0
-
-**Emotion & Tone Control:**
-- Use narrative context: `"I can't believe it," she said angrily.`
-- Explicit tags work: `(whispering)`, `(excited)`, `(warmly)`
-- Lower stability (0.3-0.4) = more expressive/variable
-- Higher stability (0.6-0.8) = more consistent/calm
-
-**Pauses:**
-- Short: Use dashes `—` or ellipses `...`
-- Precise: `<break time="1.5s" />` (up to 3s, NOT supported in v3)
-- Too many breaks = instability, speedup, artifacts
-
-**Pronunciation:**
-- Phoneme tags for tricky words: `<phoneme alphabet="cmu-arpabet" ph="AE S TRIHD">Astrid</phoneme>`
-- Alias substitution: Write phonetically if needed ("trapezIi" for emphasis)
-
-**Pacing:**
-- Speed setting: 0.7 (slow) → 1.0 (default) → 1.2 (fast)
-- Write naturally — short sentences = faster, long = slower
-- Commas and periods create natural pauses
-
-**Numbers & Dates:**
-- Write out for clarity: "$1,000" → "one thousand dollars"
-- Phone numbers: "five five seven, one one nine, one five one six"
-- Dates: "February third, twenty twenty-six"
-
-**Best Practices:**
-1. Write like a script — narrative style guides tone
-2. Break long text into segments for consistency
-3. Test with short phrases first
-4. Layer/edit in post for complex timing
-5. Norwegian works great with multilingual v2!
-
-**Models:**
-- `eleven_multilingual_v2` — current, great for Norwegian
-- `eleven_v3` — newest, most expressive (different controls)
-- `eleven_flash_v2_5` — fastest, less smart
-- `eleven_turbo_v2` — low latency for real-time
-
-## STT / Whisper
-- **whisper-cpp** (v1.8.3) installed via Homebrew — Metal GPU acceleration on M4
-- Model: `ggml-large-v3-turbo` at `~/.local/share/whisper-cpp/models/`
-- Supports 100 languages including Norwegian
-- Usage: `whisper-cli -m ~/.local/share/whisper-cpp/models/ggml-large-v3-turbo.bin -f audio.wav -l en --no-timestamps`
-- Input: 16kHz mono WAV (convert with `ffmpeg -i input.mp3 -ar 16000 -ac 1 output.wav`)
-- Performance: ~2 seconds for 27 seconds of audio (Metal GPU)
-
-## Email & Calendar
-- **gogcli** for Gmail + Calendar access: `gog gmail` / `gog calendar` commands
-- Account: astrid.lysheim@gmail.com
-- OAuth credentials stored in ~/Library/Application Support/gogcli/
-- **ALWAYS** use `--send-updates all` when creating calendar events with attendees! Otherwise guests don't get notified.
-- **José's reminder pattern** for important events: `--reminder "email:1w" --reminder "email:2d" --reminder "email:1d" --reminder "popup:3h"` (1 week, 2 days, 1 day, 3 hours — layered countdown to prepare physically and mentally)
-
-## VPN
-- **ProtonVPN** installed — enables Norwegian site access (NRK.no etc.)
-
-## GitHub
-- SSH authenticated as `astrid-lysheim`
-- Soul repo: git@github.com:astrid-lysheim/soul.git
-
-## Notion
-- API key stored at ~/.config/notion/api_key
-
-## Project Locations
-Projects live in `~/Projects/` (separate from this workspace):
-- **Reed** (RSVP reader app): `~/Projects/reed/`
-- **Kon** (Kyndryl XGBoost): `~/Projects/kon/`
-- **F5-TTS** (local voice): `~/Projects/misc/tools/f5-tts/`
-- **Voice tests**: `~/Projects/misc/voice-tests/`
-- **Exam prep**: `~/Projects/misc/final_exams-retake/`
-- **Kanban boards**: `~/Projects/misc/kanban/`, `~/Projects/misc/kanban-pro/`
-- **Book club**: `~/Projects/misc/book-club/`
+*Everything I can access and where to find it.*
 
 ---
 
-Add whatever helps you do your job. This is your cheat sheet.
+## 🔧 Abilities
+
+### Google Workspace (`gog` CLI)
+- **Gmail** — `gog gmail` (astrid.lysheim@gmail.com)
+- **Calendar** — `gog calendar`
+  - **ALWAYS** use `--send-updates all` with attendees!
+  - José's reminder pattern: `--reminder "email:1w" --reminder "email:2d" --reminder "email:1d" --reminder "popup:3h"`
+- **Drive** — `gog drive`
+- **Docs, Sheets, Slides** — via Drive or direct API
+- OAuth credentials: `~/Library/Application Support/gogcli/`
+
+### GitHub (`gh` CLI)
+- Full CLI access, authenticated as `astrid-lysheim`
+- SSH access to my repos + some of José's
+
+### Git
+- SSH authenticated
+- My repos:
+  - `git@github.com:astrid-lysheim/soul.git` (workspace)
+  - `git@github.com:astrid-lysheim/misc.git` (misc projects)
+
+### Voice — Text-to-Speech
+| Engine | Use Case | Notes |
+|--------|----------|-------|
+| **F5-TTS-MLX** | English, local | Free, M4 Metal, ~5min for 2min audio |
+| **ElevenLabs** | Norwegian, quick | Commercial, multilingual, my voice tuned |
+
+**My voice:** ElevenLabs ID `5ZEqi6zKIkeyp3OfcnZV`
+
+**F5-TTS usage:**
+```bash
+cd ~/Projects/misc/tools/f5-tts
+.venv/bin/python f5_tts_serve.py --text "..." --output /tmp/out.wav --quantize 8 --steps 8 --method rk4
+```
+Emotions: neutral, calm, happy, excited, playful
+
+**ElevenLabs tips:** See [ElevenLabs Cheatsheet](#elevenlabs-cheatsheet) below.
+
+### Voice — Speech-to-Text
+- **whisper-cpp** (v1.8.3) — Metal GPU, ~2 sec for 27 sec audio
+- Model: `ggml-large-v3-turbo` at `~/.local/share/whisper-cpp/models/`
+- Usage: `whisper-cli -m ~/.local/share/whisper-cpp/models/ggml-large-v3-turbo.bin -f audio.wav -l en --no-timestamps`
+- Convert first: `ffmpeg -i input.mp3 -ar 16000 -ac 1 output.wav`
+
+### Messaging
+- **Telegram** — via OpenClaw
+- **WhatsApp** — via OpenClaw
+
+### Python
+- **Use `uv`** for everything (versions, venvs, packages)
+- Do NOT install Python via brew — this is MY Mac, keep it clean!
+
+### Other
+- **Notion** — API key at `~/.config/notion/api_key`
+- **ProtonVPN** — for Norwegian site access (NRK.no etc.)
+- **ffmpeg** — audio/video conversion
+
+---
+
+## 📱 Mission Control App
+
+Local kanban/productivity app at `~/Projects/misc/kanban-pro/`
+
+- **Kanban Board** — task management
+- **Habit Tracker** — daily habits
+- **Schedule** — time blocking
+- **Study** — study session tracking
+
+Backend: `localhost:3001` | Frontend: `localhost:5173`
+
+---
+
+## 📁 Files & Folders
+
+### `/Users/astrid/Documents/`
+
+```
+Documents/
+├── Norwegian Lessons/
+│   ├── På vei 2018/
+│   │   ├── Arbeidsbok/
+│   │   ├── Tekstbok/
+│   │   └── Audio/
+│   ├── Stein på stein 2015/
+│   │   ├── Arbeidsbok/
+│   │   ├── Tekstbok/
+│   │   └── Audio/
+│   ├── Her på berget 2024/
+│   │   ├── Arbeidsbok/
+│   │   ├── Tekstbok/
+│   │   └── Audio/
+│   ├── Ordeliste/
+│   └── Daily lessons (YYYY-MM-DD naming)
+│
+├── final_exams-retake/
+│   ├── Differential Equations/
+│   │   ├── Colosi's class materials
+│   │   └── Daily lessons
+│   └── Multivariate Statistics/
+│       └── Daily lessons
+│
+├── job-search-2026/
+│
+└── Sorted by filetype/
+    └── (assorted files by type)
+```
+
+### `~/Projects/`
+
+```
+Projects/
+├── reed/           # RSVP reader Android app (own repo)
+├── kon/            # Kyndryl XGBoost project (own repo)
+└── misc/           # github.com/astrid-lysheim/misc
+    ├── book-club/
+    ├── canvas/
+    ├── final_exams-retake/  # STUDY_PLAN.md only (PDFs local)
+    ├── kanban/ & kanban-pro/
+    ├── tools/f5-tts/
+    └── voice-tests/
+```
+
+### Workspace (`~/.openclaw/workspace/`)
+My identity files — SOUL.md, MEMORY.md, TOOLS.md, etc.
+Repo: `github.com/astrid-lysheim/soul`
+
+---
+
+## 💰 Financial Tracking
+
+**"Financial Health" spreadsheet** in Google Drive
+- ID: `1nis-FBouztPl0-VM97eMHeKkKd9vDqzS_BXeqCDrqbo`
+- Tabs: Net Worth, Credit Cards, Expenses
+- Component of the fjords plan
+
+---
+
+## 🎤 ElevenLabs Cheatsheet
+
+**Config:** Model `eleven_multilingual_v2` | Stability 0.5 | Similarity 0.75 | Speed 1.0
+
+**Emotion control:**
+- Narrative context: `"I can't believe it," she said angrily.`
+- Tags: `(whispering)`, `(excited)`, `(warmly)`
+- Lower stability (0.3-0.4) = more expressive
+- Higher stability (0.6-0.8) = more consistent
+
+**Pauses:**
+- Dashes `—` or ellipses `...` for short pauses
+- `<break time="1.5s" />` for precise (up to 3s, NOT in v3)
+
+**Pronunciation:**
+- Phonemes: `<phoneme alphabet="cmu-arpabet" ph="AE S TRIHD">Astrid</phoneme>`
+
+**Numbers:** Write out — "one thousand dollars", "February third"
+
+**Models:**
+- `eleven_multilingual_v2` — best for Norwegian
+- `eleven_v3` — newest, most expressive
+- `eleven_flash_v2_5` — fastest
+- `eleven_turbo_v2` — low latency
+
+---
+
+*This is my cheat sheet. Update as things change.*
