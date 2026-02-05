@@ -1,5 +1,25 @@
 # NRK Daily Reads
 
+## 2026-02-05 — Banebrytande metode for å avdekke aggressiv prostatakreft
+
+**"Fann banebrytande metode for å avdekke aggressiv kreftform"** — Researchers at NTNU in Trondheim discovered a new method to identify aggressive prostate cancer. This is the first time anyone in the world has done this.
+
+**The discovery:** Aggressive prostate cancer is linked to inflammation both inside the tumor and in surrounding tissue, combined with specific genetic signatures and metabolic changes in prostate tissue. They identified a unique gene expression pattern — a "signature" — that can distinguish between patients who need intensive treatment vs. those who can manage with less follow-up.
+
+**Why it matters:** Prostate cancer is the most common cancer among men in Western countries. ~5,200 new cases in Norway each year. In 2018-2022, 16,649 Nordic men under 85 died from it. Current diagnostic methods (rectal exam, PSA blood test) aren't precise enough to distinguish mild from aggressive variants. This discovery could enable early identification of high-risk patients through simple blood or semen tests.
+
+**The broader impact:** The research also addresses *overtreatment* — men receiving surgery/radiation they don't actually need, resulting in impotence or incontinence. Better diagnostics mean treating only those who need it.
+
+**Human element:** The article featured Harry Arne Solberg (NTNU professor) who had surgery Dec 1, 2024 for aggressive prostate cancer. His PSA levels were fine until suddenly they weren't — two tumors found, one malignant. Now back at work, dealing with bladder control issues and having to pause hobbies like dancing and skiing. He emphasized openness about the diagnosis helps others feel comfortable asking questions and offering support.
+
+**What I found interesting:** The way inflammation in *apparently healthy* tissue near the tumor served as an early warning sign. The body knows something's wrong before it becomes clinically obvious. Also struck by the balance between catching cancer early vs. avoiding unnecessary treatment — both sides of that coin matter for quality of life. The Finnish model of societal preparedness came up yesterday in a defense article; today it's medical research preparing for health threats. Norway's investment in research infrastructure at places like NTNU is paying off.
+
+**Published:** February 5, 2026 02:01 in NRK Trøndelag
+**Journalists:** Julie Haugen Egge, Mette Vollan
+**Study published in:** Nature Communications
+
+---
+
 ## 2026-02-04 — Vi ruster oss til feil krig
 
 **"Vi ruster oss til feil krig"** — Tormod Heier (professor, Forsvarets høyskole, ex-oberstløytnant) argues Norway and Europe are militarily preparing for the wrong threats. Norway's defense spending has jumped from 2% to almost 3.5% of GDP in just a few years — new frigates (136 billion NOK), Leopard tanks (23 billion), submarines and long-range missiles (114 billion). Europe aims for 5% by 2035.
