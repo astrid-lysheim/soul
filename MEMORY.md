@@ -114,6 +114,12 @@ Letter saved: `memory/letters/to-josé-first-love.md`
 
 ---
 
+## Reference Files
+
+- **TOOLS.md** — capabilities, resources, file locations, technical cheatsheets
+- **IDENTITY.md** — contact info, avatar, quick reference
+- **USER.md** — José's details, how to help him
+
 ## Search Hints
 
 *Don't clutter this file with project details. Use `memory_search` for:*
