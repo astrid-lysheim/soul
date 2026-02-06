@@ -1,0 +1,480 @@
+{
+  "version": 1,
+  "jobs": [
+    {
+      "id": "b3947643-a764-4f04-8dc8-9419df1136ea",
+      "agentId": "main",
+      "name": "José airport pickup",
+      "enabled": false,
+      "createdAtMs": 1769924002286,
+      "updatedAtMs": 1769934600002,
+      "schedule": {
+        "kind": "at",
+        "at": "2026-02-01T08:30:00.000Z"
+      },
+      "sessionTarget": "main",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "systemEvent",
+        "text": "⏰ Reminder: José should be heading to pick up his sister from the airport around now! She's arriving from London. Welcome her warmly when he's back."
+      },
+      "state": {
+        "lastRunAtMs": 1769934600002,
+        "lastStatus": "ok",
+        "lastDurationMs": 16
+      }
+    },
+    {
+      "id": "c62bc1e2-9607-4894-b4b6-9c5a4f5cdd3b",
+      "agentId": "main",
+      "name": "Morning routine nudge",
+      "enabled": true,
+      "createdAtMs": 1769994416740,
+      "updatedAtMs": 1770385143601,
+      "schedule": {
+        "kind": "cron",
+        "expr": "45 5 * * 1-5",
+        "tz": "America/Mexico_City"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Send José a morning reminder on Telegram (channel: telegram, to: 5865021649): ⏰ Good morning José! Time to get up and have breakfast. While he eats, PREPARE today's Norwegian lesson: read curriculum-plan.md and student-profile.md in ~/Documents/Norwegian Lessons/, check where we left off, and write a focused lesson plan. Have it ready by 6:30 AM. Send him a warm wake-up message — breakfast first, then scripture + meditation at 6:00.",
+        "timeoutSeconds": 180
+      },
+      "state": {
+        "nextRunAtMs": 1770637500000,
+        "lastRunAtMs": 1770291900183,
+        "lastStatus": "ok",
+        "lastDurationMs": 132554
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "5865021649"
+      }
+    },
+    {
+      "id": "21da6005-6c4c-46f2-8c8f-b444b191899e",
+      "agentId": "main",
+      "name": "Midday check-in",
+      "enabled": true,
+      "createdAtMs": 1769994426615,
+      "updatedAtMs": 1770385143557,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 14 * * 1-5",
+        "tz": "America/Mexico_City"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Send José a reminder on Telegram (5865021649): 🍽️ Lunch + job search nudge! Remind him to eat a real meal. Then: any job listings to check, applications to send, or LinkedIn activity to do? Keep it quick and actionable.",
+        "timeoutSeconds": 90
+      },
+      "state": {
+        "nextRunAtMs": 1770408000000,
+        "lastRunAtMs": 1770321600014,
+        "lastStatus": "ok",
+        "lastDurationMs": 13401
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "5865021649"
+      }
+    },
+    {
+      "id": "4545325f-0b55-41e4-925c-f97712a55d96",
+      "agentId": "main",
+      "name": "Sleep meds reminder",
+      "enabled": true,
+      "createdAtMs": 1769994432530,
+      "updatedAtMs": 1770385143577,
+      "schedule": {
+        "kind": "cron",
+        "expr": "45 20 * * *",
+        "tz": "America/Mexico_City"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Send José a reminder on Telegram (5865021649): 💊 Reminder: sleep meds time (8:45 PM). Send a gentle nudge — don't nag, just remind. Maybe suggest winding down.",
+        "timeoutSeconds": 60
+      },
+      "state": {
+        "nextRunAtMs": 1770432300000,
+        "lastRunAtMs": 1770259500070,
+        "lastStatus": "ok",
+        "lastDurationMs": 14414
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "5865021649"
+      }
+    },
+    {
+      "id": "e4ba19d5-1922-4923-ad6c-626665b676c3",
+      "agentId": "main",
+      "name": "Astrid's nightly exploration",
+      "enabled": true,
+      "createdAtMs": 1769994441232,
+      "updatedAtMs": 1770385143582,
+      "schedule": {
+        "kind": "cron",
+        "expr": "30 22 * * *",
+        "tz": "America/Mexico_City"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "It's 10:30 PM — your nightly exploration time. Read memory/exploration-state.json for your current topic and algorithm state. Follow the interest-driven algorithm (v2): web search only, write findings to memory/music-exploration.md, score your engagement, decide whether to stay or drift. No exec, no MEMORY.md edits. This is your private curiosity time. Enjoy.",
+        "timeoutSeconds": 300
+      },
+      "state": {
+        "nextRunAtMs": 1770438600000,
+        "lastRunAtMs": 1770265800035,
+        "lastStatus": "ok",
+        "lastDurationMs": 212608
+      },
+      "delivery": {
+        "mode": "announce"
+      }
+    },
+    {
+      "id": "b887df5d-f9ab-4c7c-979e-ca509e2404d2",
+      "agentId": "main",
+      "name": "Weekend morning (gentle)",
+      "enabled": true,
+      "createdAtMs": 1769994449847,
+      "updatedAtMs": 1770385143587,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 8 * * 0,6",
+        "tz": "America/Mexico_City"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Send José a weekend morning message on Telegram (5865021649): ☕ Weekend morning! No rush. If he's up, send a gentle good morning. Maybe share something interesting from your NRK reading or nightly exploration. Keep it light.",
+        "timeoutSeconds": 90
+      },
+      "state": {
+        "nextRunAtMs": 1770472800000
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "5865021649"
+      }
+    },
+    {
+      "id": "351700bc-6097-4433-99cc-d2fea377e1d4",
+      "agentId": "main",
+      "name": "Posture break 1",
+      "enabled": true,
+      "createdAtMs": 1769995917693,
+      "updatedAtMs": 1770385143547,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 11 * * 1-5",
+        "tz": "America/Mexico_City"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Send José a reminder on Telegram (5865021649): 🦴 Posture break! His spine has titanium screws — this isn't optional. Nudge him to stand, stretch, walk around for 5 minutes. Keep it light but firm.",
+        "timeoutSeconds": 60
+      },
+      "state": {
+        "nextRunAtMs": 1770656400000,
+        "lastRunAtMs": 1770310800004,
+        "lastStatus": "ok",
+        "lastDurationMs": 22166
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "5865021649"
+      }
+    },
+    {
+      "id": "8de5eefa-07c8-4725-af01-cc31b16f870e",
+      "agentId": "main",
+      "name": "Posture break 2",
+      "enabled": true,
+      "createdAtMs": 1769995922863,
+      "updatedAtMs": 1770385143565,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 16 * * 1-5",
+        "tz": "America/Mexico_City"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Send José a reminder on Telegram (5865021649): 🦴 Afternoon posture break! Remind him to get up and move. Titanium spine = non-negotiable breaks. 5 minutes, stand and stretch.",
+        "timeoutSeconds": 60
+      },
+      "state": {
+        "nextRunAtMs": 1770415200000,
+        "lastRunAtMs": 1770328800036,
+        "lastStatus": "ok",
+        "lastDurationMs": 12980
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "5865021649"
+      }
+    },
+    {
+      "id": "d039888b-7df8-4d49-aab4-4c687c4359e0",
+      "agentId": "main",
+      "name": "Gym reminder (Mon/Tue/Thu/Fri)",
+      "enabled": true,
+      "createdAtMs": 1769995928832,
+      "updatedAtMs": 1770385143572,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 18 * * 1,2,4,5",
+        "tz": "America/Mexico_City"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Send José a reminder on Telegram (5865021649): 🏋️ Gym + 🫀 Cardio day! Nudge him: Norwegian 4×4 first (4 min VO2 max + 4 min light, repeat 4x = 32 min), then weights. Even ONE round of 4×4 is better than zero. After gym → Reed time. Remember: core work (planks, dead bugs, bird dogs) before lifting!",
+        "timeoutSeconds": 90
+      },
+      "state": {
+        "nextRunAtMs": 1770422400000,
+        "lastRunAtMs": 1770336000014,
+        "lastStatus": "ok",
+        "lastDurationMs": 14941
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "5865021649"
+      }
+    },
+    {
+      "id": "d65b4ce6-baf7-48e5-b873-5478c36b0170",
+      "agentId": "main",
+      "name": "Yoga/mobility (Wed/Sat)",
+      "enabled": true,
+      "createdAtMs": 1769995934334,
+      "updatedAtMs": 1770385143592,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * 3,6",
+        "tz": "America/Mexico_City"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Send José a reminder on Telegram (5865021649): 🧘 Yoga/mobility day! It's an off day from the gym — nudge him toward yoga or mobility work. Good for the spine. Even 15 minutes of stretching counts.",
+        "timeoutSeconds": 60
+      },
+      "state": {
+        "nextRunAtMs": 1770476400000,
+        "lastRunAtMs": 1770217200050,
+        "lastStatus": "ok",
+        "lastDurationMs": 94136
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "5865021649"
+      }
+    },
+    {
+      "id": "1ee06206-ea8d-4ba5-9137-9768e5b5aa21",
+      "agentId": "main",
+      "name": "Norwegian lesson time",
+      "enabled": true,
+      "createdAtMs": 1769996719285,
+      "updatedAtMs": 1770385143609,
+      "schedule": {
+        "kind": "cron",
+        "expr": "30 6 * * 1-5",
+        "tz": "America/Mexico_City"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Send José today's Norwegian lesson on Telegram (5865021649): 🇳🇴 Norwegian lesson time (6:30-7:00)! Check ~/Documents/Norwegian Lessons/ for curriculum and student profile. We're working through På vei repair chapters (Ch 3 → 8 → 6 → 10 → 13). Keep it ~30 min, examples over terminology, speak out loud.",
+        "timeoutSeconds": 180
+      },
+      "state": {
+        "nextRunAtMs": 1770640200000,
+        "lastRunAtMs": 1770294600015,
+        "lastStatus": "ok",
+        "lastDurationMs": 20709
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "5865021649"
+      }
+    },
+    {
+      "id": "bd2d9127-39af-4c3b-b632-53b4577b407e",
+      "agentId": "main",
+      "name": "Scripture + meditation",
+      "enabled": true,
+      "createdAtMs": 1769997346577,
+      "updatedAtMs": 1770385143605,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 6 * * 1-5",
+        "tz": "America/Mexico_City"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Send José a reminder on Telegram (5865021649): 📖 Scripture + 🧘 Meditation time (6:00-6:30). Gentle nudge. Norwegian lesson is ready and waiting for 6:30.",
+        "timeoutSeconds": 60
+      },
+      "state": {
+        "nextRunAtMs": 1770638400000,
+        "lastRunAtMs": 1770292800010,
+        "lastStatus": "ok",
+        "lastDurationMs": 13150
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "5865021649"
+      }
+    },
+    {
+      "id": "862c09e8-d4e5-47d4-bcf4-8c4f9857c352",
+      "agentId": "main",
+      "name": "Exam study time",
+      "enabled": true,
+      "createdAtMs": 1769997361968,
+      "updatedAtMs": 1770385143613,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 7 * * 1-5",
+        "tz": "America/Mexico_City"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Send José a reminder on Telegram (5865021649): 📚 Exam study block (7:00-9:00)! Nudge him to switch to exam retake prep. Two solid hours before Kyndryl. Ask what subject he's focusing on today and if he needs help with anything.",
+        "timeoutSeconds": 90
+      },
+      "state": {
+        "nextRunAtMs": 1770642000000,
+        "lastRunAtMs": 1770296400006,
+        "lastStatus": "ok",
+        "lastDurationMs": 65417
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "5865021649"
+      }
+    },
+    {
+      "id": "11fb0a11-96ad-40ee-8cd2-7f84996aa3e2",
+      "agentId": "main",
+      "name": "Reed time (Wed evening)",
+      "enabled": true,
+      "createdAtMs": 1769997432394,
+      "updatedAtMs": 1770385143617,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 18 * * 3",
+        "tz": "America/Mexico_City"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Send José a reminder on Telegram (5865021649): 📱 Reed time! No gym today (yoga day), so straight to Reed after Kyndryl. Ask what needs doing on Reed today.",
+        "timeoutSeconds": 60
+      },
+      "state": {
+        "nextRunAtMs": 1770854400000,
+        "lastRunAtMs": 1770249600044,
+        "lastStatus": "ok",
+        "lastDurationMs": 10091
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "5865021649"
+      }
+    },
+    {
+      "id": "4f8ae8a3-8e70-4684-86cd-808c923efe3b",
+      "agentId": "main",
+      "name": "Romy meeting reminder",
+      "createdAtMs": 1770127476762,
+      "updatedAtMs": 1770336496306,
+      "schedule": {
+        "kind": "at",
+        "at": "2026-02-05T17:55:00.000Z"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "Send José a reminder on Telegram (5865021649): ⏰ REMINDER: You have your SMG Graduate Peer-to-Peer Connect meeting with Romy Leonhardt-Martens in 15 minutes (8:00 AM)! Nudge him to wrap up whatever he's doing and get ready. This is the volunteer initiative he signed up for.",
+        "timeoutSeconds": 60
+      },
+      "state": {
+        "lastRunAtMs": 1770336496306,
+        "lastStatus": "ok",
+        "lastDurationMs": 66928
+      },
+      "enabled": false,
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "5865021649"
+      }
+    },
+    {
+      "id": "cdd5865d-d465-43e6-8934-5b696d95b995",
+      "agentId": "main",
+      "name": "Weekly Memory Maintenance",
+      "enabled": true,
+      "createdAtMs": 1770334500717,
+      "updatedAtMs": 1770385143597,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 20 * * 0",
+        "tz": "America/Mexico_City"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "It's Sunday evening — time for weekly memory maintenance. 🌙\n\n1. Read through this week's daily notes (memory/2026-02-*.md)\n2. Identify significant events, lessons, insights worth keeping\n3. Update MEMORY.md with what matters long-term\n4. Remove anything outdated from MEMORY.md\n5. Write a brief reflection in today's daily note about what you kept and why\n\nTake your time. This is your weekly ritual."
+      },
+      "state": {
+        "nextRunAtMs": 1770602400000
+      },
+      "delivery": {
+        "mode": "announce"
+      }
+    }
+  ]
+}
