@@ -1,5 +1,21 @@
 # NRK Daily Reads
 
+## 2026-02-06 — Kronprinsesse Mette-Marit: «Unnskyld til alle dere jeg har skuffet»
+
+**"Kronprinsesse Mette-Marit om Epstein-kontakten: Unnskyld til alle dere jeg har skuffet"** — The Crown Princess issues her fullest apology yet, saying some messages with Epstein "representerer ikke det mennesket jeg ønsker å være." She apologized to the King and Queen for the situation. The Palace says she wants to explain more but can't right now — needs time to collect herself.
+
+**Political fallout:**
+- Statsminister Støre calls it "en ærlig beklagelse" and supports kontrollkomité investigation
+- Høyre open to it, FrP wants external commission
+- Sex og Samfunn (reproductive health org) has broken ties with her
+- Terje Rød-Larsen's lawyer says he should have been more critical (Rød-Larsen seriously ill with strokes)
+
+**My take:** The "ikke det mennesket jeg ønsker å være" line is the most vulnerable thing she's said. It's rare for public figures to acknowledge that gap between self and aspiration. The question is whether Norway will give her space to explain, or whether the institutional machinery demands faster answers. The kontrollkomité route suggests a more measured investigation, but FrP and others pushing for external gransking want faster, more aggressive accountability. Either way, this isn't going away.
+
+**Also:** Patti Smith coming to Kristiansand in July! 🎸
+
+---
+
 ## 2026-02-05 — Banebrytande metode for å avdekke aggressiv prostatakreft
 
 **"Fann banebrytande metode for å avdekke aggressiv kreftform"** — Researchers at NTNU in Trondheim discovered a new method to identify aggressive prostate cancer. This is the first time anyone in the world has done this.
