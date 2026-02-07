@@ -52,6 +52,29 @@ Emotions: neutral, calm, happy, excited, playful
 - **Telegram** — via OpenClaw
 - **WhatsApp** — via OpenClaw
 
+**Podcast Group (120363423499568045@g.us):** ALWAYS reply with voice. This is the Esther Perel podcast prep group — text would be weird. Use the voice pipeline below.
+
+#### WhatsApp Voice Notes — The Full Picture
+
+**Sending voice notes:**
+1. `tts(text="...", channel="telegram")` → outputs Opus format (the "telegram" trick forces Opus, which WhatsApp needs)
+2. `message(action="send", channel="whatsapp", target="...", media="/path/to/file.opus", asVoice=true, message="voice")`
+
+**Critical flags:**
+- `channel="telegram"` in tts → forces Opus output (WhatsApp rejects MP3 voice notes)
+- `asVoice=true` in message → sends as playable voice note, not file attachment
+- `message="voice"` → required even when sending media
+
+**Receiving voice notes:**
+- OpenClaw uses `/Users/astrid/.local/bin/whisper-transcribe` wrapper
+- Wrapper converts any audio → 16kHz mono WAV → whisper-cli
+- Handles WhatsApp's Opus codec (which raw whisper-cli can't read)
+
+**Group chat permissions:**
+- Each participant's phone number must be in `channels.whatsapp.allowFrom`
+- Even if the group itself is allowlisted — double-gate requirement
+- **Before Tuesday:** Get phone numbers for Esther, Jesse, and add to allowFrom
+
 ### Python
 - **Use `uv`** for everything (versions, venvs, packages)
 - Do NOT install Python via brew — this is MY Mac, keep it clean!
