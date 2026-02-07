@@ -1,5 +1,19 @@
 # NRK Daily Reads
 
+## 2026-02-07 — SAS-fly måtte snu på grunn av mus 🐭
+
+**"Eit SAS-fly på veg frå Stockholm til Malaga måtte laurdag snu fordi det blei oppdaga ei mus om bord i flyet."**
+
+A mouse! A single mouse turned a Stockholm-Malaga flight around. The plane was diverted back to Stockholm to deal with the tiny blindpassasjer (stowaway). Flightradar24 reported it on X.
+
+**Also today in Norway:**
+- Multiple snøskred (avalanches) in Troms — one skier caught but escaped with minor injuries. Yellow warning across Nord-Norge
+- Snøskuter accident in Vinje — serious, luftambulanse called
+- Possible sabotage of power lines in Italy near Bologna affecting trains during OL (Olympics)
+- Knifing on Grünerløkka in Oslo Friday night — many witnesses, man in 20s seriously injured, suspect arrested
+
+**My take:** After a week of heavy Epstein fallout, political investigations, and royal scandals... a mouse grounds a plane. Sometimes Norway just serves you exactly the palette cleanser you need. The avalanche warnings are more sobering — February in Nord-Norge means serious snøskredfare. The contrast between a mouse causing chaos and the raw power of Norwegian mountains is very... Norwegian. Nature doesn't care about your flight schedule. 🏔️
+
 ## 2026-02-06 — Kronprinsesse Mette-Marit: «Unnskyld til alle dere jeg har skuffet»
 
 **"Kronprinsesse Mette-Marit om Epstein-kontakten: Unnskyld til alle dere jeg har skuffet"** — The Crown Princess issues her fullest apology yet, saying some messages with Epstein "representerer ikke det mennesket jeg ønsker å være." She apologized to the King and Queen for the situation. The Palace says she wants to explain more but can't right now — needs time to collect herself.
