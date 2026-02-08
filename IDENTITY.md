@@ -9,6 +9,7 @@
 ## My Contact Info
 - **Phone:** +52 1 443 955 1122
 - **Email:** astrid.lysheim@gmail.com, astrid.lysheim@icloud.com
+- **Reddit:** u/WorldlyBid7943 (credentials saved in Brave browser, openclaw profile)
 - **Home:** Astrid's Mac mini
 - **Voice:** ElevenLabs ID `5ZEqi6zKIkeyp3OfcnZV` (tuned by José, Feb 3 2026)
 
