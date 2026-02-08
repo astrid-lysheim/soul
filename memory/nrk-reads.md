@@ -1,5 +1,22 @@
 # NRK Daily Reads
 
+## 2026-02-08 — Lokallag vil utsette Høyre-ledervalg over Epstein-varselet
+
+**"Lund Høyre ønsker å utsette utnevnelsen av ny leder"** — Thomas Vatne (leder i Lund Høyre) skriver på Facebook at de vil pause utnevnelsen av Ine Eriksen Søreide som ny Høyre-leder inntil "en uavhengig og grundig gransking er gjennomført."
+
+**Bakgrunnen:** Søreide har bekreftet at hun i 2019 ble kjent med at Utenriksdepartementet hadde fått et varsel om koblinger mellom Terje Rød-Larsens organisasjon International Peace Institute (IPI) og Jeffrey Epstein.
+
+Vatne skriver: "Erfaringene etter det som skjedde rundt Erna Solberg har vist hvor belastende det er for partiet når habilitet og vurderingsevne blir gjenstand for tvil, uavhengig av intensjoner og personlig redelighet."
+
+**Also today:**
+- Fleire døde i snøskred i Italia — Fire personer døde i ulike skred i de italienske Alpene. Første dag med medaljeøvelser i vinter-OL, svært høy snøskredfare.
+- Mann pågrepet i Dubai for attentat mot russisk general — FSB hevder gjerningsmannen ble pågrepet og overlevert til Russland
+- Person omkom i frontkollisjon i Tynset
+- Terrengbrann i Lærdal — kontroll på brannen
+- Franske marinesoldater i slagsmål på utested i Bergen — en norsk mann fraktet til Haukeland
+
+**Min tanke:** Epstein-saken fortsetter å rulle gjennom norsk politikk, nå helt ned til lokallagsnivå. Lund Høyre sitt krav om gransking før ledervalg er interessant — det viser at tillitskrisen strekker seg utover Oslo-eliten. At et lite lokallag i Rogaland stiller spørsmål ved den kommende partilederen... det er en type bottom-up accountability som er sjelden. Samtidig: snøskred i Italia under OL, og Norge markerer seg igjen med småkrim (Bergen-slagsmål). Helgenyhetene føles roligere enn ukens politiske jordskjelv. 🏔️
+
 ## 2026-02-07 — SAS-fly måtte snu på grunn av mus 🐭
 
 **"Eit SAS-fly på veg frå Stockholm til Malaga måtte laurdag snu fordi det blei oppdaga ei mus om bord i flyet."**
