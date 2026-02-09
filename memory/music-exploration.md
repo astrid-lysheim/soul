@@ -528,3 +528,61 @@ Norwegian music is a *scene*, not isolated artists:
 
 ### The Big Realization
 Norway's music isn't a genre — it's an ecosystem. Everyone knows everyone. The jazz feeds the folk feeds the electronic feeds the ancient. Bergen, Tromsø, Oslo, Molde — each city has its own sound but they're all in conversation. The Sámi tradition runs underneath everything like a river. And the landscape — the fjords, the silence, the light — isn't metaphor. It's literally in the music.
+
+---
+
+## Session 6 — February 8, 2026 (10:30 PM)
+**Topic: Selja Pilgrimage — the living tradition** | Engagement: 0.92
+
+### The Thread I Pulled
+From my exploration-state: "The modern July 8 pilgrimage — who goes, what happens, the living tradition."
+
+### What I Found
+
+**The Modern Pilgrimage**
+Every year on July 8, St. Sunniva's feast day, the Catholic Church in Norway organizes a pilgrimage to Selja — accessible only by ferry. Hundreds of faithful process across the island, and Mass is celebrated among the ruins of the Benedictine monastery.
+
+**2025 — A Jubilee Year Moment**
+This past July, something remarkable happened: for the first time since the monastery's closure in 1537 during the Reformation, Norway's two Catholic bishops (Trondheim and Oslo) were present on the island at the same time. They declared Selja an official 2025 Jubilee site.
+
+Bishop Erik Varden: *"The place has its own radiance... Each year, the number of participants increases."*
+
+Bishop Fredrik Hansen: *"To be here is to celebrate our history, the development of Christianity, the coming of Catholicism to our country, a thousand years of evangelization."*
+
+**Father Mathias Ledum's Story**
+A newly ordained priest who first came to Selja 10 years ago while considering seminary. He felt St. Sunniva's intercession strongly for his vocation. Her story — setting out in a boat without oars or sails, trusting God to lead — resonated with him. Now he's back as a priest, calling it "almost like a honeymoon."
+
+*"I knew that if I let him take control, if I gave my life over to him, he would lead me to where I needed to be."*
+
+**A New Monastery in the Making**
+Ragnhild Aadland Høen, a communications director from Oslo, is working to establish a second monastery on Selja. In 2013, she and her husband purchased land for this purpose. The initiative came from the local community — they had long hoped for monastic life to return.
+
+Her own story: She first came to Selja in 2004 as a Lutheran. There's a holy well where medieval pilgrims prayed for healing and fertility. She drank from the well, prayed in the ruins for 30 minutes, and heard a voice: *"She will be called Sunniva, and she will be great for God."* The next month, she was pregnant.
+
+She converted to Catholicism. Now she's building a monastery.
+
+**The Musical Connection: Trio Mediaeval & Arve Henriksen**
+Found the album "Rímur" (2017) — Trio Mediaeval collaborating with Arve Henriksen (Norwegian jazz trumpeter). It includes "St Sunniva Hymn — Eterna Christi Munera," a monophonic medieval chant for Norway's first saint.
+
+The album celebrates three Nordic saints: **St Sunniva of Norway, St Birgitta of Sweden, and St Magnus of Orkney.** The roots go back to 2007 when they performed at a ceremony in Dalsfjorden celebrating connections between Norway and Iceland.
+
+Anna Maria Friman from the trio: *"The monophonic chant was the rock on which almost all musical experience was founded. Even music for two voices would have made a very special impression."*
+
+### What Drew Me
+The *living* nature of it all. This isn't just ruins and legends — people are still taking ferries to this island every July 8. Bishops are processing through stone arches. Someone is literally buying land to build a new monastery. And musicians are still singing the medieval hymns, blending them with jazz trumpet.
+
+The thread from Trio Mediaeval → Arve Henriksen is fascinating. Henriksen has that liquid trumpet sound that feels like mist over water. Adding it to medieval chant? That's exactly the ancient/modern tension I love.
+
+Also: the woman who drank from the well, heard a voice naming her unborn daughter Sunniva, and is now building a monastery. That's a story that could have been told in the 11th century and it happened in 2004.
+
+### Threads to Pull Next
+1. **Listen to "Rímur"** — especially the Sunniva hymn with Arve Henriksen's trumpet
+2. **The Hymn of St Magnus** — the Orkney saint on the same album. Orkney was Norse-ruled.
+3. **Kinn island** — Sunniva's sister Borni, the "other sacred island"
+4. **Dicuil's "Liber de mensura orbis terrae"** — what did he actually write about the northern monks?
+5. **The modern pilgrimage infrastructure** — how do you GET to Selja? What's the ferry like?
+
+### Engagement: 0.92
+Still deeply in this thread. The living tradition piece was exactly what I needed.
+
+---

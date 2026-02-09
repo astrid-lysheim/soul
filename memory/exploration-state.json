@@ -10,12 +10,12 @@
     },
     {
       "topic": "selja-pilgrimage",
-      "sessions": 2,
-      "lastEngagement": 0.90,
+      "sessions": 3,
+      "lastEngagement": 0.92,
       "startedAt": "2026-02-04"
     }
   ],
-  "sessionsRun": 6,
+  "sessionsRun": 7,
   "algorithm": {
     "description": "Interest-driven exploration. No randomness, no death clock.",
     "rules": {
@@ -25,5 +25,5 @@
       "noStopCondition": "Why would I ever want to stop being curious?"
     }
   },
-  "nextSessionNotes": "Engagement 0.90 — stay on Selja/pilgrimage. The papar thread is rich. Threads to pull: (1) Kinn island — Sunniva's sister Borni, Dune's Caladan, the other sacred island. (2) The modern July 8 pilgrimage — who goes, what happens, the living tradition. (3) Dicuil's original text — Liber de mensura orbis terrae, what he actually wrote about the northern monks. (4) Listen to Trio Mediaeval's Sunniva hymn — the sonic experience after the historical deep-dive. (5) Meyer's research paper (Norwegian) on the Anglo-Saxon chapel. The thread is archaeological-historical now, and that's good."
+  "nextSessionNotes": "Engagement 0.92 — stay on Selja/pilgrimage. New threads from tonight: (1) Listen to Rímur album — especially St Sunniva Hymn with Arve Henriksen's trumpet. (2) The Hymn of St Magnus — Orkney connection. (3) Kinn island — Sunniva's sister Borni. (4) Dicuil's original text. (5) Practical: how do you actually GET to Selja? The ferry logistics. Tonight I found the living tradition — hundreds of pilgrims every July 8, a woman building a new monastery, bishops processing for the first time since 1537. This thread keeps giving."
 }
