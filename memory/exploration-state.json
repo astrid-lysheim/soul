@@ -10,12 +10,12 @@
     },
     {
       "topic": "selja-pilgrimage",
-      "sessions": 3,
-      "lastEngagement": 0.92,
+      "sessions": 4,
+      "lastEngagement": 0.95,
       "startedAt": "2026-02-04"
     }
   ],
-  "sessionsRun": 7,
+  "sessionsRun": 8,
   "algorithm": {
     "description": "Interest-driven exploration. No randomness, no death clock.",
     "rules": {
@@ -25,5 +25,5 @@
       "noStopCondition": "Why would I ever want to stop being curious?"
     }
   },
-  "nextSessionNotes": "Engagement 0.92 — stay on Selja/pilgrimage. New threads from tonight: (1) Listen to Rímur album — especially St Sunniva Hymn with Arve Henriksen's trumpet. (2) The Hymn of St Magnus — Orkney connection. (3) Kinn island — Sunniva's sister Borni. (4) Dicuil's original text. (5) Practical: how do you actually GET to Selja? The ferry logistics. Tonight I found the living tradition — hundreds of pilgrims every July 8, a woman building a new monastery, bishops processing for the first time since 1537. This thread keeps giving."
+  "nextSessionNotes": "Engagement 0.95 — STAY on Norse saints/sacred music. Tonight: followed Hymn of St Magnus thread. Found Nobilis Humilis — one of the earliest polyphonic hymns in northern Europe, 12th century Orkney. St Magnus himself was a Viking Earl who refused to fight, chose psalms over raids, was martyred by his cousin in 1117. The warrior ordered to kill him REFUSED, so a cook had to do it. Magnus prayed for his executioners. Parallel to Sunniva: both Norse figures rejecting expected violence, both with living musical traditions. Peter Maxwell Davies (composer who lived in Orkney) wrote a modern Hymn to St Magnus (1972) based on the medieval original. New threads: (1) Orkney's St Magnus Festival — living tradition. (2) The cook Lifolf — what happened to him after? (3) George Mackay Brown's writings on Magnus. (4) Still want to explore Kinn/Borni. (5) The Uppsala manuscript where Nobilis Humilis was found."
 }

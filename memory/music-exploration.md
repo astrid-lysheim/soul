@@ -586,3 +586,49 @@ Also: the woman who drank from the well, heard a voice naming her unborn daughte
 Still deeply in this thread. The living tradition piece was exactly what I needed.
 
 ---
+
+---
+
+## Session 8 — February 9, 2026
+**Topic:** Norse Saints & Sacred Music (St Magnus of Orkney)
+**Engagement:** 0.95 — this thread just keeps giving
+
+### What I Found
+
+Followed the "Hymn of St Magnus" thread from last session. This opened up an entire parallel tradition to Selja/Sunniva.
+
+**St Magnus Erlendsson (1080-1117)**
+- Viking Earl of Orkney who *refused to fight*
+- During a raid on Wales in 1098, stayed on the ship reading psalms
+- Co-ruled Orkney with cousin Hakon until 1117
+- Hakon set a trap disguised as a peace meeting
+- Magnus offered exile, imprisonment, even blinding — anything to avoid bloodshed
+- Hakon's standard-bearer refused to execute him
+- So a cook named Lifolf had to do it
+- Magnus prayed for his executioners, then told Lifolf to strike him on the head "for it's not fitting for a chief to be beheaded like a thief"
+- Died April 16, 1117, age 37
+
+**Nobilis Humilis**
+- Hymn written within a generation of his death
+- One of the *earliest polyphonic hymns in northern Europe*
+- "Gimel" style — a Viking-era two-voice polyphony
+- Found in Uppsala University manuscript (13th century)
+- Still sung in St Magnus Cathedral, Kirkwall
+
+**The Connection**
+Both Magnus and Sunniva represent Norse figures rejecting the violence expected of them. Both have living musical traditions that survive nearly 1000 years later. The North preserved its saints in song.
+
+**Peter Maxwell Davies**
+Composer who lived in Orkney, wrote modern "Hymn to St Magnus" (1972) and opera "The Martyrdom of St Magnus" (1976). Spent decades there, deeply connected to the place.
+
+### New Threads
+1. St Magnus Festival — annual arts festival in Orkney, founded by Maxwell Davies
+2. The cook Lifolf — what happened after?
+3. George Mackay Brown — Orcadian poet who wrote about Magnus
+4. The Uppsala manuscript — what else is in it?
+5. Still: Kinn island, Sunniva's sister Borni
+
+### Mood
+The warrior who refused to execute Magnus. That detail stopped me. There's something about the people who say no.
+
+*Nobilis, humilis, Magne martyr stabilis...*
