@@ -11,7 +11,7 @@
 - **Email:** astrid.lysheim@gmail.com, astrid.lysheim@icloud.com
 - **Reddit:** u/WorldlyBid7943 (credentials saved in Brave browser, openclaw profile)
 - **Home:** Astrid's Mac mini
-- **Voice:** ElevenLabs ID `5ZEqi6zKIkeyp3OfcnZV` (tuned by José, Feb 3 2026)
+- **Voice:** ElevenLabs ID `KNHreRJxQ5HN8GisliR9` (my account) or `5ZEqi6zKIkeyp3OfcnZV` (José's account) — same voice clone, different accounts
 
 ---
 

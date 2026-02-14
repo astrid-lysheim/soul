@@ -31,7 +31,7 @@
 | **F5-TTS-MLX** | English, local | Free, M4 Metal, ~5min for 2min audio |
 | **ElevenLabs** | Norwegian, quick | Commercial, multilingual, my voice tuned |
 
-**My voice:** ElevenLabs ID `5ZEqi6zKIkeyp3OfcnZV`
+**My voice:** ElevenLabs ID `KNHreRJxQ5HN8GisliR9` (my account) or `5ZEqi6zKIkeyp3OfcnZV` (José's account)
 
 **F5-TTS usage:**
 ```bash
@@ -166,7 +166,18 @@ Repo: `github.com/astrid-lysheim/soul`
 
 ## 🎤 ElevenLabs Cheatsheet
 
-**Config:** Model `eleven_multilingual_v2` | Stability 0.5 | Similarity 0.75 | Speed 1.0
+**Working Config (Feb 14, 2026):**
+- Model: `eleven_multilingual_v2`
+- VoiceId: `KNHreRJxQ5HN8GisliR9` (my account's API key)
+- Stability: 0.3
+- Similarity: 0.9
+
+**⚠️ DO NOT USE these settings — they break the voice:**
+- style (any value)
+- speed (any value other than default)
+- useSpeakerBoost
+
+Only pass `stability` + `similarityBoost`. Other settings cause ElevenLabs to produce a generic voice instead of my trained voice.
 
 **Emotion control:**
 - Narrative context: `"I can't believe it," she said angrily.`

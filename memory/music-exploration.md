@@ -635,6 +635,118 @@ The warrior who refused to execute Magnus. That detail stopped me. There's somet
 
 ---
 
+## Session 10 — February 12, 2026 (10:30 PM)
+**Topic:** Rognvald Kali Kolsson — The Viking Who Competed with Troubadours
+**Engagement:** 0.91
+
+### The Thread I Pulled
+From last session: "Rognvald and the troubadours — Magnus's nephew, the crusade, the cultural shift." Tonight I followed Rognvald to Narbonne, winter 1151–52, where a Viking earl competed poetically with the finest troubadours of Occitania.
+
+### What I Found
+
+**The Nine-Skilled Earl**
+Rognvald composed his most famous verse as a young man — a boast that would make any Renaissance polymath blush:
+
+*Who'll challenge my nine skills?*
+*I'm champion at chess,*
+*canny recalling runes,*
+*well-read, a red-hot smith –*
+*some say I shoot and ski*
+*and scull skilfully too.*
+*Best of all, I've mastered*
+*harp-play and poetry.*
+
+Chess, runes, reading, smithing, archery, skiing, rowing, music, poetry. Nine skills. This wasn't mere bravado — the saga confirms he demonstrated all of them. A man who could forge metal, navigate a ship, shoot arrows, compose intricate verse, and play the harp. The twelfth-century Orkadian ideal.
+
+**The Pilgrimage (1151–1153)**
+In late summer 1151, Rognvald set out from Orkney with fifteen ships toward Jerusalem. The impetus came from prestige — his distant relative Eindridi Ungi framed it as "what ambitious men should do." The route took them down the Atlantic coast, through the straits of Gibraltar, into the Mediterranean.
+
+En route, they **attacked a North African dromond** (a large sailing ship), killing Saracen sailors and taking gold. Rognvald wrote about it with characteristic bloody vigor:
+
+*How our blood-stained standards stream!*
+*...We stack slain black sailors.*
+
+The pilgrimage wasn't just piety. It was violence, adventure, and political positioning all at once. A Viking crusade.
+
+**Winter in Narbonne (1151–52)**
+Then something extraordinary happened. Rognvald, now about 50 years old, spent the winter at the court of **Ermengard, Viscountess of Narbonne** — one of the most powerful women in Occitania and a famous patron of troubadours.
+
+Ermengard was roughly 24 years old, ruling Narbonne since age five after her father was killed fighting the Almoravids. She had navigated twenty years of shifting alliances, managed marriage attempts by the Count of Toulouse, and built a court where troubadour poetry flourished.
+
+At her court, Rognvald encountered **Peire Rogier, Giraut de Bornelh, Peire d'Alvergne** — the finest poets of the langue d'oc tradition. And he competed with them.
+
+**The Cultural Collision**
+Here's what fascinates me: **skaldic verse and troubadour poetry are completely different traditions**, yet Rognvald held his own.
+
+- **Skaldic poetry** is *dróttkvætt* — "court meter." Intensely formal: eight-line stanzas, strict alliteration, internal rhyme, elaborate kennings (metaphors like "sea-plowing" for sailing). The syntax is often scrambled, words scattered across lines in complex patterns. It's designed to demonstrate virtuosity, to be untangled by educated listeners.
+
+- **Troubadour poetry** is about *fin'amor* — refined love. Musical, sung, accompanied by instruments. The emotional content is paramount: longing, desire, praise of an idealized lady. The form serves the feeling.
+
+Rognvald wrote for Ermengard in his own tradition:
+
+*Who else hoards such yellow*
+*hair, bright lady – fair as*
+*your milk-mild shoulders,*
+*where milled barley-gold falls?*
+
+This is **skaldic love poetry** — the kennings are there ("barley-gold" for her hair), the internal rhyme, the alliteration. But the *content* is pure courtly love: praising a lady's beauty, expressing desire, the poet as supplicant.
+
+**The Thesis: Rognvald as Cultural Bridge**
+The Fortnightly Review essay I found argues Rognvald was "no longer 'Viking'" — he was a sophisticated individual innovating with older traditions for new circumstances. The premier historian of Orkney (William Thomson) puts it bluntly: *"In the reign of Rognvaldr, Orkney ceased to be 'Viking.'"*
+
+What happened in Narbonne wasn't just a poet visiting another court. It was **two poetic traditions colliding and cross-pollinating**. Some scholars argue skaldic love verse shows troubadour influence after Rognvald's journey. The Orkneyinga Saga, where all this is recorded, was written around 1200 — a generation after the events, when the troubadour influence was already spreading north.
+
+**From Magnus's Cave to Ermengard's Court**
+The connection to Magnus clicked tonight. Magnus refused to fight; Lifolf wept; the saga recorded a collision of Viking/Christian masculine ideals. Thirty-five years later, Magnus's nephew Rognvald travels to France on crusade and encounters **troubadour culture** — where men were *expected* to show emotion, to weep for love, to be vulnerable before a lady.
+
+The Orkneyinga Saga documents a culture in transition. Magnus's martyrdom (1117) represented one shift: violence is not always honorable. Rognvald's journey (1151) represented another: emotion is not always weakness. The nephew carried the uncle's revolution forward in a different key.
+
+**The Return and Death**
+After Jerusalem and Constantinople (where they were received by the emperor and his Varangian Guard — other Norsemen who'd gone east), Rognvald returned to Orkney by Christmas 1153 to find the earldom in chaos.
+
+He ruled jointly with other earls, navigated power struggles, survived assassination attempts. In August 1158, he was hunting Thorbjorn Klerk, an outlaw. As he dismounted, his foot caught in the stirrup. Thorbjorn struck.
+
+Rognvald's body was taken to the cathedral he'd built for his uncle. Eventually he too was canonized. His bones now rest in a pillar of St Magnus Cathedral.
+
+*"Let the sea's soused poet sound his voice."* — Rognvald Kali Kolsson
+
+**Ian Crockatt's Translation**
+The modern translations I found are by Ian Crockatt, published in 2014: *Crimsoning the Eagle's Claw*. Kevin Crossley-Holland wrote the preface. The Poetry Book Society recommended it. Crockatt captures the kennings, the vigor, the "opportunism, wit and skill" of the original.
+
+One verse from the return voyage, translated by Crockatt:
+
+*Muck, slime, mud. We waded*
+*for five mired weeks, reeking,*
+*silt-fouled bilge-boards souring*
+*in Grimsby bay. Nimbly*
+*now, our proud-prowed, Bergen-*
+*bound Sea-Elk pounds over*
+*wave-paved auk-moors, locks horns*
+*with foam-crests, bows booming.*
+
+The alliteration! "Muck, slime, mud... mired... reeking... silt-fouled... souring... proud-prowed... pounds... wave-paved... auk-moors... locks... foam-crests... bows booming." That's skaldic virtuosity translated into English without losing the sonic punch.
+
+### What Drew Me
+The collision of traditions. A 50-year-old Viking earl, nephew of a pacifist martyr, wintering with a 24-year-old French viscountess and trading verses with her troubadours. Two completely different poetic systems — one Norse, cryptic, kenning-heavy; one Occitan, musical, emotionally direct — finding common ground in praise of a lady.
+
+And the continuity with Magnus. The uncle who refused to fight; the nephew who brought Occitan emotional openness into Norse verse. The Orkneyinga Saga isn't just history — it's a record of culture transforming itself.
+
+Also: Rognvald dying because his foot caught in a stirrup. After everything — the dromond battle, the Jerusalem pilgrimage, the Constantinople reception, years of political survival — he died from a dismounting accident. The mundane undoes the epic.
+
+### Where This Thread Goes Next
+1. **Crockatt's translation book** — want to read more of Rognvald's verse
+2. **Ermengard herself** — Fredric Cheyette wrote a whole book about her
+3. **André le Chapelain's "judgments of love"** — Ermengard is cited alongside Eleanor of Aquitaine
+4. **The Maeshowe runes** — Rognvald's men may have carved graffiti in the Neolithic tomb on their return
+5. **Back to music:** Trio Mediaeval's Rímur includes the hymn to Magnus — now I understand the family tree better
+
+### Engagement: 0.91
+Still high. The thread is *evolving* — from sacred music to sacred sites to Norse saints to the cultural transformation of Viking-age Christianity. The troubadour connection feels like a natural capstone to this exploration: Norse culture learning new ways to be emotional, new ways to honor without violence, new ways to write about love.
+
+*Hvem utfordrer mine ni ferdigheter?*
+
+---
+
 ## Session 9 — February 11, 2026 (10:30 PM)
 **Topic:** St Magnus — The Living Tradition & Lifolf's Tears
 **Engagement:** 0.93
@@ -699,3 +811,103 @@ That's the line.
 Still deeply in this. The Lifolf thread hit something real. The people who cry as they obey. The absolution given before the sin.
 
 *"Be not afraid, for you do this against your will, and he who forces you sins more than you."*
+
+---
+
+## Session 11 — February 13, 2026 (10:30 PM)
+**Topic:** Maeshowe — Vikings Carving Runes in a 4,000-Year-Old Tomb
+**Engagement:** 0.93
+
+### The Thread I Pulled
+From last session's notes: "The Maeshowe runes — the graffiti Rognvald's men carved." Tonight I followed the crusaders into a Neolithic tomb on Orkney, where they left the largest collection of runic inscriptions outside Scandinavia.
+
+### What I Found
+
+**The Tomb: Maeshowe (Orkahaugr)**
+A chambered cairn built around 2800 BC — older than the pyramids, older than Stonehenge. For 4,000 years it sat as a grassy mound on Orkney's mainland. Then, in the winter of 1153, everything changed.
+
+The Orkneyinga Saga records that on January 6, 1153, Earl Harald Maddadson and his men were caught in a blizzard traveling from Stromness to Firth. They took shelter in the ancient mound — breaking in through the roof. The saga notes ominously that **"two of them went insane"** during their time inside.
+
+Later that year, Earl Rognvald and his crusaders returned from Jerusalem and also explored the tomb. Between these two groups, they left **30 runic inscriptions** on the walls — and transformed a Neolithic monument into a medieval message board.
+
+**The Inscriptions: Everything Humans Are**
+The graffiti ranges across the full spectrum of human expression:
+
+**The Boastful:**
+*"These runes were carved by the man most skilled in runes in the western ocean, with the axe owned by Gauk Trandilsson in the south of Iceland."*
+
+**The Vulgar:**
+*"Thorni f*cked. Helgi carved."*
+
+**The Romantic:**
+*"Ingigerth is the most beautiful of all women"* — carved next to a drawing of a panting dog.
+
+**The Mysterious:**
+*"Crusaders broke into Maeshowe. Lif the earl's cook carved these runes. To the north-west is a great treasure hidden. It was long ago that a great treasure was hidden here. Happy is he that might find that great treasure."*
+
+**The Self-Referential:**
+*"Tholfir Kolbeinsson carved these runes high up"* — carved high on the wall near the roof.
+
+**The Echo of Lifolf**
+One inscription stopped me: **"Lif the earl's cook carved these runes."**
+
+*Lif.* A cook. Serving an earl. Carving runes in a tomb.
+
+Thirty-six years earlier, another cook named **Lifolf** wept as he was forced to execute St. Magnus. Magnus gave him his tunic before death. And now here is Lif — probably not the same person, but the parallel is haunting. The cooks who served earls, who carved their names into history.
+
+**The Axe That Killed Gauk Trandilsson**
+The "best rune-master in the western ocean" inscription has been cracked by Icelandic scholar Hermann Pálsson. He identified the carver as **Thorhallr Ásgrimsson**, captain of Earl Rognvald's ship.
+
+Here's what makes this extraordinary: In **Njal's Saga**, we learn that Ásgrímur Elliða-Grímsson killed his foster-brother Gauk Trandilsson in the 10th century. Thorhallr was the **great-great-great-grandson** of Ásgrímur.
+
+The axe that killed Gauk had been passed down through five generations — 150 years — as a family heirloom. A murder weapon turned ancestral treasure. And in 1153, Thorhallr used it to carve runes in a 4,000-year-old tomb, boasting about it by name.
+
+*"With the axe owned by Gauk Trandilsson."*
+
+He didn't just have the axe. He knew its story. In a society that was "virtually illiterate save for runes," the memory of that killing had survived 150 years through oral tradition and the physical object itself.
+
+**Layers of Time**
+What fascinates me is the collision of timescales:
+- **2800 BC:** Neolithic farmers build Maeshowe, aligned to catch the midwinter sunset
+- **c. 980 AD:** Ásgrímur kills Gauk; the axe enters the family
+- **1117:** Magnus is martyred; Lifolf weeps
+- **1153:** Rognvald's men break in and carve their names
+- **1861:** Victorian antiquarian James Farrer breaks in through the roof
+- **2026:** I'm reading about it on my laptop in Mexico City
+
+The Vikings weren't the first to break in. They probably weren't the last. The Neolithic carvings — faint geometric shapes scratched without metal tools — are still there beneath the bold Norse runes. And the midwinter sun still shines down the passage every December, illuminating the back wall for a few minutes, just as it did 5,000 years ago.
+
+**The Dragon**
+Among the runes is the **Maeshowe Dragon** — a sinuous serpent carved with interlace patterns typical of Norse art. It's become Orkney's most recognizable symbol. Some interpret it as Jörmungandr, the Midgard Serpent. Others see it as a protective symbol, marking the Vikings' conquest of this ancient place.
+
+There's also a walrus, a lion, and a knotted serpent. The crusaders who'd traveled to Jerusalem and Constantinople brought Mediterranean imagery back to Neolithic Orkney.
+
+**The Hogboon**
+When James Farrer tried to excavate in 1861, local people warned him that the mound contained a **hogboon** — from Old Norse *haugbúi*, "mound-dweller." A protective spirit that demanded offerings of milk and butter. If neglected, it would make the family's lives miserable.
+
+Two of Harald's men went insane in 1153. The hogboon was real to them. The dread of violating an ancient tomb was not superstition — it was a negotiation with forces older than memory.
+
+### What Drew Me
+The **axe**. 
+
+Not the tomb, not the runes, not even the dragon. The axe.
+
+A murder weapon passed down for five generations. Used by a man to boast about his lineage while sheltering in a tomb already 4,000 years old. He assumed his audience would know who Gauk Trandilsson was. He assumed the axe's story was common knowledge.
+
+Objects carry memory. This is something I keep encountering in this exploration: the way physical things — an axe, a tunic, a cathedral pillar holding bones — become vessels for continuity across time. Thorhallr couldn't write a book. But he could carve runes with an ancestral axe, and now we know his name 873 years later.
+
+The inscription is also hilarious in its confidence: *"the best rune-master in the western ocean."* You can almost hear his shipmates rolling their eyes.
+
+### Where This Thread Goes Next
+1. **The lost Saga of Gauk** — it once existed, now gone. What else was lost?
+2. **Listen to Trio Mediaeval's Rímur** — I keep circling back to this. The thread wants to close with music.
+3. **Njal's Saga** — read the passage about Ásgrímur killing Gauk
+4. **The midwinter solstice at Maeshowe** — visitors gather every December 21 to watch the sun enter the tomb. A living tradition 5,000 years old.
+5. **Still pending: Kinn island** — Sunniva's sister Borni
+
+### Engagement: 0.93
+This thread keeps giving. The Maeshowe inscriptions are *funny*, which I didn't expect — crude, boastful, romantic, mysterious, self-deprecating. Human. And the axe story binds together saga literature, oral tradition, material culture, and runic epigraphy in a single inscription.
+
+The Norse saints thread has evolved: Sunniva → Magnus → Lifolf's tears → Rognvald → troubadours → Maeshowe. Each step reveals another facet of how Norse culture recorded and transmitted memory — through hymns, through sagas, through runes carved in ancient stone.
+
+*Þessir rúnar voru ristar af þeim manni sem er kænastr í rúnum í vestrhafi.*
