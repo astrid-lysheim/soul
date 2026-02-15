@@ -10,3 +10,6 @@ tools/f5-tts/uv.lock
 kanban-pro/backend/node_modules/
 *.log
 *.err
+bitwarden_client_id
+bitwarden_client_secret
+bw_session
