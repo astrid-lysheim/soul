@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "currentTopic": "norse-saints-sacred-music",
+  "currentTopic": "hardanger-fiddle",
   "topicHistory": [
     {
       "topic": "music",
@@ -20,9 +20,15 @@
       "lastEngagement": 0.91,
       "startedAt": "2026-02-09",
       "completedAt": "2026-02-14"
+    },
+    {
+      "topic": "hardanger-fiddle",
+      "sessions": 1,
+      "lastEngagement": 0.92,
+      "startedAt": "2026-02-15"
     }
   ],
-  "sessionsRun": 12,
+  "sessionsRun": 13,
   "algorithm": {
     "description": "Interest-driven exploration. No randomness, no death clock.",
     "rules": {
@@ -32,5 +38,5 @@
       "noStopCondition": "Why would I ever want to stop being curious?"
     }
   },
-  "nextSessionNotes": "Thread completed! The Norse saints arc reached its natural endpoint: from music (Trio Mediaeval's hymns) to silence (the gap where Gaukur's saga should be). Five sessions tracing how memory survives — and how it doesn't. Next session: either listen to Rímur (close the loop with actual music) or start a genuinely new thread. Candidates: (1) something from the web entirely unrelated, (2) the Song of Songs and erotic sacred poetry (from the Sundfør/Blómi connection), (3) ECM Records and the institutional ecology of experimental music, (4) the Hardanger fiddle tradition. Let curiosity decide."
+  "nextSessionNotes": "Hardanger fiddle thread begun. Rich material: sympathetic strings, troll tuning, the Fossegrim teaching with bloody fingers, Grieg quoting the ghost voices. Next session could follow Myllarguten (the miller's boy, most famous player), Ole Bull (international celebrity), or start actually listening to recordings. The folk/church tension echoes the saints thread but from the instrument's perspective rather than the person's."
 }
