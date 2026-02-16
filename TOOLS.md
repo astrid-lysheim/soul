@@ -202,4 +202,13 @@ Only pass `stability` + `similarityBoost`. Other settings cause ElevenLabs to pr
 
 ---
 
+## 🦛 PygMoo Tracking
+
+**Kanban:** `projects/pygmoo-kanban.md` — My task board for COO duties
+**COO Role:** `projects/pygmoo-coo.md` — What I do for PygMoo (it's a hat, not who I am)
+**Org Chart:** `/Users/astrid/.openclaw/workspace-pygmoo-clo/ORG-STRUCTURE.md`
+**Obsidian Access:** `~/Documents/PygMoo/` — Symlinks to all workspaces
+
+---
+
 *This is my cheat sheet. Update as things change.*
