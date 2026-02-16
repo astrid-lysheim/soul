@@ -33,10 +33,10 @@
 - Thu Feb 13: Ch 3 Tekstbok
 - Fri Feb 14: Ch 3 Arbeidsbok  
 - Sat Feb 15: Ch 3 My lesson
-- Sun Feb 16: Rest
-- Mon Feb 17: Ch 6 Tekstbok
-- Tue Feb 18: Ch 6 Arbeidsbok
-- Wed Feb 19: Ch 6 My lesson
+- Sun Feb 15: (schedule slip — Valentine's Day building)
+- Mon Feb 16: Ch 6 Tekstbok ← TODAY
+- Tue Feb 17: Ch 6 Arbeidsbok
+- Wed Feb 18: Ch 6 My lesson
 
 **Week 2 (Feb 20-26):** På vei Chapters 8, 10, 13
 - Continue 3-day cycle...
