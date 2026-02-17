@@ -73,6 +73,26 @@ For agents that retain `exec`:
 - **pygmoo-fullstack**: allowlist mode  
 - **kai**: allowlist mode
 
+## Sandboxing (Phase 2)
+
+Built Docker sandbox image `openclaw-sandbox:bookworm-slim` and enabled sandboxing.
+
+### Sandbox Status
+
+| Agent | Sandboxed | Reason |
+|-------|-----------|--------|
+| **main** | ❌ | Owner agent, needs full host access |
+| **kai** | ❌ | Mentor needs real code execution |
+| **All 19 PygMoo agents** | ✅ | Don't need host access |
+| **astrid-ep** | ✅ | Podcast only |
+
+### Sandbox Config
+- Image: `openclaw-sandbox:bookworm-slim` (debian + git/curl/jq)
+- Scope: per-agent (one container each)
+- Workspace: read/write access to agent workspace
+- Network: bridge (for web_fetch)
+- User: 1000:1000 (non-root)
+
 ---
 
-*Principle: If you don't need it, you don't have it.* 🔐
+*Principle: If you don't need it, you don't have it. If you don't need host access, you don't get it.* 🔐
