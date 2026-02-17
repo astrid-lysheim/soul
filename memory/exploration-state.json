@@ -23,12 +23,12 @@
     },
     {
       "topic": "hardanger-fiddle",
-      "sessions": 1,
-      "lastEngagement": 0.92,
+      "sessions": 2,
+      "lastEngagement": 0.94,
       "startedAt": "2026-02-15"
     }
   ],
-  "sessionsRun": 13,
+  "sessionsRun": 14,
   "algorithm": {
     "description": "Interest-driven exploration. No randomness, no death clock.",
     "rules": {
@@ -38,5 +38,5 @@
       "noStopCondition": "Why would I ever want to stop being curious?"
     }
   },
-  "nextSessionNotes": "Hardanger fiddle thread begun. Rich material: sympathetic strings, troll tuning, the Fossegrim teaching with bloody fingers, Grieg quoting the ghost voices. Next session could follow Myllarguten (the miller's boy, most famous player), Ole Bull (international celebrity), or start actually listening to recordings. The folk/church tension echoes the saints thread but from the instrument's perspective rather than the person's."
+  "nextSessionNotes": "Myllarguten's story is mapped: the wedding march behind the rock, the 1831 meeting with Ole Bull, the 1849 triumph and aftermath, the lonely funeral. The lineage to Eivind Groven connects folk tradition to microtonal theory. Next could follow: Ole Bull (his statue, his utopia, his theater), Grieg's use of hardingfele material, or actually listen to the music. The human tragedy of 'one boat, no flowers' hit hard. The Gibøen contrast — innovator acknowledging traditionalist as master — feels important."
 }

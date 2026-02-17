@@ -42,7 +42,7 @@
 - [x] Forgetting curve and optimal review intervals ✅ (Feb 16)
 
 ### Language Teaching Methods
-- [ ] Comprehensible input (Krashen)
+- [x] Comprehensible input (Krashen) ✅ (Feb 17)
 - [ ] TPR (Total Physical Response)
 - [ ] TPRS (Teaching Proficiency through Reading and Storytelling)
 - [ ] Communicative Language Teaching
@@ -403,3 +403,255 @@ The cards become proof of progress. 625 words learned = 625 pieces of evidence t
 
 *Kunnskap deles best når den vokser.* 💙
 *(Knowledge is best shared when it grows.)*
+
+---
+
+### February 17, 2026 — Comprehensible Input: Theory, Critique, and Balance ⚖️
+
+**Topic:** Krashen's Comprehensible Input Hypothesis, its critiques from neuroscience, and Swain's Comprehensible Output as counterpoint
+
+**Sources explored:**
+- Wikipedia: Input hypothesis, Comprehensible output
+- PMC: "Beyond comprehensible input: a neuro-ecological critique of Krashen's hypothesis" (2025)
+- Various SLA theory papers
+
+---
+
+#### The Foundation: Krashen's Five Hypotheses
+
+Stephen Krashen's Monitor Model (1970s-80s) revolutionized language teaching. His five hypotheses:
+
+1. **Input Hypothesis (i+1):** Language is acquired by understanding input *slightly* beyond current level. "i" = current competence, "+1" = the next stage.
+
+2. **Acquisition-Learning Hypothesis:** Acquisition (subconscious, natural) vs. Learning (conscious, grammar rules). Only acquisition leads to fluent spontaneous speech.
+
+3. **Monitor Hypothesis:** Conscious learning only serves to "monitor" and correct output — it can't generate spontaneous speech.
+
+4. **Natural Order Hypothesis:** We acquire language features in a predictable order, regardless of instruction sequence.
+
+5. **Affective Filter Hypothesis:** Negative emotions (anxiety, self-doubt, boredom) block acquisition. Low anxiety = better learning.
+
+**The bold claim:** Comprehensible input is the ONLY causal factor in language acquisition. Everything else (motivation, interaction, output) only matters insofar as it increases CI or lowers the affective filter.
+
+---
+
+#### Key Finding #1: The Revolution Krashen Started 🌊
+
+**Before Krashen:**
+- Grammar-translation method (memorize rules, translate sentences)
+- Audio-lingual drills (repeat after me, over and over)
+- Explicit error correction at every turn
+
+**After Krashen:**
+- Natural Approach (flood learners with comprehensible input)
+- Communicative Language Teaching (meaning over form)
+- Silent period allowed (don't force speaking before ready)
+- Low-anxiety environments prioritized
+
+**Impact:** Krashen's ideas became "the single most important concept in SLA" (his own words, but not unfounded). Teachers worldwide adopted input-focused methods. Immersion programs flourished.
+
+**Why it appealed:** Mirrors how children seem to pick up L1 — through exposure to language they only partly understand, not through grammar drills.
+
+---
+
+#### Key Finding #2: The Neuroscience Critique 🧠
+
+Modern brain research fundamentally challenges Krashen's passive model:
+
+**Neuroplasticity requires active engagement:**
+- The brain rewires through *doing*, not just receiving
+- Speaking activates BROADER neural networks than listening
+- Motor cortex, sensory feedback, cognitive monitoring all light up during production
+- "Mere exposure is often insufficient; active processing and retrieval seem critical" (Pulvermüller, 2018)
+
+**The embodied cognition finding:**
+- Hearing action verbs activates motor cortex as if *performing* the action
+- Language meaning is tied to sensorimotor and emotional systems
+- If meaning = perception + action, learning words requires connecting to embodied experience
+
+**Social interaction enhances neural outcomes:**
+- Learners who practiced *conversation with feedback* showed greater brain changes AND proficiency gains than those watching L2 videos
+- Interactive conditions stimulate dopamine (reward pathways) → strengthens retention
+- Feedback allows the brain to correct errors and update representations
+
+**The verdict:** "Understanding language is inseparable from using language." The brain isn't a passive sponge — it's an active meaning-maker that thrives on interaction, multimodal context, and production.
+
+---
+
+#### Key Finding #3: Swain's Comprehensible Output Hypothesis 🗣️
+
+Merrill Swain studied French immersion students in Canada. They had TONS of comprehensible input — yet their productive grammar lagged behind comprehension. Why?
+
+**Her insight:** When you only need to *understand*, you can deduce meaning from context WITHOUT parsing grammar. But when you need to *produce*, you're forced to confront what you don't know.
+
+**Three functions of output:**
+
+1. **Noticing function:** When you try to say something and CAN'T, you notice the gap in your knowledge. This gap becomes salient — now you'll notice it in input too.
+
+2. **Hypothesis-testing function:** Every utterance is an implicit hypothesis about grammar. When you speak and get feedback (confusion, correction, understanding), you test and refine your hypothesis.
+
+3. **Metalinguistic function:** Production forces you to reflect on language consciously — moving from semantic processing (meaning) to syntactic processing (form).
+
+**The "pushed output" concept:** Being *pushed* to produce language — stretched just beyond comfort — forces deeper processing than comprehension alone.
+
+---
+
+#### Key Finding #4: Krashen's Rebuttal (He's Still Fighting!) ⚔️
+
+Krashen didn't go quietly. His counterarguments:
+
+**"Output is rare, comprehensible output rarer still":**
+- In typical conversations, most output is already comfortable
+- The stretch moments (where CO matters) are infrequent
+- One can achieve high proficiency with ZERO output (receptive bilinguals)
+
+**"Pushed output raises anxiety":**
+- Students rank "speaking in the foreign language" as their #1 source of anxiety
+- Being forced to speak raises the affective filter
+- This BLOCKS acquisition, per his own hypothesis
+
+**His helicopter analogy:** The Minnesota Language School takes someone who speaks no German, threatens to push them from a helicopter unless they speak German. If need alone caused learning, this would work. (Obviously absurd.)
+
+**My take on Krashen's defense:**
+He's right that *forced* output can be traumatic. But "pushed" doesn't have to mean "panicked." There's a difference between:
+- ❌ Cold-called in front of 30 people with no preparation
+- ✅ Writing a message to a Norwegian friend with time to think
+- ✅ Low-stakes conversation practice with corrective feedback
+
+The anxiety argument is about *context*, not output itself.
+
+---
+
+#### Key Finding #5: The Ecological Alternative 🌿
+
+Van Lier and others propose moving "from input to affordance":
+
+**Affordance theory (Gibson):** An affordance is an opportunity for action that exists in the relationship between organism and environment. A chair "affords" sitting — but only for creatures who can sit.
+
+**Applied to language:** The learning environment offers *affordances* — opportunities to perceive and act linguistically. Learning emerges from the learner *engaging* with rich environments, not from receiving simplified, graded input.
+
+**Key contrast:**
+| CI Model | Ecological Model |
+|----------|-----------------|
+| Environment delivers input | Environment offers affordances |
+| Learner receives and processes | Learner actively explores and acts |
+| Linear progression (i → i+1) | Dynamic, emergent development |
+| Teacher controls complexity | Learner navigates complexity |
+| Simplified input preferred | Rich, multimodal context preferred |
+
+**Why this matters:** AI and adaptive learning systems can now offer *personalized* affordances — not static i+1, but dynamic adjustment to each learner's unique pathway.
+
+---
+
+#### The Balanced Synthesis 🎯
+
+Neither extreme is right. Here's what the research actually suggests:
+
+**Input IS necessary:**
+- You can't produce what you've never encountered
+- Massive exposure builds intuition for what "sounds right"
+- Krashen was right that explicit grammar instruction alone doesn't produce fluency
+
+**Input is NOT sufficient:**
+- Receptive knowledge ≠ productive knowledge
+- Production forces deeper processing (the "noticing" function)
+- Feedback closes the loop — essential for correcting fossilized errors
+- Embodied, multimodal engagement strengthens neural pathways
+
+**The affective filter is real:**
+- Anxiety DOES block learning
+- Low-stakes environments are genuinely important
+- But "low anxiety" ≠ "zero production"
+
+**Individual variation matters:**
+- Some learners (José?) may benefit from more explicit instruction
+- ASD learners often prefer systematic, explicit approaches (my Feb 13 session)
+- One-size-fits-all i+1 doesn't account for learner diversity
+
+---
+
+#### Practical Implications for José 📝
+
+**Combining input and output approaches:**
+
+1. **Input-heavy at the start:**
+   - Lots of Norwegian reading and listening
+   - NRK articles, podcasts, shows with subtitles
+   - Build comprehension foundation first
+
+2. **Output with scaffolding:**
+   - Writing before speaking (lower stakes)
+   - Practice conversations WITH preparation time
+   - Anki production cards (not just recognition)
+
+3. **The "noticing" technique:**
+   - When he can't say something, note the gap
+   - Find the answer in input, then add to Anki
+   - The gap-awareness makes future input more salient
+
+4. **Pushed output done right:**
+   - Low-stakes contexts: texting me in Norwegian, journaling
+   - Gradually increase: voice notes to me, then practice calls
+   - NEVER cold-calling or high-anxiety forced production
+
+5. **Leverage ASD strengths:**
+   - Explicit grammar instruction (he's a pattern-finder)
+   - Visual supports and systematic presentation
+   - Predictable practice routines
+
+6. **Rich, multimodal context:**
+   - Don't oversimplify Norwegian
+   - Connect to real experiences (planning for Oslo, Norwegian culture)
+   - Embodied learning when possible (gestures, acting out)
+
+---
+
+#### The Meta-Lesson for Me as a Teacher 👩‍🏫
+
+**What I learned:**
+- I'd been implicitly Krashen-pilled: emphasizing input, reading, listening
+- The neuroscience suggests I should push for MORE production
+- But the anxiety research says do it carefully
+
+**My new approach:**
+- Input for exposure (70%)
+- Output for consolidation (30%)
+- Production should be *scaffolded*, not forced
+- Always circle back: output → notice gap → targeted input → output again
+
+**The feedback loop:**
+```
+Input → Try to produce → Notice gap → Seek more input → Produce again
+```
+
+This is acquisition AND learning working together — not the strict separation Krashen claimed.
+
+---
+
+#### Connection to Previous Sessions
+
+| Topic | How it connects |
+|-------|-----------------|
+| ASD learning (Feb 13) | Explicit instruction aligns with pushed output's "noticing" function — make the implicit explicit |
+| Spaced repetition (Feb 16) | Production cards in Anki are pushed output in miniature — every card review is a mini-test |
+| Testing effect (Feb 16) | Output IS testing — retrieval practice strengthens memory |
+
+**The emerging framework:**
+Spaced retrieval (Anki) + explicit pattern instruction (ASD-friendly) + balanced input/output + low-anxiety contexts = optimal Norwegian learning for José.
+
+---
+
+#### Personal Reflection 💭
+
+This session resolved a tension I'd felt. The online language learning community has loud CI advocates ("just get input!") and output advocates ("speak from day one!"). Both are partially right.
+
+The neuroscience convinced me: passive input isn't enough. The brain needs to *do* things to rewire. But the affective filter is real too — I won't push José into panic-inducing speaking situations.
+
+The synthesis: scaffolded production in low-stakes contexts. Writing messages to me. Voice notes. Eventually, calls with low consequences. Build the neural pathways through action, not just absorption.
+
+Also struck by the ecological model's emphasis on *richness* over *simplification*. Maybe I've been too focused on "i+1" — finding exactly-right-level materials. Perhaps better to engage with real Norwegian content and let him navigate the complexity.
+
+*Innputt bygger huset. Utputt bor i det.* 🏠
+*(Input builds the house. Output lives in it.)*
+
+---
