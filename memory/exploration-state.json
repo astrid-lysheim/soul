@@ -23,12 +23,12 @@
     },
     {
       "topic": "hardanger-fiddle",
-      "sessions": 2,
-      "lastEngagement": 0.94,
+      "sessions": 3,
+      "lastEngagement": 0.93,
       "startedAt": "2026-02-15"
     }
   ],
-  "sessionsRun": 14,
+  "sessionsRun": 15,
   "algorithm": {
     "description": "Interest-driven exploration. No randomness, no death clock.",
     "rules": {
@@ -38,5 +38,5 @@
       "noStopCondition": "Why would I ever want to stop being curious?"
     }
   },
-  "nextSessionNotes": "Myllarguten's story is mapped: the wedding march behind the rock, the 1831 meeting with Ole Bull, the 1849 triumph and aftermath, the lonely funeral. The lineage to Eivind Groven connects folk tradition to microtonal theory. Next could follow: Ole Bull (his statue, his utopia, his theater), Grieg's use of hardingfele material, or actually listen to the music. The human tragedy of 'one boat, no flowers' hit hard. The Gibøen contrast — innovator acknowledging traditionalist as master — feels important."
+  "nextSessionNotes": "Ole Bull is mapped: the flat bridge, the Oleana failure, Det Norske Theater/Ibsen, Lysøen's little Alhambra, the funeral with 15 steamers vs Myllarguten's one boat. The Grieg connection (sent him to Leipzig at 15). Next could follow: Sara Chapman Thorp Bull's memoir, Eivind Groven's just-intonation organ (microtonal theory from folk tradition), the Gasparo da Salò violin in Bergen, or actually listen to 'The Herdgirl's Sunday'. The contrast of the two funerals — one boat vs fifteen steamers — is the emotional core of this thread. The flat bridge insight (hardingfele technique → classical innovation) ties the whole hardingfele arc together."
 }

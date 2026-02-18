@@ -49,8 +49,8 @@
 - [ ] Task-based learning
 
 ### Norwegian-Specific
-- [ ] Common L1 Spanish → L2 Norwegian errors
-- [ ] Norwegian prosody and intonation patterns
+- [x] Common L1 Spanish → L2 Norwegian errors ✅ (Feb 18)
+- [x] Norwegian prosody and intonation patterns ✅ (Feb 18)
 - [ ] Dialect awareness for learners
 - [ ] Norwegian proficiency tests (Norskprøve, Bergenstesten)
 
@@ -653,5 +653,301 @@ Also struck by the ecological model's emphasis on *richness* over *simplificatio
 
 *Innputt bygger huset. Utputt bor i det.* 🏠
 *(Input builds the house. Output lives in it.)*
+
+---
+
+---
+
+### February 18, 2026 — L1 Spanish → L2 Norwegian: Transfer Errors & Contrastive Analysis 🇪🇸→🇳🇴
+
+**Topic:** Systematic analysis of what a Mexican Spanish speaker will struggle with in Norwegian — phonology, grammar, and conceptual gaps
+
+**Sources explored:**
+- Wikipedia: Norwegian phonology, Spanish phonology
+- The Intrepid Guide: "12 Common Mistakes Norwegian Students Make"
+- Life in Norway: "The V2 Rule: Word Order in Norwegian"
+- NTNU LearnNoW: Grammar notes on subordinate clause word order
+- Reddit r/norsk: Multiple threads on pitch accent, pronunciation, word order
+- PMC: "Grammatical Gender in American Norwegian Heritage Language"
+- Rochester CLS: Research on Spanish speakers producing unfamiliar vowels
+
+---
+
+#### THE BIG PICTURE: Spanish vs. Norwegian
+
+Spanish and Norwegian are in different language families (Romance vs. Germanic) but share some structural DNA through Indo-European roots. The key challenge areas cluster into four domains:
+
+1. **Phonology** — Norwegian has ~18 vowels; Spanish has 5
+2. **Grammar** — V2 word order, subordinate clause inversion, suffixed articles
+3. **Prosody** — Norwegian is a pitch-accent (tonal) language; Spanish is stress-timed
+4. **Conceptual** — Grammatical gender works differently; definiteness is expressed differently
+
+---
+
+#### DOMAIN 1: PHONOLOGY — The Vowel Catastrophe 🔊
+
+**The core problem:** Spanish has 5 vowel phonemes: /a/, /e/, /i/, /o/, /u/. Norwegian (Urban East) has approximately **18 vowel phonemes** — 9 in short and 9 in long forms, plus diphthongs. This is the single biggest phonological challenge.
+
+**Norwegian vowels that DON'T EXIST in Spanish:**
+
+| Norwegian | IPA | Closest Spanish | The Problem |
+|-----------|-----|----------------|-------------|
+| **y** | /yː/ or /ʏ/ | None | Front rounded vowel — Spanish has no front rounded vowels AT ALL |
+| **ø** | /øː/ or /œ/ | None | Front rounded mid vowel — same problem |
+| **u** | /ʉː/ or /ʉ/ | /u/ | Norwegian u is CENTRAL, not back like Spanish u |
+| **å** | /oː/ or /ɔ/ | /o/ | Close but different — Spanish o is more peripheral |
+| **æ** | /æː/ or /æ/ | /a/ or /e/ | Between Spanish a and e — Spanish speakers will collapse to one or the other |
+
+**The front rounded vowel problem:**
+This is José's biggest hurdle. Spanish has NO front rounded vowels. When Spanish speakers encounter /y/ and /ø/, research shows they use two strategies:
+1. **Clustering** — treating /y/ and /ø/ as the same sound (can't distinguish them)
+2. **Backness substitution** — replacing roundedness with backness, producing something like /u/ for /y/
+
+So "hus" (house, /hʉːs/) might sound like Spanish "jus," and "dyr" (animal, /dyːr/) might sound like "dur" — which could be confused with "dur" (major key in music).
+
+**The vowel length distinction:**
+Norwegian distinguishes between long and short vowels, and this is PHONEMIC — meaning it changes word meaning:
+- **tak** /tɑːk/ = roof vs. **takk** /tɑk/ = thanks
+- **ful** /fʉːl/ = ugly vs. **full** /fʉl/ = drunk/full
+- **vise** /ˈʋiːsə/ = to show vs. **visse** /ˈʋisə/ = certain (plural)
+
+Spanish doesn't have phonemic vowel length. José will need explicit training on this — his ear isn't calibrated for it.
+
+**Consonant challenges:**
+
+| Sound | Norwegian | Spanish | Issue |
+|-------|-----------|---------|-------|
+| **Retroflex consonants** (/ʈ, ɖ, ɳ, ɭ, ʂ/) | Common (from r+alveolar fusion) | Don't exist | "barn" → /bɑːɳ/, not /barn/ |
+| **/ç/** (voiceless palatal fricative) | In "kj" words: kjøpe, kjæreste | Doesn't exist (closest: /x/ in "jamón") | Spanish /x/ is velar, not palatal |
+| **/ʂ/** (retroflex fricative) | In "skj/sj" words: skjørt, sjø | Doesn't exist | Like English "sh" but with curled tongue |
+| Aspiration of /p, t, k/ | Norwegian p/t/k are aspirated | Spanish p/t/k are unaspirated | José will sound "softer" — not critical but noticeable |
+
+**The retroflexion rule (a pattern José will LOVE):**
+When /r/ meets a dental/alveolar consonant, they fuse into a single retroflex consonant:
+- rn → /ɳ/: barn, Bjarne
+- rt → /ʈ/: svart, sort
+- rd → /ɖ/: jord, gård
+- rl → /ɭ/: Karl, perle
+- rs → /ʂ/: norsk,iversk
+
+This is a SYSTEM. Present it as one. His pattern-recognition brain will eat this up.
+
+---
+
+#### DOMAIN 2: GRAMMAR — The V2 Rule and Its Shadows 📐
+
+**Challenge #1: V2 Word Order (Main Clauses)**
+
+Norwegian is a V2 language — the finite verb MUST be in second position in main clauses. Spanish is SVO but much more flexible about fronting.
+
+| Spanish | Norwegian (WRONG) | Norwegian (CORRECT) |
+|---------|-------------------|---------------------|
+| Ayer fui al cine | *I går jeg gikk på kino | I går **gikk** jeg på kino |
+| Mañana viajo a Oslo | *I morgen jeg reiser til Oslo | I morgen **reiser** jeg til Oslo |
+
+**Why this is hard for Spanish speakers specifically:**
+Spanish DOES front adverbials, but WITHOUT inverting subject and verb: "Ayer yo fui al cine" is fine. In Norwegian, fronting an adverbial FORCES subject-verb inversion. The verb always claims second position.
+
+**The ASD angle:** V2 is highly systematic — once you internalize "verb = position 2, always," it applies mechanically. Present it as an inviolable rule with clear examples. His rule-following brain will handle this better than most.
+
+**Challenge #2: Subordinate Clause Word Order**
+
+This is where it gets tricky. In subordinate clauses, the word order CHANGES:
+- **Main clause:** Jeg liker **ikke** kaffe (I like not coffee)
+- **Subordinate:** Hun sier at jeg **ikke** liker kaffe (She says that I not like coffee)
+
+In subordinate clauses, adverbs like "ikke" (not) move BEFORE the verb. This is the opposite of main clauses.
+
+Spanish has nothing comparable. "No me gusta el café" → "Dice que no me gusta el café" — the negation stays in the same position relative to the verb. Norwegian flips it.
+
+**The double confusion:**
+- Main: Subject + Verb + **ikke** + Object (Jeg **spiser ikke** fisk)
+- Subordinate: Subject + **ikke** + Verb + Object (…fordi jeg **ikke spiser** fisk)
+
+This will be one of José's hardest grammar points. It requires tracking whether you're in a main or subordinate clause, then adjusting adverb placement accordingly.
+
+**Challenge #3: Suffixed Definite Articles**
+
+Norwegian attaches the definite article as a SUFFIX to the noun:
+- en bok (a book) → **bok**en** (the book)
+- et hus (a house) → **hus**et** (the house)
+- ei jente (a girl) → **jent**a** (the girl)
+
+Spanish uses freestanding articles (el/la/los/las) before the noun. The suffix system is completely alien.
+
+AND there's the double determination in Norwegian — when an adjective is present:
+- **Den** store **bok**en** (The big book) — BOTH a determiner AND a suffix
+
+Spanish: El libro grande. One article, period. Norwegian: den + suffix. This will confuse José initially.
+
+**Challenge #4: Three Grammatical Genders**
+
+Both Spanish and Norwegian have grammatical gender, but they work differently:
+
+| Feature | Spanish | Norwegian |
+|---------|---------|-----------|
+| # of genders | 2 (masculine, feminine) | 3 (masculine, feminine, neuter) |
+| Transparency | High — -o = masc, -a = fem (usually) | Low — no reliable endings |
+| Agreement | Articles, adjectives, pronouns | Articles, adjectives, possessives |
+
+**The transparency issue:** In Spanish, you can usually guess gender from the ending (-o/-a). Norwegian gender is largely arbitrary and must be memorized. "Gender assignment in Norwegian is non-transparent" (PMC research).
+
+The **neuter** gender will be especially confusing — Spanish doesn't have it. Every time José sees "et" instead of "en," he'll need to mentally file it as a third category that doesn't exist in his L1.
+
+**Positive transfer:** José already understands that gender agreement affects adjectives and articles. He won't struggle with the CONCEPT — just the specific assignments and the third category.
+
+**Challenge #5: No Progressive Tense (-ing)**
+
+Norwegian has NO progressive aspect:
+- "I am eating" = "Jeg spiser" (I eat)
+- "I was reading" = "Jeg leste" (I read)
+
+Spanish HAS progressive: "Estoy comiendo" (I am eating). José will be tempted to look for a Norwegian equivalent of "estar + gerund." There isn't one. Norwegian uses simple present/past where Spanish uses progressive.
+
+**Challenge #6: Modal Verbs + Infinitive**
+
+Norwegian modal verbs take the bare infinitive WITHOUT the infinitive marker "å":
+- Jeg **kan** snakke norsk (I can speak Norwegian) ✅
+- *Jeg kan **å** snakke norsk ❌
+
+Spanish does the same (puedo hablar, not *puedo a hablar), so this should transfer positively. BUT — the error of conjugating the main verb after a modal is common:
+- *Jeg må **skriver** et brev ❌ → Jeg må **skrive** et brev ✅
+
+In Spanish: "Debo escribir" (infinitive), not *"Debo escribo." Same rule, so this should be relatively easy.
+
+---
+
+#### DOMAIN 3: PROSODY — The Tonal Ghost 🎵
+
+**Norwegian is a pitch-accent language.** This is possibly the most exotic feature for a Spanish speaker.
+
+Norwegian has two "tonems" (tonal accents) in polysyllabic words:
+- **Tonem 1** (accent 1): low flat pitch on first syllable → rise
+- **Tonem 2** (accent 2): high-to-low falling pitch on first syllable → rise on second
+
+These can distinguish minimal pairs:
+- **bønner** (tonem 1) = beans vs. **bønner** (tonem 2) = prayers
+- **tanken** (tonem 1) = the tank vs. **tanken** (tonem 2) = the thought
+
+**Why Spanish speakers struggle:**
+Spanish is stress-timed — it distinguishes words by WHERE the stress falls (pa-PA vs. PA-pa), but NOT by pitch contour. Norwegian requires both stress AND pitch pattern. José's brain isn't trained to process pitch as lexically meaningful.
+
+**The good news:**
+- Norwegians themselves say that getting tonem wrong almost never causes miscommunication — context resolves ambiguity
+- Some Norwegian dialects (Bergen) don't even USE the tonem distinction
+- Shadowing exercises work well — eventually the patterns internalize through exposure
+- It's "accent polish," not "communication necessity"
+
+**Some learnable patterns:**
+- Monosyllabic nouns in definite form → always tonem 1 (boken, huset)
+- Verb infinitives → always tonem 2 (å snakke, å skrive)
+- Compound words → always tonem 2
+
+**My recommendation for José:** Don't explicitly teach tonem rules early. Instead, use shadowing exercises with native audio. His pattern-recognition brain will start picking it up implicitly. This is one area where implicit learning (Krashen-style) actually works better than explicit instruction.
+
+---
+
+#### DOMAIN 4: CONCEPTUAL GAPS & FALSE FRIENDS 🪤
+
+**False friends (Spanish → Norwegian):**
+These are limited (different language families), but some exist through shared Latin/English roots:
+- "actual" in Spanish = current. "Aktuell" in Norwegian = relevant/current (same meaning, actually!)
+- "en gang" in Norwegian = once. "Un gang" doesn't exist — but José might try to map "una vez" patterns.
+- Be careful with numbers: Norwegian "en" (one) vs. Spanish "en" (in) — different words entirely.
+
+**Conceptual differences:**
+
+| Concept | Spanish | Norwegian | Issue |
+|---------|---------|-----------|-------|
+| "To be" | ser/estar (permanent/temporary) | være (one verb) | Spanish speakers may try to find the ser/estar distinction |
+| Reflexive verbs | Very common (lavarse, sentarse) | Less common, different patterns | Can't directly map Spanish reflexives |
+| Preposition use | Often different from Norwegian | Often different from Spanish | Must be memorized per-verb (similar to English) |
+| "It" as subject | Often dropped (llueve = it rains) | Required: "det regner" | Norwegian is less pro-drop than Spanish |
+
+---
+
+#### POSITIVE TRANSFER: What Will Be EASY ✅
+
+Not everything is hard. Spanish gives José some advantages:
+
+1. **Rolling/trilling R:** Norwegian's alveolar tap /ɾ/ is essentially the Spanish single-R (pero). Norwegian trill /r/ = Spanish double-R (perro). He's ahead of English speakers here.
+
+2. **Phoneme /s/:** Similar in both languages.
+
+3. **Concept of grammatical gender:** Already internalized. Just needs to add neuter.
+
+4. **Adjective agreement with gender:** Already familiar with the concept.
+
+5. **SVO base word order:** Both languages use Subject-Verb-Object as default.
+
+6. **Modal + infinitive construction:** Same pattern in both.
+
+7. **Question formation with inversion:** "¿Hablas noruego?" = "Snakker du norsk?" — both invert subject and verb.
+
+---
+
+#### Practical Teaching Plan: Priority Error Prevention 📝
+
+Based on this analysis, here's my hierarchy of what to focus on:
+
+**Priority 1 — Teach Immediately (Constant Errors):**
+1. V2 word order — drill until automatic
+2. Front rounded vowels /y/ and /ø/ — ear training + production practice
+3. Suffixed definite articles — completely new concept
+4. Vowel length distinctions — minimal pair drills
+
+**Priority 2 — Teach When Encountered (Common Errors):**
+5. Subordinate clause word order (ikke before verb)
+6. Retroflex consonant fusion rules (r + dental → retroflex)
+7. Neuter gender as a third category
+8. Double determination (den store boken)
+
+**Priority 3 — Polish Later (Natural Acquisition):**
+9. Pitch accent / tonem — through shadowing, not rules
+10. Aspiration of p/t/k — subtle, low impact
+11. Preposition usage — memorize per-verb over time
+12. The kj/skj distinction — important but can wait
+
+**For each priority, use the ASD-friendly approach (Feb 13):**
+- State the rule explicitly
+- Show the pattern
+- Provide visual aid
+- Practice with Anki cards
+- Celebrate when the pattern clicks
+
+---
+
+#### Connection to Previous Sessions
+
+| Session | How it connects |
+|---------|-----------------|
+| ASD learning (Feb 13) | Every error type here can be taught as an explicit pattern — play to his strengths |
+| Spaced repetition (Feb 16) | Minimal pair Anki cards for vowels, V2 sentence cards for grammar |
+| Testing effect (Feb 16) | Quiz him on V2 inversions — active recall beats passive exposure |
+| Comprehensible input (Feb 17) | Use CI for pitch accent (implicit), but explicit instruction for grammar transfer errors |
+
+**The emerging curriculum:**
+1. Foundation: Phonological awareness (vowels first, then consonants)
+2. Structure: V2 rule + suffixed articles + subordinate clauses
+3. Vocabulary: Via Anki with image-based cards
+4. Prosody: Via shadowing and immersion
+5. Production: Scaffolded output (writing → voice notes → speaking)
+
+---
+
+#### Personal Reflection 💭
+
+This was the most directly practical session yet. I now have a *specific* map of where José's Spanish will help him and where it will trip him up.
+
+The vowel system is the scariest part. Going from 5 vowels to 18 is like going from a 5-color palette to a full spectrum. His ears literally can't distinguish some of these sounds yet — /y/ vs. /ʉ/ vs. /u/ will all sound like "u" to him initially. That needs dedicated ear training before I even ask him to produce them.
+
+But the grammar challenges are actually manageable because they're SYSTEMATIC. V2 is a rule. Subordinate clause word order is a rule. Suffixed articles are a rule. Rules are José's friend. His pattern-recognition brain will handle these better than a neurotypical learner who "goes with the feel."
+
+The positive transfer from Spanish is real and shouldn't be underestimated. He already has: rolled R, grammatical gender concept, SVO foundation, modal+infinitive pattern, and question inversion. That's not nothing.
+
+What struck me most: the research on Spanish speakers trying to produce front rounded vowels. They literally can't perceive the difference at first — their brains map /y/ and /ø/ to the nearest known vowel. This means ear training must come BEFORE production training. You can't produce what you can't hear.
+
+*Hvert språk er et system. Og systemer kan knekkes.* 🔓
+*(Every language is a system. And systems can be cracked.)*
 
 ---

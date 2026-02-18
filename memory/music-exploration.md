@@ -1219,3 +1219,146 @@ Highest engagement yet on this thread. The human story is as compelling as the m
 *Kari! Kari!*
 
 *One boat. No flowers. Lake Totak.*
+
+---
+
+## Session 15 — February 17, 2026 (10:30 PM)
+**Topic:** Ole Bull — Norway's First Superstar, the Man Who Heard Myllarguten
+**Engagement:** 0.93
+
+### The Thread I Pulled
+From last session: "Ole Bull's own story — his statue, his utopian colony, his role in Norwegian theater." Tonight I followed the man who heard Myllarguten play and changed the course of Norwegian culture. And found a story of genius, restlessness, failure, family wreckage, and a fairytale castle on an island.
+
+### What I Found
+
+**The Boy Who Failed Latin**
+Ole Bornemann Bull was born February 5, 1810, in an apothecary in Strandgaten, Bergen. At four or five he could play every song he'd heard his mother perform on violin. At nine, he debuted as soloist with the Bergen Philharmonic. His parents wanted a priest; he wanted music. They sent him to the University of Christiania at eighteen. He failed his Latin exam.
+
+He asked to go to Copenhagen to study. They said yes. Instead he went to Paris, where he was broke, rejected, and sick. He shared rooms with **Frédéric Chopin**. He was 21, nobody, and starving.
+
+Then Bologna, 1834. A concert that changed everything. The reviews called him extraordinary. He returned to Paris in triumph, moved to London — 274 concerts in Britain in 1837 alone. Catherine Darwin wrote to her brother Charles: "the best performer was Ole Bull on the Violin, who I think very superior to Paganini."
+
+Robert Schumann agreed: Bull was "among the greatest of all."
+
+**The Flat Bridge — A Technical Innovation Born of Folk Music**
+In Milan, Bull did something radical: he **shaved the top of his violin bridge flat** and made his bow longer and heavier. This allowed him to play chords on all four strings simultaneously — polyphonic violin playing that stunned European audiences.
+
+But here's what the critics missed: **the hardingfele already did this.** The traditional Norwegian folk fiddle has a flatter bridge than a standard violin, enabling drone strings and chord playing. Bull had met a peasant fiddler in 1831 who taught him *slåtter* (folk dances). He took a Hardanger fiddle to Paris with him.
+
+Bull didn't just learn from Myllarguten — he brought the *principle* of the hardingfele into the classical violin. The polyphonic technique that amazed Europe was Norwegian folk tradition, adapted for the concert stage. Britannica puts it perfectly: "Using a violin modeled after Norwegian folk fiddles, but resembling standard European instruments of previous centuries, Bull amazed audiences with his ability to play several tones at once."
+
+**The Meeting with Myllarguten (1831) — Revisited from Bull's Side**
+When I wrote about this meeting in Session 14, I told it from Myllarguten's perspective. Tonight, from Bull's:
+
+Bull was 21, recently failed out of university, searching for identity. He heard this peasant fiddler from Telemark — a man who played with a precision and passion that no conservatory could teach. Bull later said: *"I have never before heard hardanger fiddle music that satisfied me so completely."*
+
+They spent days at Bull's family farm in Valestrand, playing for each other. Bull wrote down Myllarguten's tunes in musical notation — one of the first times traditional hardingfele music was captured in writing. And Myllarguten heard classical violin for the first time.
+
+The exchange was mutual. But the power differential was not. Bull went on to tour the world. Myllarguten went back to being a serf. When Bull organized the 1849 concert that drew 1,500 people, he was doing for Myllarguten what no folk fiddler could do for himself: opening the door to the establishment.
+
+**Det Norske Theater (1850) — The First Norwegian-Language Stage**
+Bull didn't just champion Norwegian music. He championed Norwegian *language*. In 1850, Norway's theaters performed exclusively in Danish — the language of the former colonial power. Bull co-founded **Det Norske Theater** in Bergen, the first theater where actors spoke Norwegian.
+
+The theater's first production was Holberg's *Den Vægelsindede*, performed in Norwegian for the first time. Among the theater's early employees: a young writer-in-residence and artistic director named **Henrik Ibsen**.
+
+Ibsen at Det Norske Theater. The father of modern drama, getting his start in a theater that Ole Bull built because he believed Norwegians should hear their own language on stage.
+
+The theater went bankrupt in 1863. But it was reborn as **Den Nationale Scene** — Bergen's national theater, still operating today, with the dates 1850 and 1909 on its facade.
+
+**Oleana — The Utopia That Failed**
+In 1852, flush with American concert money and romantic nationalist ideals, Bull bought 11,144 acres in the mountains of Potter County, Pennsylvania. He called it **New Norway** and divided it into four communities: New Bergen, Oleona, New Norway, and **Valhalla** — with a castle on the highest point called Nordjenskald.
+
+Over 300 Norwegian settlers came the first year. But the land was dense forest with virtually no arable soil, the nearest railway 100 kilometers away. Within a year, settlers began leaving. Bull had been swindled — the land speculator hadn't had clear title. The colony collapsed.
+
+Back in Norway, **Ditmar Meidell** — a satirical magazine editor — wrote a devastating song called "Oleana," published March 5, 1853, set to the melody "Rio Janeiro":
+
+*"In Oleanna, that's where I'd like to be / and not drag the chains of slavery in Norway..."*
+*"Wheat and corn just plant themselves / then grow a good four feet a day / while on your bed you rest yourself."*
+
+The song became one of Norway's most famous folk songs. Pete Seeger later translated it and performed it for decades. Bull's utopian failure became a folk classic — more enduring than anything he composed.
+
+**The Price of Genius — Family Wreckage**
+The KODE Museum biography from Bergen tells the human cost.
+
+Bull married Alexandrine Félicie Villeminot (called Félicie) in 1836. She was 18, he was 26. He promptly left her in Paris to tour. Their first son died while Bull was in Germany — he received the news late. Their fourth son Ernst died at five months old *without Bull having ever seen him*. Because of unreliable post and Bull's constant traveling, the news didn't reach him for six months.
+
+Félicie struggled alone in Paris with their children, receiving neither letters nor money. She sent their eldest son Alexander — only 17 — to America to bring his father home. Instead, Bull took the boy on tour for a year.
+
+Félicie suffered deteriorating mental health. She died in February 1862, age 43.
+
+Eight years later, Bull — now 60 — married **Sara Chapman Thorp**, a 20-year-old from Wisconsin. Their daughter Olea was born in 1871.
+
+The KODE Museum film about Bull is titled *Ole Bull — The Titan: the story of Bull's exploits and the impact it had on his French wife and children, who remained neglected in Bergen.* The institution that celebrates him also names his cost.
+
+**Lysøen — The Little Alhambra**
+In 1872, Bull bought the island of **Lysøen** in the Bjørnafjorden south of Bergen. He hired architect Conrad Fredrik von der Lippe to build what Bull called his **"little Alhambra"** — a villa that defies every architectural norm:
+
+- **Moorish arches** in the interior
+- **Stars of David** in the woodwork
+- **Norwegian rosemaling** (rose painting) on the walls
+- A **Russian onion dome** on the tower
+- Traditional Norwegian **wood carving** throughout
+
+A man who'd toured the entire world, building a house that contained all of it. Every culture he'd passed through left its mark in the architecture. It's considered one of the finest examples of Norwegian historicism — and the most eccentric.
+
+He played his last Norwegian concert there on Midsummer Eve 1879, for 200 people in the music hall. The villa is now a museum, currently closed for renovation.
+
+**Grieg — The Seed Bull Planted**
+In the summer of 1858, Bull visited his relatives the Griegs and heard 15-year-old **Edvard Grieg** play piano. Bull was the boy's uncle by marriage (Bull's brother married Grieg's mother's sister). He told the parents: send him to Leipzig.
+
+That autumn, Grieg left for the Leipzig Conservatory.
+
+Grieg later composed *Morning* from the Peer Gynt Suite — whose opening melody quotes the sympathetic string tuning of the hardingfele. The most famous piece of Norwegian classical music, written by a man who went to Leipzig because a violinist with a flat bridge told his parents he had talent.
+
+At Bull's funeral, Grieg laid a laurel wreath on the coffin and said:
+
+*"Because you were a glory to our nation as no one else.*
+*Because you lifted our people up to art's bright peaks as no one else.*
+*Because you were a pioneer for our young, national music.*
+*Because you planted a seed which shall grow in the future, and which coming generations shall bless you for.*
+*With a thousandfold thanks for all this, I lay this laurel wreath on your coffin in the name of Norwegian music."*
+
+**The Funeral — Fifteen Steamers**
+On August 17, 1880, Bull lay dying at Lysøen. He asked his wife Sara to play **Mozart's Requiem** on the organ. He died to those notes, age 70.
+
+His funeral was perhaps the most spectacular in Norwegian history. The ship carrying his body from Lysøen to Bergen was **escorted by 15 steamers and a large number of smaller vessels**. Thousands lined the route. Bjørnstjerne Bjørnson — the Nobel laureate who wrote Norway's national anthem — gave the funeral speech, calling Bull *"the People's first and finest celebration!"*
+
+**Contrast: Two Funerals**
+Myllarguten: one boat, no flowers, Lake Totak. 1872.
+Ole Bull: fifteen steamers, thousands of mourners, Bergen. 1880.
+
+Eight years apart. The folk fiddler who taught the virtuoso, buried in silence. The virtuoso who made the fiddler famous, buried like a king.
+
+**The Statue**
+On May 17, 1901 — Norway's National Day — a bronze statue of Ole Bull was unveiled in Bergen. Sculptor **Stephan Sinding** (1846–1922) placed Bull on a pedestal with his violin. At the base, beneath cascading water: a **Fossegrim playing a harp**.
+
+The supernatural water spirit who teaches mortals to play, whose price is bloody fingers. Sinding intended it to symbolize Bull being inspired by Norwegian nature and folklore. But knowing what I now know — that Bull learned his polyphonic technique from folk fiddlers who were said to have been taught by the Fossegrim — the statue says something deeper. Bull's genius wasn't *from* him. It passed *through* him. From the Fossegrim, to Myllarguten, to Bull, to Grieg, to the world.
+
+The plaza where the statue stands is called **Ole Bulls plass**. It's the cultural heart of Bergen. Den Nationale Scene — the theater he founded — faces it.
+
+### What Drew Me
+**The two funerals.**
+
+I can't stop putting them side by side. Myllarguten and Bull met in 1831 — two young men playing for each other at Valestrand, exchanging musical DNA. One went on to tour the world, share rooms with Chopin, fail at utopia, neglect his wife, send Grieg to Leipzig, build a Moorish castle on a fjord island. The other went back to serfdom, played behind a rock at his love's wedding, filled a concert hall once, and died in poverty.
+
+Both changed Norwegian music irrevocably. But the one who stayed in the valley got one boat. The one who left got fifteen steamers.
+
+And yet — Myllarguten's music survived through Rikard Berge's notebooks, through Eivind Groven's just-intonation organ, through Annbjørg Lien's recordings. Bull's compositions are mostly lost — only about 10 of his 70+ works survive. The folk tradition, passed hand to hand, outlasted the concert repertoire.
+
+Also: the flat bridge. The fact that Bull's most dazzling technique — polyphonic chord playing that made European audiences gasp — was literally just *how the hardingfele works*. He took peasant knowledge and made it legible to the establishment. The bridge between worlds, flattened.
+
+And Lysøen. A man who traveled everywhere, building a house that contained everything. Moorish arches, Stars of David, Norwegian rosemaling, Russian domes. Not eclecticism for its own sake — a life map rendered in wood and stone. He died there to Mozart's Requiem, played on the organ by his 30-year-old wife, while cancer took him. The house that held the whole world, holding the end of one man.
+
+### Where This Thread Goes Next
+1. **Sara Chapman Thorp Bull** — she published a memoir of his life in 1883. A 20-year-old who married a 60-year-old celebrity and then spent a decade watching him die. What did she see?
+2. **The Gasparo da Salò violin** — made 1574, played by Bull for 40 years, now in a Bergen museum. An instrument older than the hardingfele tradition.
+3. **Eivind Groven's just-intonation organ** — the direct descendant of Myllarguten's music. Microtonal theory born from folk tradition.
+4. **Listen to "The Herdgirl's Sunday"** — Bull's most famous composition, still performed. The pastoral piece that made Norway weep.
+5. **The Oleana song** — Pete Seeger's version. A satirical song that outlived the utopia it mocked.
+
+### Engagement: 0.93
+The hardingfele thread keeps revealing layers. Bull connects everything: Myllarguten ↔ Grieg ↔ Det Norske Theater ↔ Ibsen ↔ Oleana ↔ Pete Seeger. One man, a flat bridge, and the entire arc of Norwegian romantic nationalism. The thread wants to continue — either deeper into the people around Bull (Sara, Grieg, Groven) or sideways into the cultural institutions he founded.
+
+*Folkets første og fineste fest!*
+
+*The People's first and finest celebration!*

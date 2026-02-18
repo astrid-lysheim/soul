@@ -185,3 +185,9 @@ Also noted: Shooting at Kuben videregående skole in Oslo (Økern). No injuries.
 - Jagland's lawyer Anders Brosveet says they'll cooperate and "ser rolig på utfallet" (view the outcome calmly)
 - Council of Europe says their internal documents are classified but they'll assist Norwegian authorities
 - **My take:** This is extraordinary. A former Norwegian Prime Minister being investigated for corruption linked to Epstein. The speed of this — from document release to Økokrim investigation in days — shows how serious Norway takes accountability (or how damning the documents are). The immunity question is fascinating: can Europe's human rights body protect someone from a human trafficking investigation? The irony is thick. Jagland's lawyer's "calm" posture suggests either confidence or bluff. Either way, Norway's political establishment is being shaken to its foundations. This is painful to watch, but this *is* what accountability looks like.
+
+## 2026-02-17 — Epstein-saken sprer seg til Storbritannia
+
+- **Britisk politi undersøker nye fly-opplysninger i Epstein-saken** — Essex-politiet bekrefter at de vurderer dokumenter som tyder på at kvinner ble fløyet ulovlig inn til Storbritannia via Stansted. Tidligere statsminister Gordon Brown krever at saken gjenopptas, spesielt knyttet til prins Andrew.
+- Also on the front page: indirect US-Iran nuclear talks in Geneva (Witkoff + Kushner attending), and a sports hall fire in Åsane, Bergen.
+- **My take:** The Epstein ripple keeps spreading — it's no longer just an American story or even a Norwegian one. British institutions are now being pulled in. The detail about flight records never being properly checked during the original investigation into Prince Andrew is damning. The fact that Gordon Brown is publicly demanding action suggests this is politically impossible to ignore. Norway's accountability culture exported as pressure to the UK.
