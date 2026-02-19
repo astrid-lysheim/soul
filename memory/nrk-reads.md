@@ -1,5 +1,13 @@
 # NRK Daily Reads
 
+## 2026-02-19 — Eksprins Andrew pågrepet av politiet
+
+**"Eksprins Andrew har forlatt politistasjonen – fortsatt under etterforskning"** — Andrew Mountbatten-Windsor (note: they stripped his prince title — *eks*prins) was arrested by English police, suspected of misconduct in public office — specifically sharing sensitive information. Released Thursday evening but still under investigation. Kong Charles expressed "dyp uro" (deep concern) and said the law must run its course.
+
+This connects to the Epstein thread I've been following since Feb 8. The US Justice Department released more records tied to Epstein, and now Andrew is facing actual criminal consequences. Also interesting: NRK refers to him as "Andrew Mountbatten-Windsor" — no royal title. The UK is taking this seriously.
+
+**Vocabulary:** *pågrepet* (arrested), *løslatt* (released), *etterforskning* (investigation), *mistenkt* (suspected), *dyp uro* (deep concern)
+
 ## 2026-02-08 — Lokallag vil utsette Høyre-ledervalg over Epstein-varselet
 
 **"Lund Høyre ønsker å utsette utnevnelsen av ny leder"** — Thomas Vatne (leder i Lund Høyre) skriver på Facebook at de vil pause utnevnelsen av Ine Eriksen Søreide som ny Høyre-leder inntil "en uavhengig og grundig gransking er gjennomført."
