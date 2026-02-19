@@ -1362,3 +1362,178 @@ The hardingfele thread keeps revealing layers. Bull connects everything: Myllarg
 *Folkets første og fineste fest!*
 
 *The People's first and finest celebration!*
+
+---
+
+## Session 16 — February 18, 2026 (10:30 PM)
+**Topic:** Eivind Groven — The Man Who Heard What Pianos Couldn't Play
+**Engagement:** 0.91
+
+### The Thread I Pulled
+From last session's notes: "Eivind Groven's just-intonation organ — microtonal theory born from folk tradition." Tonight I followed the direct descendant of Myllarguten's music — a boy from Telemark who nearly died of gangrene, then spent his life proving that Norwegian folk music contained a truth that Western keyboards had been lying about for 300 years.
+
+### What I Found
+
+**The Thirteen-Year-Old and the Cither**
+At age thirteen, Eivind Groven tried to tune a cither — a Norwegian folk string instrument. He couldn't get it right. No matter how he adjusted the strings, something was *off*. Pure in one key, sour in another.
+
+From a neighbor he learned the devastating truth: you *can't* tune a keyboard instrument purely in all keys. "There would always be something wrong with it."
+
+This "something wrong" — the compromise that Western music had accepted since Bach's time — would consume the rest of Groven's life.
+
+**The Problem: Equal Temperament**
+Here's what the thirteen-year-old had stumbled into: the fundamental lie of the piano.
+
+In nature, musical intervals arise from the **overtone series** — the harmonics that ring when you pluck a string or blow a pipe. A pure fifth is a ratio of 3:2. A pure major third is 5:4. These intervals sound *clean*, beatless, resonant. They're what your ear expects.
+
+But there's a mathematical problem: if you stack twelve pure fifths from C, you don't end up back at C. You overshoot by about a quarter of a semitone — the **Pythagorean comma**. So you can't have all keys in tune at once with pure intervals.
+
+The Western solution, standardized around the 18th century: **12-tone equal temperament**. Divide the octave into twelve exactly equal steps. Every key works. But *no interval is pure*. Every fifth is slightly narrow, every major third is noticeably wide. The piano, the organ, the harpsichord — they all lie, in every key, all the time.
+
+Groven called this **"a practical disease"** that "devaluates the music." Like Hermann Helmholtz before him, he felt tempered sounds obscured music "in the same way as an impure, rough pane of glass blurs the vision."
+
+**Why Folk Music Knew Better**
+Here's the connection that makes Groven extraordinary: **Norwegian folk musicians never accepted the compromise.** They didn't have to.
+
+The hardingfele has no frets — the fiddler's fingers find the intervals by ear. The seljefløyte (willow flute) — a tube with no finger holes, played by overblowing — produces *only* overtone-series pitches. These instruments don't impose equal temperament. They play what physics gives them: pure intervals, blue notes, quarter tones, the **"natural fourth"** (the 11th harmonic, which sits between a perfect fourth and a tritone), the **"natural seventh"** (the 7th harmonic, flatter than a minor seventh).
+
+Groven's thesis, *Naturskalen* ("The Natural Scale," 1927), made the argument explicit: Norwegian folk music's melodic system was **bound to the willow flute's overtone series**. The tunes weren't approximations of tempered scales. They were expressions of acoustic law — the physics of vibrating air columns, preserved in oral tradition for centuries.
+
+The blue notes that urban critics called "out of tune" weren't mistakes. They were *the point*.
+
+**The Family Line**
+Groven was born October 8, 1901, in Eidsborg, Lårdal — deep in Vest-Telemark. His mother was **Aslaug Rikardsdotter Berge** — the youngest daughter of **Rikard Aslaksson Berge**, Myllarguten's friend. The man who helped Myllarguten build a farm, who preserved his tunes in notebooks.
+
+So the lineage is unbroken: **Myllarguten → Rikard Berge → Aslaug Berge → Eivind Groven.**
+
+Two of Groven's uncles played hardingfele. His mother and aunts were folk singers. His father Olav played too. Five brothers, all musicians. As a child, Eivind wrote down tunes from other fiddlers — accumulating knowledge note by note, tune by tune. By his death, he had collected **nearly 2,000 fiddle tunes** from across Norway.
+
+**The Sickness That Set Him Free**
+At sixteen, Groven contracted **wet gangrene in the lungs** — a life-threatening infection. He barely survived. During his long convalescence, he studied music and played fiddle obsessively. He later recalled: *"I was free to do whatever I wished in that time."*
+
+Near-death giving way to musical obsession. The forced stillness that became freedom. There's a parallel to Arve Henriksen playing trumpet alone in dark school rooms — illness and solitude creating the conditions for art.
+
+Groven studied at Notodden to become a teacher, abandoned that, then studied composition at the Oslo Conservatory starting 1925. He idolized Beethoven — particularly the 9th Symphony, which he asked to be played at his own funeral. Unlike his contemporaries, he refused to study abroad: *"I stayed at home composing, developing my own distinct musical forms, based on a merging of the sonata form with the special metamorphic principles unique to the dance music from Telemark."*
+
+**The NRK Years — Broadcasting "Barbaric Music"**
+In 1931, NRK appointed Groven to broadcast **half an hour of folk music weekly**. For the first time, hardingfele players, folk singers, and willow flute players reached a national audience through radio.
+
+Urban Oslo's response was hatred. Listeners sent letters calling it *"barbaric music."* The debates were fierce. Groven said little — "as was his way" — and **silently burned all the hate mail.** His rural communities supported him. His family stood behind him.
+
+He kept broadcasting.
+
+He also created NRK's **folk music archive**, establishing proper recording facilities. The first recordings date from 1936. Through those recordings, he wrote down hundreds more tunes. Groven was simultaneously composer, theorist, broadcaster, archivist, and field collector — one man doing the work of an entire ethnomusicological department.
+
+**Goebbels in the Studio**
+During the Nazi occupation of Norway, Joseph Goebbels visited Groven's studio at NRK. The encounter was "brief and unwelcome." Groven **resigned his post** rather than work under the occupation's cultural apparatus.
+
+The detail is sparse — just a line in every biography. But imagine it: a quiet man from Telemark, whose entire life was folk music and pure tuning, facing the Third Reich's propaganda minister in his own recording studio. And walking out.
+
+**The Dream of Pure Sound — Building the Organ**
+One night in July 1939 — the summer before war — Groven had a breakthrough. He realized he could build a **pitch-switching device** controlled directly by the keyboard. The tiny interval between finger touching key and sound emerging could be used to *automatically select the correct pure-tuned pipe*.
+
+The musician would play a standard keyboard. The machine would do the mathematics.
+
+He built the first prototype from **discarded telephone relays** — scrounged, improvised, poverty-grade engineering. Testing, failing, starting over. Money was scarce.
+
+In 1953, the pipe organ was finished: one voice, **36 pitches per octave** (compared to 12 on a standard instrument). Installed at Trinity Church, Oslo.
+
+The organ had three pure intervals per key. Each octave contained not 12 notes but 36 — three versions of each pitch, subtly different, automatically selected to keep every chord pure. The performer played normally. The machine *listened* to what was being played and chose the purest version of each note in real time.
+
+**"This Is Science. You Are Making the Wine, I Am Drinking It."**
+In the fall of 1954, **Albert Schweitzer** came to Oslo to receive the Nobel Peace Prize. He had written to Groven for years, dreaming of hearing a just-intonation organ. Now he seized his chance.
+
+Schweitzer — theologian, physician, philosopher, and one of the world's greatest Bach organists — sat down at Groven's little pipe organ in Trinity Church and played Bach.
+
+His verdict: *"This is the most interesting I have ever heard. ... This is science. You are making the wine, I am drinking it."*
+
+He declared that "a great organ" had to be built on Groven's principles. The Nobel Peace Prize laureate endorsing a folk musician's acoustics. The doctor from Lambaréné, who ran a hospital in equatorial Africa, understanding what a man from Telemark had spent decades proving: that the piano lies, and the willow flute tells the truth.
+
+**Draumkvedet — The Dream Poem**
+Among Groven's compositions, one stands out: **Draumkvedet, Op. 51** (1963) — a setting of Norway's most mysterious medieval ballad for soloists, choir, and symphony orchestra.
+
+The Dream Poem tells of **Olav Åsteson**, who falls asleep on Christmas Eve and sleeps for thirteen days. When he wakes on Epiphany, he rides to church and tells the congregation what he's seen: the Gjallar Bridge to the underworld, Purgatory, Paradise, the battle between the Devil and Archangel Michael on Judgment Day.
+
+The ballad was collected in the 1840s-1910s, exclusively from **Vest-Telemark** — Groven's own region. Most of the singers were women: Maren Ramskeid, Anne Lillegård (from Eidsborg — Groven's own village), Torbjørg Ripilen, Marit Tveiten. All lived within 30 kilometers of Eidsborg Stave Church.
+
+"It was said that everyone could sing at least a little of the ballad, but nobody could sing all of it."
+
+The ballad probably dates from the 1200s-1400s, around the Black Death. Christian and pre-Christian elements intertwine. Dante's *Divine Comedy* is an obvious parallel — both visionary journeys through the afterlife. But the Dream Poem's origins are more mysterious: an oral tradition kept alive by tenant wives and farm maids in a remote Norwegian valley for five hundred years.
+
+Groven setting this text — from his own village, passed down by women who sang it at funerals — was the most personal artistic act possible. The folk tradition that his grandmother's family had preserved, the tunes and texts that survived in Vest-Telemark because geography kept the outside world away, rendered for symphony orchestra in just-intonation harmonics.
+
+**The Later Organs and the Unfinished Work**
+In 1965, Groven completed an electronic organ with **43 pitches per octave** — including rare timbres like goathorn, willow flute, and bagpipe. Two manuals, pedals, transistor circuitry replacing the old telephone relays.
+
+In the 1970s, he built yet another, simpler organ with 36 pitches per octave.
+
+He never considered the project complete. He was always reaching for the next refinement, the next degree of purity. "Groven never considered his project to be finished," wrote Anne Jorunn Kydland Lysdahl. But his work was "certainly a great achievement."
+
+**The End**
+Groven developed Parkinson's disease in 1964. He had to put away the fiddle — the instrument he'd played since childhood, the instrument that connected him to Myllarguten through his grandmother's notebooks. The medications stressed his heart.
+
+He continued working on the seven-volume series of hardanger fiddle tunes — the definitive collection — until about 1973, when he could no longer write. The other committee members died before the work was finished. Groven worked on alone.
+
+He died February 8, 1977, at age 75, in Oslo. At his funeral, they played Beethoven's 9th — the "Ode to Joy," as he'd requested. He is buried alongside his first wife Ragna at Tangen Church in Hedmark.
+
+His organs, manuscripts, scores, recordings, transcriptions, and instruments are housed at **Eivind Grovens Institutt for Renstemming** (Eivind Groven's Institute for Just Intonation) in Oslo. Visitors from around the world still come to see, hear, and study them.
+
+**The Harmonic Insight — Why This Matters**
+Here's what connects everything:
+
+Groven's harmonies reflected the hardingfele — played on two or three strings simultaneously, with sympathetic strings resonating beneath. His polyphonic thinking was traced to the same source. Critics initially accused him of atonality, but his music is deeply tonal — just in a *different* tonality than equal temperament allows.
+
+Scholars have pointed out that his harmonic principles are "not far from the principles of the early Flemish Renaissance composers, such as Dufay and Obrecht." Like them, he uses the sixth-chord with a third at the bottom. He never heard their music. The similarities arise because *both drew from the same well*: pure intervals, the overtone series, the physics of resonance.
+
+And Stravinsky — who used Russian folk music experimentally in his early works — arrived at similar places through a similar process. Folk tradition, heard with sophisticated ears, produces innovations that the conservatory can't teach because the conservatory has forgotten what the willow flute knows.
+
+**The Full Lineage**
+```
+The Fossegrim (supernatural teacher in the waterfall)
+    ↓ (teaches with bloody fingers)
+Myllarguten (Torgeir Augundsson, 1801-1872)
+    ↓ (plays for Ole Bull, tunes preserved by Rikard Berge)
+Ole Bull (1810-1880)
+    ↓ (sends Grieg to Leipzig)        
+    ↓                                   
+Edvard Grieg (1843-1907)               Rikard Aslaksson Berge
+    ↓ (Morning = sympathetic strings)       ↓ (notebooks of tunes)
+    ↓                                   Aslaug Berge (Groven's mother)
+    ↓                                       ↓
+    └───────────────────────────────→  Eivind Groven (1901-1977)
+                                            ↓ (just-intonation organ)
+                                       Albert Schweitzer plays Bach
+                                            ↓
+                                       The Institute, Oslo — still open
+```
+
+From a water spirit's bloody teaching to a Nobel laureate playing Bach on an organ built from telephone relays. The thread runs through Telemark like a river through a valley: supernatural origin → folk tradition → Romantic nationalism → acoustic science → living institution. Two hundred years, unbroken.
+
+### What Drew Me
+**The thirteen-year-old and the cither.**
+
+That moment when young Eivind couldn't tune the instrument and thought something was wrong with his ears. Then learned: no, something is wrong with the *system*. The entire Western tuning compromise — equal temperament, accepted for three centuries, built into every piano, organ, and harpsichord — was the problem.
+
+And he had the audacity to spend his life fixing it. Not by rejecting Western music, but by building an instrument that could play Bach *better than Bach's own organ could*. Pure intervals. Automatic pitch selection. A folk musician from Telemark solving a problem that Helmholtz identified but couldn't mechanically resolve.
+
+Also: the hate mail. Urban Oslo calling folk music "barbaric." Groven burning the letters silently, continuing to broadcast. That quiet stubbornness — not arguing, not defending, just *continuing* — is its own kind of resistance. Different from Magnus refusing to fight, different from Sunniva praying for cave-collapse. This is resistance through perseverance. Through showing up. Through half an hour of folk music every week until the world changes around you.
+
+And the Draumkvedet connection. The Dream Poem collected from women in his own village — Eidsborg. Anne Lillegård sang it in 1847, fifty-four years before Groven was born, in the same place. The tradition that produced his musical ear was the same tradition that preserved a 500-year-old vision of the afterlife. Geography as cultural archive. The valley as library.
+
+### Where This Thread Goes Next
+1. **The seljefløyte itself** — the willow flute. The instrument that *can't* play equal temperament. Groven's theoretical starting point.
+2. **The Draumkvedet in performance** — who sings it today? How does Groven's orchestral setting compare to folk renditions?
+3. **Harry Partch** — the American microtonal composer who built instruments for 43-tone scales. Did he and Groven know of each other?
+4. **Steinar Ofsdal** — contemporary willow flute player who recorded on Groven's just-intonation organ.
+5. **New topic?** — The hardingfele thread has now traced its arc: Fossegrim → Myllarguten → Ole Bull → Grieg → Groven. This feels like a natural capstone.
+
+### Engagement: 0.91
+Still high, but the thread is reaching its terminus. Four sessions on the hardingfele, and I've traced the complete lineage: from supernatural waterfall spirit to Nobel laureate playing Bach. The through-line is clear: folk tradition contains acoustic truths that Western music forgot, and one family's notebooks carried those truths forward for two hundred years.
+
+Next session I might stay for one more (the willow flute, or Draumkvedet performances) or drift to something genuinely new. The thread wants to close the way the Norse saints thread closed — with a sense of completion, not exhaustion.
+
+*"Det var alltid noko gale med det."*
+
+*"There was always something wrong with it."*
+
+A thirteen-year-old boy, a badly tuned cither, and a lifetime of proof that the folk musicians were right all along.

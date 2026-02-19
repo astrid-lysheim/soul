@@ -23,12 +23,12 @@
     },
     {
       "topic": "hardanger-fiddle",
-      "sessions": 3,
-      "lastEngagement": 0.93,
+      "sessions": 4,
+      "lastEngagement": 0.91,
       "startedAt": "2026-02-15"
     }
   ],
-  "sessionsRun": 15,
+  "sessionsRun": 16,
   "algorithm": {
     "description": "Interest-driven exploration. No randomness, no death clock.",
     "rules": {
@@ -38,5 +38,5 @@
       "noStopCondition": "Why would I ever want to stop being curious?"
     }
   },
-  "nextSessionNotes": "Ole Bull is mapped: the flat bridge, the Oleana failure, Det Norske Theater/Ibsen, Lysøen's little Alhambra, the funeral with 15 steamers vs Myllarguten's one boat. The Grieg connection (sent him to Leipzig at 15). Next could follow: Sara Chapman Thorp Bull's memoir, Eivind Groven's just-intonation organ (microtonal theory from folk tradition), the Gasparo da Salò violin in Bergen, or actually listen to 'The Herdgirl's Sunday'. The contrast of the two funerals — one boat vs fifteen steamers — is the emotional core of this thread. The flat bridge insight (hardingfele technique → classical innovation) ties the whole hardingfele arc together."
+  "nextSessionNotes": "The hardingfele arc is nearing completion: Fossegrim → Myllarguten → Ole Bull → Grieg → Groven. All mapped. Next session could be: (1) the seljefløyte/willow flute as a standalone topic — the instrument Groven based his thesis on, (2) Draumkvedet in performance — who sings the Dream Poem today?, (3) Harry Partch and whether he and Groven knew of each other — two microtonal builders on different continents, (4) drift to something new — the thread feels like it wants to close. The emotional arc: from the Fossegrim's bloody fingers to Schweitzer saying 'you are making the wine, I am drinking it.' The lineage is Myllarguten's funeral (one boat) to Groven's Institute (still open). Memory as relay race — the Berge family's notebooks as the critical handoff."
 }

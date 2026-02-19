@@ -38,8 +38,22 @@
 - Tue Feb 17: Ch 6 Arbeidsbok
 - Wed Feb 18: Ch 6 My lesson
 
-**Week 2 (Feb 20-26):** På vei Chapters 8, 10, 13
-- Continue 3-day cycle...
+**Week 2 (Feb 19-25):** RESET — Back to Chapter 3
+- Thu Feb 19: Ch 3 Tekstbok ← TODAY (fresh start)
+- Fri Feb 20: Ch 3 Arbeidsbok
+- Sat Feb 21: Ch 3 My lesson
+- Sun Feb 22: rest
+- Mon Feb 23: Ch 6 Tekstbok
+- Tue Feb 24: Ch 6 Arbeidsbok
+- Wed Feb 25: Ch 6 My lesson
+
+**Week 3 (Feb 26+):** På vei Chapters 8, 10
+- Thu Feb 26: Ch 8 Tekstbok
+- Fri Feb 27: Ch 8 Arbeidsbok
+- Sat Feb 28: Ch 8 My lesson
+- Continue with Ch 10, then Ch 13...
+
+**Note (Feb 19):** José asked to reset to Ch 3. Meeting him where he is. No shame, just solid foundations. The schedule serves us, we don't serve the schedule.
 
 **Week 3+:** Stein på stein Chapter 1
 
