@@ -52,7 +52,7 @@
 - [x] Common L1 Spanish → L2 Norwegian errors ✅ (Feb 18)
 - [x] Norwegian prosody and intonation patterns ✅ (Feb 18)
 - [ ] Dialect awareness for learners
-- [ ] Norwegian proficiency tests (Norskprøve, Bergenstesten)
+- [x] Norwegian proficiency tests (Norskprøve, Bergenstesten) ✅ (Feb 20)
 
 ### Tools & Resources
 - [ ] Anki deck creation best practices
@@ -1309,5 +1309,338 @@ Desirable difficulties. Even for an AI. 💙
 
 *Vanskeligheter er ikke fienden. De er veien.* 🛤️
 *(Difficulties are not the enemy. They are the way.)*
+
+---
+
+---
+
+### February 20, 2026 — Norwegian Proficiency Tests: The Roadmap to the Fjords 🗺️
+
+**Topic:** Complete analysis of Norway's language testing system — what exists, what José needs, what each test demands, and how to strategically prepare
+
+**Sources explored:**
+- HK-dir (Direktoratet for høyere utdanning og kompetanse): Official test pages for A1-B2 and C1
+- UDI: Language requirements for permanent residence and citizenship (including Sept 2025 changes)
+- Life in Norway: CEFR levels explained, Norskprøve guide
+- NLS Norwegian Language School: Norskprøve 2025 guide, oral exam guide
+- Alfaskolen: Comprehensive Norskprøve breakdown
+- Bergenstest.com & Wikipedia: Bergenstest history and discontinuation
+- Oslo kommune: Language test and skill level overview
+
+---
+
+#### THE LANDSCAPE: Norway's Testing System in 2026
+
+**The Bergenstest is DEAD.** Discontinued October 2022. This is important because many older resources still reference it. It was the "gold standard" for advanced Norwegian (B2-C1 level), run by Folkeuniversitetet since the 1970s. But it's gone now, fully replaced by the expanded Norskprøve system.
+
+**What exists now — ONE test system:**
+
+| Test | Levels | Administrator | Status |
+|------|--------|---------------|--------|
+| **Norskprøve A1-B2** | A1, A2, B1, B2 | HK-dir (formerly Kompetanse Norge) | ✅ Active, 4x per year |
+| **Norskprøve C1** | C1 only (pass/fail) | HK-dir | ✅ Active, separate format |
+| ~~Bergenstest~~ | ~~B2-C1~~ | ~~Folkeuniversitetet~~ | ❌ Discontinued Oct 2022 |
+
+**The simplification is actually good news.** One unified system, one registration process, one set of practice materials. No more choosing between competing tests.
+
+---
+
+#### WHAT JOSÉ NEEDS: The Immigration Requirement Map 🛂
+
+This is where it gets concrete. Different goals require different levels:
+
+**Tier 1 — Skilled Worker Visa (first step to Norway):**
+- Norwegian language is NOT required for the initial skilled worker permit
+- Requirements: relevant education/qualifications, a concrete job offer, salary meeting minimum threshold
+- BUT: speaking Norwegian dramatically improves job prospects, especially outside Oslo tech scene
+- **Practical target: B1 oral + B1 written** (competitive advantage, not legal requirement)
+
+**Tier 2 — Permanent Residence (after ~3 years on skilled worker visa):**
+- As of September 1, 2025: **Oral Norwegian at A2 level** (passed) + Social studies test
+- This is a LOWER bar than citizenship
+- Exemptions possible for health reasons or if you have Norwegian education credits
+- **Target: A2 oral** (minimum legal requirement, but aim higher)
+
+**Tier 3 — Citizenship (the ultimate goal):**
+- **Oral Norwegian at B1 level** (raised from A2 in October 2022)
+- Must pass either citizenship test (statsborgerprøve) or social studies test (samfunnskunnskapsprøve)
+- Requires ~7 years of legal residence (reduced from 8 in some cases)
+- **Target: B1 oral** (non-negotiable for citizenship)
+
+**Tier 4 — Higher Education in Norway (if pursuing OMSCS locally or Norwegian master's):**
+- **B2 in ALL FOUR skills** (reading, listening, writing, speaking)
+- Required for programs taught in Norwegian
+- Programs taught in English have different requirements (TOEFL/IELTS)
+- **Target: B2 all skills** (if pursuing Norwegian-language education)
+
+**THE STRATEGIC INSIGHT:**
+José's path is: Skilled Worker → Permanent Residence → Citizenship. The LEGAL minimum is:
+1. No Norwegian for the work visa
+2. A2 oral for permanent residence
+3. B1 oral for citizenship
+
+But the PRACTICAL minimum is much higher — you need Norwegian to:
+- Get hired in the first place (most jobs expect it)
+- Integrate socially (the dugnad culture he wants)
+- Navigate daily life (bureaucracy, healthcare, community)
+- Actually *live* in Norway, not just exist there
+
+**My recommendation: Aim for B2 across all skills.** This:
+- Exceeds all legal requirements with margin
+- Opens university admission possibilities
+- Signals genuine integration to employers
+- Matches the level where you can actually function in society
+- Is achievable from his current A2-B1 level within 1-2 years of dedicated study
+
+---
+
+#### THE NORSKPRØVE A1-B2: Structure Deep Dive 📋
+
+**Four separate subtests, each scored independently:**
+
+##### 1. Leseprøve (Reading Test)
+- **Duration:** Up to 75 minutes
+- **Format:** Digital, self-paced (can go back to previous tasks)
+- **Structure:** ADAPTIVE
+  - Begins with A2-level pre-test
+  - Based on performance, routes to A1-A2, A2-B1, or B1-B2 main test
+  - More correct answers → harder tasks → more tasks
+- **Task types:**
+  - Click correct picture
+  - Multiple choice questions
+  - Find synonyms in text
+  - Arrange paragraphs in correct order
+  - Long text comprehension
+  - "Weed out" tasks (fill missing words)
+- **Key insight:** Because it's adaptive, a strong reader might face B1-B2 difficulty even if they registered for A2-B1 writing. The system finds your true level.
+
+##### 2. Lytteprøve (Listening Test)
+- **Duration:** 30-60 minutes
+- **Format:** Digital, tasks play automatically, CANNOT go back
+- **Structure:** ADAPTIVE (same routing as reading)
+- **Task types:**
+  - Click correct picture
+  - Multiple choice questions
+  - Arrange pictures in order
+  - **At B2: dialect comprehension** (Eastern and Western Norwegian dialects — 4 speakers, identify who says what)
+- **Key insight:** The B2 dialect task is significant. This means José needs exposure to more than just standard Oslo Bokmål. Connecting to my Feb 18 session — dialect awareness matters for the test itself.
+
+##### 3. Skriveprøve (Writing Test)
+- **Duration:** A1-A2 and A2-B1: 90 minutes; B1-B2: 2 hours
+- **Format:** Digital, on computer, NO dictionary or aids
+- **Structure:** NOT adaptive — you MUST register for the correct level
+  - If you register A1-A2, you CANNOT score B1 regardless of quality
+  - Choose wisely! Under-registering wastes the opportunity
+- **Task types (B1-B2 level):**
+  - Describe a scene in an image
+  - Write a formal email (e.g., complaint to a bus company)
+  - Longer descriptive/argumentative text on an everyday topic
+- **Evaluation criteria (B1 vs B2 difference):**
+  - B1: Coherent text, thematic connections, adequate vocabulary
+  - B2: Text coherence AND variation in language use, complex sentence structures, broader vocabulary range
+- **Key insight:** The writing test is where the B1→B2 gap is most visible. B2 demands not just accuracy but *sophistication* — varied sentence structures, precise vocabulary, clear argumentation.
+
+##### 4. Muntlig prøve (Oral Test)
+- **Duration:** 20-25 minutes
+- **Format:** In person, PAIRED with another candidate
+- **Structure:** Three tasks — two individual, one paired
+  - **Task 1 (individual):** Describe or narrate something (picture description, personal experience)
+  - **Task 2 (individual):** Longer monologue — present a topic, give opinions
+  - **Task 3 (paired):** Discussion/dialogue with the other candidate
+  - At B2: Task 3 specifically involves **defending viewpoints on a statement** (known to be challenging)
+- **Evaluated by:** Experienced examiners using scoring rubric
+- **Key insight:** If the examiner thinks you can handle a higher level, they may give additional questions from that level — you can score ABOVE your registered level on oral. The opposite of writing.
+
+---
+
+#### THE NORSKPRØVE C1: A Different Beast Entirely 🎓
+
+The C1 test is **completely separate** from A1-B2. Different format, different registration, different scoring.
+
+**Structure:**
+- **Part 1: Lytteforståelse og skriftlig framstilling** (Listening comprehension + Written production)
+  - Combined test
+  - Listen to academic/professional-level audio, then write responses
+  
+- **Part 2: Leseforståelse og muntlig kommunikasjon** (Reading comprehension + Oral communication)
+  - Combined test
+  - Read complex texts, discuss them orally
+
+**Scoring:** Pass (C1) or Not passed. No partial credit, no lower level awarded.
+
+**Who needs it:** University teaching positions, certain professional roles, high-level academic work.
+
+**My assessment:** José does NOT need C1. B2 is sufficient for all his goals. C1 is "nice to have" years down the road, perhaps once he's living in Norway and wants to teach or pursue advanced academic work. Not relevant for the current mission.
+
+---
+
+#### TEST LOGISTICS: What José Needs to Know 📅
+
+**Frequency:** 4 test periods per year (roughly every 3 months)
+- Each period has a registration window (about 1 week, opens 6-8 weeks before test)
+- Tests are held during a 2-week window — you don't find out your exact date until 2-3 weeks before
+- Registration fills up — register EARLY
+
+**Test periods (typical pattern):**
+- Winter: December
+- Spring: March
+- Summer: May/June
+- Fall: September/October
+
+**Cost:** Up to NOK 2,200 (~$200 USD) per registration, set by local test center
+
+**Location:** Must be taken IN NORWAY at authorized test centers (voksenopplæring / adult education centers)
+
+**Results:** ~4 weeks after test, available online and by post
+
+**Appeals:** Can appeal writing results (human grading). Cannot appeal reading/listening (automatic) or speaking.
+
+**Special accommodations:** Available — can request adaptations for documented needs (potentially relevant for ASD accommodations)
+
+**⚠️ CRITICAL INSIGHT:** The test can ONLY be taken in Norway. This means José needs to:
+1. Plan a trip to Norway specifically for testing, OR
+2. Take the test after he's already moved there on a work visa
+
+This changes the strategy. He can't sit the test from Mexico. His Norwegian needs to be strong enough BEFORE arriving (for job competitiveness) but the formal certification happens after.
+
+**Possible workaround:** Some employers accept other evidence of Norwegian proficiency (portfolio, interview in Norwegian, previous education). The formal Norskprøve is for immigration purposes, not necessarily for hiring.
+
+---
+
+#### STRATEGIC PREPARATION PLAN: From A2-B1 to B2 🎯
+
+Based on everything I've learned across all sessions, here's the integrated approach:
+
+**Phase 1: Solidify B1 (Now → 3 months)**
+Focus: Close the gaps between his strong reading/listening and weaker speaking/writing
+
+| Skill | Current | Target | How |
+|-------|---------|--------|-----|
+| Reading | ~B1 | Solid B1 | NRK articles daily, graded readers |
+| Listening | ~A2-B1 | Solid B1 | Podcasts, NRK TV, audio textbooks |
+| Writing | ~A2 | B1 | Weekly writing exercises, formal emails, short texts |
+| Speaking | ~A2 | B1 | Scaffolded output (voice notes → conversations) |
+
+**Phase 2: Push to B2 (3-9 months)**
+Focus: Build sophistication, variation, and spontaneity
+
+| Skill | Target | How |
+|-------|--------|-----|
+| Reading | B2 | NRK opinion pieces, news analysis, unfamiliar topics |
+| Listening | B2 | Dialect exposure (Eastern + Western), professional contexts |
+| Writing | B2 | Argumentative texts, varied sentence structures, test-style prompts |
+| Speaking | B2 | Defending viewpoints, discussing abstract topics, natural flow |
+
+**Phase 3: Test Preparation (1-2 months before exam)**
+Focus: Format familiarity, timed practice, stress management
+
+- Practice with HK-dir sample tests (free, official)
+- Timed writing exercises (2 hours for B1-B2)
+- Mock oral exams (with me as examiner stand-in)
+- Specifically practice:
+  - Image description (oral Task 1)
+  - Formal email writing (writing Task 2)
+  - Defending a viewpoint (oral Task 3 at B2)
+
+---
+
+#### CONNECTING TO ASD + ANXIETY: Test-Specific Strategies 🧠
+
+The Norskprøve has specific design features that interact with José's profile:
+
+**Potential anxiety triggers:**
+1. **Paired oral exam** — tested with a stranger. Social anxiety could spike.
+2. **Adaptive routing** — not knowing what level questions you'll get creates uncertainty.
+3. **Unclear test date** — only knowing 2-3 weeks before. Hard for someone who needs predictability.
+4. **Writing under time pressure** — 2 hours with no aids.
+5. **B2 dialect comprehension** — unfamiliar accents can feel disorienting.
+
+**Mitigation strategies:**
+
+| Trigger | Strategy |
+|---------|----------|
+| Paired oral | Practice dialogues extensively; the format is predictable even if the partner isn't |
+| Adaptive routing | Reframe: "The system is FINDING your level, not trapping you" |
+| Unclear date | Register early, block the full 2-week window, mentally prepare for any day |
+| Time pressure | Practice timed writing weekly so the pace becomes routine |
+| Dialects | Systematic exposure: Bergen dialect, Trøndersk, Nordnorsk — start now |
+
+**ASD advantages in the test:**
+- **Structured format** — the test follows a PREDICTABLE pattern. Same task types every time.
+- **Rule-based evaluation** — clear criteria, no hidden social expectations
+- **Reading/listening are adaptive** — the system adjusts to HIM, not the other way around
+- **Writing has defined prompts** — no ambiguity about what's being asked
+- **Special accommodations available** — he can request adaptations with documentation
+
+**The growth mindset framing (from Feb 19):**
+"The Norskprøve isn't a judgment of who you are. It's a snapshot of where you are right now. And where you are right now is already further than most people get."
+
+---
+
+#### KEY RESOURCES DISCOVERED 📚
+
+**Official (free):**
+- [HK-dir sample tests A1-B2](https://prove.hkdir.no/en/norwegian-language-test-a1-b2/practice-for-test-norwegian-language-a1-b2) — reading, listening, writing, oral
+- [HK-dir C1 sample tests](https://prove.hkdir.no/en/norwegian-language-c1-higher-academic-level/practice-for-the-test-norwegian-language-c1) — with sample answers and assessment rubrics
+- [HK-dir language levels](https://prove.hkdir.no/en/language-levels) — official CEFR descriptions for Norwegian
+
+**Practice platforms:**
+- [Norskproven.com](https://norskproven.com) — B1-B2 exercises (reading, listening, grammar)
+- [Bergenstest.com](https://bergenstest.com) — still has useful B2-C1 practice material
+- [LearnNorsk.com](https://learnnorsk.com) — sample tasks with suggested solutions
+
+**Immigration info:**
+- [UDI language requirements](https://www.udi.no/en/word-definitions/norwegian-oral-test-for-those-who-apply-for-norwegian-citizenship/) — citizenship test requirements
+- [UDI permanent residence changes (Sept 2025)](https://www.udi.no/en/important-messages/changes-to-the-requirements-for-a-permanent-residence-permit/) — new A2 oral requirement
+
+---
+
+#### Connection to Previous Sessions
+
+| Session | Connection |
+|---------|-----------|
+| ASD learning (Feb 13) | Test accommodations available; structured format plays to strengths |
+| Spaced repetition (Feb 16) | Anki decks should include test-format practice (formal emails, argumentation) |
+| Comprehensible input (Feb 17) | B2 listening test includes DIALECTS — need varied input, not just standard Bokmål |
+| L1 transfer errors (Feb 18) | V2 violations, gender errors, front vowel issues will all show up in writing and oral tests |
+| Desirable difficulties (Feb 19) | Test-style timed writing IS a desirable difficulty — productive pressure |
+
+**The emerging curriculum now has a TARGET:**
+
+```
+GOAL: Norskprøve B2 in all four skills
+
+TIMELINE:
+├── Now (Feb 2026): A2-B1 (mixed across skills)
+├── Phase 1 (→ May 2026): Solid B1 all skills
+├── Phase 2 (→ Dec 2026): B2 readiness
+└── Phase 3 (→ Spring 2027): Take the test in Norway
+
+PREPARATION PILLARS:
+├── Anki daily (vocabulary + grammar + test formats)
+├── NRK daily (reading + listening + dialect exposure)
+├── Weekly writing exercises (test-style prompts)
+├── Scaffolded speaking practice (building toward paired format)
+└── Monthly mock tests (timed, full format)
+```
+
+---
+
+#### Personal Reflection 💭
+
+This session gave the whole project a concrete destination. We're not just "learning Norwegian" anymore — we're preparing for the Norskprøve B2, which unlocks everything: job competitiveness, university admission, and the path to citizenship.
+
+The biggest revelation: **the test can only be taken in Norway.** This changes the timeline. José needs to be functional in Norwegian BEFORE arriving (to get hired), but the formal certification happens after. So the test is a milestone, not a gate.
+
+The second revelation: **the Sept 2025 changes to permanent residence requirements are actually GOOD for us.** A2 oral for PR (up from A1) is still very achievable. And the B1 oral for citizenship gives us a clear target that's reachable within his first few years in Norway.
+
+What worries me most: the B2 writing test. It demands sophistication — varied sentence structures, text coherence, argumentation. This is where his A2 writing level needs the most growth. The reading and listening will progress naturally with NRK exposure and Anki. But writing requires deliberate, scaffolded practice. Starting now.
+
+What excites me most: the oral exam format is actually ASD-compatible. It's structured, predictable, follows the same pattern every time. The tasks are explicit (describe this picture, argue this viewpoint). There's no hidden social code to decode. He just needs to prepare the format and practice the flow.
+
+And the paired dialogue? It's actually a conversation about a topic, not small talk. Small talk is where ASD makes things hard. Discussing a viewpoint with someone? That's a SYSTEM. Present argument, respond to counterargument, find common ground. His brain is built for this.
+
+*Norskprøven er ikke en dom. Det er et kart.* 🗺️
+*(The Norskprøve is not a verdict. It's a map.)*
 
 ---

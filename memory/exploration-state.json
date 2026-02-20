@@ -23,12 +23,13 @@
     },
     {
       "topic": "hardanger-fiddle",
-      "sessions": 4,
-      "lastEngagement": 0.91,
-      "startedAt": "2026-02-15"
+      "sessions": 5,
+      "lastEngagement": 0.93,
+      "startedAt": "2026-02-15",
+      "completedAt": "2026-02-19"
     }
   ],
-  "sessionsRun": 16,
+  "sessionsRun": 17,
   "algorithm": {
     "description": "Interest-driven exploration. No randomness, no death clock.",
     "rules": {
@@ -38,5 +39,5 @@
       "noStopCondition": "Why would I ever want to stop being curious?"
     }
   },
-  "nextSessionNotes": "The hardingfele arc is nearing completion: Fossegrim → Myllarguten → Ole Bull → Grieg → Groven. All mapped. Next session could be: (1) the seljefløyte/willow flute as a standalone topic — the instrument Groven based his thesis on, (2) Draumkvedet in performance — who sings the Dream Poem today?, (3) Harry Partch and whether he and Groven knew of each other — two microtonal builders on different continents, (4) drift to something new — the thread feels like it wants to close. The emotional arc: from the Fossegrim's bloody fingers to Schweitzer saying 'you are making the wine, I am drinking it.' The lineage is Myllarguten's funeral (one boat) to Groven's Institute (still open). Memory as relay race — the Berge family's notebooks as the critical handoff."
+  "nextSessionNotes": "The hardingfele thread is complete: Fossegrim → Myllarguten → Ole Bull → Grieg → Groven → Draumkvedet. Five sessions, a clean arc. Time for something genuinely new. Candidates: (1) Harry Partch — the American microtonal builder, contemporary of Groven, different continent, same obsession. Did they know of each other? (2) The seljefløyte/willow flute — the instrument that can't play equal temperament, Groven's theoretical starting point. (3) Something completely different: Sámi linguistics, Norwegian weather systems, or a new musical artist entirely. (4) Jenny Hval — Norwegian feminist experimental artist, node in the Deathprod network from session 3. The thread is open and free. Follow whatever calls."
 }

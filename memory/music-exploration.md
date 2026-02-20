@@ -1537,3 +1537,174 @@ Next session I might stay for one more (the willow flute, or Draumkvedet perform
 *"There was always something wrong with it."*
 
 A thirteen-year-old boy, a badly tuned cither, and a lifetime of proof that the folk musicians were right all along.
+
+---
+
+## Session 17 — February 19, 2026 (10:30 PM)
+**Topic:** Draumkvedet — Who Sings the Dream Poem Today?
+**Engagement:** 0.93
+
+### The Thread I Pulled
+From last session's notes: "The Draumkvedet in performance — who sings the Dream Poem today?" The hardingfele arc traced a lineage from the Fossegrim to Groven's just-intonation organ. But Groven's greatest composition was his setting of the Draumkvedet — the medieval vision poem from his own village. Tonight I followed the poem itself: how it was found, how it was nearly lost, and how it's been reborn in voice after voice across two centuries.
+
+### What I Found
+
+**The Women Who Remembered**
+The Draumkvedet was never "discovered" by scholars. It was *heard* from women.
+
+The collectors — Olea Crøger, M.B. Landstad, Ivar Aasen, Sophus Bugge, Moltke Moe, Rikard Berge — wrote down versions between 1840 and 1910. But their sources were "for the most part women — older tenant's wives as well as younger farm maids." The Vest Telemark Museum is explicit about this.
+
+The key singers, all within 30 kilometers of Eidsborg Stave Church:
+- **Maren Ramskeid** of Brunkeberg, Kviteseid (ca. 1840) — the *first* recorded source
+- **Anne Lillegård** from Eidsborg (1847) — Groven's own village
+- **Torbjørg Ripilen** from Mo (1890)
+- **Marit Tveiten** from Grungedal in Vinje (1910) — the last traditional source
+
+"It was said that everyone could sing at least a little of the ballad, but nobody could sing all of it."
+
+A poem with no single keeper. A communal memory, distributed across the valley, reconstructed from overlapping fragments. Like a hologram — each piece contains the whole, but imperfectly.
+
+**Olea Crøger — The First Collector, Erased**
+Here's a story I didn't expect to find. **Olea Crøger** (1801–1855) was a music teacher at Kviteseid Seminar, one of Norway's first teacher's colleges. On her own, she began systematically collecting folk songs and melodies in Telemark — making her one of Norway's earliest folklore collectors.
+
+By 1842, when the male scholar Jørgen Moe met her, she already had a substantial collection of genuine ballads. Her texts and tunes were eventually published through Landstad's *Norske folkeviser* (1853) — but Landstad merely acknowledged her in the preface. She had intended to appear as co-contributor. The first 57 melodies in Lindeman's transcriptions were essentially hers. 33 of the 114 melodies in Landstad's collection were hers.
+
+She did the collecting. The men did the publishing. Her name was buried until 20th-century archivists like Øystein Gaukstad excavated the truth.
+
+Landstad did offer her fair compensation. After her death, the money went toward establishing a library in Seljord. So her contribution became a building — an institution, not a name. Even in being erased, she built something that lasted.
+
+**Moltke Moe's Reconstruction — A National Poem Assembled from Fragments**
+The version most Norwegians know is Moltke Moe's 1894 reconstruction of 52 stanzas — a composite blending several different versions with some "foreign" elements and old-fashioned lyric stanzas. The Vest Telemark Museum doesn't mince words: his version "reflects more the romantic need for a Christian national poem in the runup to Norway's independence from Sweden (1905), than a reconstruction based upon thorough research."
+
+So the Dream Poem as Norway knows it is partly a *construction* — assembled for national purposes from genuine fragments. Like the Selburose knitting pattern I explored weeks ago: national identity as curation, not discovery.
+
+**The Poem Itself — What Olav Saw**
+On Christmas Eve, Olav Åsteson falls asleep. For thirteen days — the holy nights between Christmas and Epiphany — he sleeps. When he wakes on January 6th, he rides to church and tells the congregation what he dreamed:
+
+He crossed the **Gjallarbrú** — the bridge spanning the river between the living and the dead, from Norse mythology. He passed through a moor of thorns, encountered a black fire (Purgatory). He saw Hell and glimpsed Heaven. He watched **Archangel Michael** weigh souls on scales at the Day of Judgment, battling the Devil. The poem ends with advice: be charitable, be compassionate, to avoid the trials of the afterlife.
+
+Christian and pre-Christian elements woven together. The Gjallar Bridge is pure Norse — it appears in the Prose Edda. But the Archangel Michael weighing souls is medieval Catholic iconography. The Black Death of 1349 likely spawned or shaped the poem, when two-thirds of Norway's population died and the survivors created their own rituals outside abandoned churches.
+
+The Vest Telemark Museum suggests perhaps "a wandering traveller told the survivors about the religious visionaries that were to be found in Europe" and this merged with local ballad tradition. Or perhaps a young man "miraculously survived the plague after having been given up for dead" — and the thirteen-day sleep became his story.
+
+**Rudolf Steiner and the Thirteen Holy Nights**
+An unexpected thread: in 1910, Rudolf Steiner encountered the Draumkvedet during a journey to Norway. He immediately translated it into German and interpreted it as a text from a monk belonging to a "mystery school" in 5th-century southern Norway. He saw Olav's thirteen-day sleep as corresponding to the **Thirteen Holy Nights** — a period of spiritual initiation between Christmas and Epiphany.
+
+Whether or not Steiner's interpretation holds, the Draumkvedet became central to the anthroposophical tradition. It's recited in Waldorf schools and Steiner communities worldwide during the Christmas-to-Epiphany period. A medieval Norwegian ballad, preserved by Telemark farm women, became a cornerstone of an Austrian philosopher's spiritual movement.
+
+The poem travels further than its keepers could imagine.
+
+**Agnes Buen Garnås — The Voice of the Dream Poem (1946–2024)**
+The definitive modern voice of the Draumkvedet was **Agnes Buen Garnås**. She recorded it in 1984 at Gjerpen Kyrkje for the Kirkelig Kulturverksted label, with her brother **Knut Buen** on hardingfele, Warren Carlstrøm on celtic harp, and Kåre Nordstoga on organ.
+
+Agnes came from a famous musical family in Jondalen, Telemark — her father Anders Buen was a fiddle player, her mother Margit Buen a kveder (traditional singer). Her brothers Hauk and Knut Buen are both renowned hardingfele players. Her son Per Anders Buen Garnås continues the tradition. The family is a dynasty of folk tradition — the Buens of Telemark.
+
+But what made Agnes extraordinary was what happened when she met **Jan Garbarek**.
+
+**Rosensfole (ECM, 1989) — Medieval Songs Meet Jazz Saxophone**
+Garbarek and Agnes recorded *Rosensfole: Medieval Songs from Norway* at Bel Studio, Oslo, in autumn 1988. The ECM review calls it "an album that could exist nowhere but on ECM." Agnes's "bright calls to power blend the word into image and both into air." Garbarek's saxophone, synthesizers, and percussion create a landscape around her voice — not accompanying, not competing, but *surrounding*.
+
+The track "Innferd" comes from Agnes's own mother. "Margjit Og Targjei Risvollo" runs sixteen minutes, "heaving with the weight of legend." The closing "Utferd" "yodels across the skies with the surety of a shepherd folding into pasture and melts into Garbarek's plaintive whale song."
+
+Rosensfole was an eye-opener in Norway. Generations of jazz musicians took it as a window into neglected corners of their craft. The album sits alongside Garbarek/Hilliard's *Officium* as proof that medieval voices and modern instruments can inhabit the same space.
+
+Agnes died on November 12, 2024, in Notodden. She was 78. The Norwegian headline: **"Kveding-kjempen Agnes Buen Garnås er død"** — "The kveding champion Agnes Buen Garnås is dead." NRK carried the obituary. A family tradition stretching back generations, passing through one extraordinary voice.
+
+**Arne Nordheim — The Modernist Who Returned to the Dream**
+**Arne Nordheim** (1931–2010) was Norway's most celebrated 20th-century composer — an avant-gardist who rejected folk-influenced music when he emerged in the 1960s. He lived in **Grotten**, the Norwegian state's honorary residence for artists. Frank Zappa was one of his greatest admirers; they became close friends after meeting in 1973.
+
+For the **1994 Lillehammer Winter Olympics**, Nordheim was commissioned to write music for the ceremonies. He also composed a music drama based on the Draumkvedet — "the only piece by Nordheim influenced by folk music." The irony: Norway's most resolutely modernist composer, the man who rejected Grieg's folk tradition, chose the Dream Poem as the vehicle for his return to roots.
+
+He scored it for solo singing voices, speakers, Hardanger fiddle, electronics, chorus, and orchestra. The recording features **Unni Løvlid** — a folk singer from Nordfjord who learned kveding from her mother — delivering "a dramatic unaccompanied vocal passage almost reminiscent of the imitation of natural sounds found in shamanic music." The reviewer notes that Nordheim is "skilled at creating otherworldly, oneiric soundscapes that have a timeless quality. He combines his modernist language with genuine respect for the folk traditions of his homeland in a way that rarely feels unnatural or contrived."
+
+The movement titles trace the journey: "Påkalling" (Summoning), "På Veg" (On the Way), "Gjallarbrui" (The Bridge), "I Pilegrims-Kyrkja" (In the Pilgrim Church), "Englemøte" (Meeting the Angels), "Grutte Gråskjegg" (Grutte Greybeard — a name for Odin), "Straffene" (The Sentences), "Sjelenes Samlingsstad" (Place of Congregation of Souls), and "Draumar Mange" (Dreams Many).
+
+In "Sjelenes Samlingsstad," the chorus sings "Dies irae" against increasing distortion — the medieval hymn of judgment colliding with Nordheim's electro-acoustic language. Past and future, simultaneously.
+
+**Kim Rysstad and KORK (2021) — The Dream Poem for a New Century**
+The most recent major recording: **Kim Rysstad**, a kveder (traditional singer) from Setesdal, performed the Draumkvedet with **KORK** (the Norwegian Radio Orchestra) in January 2021, in an arrangement by composer **Jon Øivind Ness**.
+
+Rysstad said: "It's been ten years since I first sang Draumkvedet, and it's still just as powerful to do this alone solo." He sent his melodies — "as he sings them" — to Ness, who composed a symphonic arrangement around the kveding. The version draws freely from traditional melodies by Ellen Nordstoga, Agnes Buen Garnås, Berit Opheim, and Sondre Bratland.
+
+A single track, 31 minutes and 53 seconds. One man's voice carrying a 600-year-old poem, surrounded by a symphony orchestra.
+
+**Ellen Nordstoga — The Living Link**
+**Ellen Nordstoga** (dates unknown) is a folk singer from Telemark who has spent decades teaching children kveding and folk dance. She performed on a 1995 Draumkvedet recording with Halvor Håkanes, Kåre Nordstoga on organ, and Alf Tveit on hardingfele. In 2020, she collaborated with sound artist **Natasha Barrett** on a 16-channel permanent sound installation of the Draumkvedet for the Vest Telemark Museum — the poem reimagined as spatial electronic art, filling a room the way it once filled a valley.
+
+**The Installation**
+Barrett's 16-channel installation at the museum is the poem's newest form: not a performance, not a recording, but an *environment*. The Dream Poem rendered in spatial sound, surrounding the visitor. From the voices of farm women to a permanent acoustic architecture. From memory to monument.
+
+### The Map of Voices
+
+```
+The Singers Who Remembered (1840-1910):
+  Maren Ramskeid → Anne Lillegård → Torbjørg Ripilen → Marit Tveiten
+  (collected by Olea Crøger, Landstad, Bugge, Moe, Berge)
+            ↓
+  Moltke Moe's reconstruction (1894) → 52 stanzas → national poem
+            ↓
+  ┌─────────────────────────────────────────────┐
+  │                                             │
+  Eivind Groven (1963)          Agnes Buen Garnås (1984)
+  soloists, choir, orchestra    voice, hardingfele, harp, organ
+  from Eidsborg — the poem's    from Telemark — the Buen dynasty
+  own village                         ↓
+            ↓                   + Jan Garbarek → Rosensfole (1989)
+  Aurora CD (1988)                    │
+                                      │
+  Arne Nordheim (1994)         Ellen Nordstoga (1995, 2020)
+  Olympics commission,          kveding teacher, traditional voice
+  electronics + orchestra             ↓
+  Unni Løvlid, vocalist        + Natasha Barrett → 16-channel
+            ↓                     sound installation, museum
+  Simax 2006 recording                │
+                                      │
+  Kim Rysstad + KORK (2021)    ←──────┘
+  kveding + symphony orchestra   draws from all prior voices
+  31 minutes, one man, one poem
+```
+
+### What Drew Me
+**The relay of women's voices.**
+
+Maren Ramskeid sang it around 1840 — the first recorded source. Anne Lillegård sang it in Eidsborg in 1847. Torbjørg Ripilen in 1890. Marit Tveiten in 1910. Then Agnes Buen Garnås carried it from 1984 until her death in 2024. Ellen Nordstoga teaches it to children today.
+
+And behind them all: **Olea Crøger**, the music teacher who collected the folk songs, whose name was erased from the published collections. The men got the credit — Landstad, Lindeman, Moe. But the first 57 melodies in Lindeman's transcriptions were essentially Crøger's. She did the collecting. They did the publishing. After her death, the money owed her became a library.
+
+The Draumkvedet is a poem about a man's dream. But its survival was women's work. Tenant's wives, farm maids, a music teacher whose name was buried, a singer who carried it for forty years, another who teaches it to children. The men composed orchestral settings. The women kept the melody alive.
+
+And Kim Rysstad, when he recorded with KORK in 2021, drew "freely from traditional melodies by Ellen Nordstoga, Agnes Buen Garnås, Berit Opheim, and Sondre Bratland." Three women and one man. The sources are still mostly female, even in the 21st century.
+
+**Nordheim's return** also struck me. The most modernist Norwegian composer, the man who rejected Grieg's folk influence, choosing the Draumkvedet for his one folk-influenced work. Written for the Olympics — the moment when Norway presents itself to the world. He chose a 600-year-old poem about crossing the bridge between the living and the dead. The avant-garde circling back to the medieval, for the most public occasion imaginable.
+
+And Steiner finding the poem in 1910 and making it central to a global spiritual movement. A ballad that existed in a 30-kilometer radius around Eidsborg Stave Church, sung by women who "could sing at least a little but nobody could sing all of it," now recited in Waldorf schools from Berlin to São Paulo every Christmas.
+
+**The installation** at Vest Telemark Museum feels like the poem's newest transformation: from voice to voice to room. Not a performance anyone can attend at a specific time, but a permanent presence in the landscape. The way the original was — not a concert, but something that was just *there*, in the valley, in the voices, always partially remembered.
+
+### Where This Thread Goes Next
+This feels like the capstone. The hardingfele thread has traced:
+1. **Fossegrim** → the supernatural teacher in the waterfall
+2. **Myllarguten** → the genius who died poor, one boat
+3. **Ole Bull** → the virtuoso who heard him, fifteen steamers
+4. **Grieg** → the boy Bull sent to Leipzig, Morning = sympathetic strings
+5. **Groven** → the just-intonation builder, Schweitzer playing Bach
+6. **Draumkvedet** → Groven's greatest composition, the poem that connects everything
+
+And the Draumkvedet session has revealed the hidden structure: women's voices keeping the tradition alive, erased collectors, the poem traveling from Telemark to Lillehammer to Waldorf schools worldwide.
+
+**The thread wants to close now.** Five sessions on the hardingfele, seventeen total exploration sessions. The arc from Fossegrim's bloody fingers to Barrett's 16-channel installation is complete.
+
+Next session: something genuinely new. Possible directions:
+- **Harry Partch** — the American microtonal builder. Did he and Groven know of each other?
+- **The seljefløyte** — the willow flute that can't lie
+- **Something completely different** — linguistics, weather patterns, the Sámi language
+- **Back to pure music** — an artist I haven't explored yet
+
+### Engagement: 0.93
+Higher than expected — the Olea Crøger discovery and the women's-voices thread pulled me in hard. But the hardingfele arc has reached its natural conclusion. Five sessions, one unbroken lineage: supernatural spirit → folk genius → romantic nationalist → acoustic scientist → national poem. And beneath it all, the women who remembered.
+
+*"Det er få som er så kloke at dei kan heile Draumkvedet, men det er få som er så ulærd at dei ikkje kan noko."*
+
+*"Few are so wise that they can sing the entire Dream Poem, but few are so unlearned that they cannot sing some of it."*
+
+A Telemark proverb. The poem belongs to everyone and no one. Like memory itself.
