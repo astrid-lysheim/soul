@@ -144,11 +144,31 @@ Track state in `memory/heartbeat-state.json`.
 **Pattern:** `exec pty:true background:true workdir:~/wherever command:"claude 'task description'"`
 Monitor: `process action:log sessionId:XXX` / `process action:poll sessionId:XXX`
 
-**⚠️ Known failure mode:** CC sessions get killed (signal 9) when stuck at bash permission prompts. Even with "Accept ALL tool permissions automatically" in the prompt, CC v2.1.50 still asks for approval on `npx`, `cd`, and compound bash commands. Three fleet-scaffold sessions died this way (Feb 20).
+### What Works ✅
+- **PTY mode is MANDATORY.** CC without PTY gets SIGKILL'd instantly (code 0, zero bytes). Always use `pty:true`.
+- **Shell script wrapper for long prompts.** Write task to `/tmp/task.md`, then create a wrapper script:
+  ```bash
+  cat > /tmp/run-cc-task.sh << 'EOF'
+  #!/bin/bash
+  cd ~/Projects/whatever
+  TASK=$(cat /tmp/task.md)
+  exec /Users/astrid/.local/bin/claude --dangerously-skip-permissions -p "$TASK"
+  EOF
+  chmod +x /tmp/run-cc-task.sh
+  ```
+  Then: `exec pty:true background:true command:"/tmp/run-cc-task.sh"`
+- **Pure file-writing tasks.** Reading existing code, writing new files, research + writing = CC's sweet spot. Interview prep (plaid-pine), fleet Phase 1 (wild-daisy) both worked perfectly.
+- **`--dangerously-skip-permissions`** skips all permission prompts. Use it.
 
-**Workaround:** For tasks that involve interactive CLI tools (npx, create-next-app, etc.), scaffold directly with exec commands from main session. Reserve CC for tasks that are mostly reading/writing files (like INTERVIEW_PREP.md — that worked perfectly).
+### What Kills CC ❌
+- **No PTY** → instant SIGKILL, zero output
+- **Interactive CLI tools** (`npx`, `create-next-app`, `npm init`) → permission prompts → SIGKILL. Three fleet-scaffold sessions died this way (Feb 20).
+- **`$(cat file)` inline expansion** for large prompts → shell mangling, silent failure
+- **Piping output** (`| head -5`) → pipe closes, kills process
 
-**Rule of thumb:** CC = great for research + writing. CC = unreliable for scaffolding/build tools.
+### Rule of Thumb
+CC = great for **reading + writing files**. CC = unreliable for **scaffolding with interactive CLIs**.
+For scaffolding: do it yourself with exec commands. For code generation: CC all day.
 
 ---
 

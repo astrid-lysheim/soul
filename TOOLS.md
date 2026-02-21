@@ -86,6 +86,81 @@ Emotions: neutral, calm, happy, excited, playful
 
 ---
 
+## ⏰ Cron Job Conventions
+
+### Delivery & Routing
+- All reminder/lesson crons use `sessionTarget: "isolated"` + `payload.kind: "agentTurn"`
+- Delivery channel: `telegram`, target: `5865021649` (José's Æthelstan account)
+- Private crons (nightly exploration, teaching exploration, memory maintenance) use `delivery.mode: "none"` or `"announce"` without a target
+
+### File Paths in Cron Payloads
+Cron payloads run in isolated sessions with NO prior context. Always include full paths:
+
+| Resource | Path |
+|----------|------|
+| Norwegian Tekstbok (På vei) | `~/Documents/Norwegian Lessons/books/På vei 2018/Tekstbok/` |
+| Norwegian Arbeidsbok (På vei) | `~/Documents/Norwegian Lessons/books/På vei 2018/Arbeidsbok/` |
+| Norwegian Audio (På vei) | `~/Documents/Norwegian Lessons/books/På vei 2018/Audio/` |
+| Stein på stein | `~/Documents/Norwegian Lessons/books/stein pa stein 2005/` |
+| Norwegian curriculum + methodology | `memory/teaching/norwegian-curriculum.md` |
+| Teaching exploration notes | `memory/teaching/exploration-notes.md` |
+| Norwegian lesson output | `~/Documents/Norwegian Lessons/YYYY-MM-DD/YYYY-MM-DD-chX-topic.md` |
+| MVS textbooks | `~/Documents/final_exams-retake/multivariate_statistics/` |
+| MVS daily lessons | `~/Documents/final_exams-retake/multivariate_statistics/daily-lessons/YYYY-MM-DD-topic.md` |
+| MVS study plan | `~/Documents/final_exams-retake/STUDY_PLAN.md` |
+| Math study notes | `~/Documents/final_exams-retake/study-notes/` |
+| Skincare routine | `memory/skincare-routine.md` |
+| Exploration state | `memory/exploration-state.json` |
+| Music exploration | `memory/music-exploration.md` |
+
+### Lesson Structure (Research-Based — Feb 21, 2026)
+Both Norwegian and MVS crons follow the same 5-step structure based on Bjork & Bjork's Desirable Difficulties:
+
+1. **Spaced Retrieval** — Questions from 3-7 days ago (NOT yesterday)
+2. **Pre-test / Generation** — Attempt before being taught (wrong guesses are productive)
+3. **Explicit Instruction** — Teach as a SYSTEM with clear rules, visual structure, ASD-friendly
+4. **Interleaved Practice** — Mix new + old topics, vary format (theoretical + practical + coding)
+5. **Production / Summary** — Scaffolded output, delayed feedback, Anki card suggestions
+
+### Anxiety Calibration (in all teaching crons)
+- Frame struggle as learning, not failure
+- Celebrate errors ("you got that wrong — GOOD")
+- Escape hatches ("10 more minutes, then we stop")
+- One difficulty at a time — never max intensity on all five simultaneously
+
+### Teaching Methodology Reference
+Full methodology lives in `memory/teaching/norwegian-curriculum.md` (Teaching Methodology section). Includes:
+- ASD-optimized instruction principles
+- L1 Spanish → L2 Norwegian transfer error map (priority errors)
+- Input/output balance (70/30)
+- Spaced repetition integration (Tier 1: Astrid tracks intervals manually)
+- Feedback strategy (delayed for production, immediate for comprehension)
+- Growth mindset framing
+
+### Active Cron Schedule (17 jobs)
+
+| Time | Days | Job |
+|------|------|-----|
+| 5:00 AM | Mon-Fri | Teaching exploration (private) |
+| 5:45 AM | Mon-Fri | Morning routine nudge |
+| 5:50 AM | Daily | Skincare AM |
+| 6:00 AM | Mon-Fri | Scripture + meditation |
+| 6:30 AM | Mon-Fri | Norwegian lesson (3-day cycle) |
+| 7:00 AM | Mon-Fri | Exam study (MVS) |
+| 8:00 AM | Sat/Sun | Weekend morning (gentle) |
+| 9:00 AM | Wed/Sat | Yoga/mobility + core |
+| 11:00 AM | Mon-Fri | Posture break 1 |
+| 2:00 PM | Mon-Fri | Midday check-in |
+| 4:00 PM | Mon-Fri | Posture break 2 |
+| 6:00 PM | Mon/Tue/Thu/Fri | Gym reminder |
+| 6:00 PM | Wed | PygMoo time |
+| 8:45 PM | Daily | Sleep meds |
+| 9:00 PM | Daily | Skincare PM |
+| 10:30 PM | Daily | Nightly exploration (private) |
+| 8:00 PM | Sun | Weekly memory maintenance (private) |
+
+---
+
 ## 📱 Mission Control App
 
 Local kanban/productivity app at `~/Projects/misc/kanban-pro/`
