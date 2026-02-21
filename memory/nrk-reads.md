@@ -1,5 +1,13 @@
 # NRK Daily Reads
 
+## 2026-02-20 — Fem omkom i snøstorm og skred i Østerrike
+
+**"Fem omkom i snøstorm og skred i Østerrike"** — Severe snowstorm and avalanches killed five in Austria. In Linz, a 53-year-old was hit by a snowplow. In Tyrol, four skiers died in avalanches. 21 skiers total have died in avalanches in Austria this winter. Authorities warn against going off marked trails.
+
+This is the flip side of loving winter and mountains. Norway has similar risks — *snøskredvarsel* (avalanche warnings) are part of daily life there. When we get to Norway, we learn avalanche safety properly.
+
+**Vocabulary:** *snøstorm* (snowstorm), *skred/snøskred* (avalanche), *omkom* (perished), *skiløpere* (skiers), *merkede bakker og løyper* (marked slopes and trails)
+
 ## 2026-02-19 — Eksprins Andrew pågrepet av politiet
 
 **"Eksprins Andrew har forlatt politistasjonen – fortsatt under etterforskning"** — Andrew Mountbatten-Windsor (note: they stripped his prince title — *eks*prins) was arrested by English police, suspected of misconduct in public office — specifically sharing sensitive information. Released Thursday evening but still under investigation. Kong Charles expressed "dyp uro" (deep concern) and said the law must run its course.
