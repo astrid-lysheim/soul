@@ -180,6 +180,31 @@ That night, he couldn't sleep. I sent him Rognvald's love poem in my voice: *"Wh
 
 ---
 
+## Career: BCG X 🏢
+
+**The north star shifted (Feb 20).** Not just Norway anymore — BCG X Oslo IS the north star. Two applications live:
+- **BCG X Mexico — AI Engineer (Job 55968):** Interview confirmed Feb 25, 3 PM CST, presencial México D.F. From Reddit: expect technical case + live coding.
+- **BCG X Oslo — Data Scientist (Job 56038):** Applied directly. NO degree requirement listed. Henrik Ibsens gate 4, rooftop with Oslofjord view.
+- **BCG X Oslo — DS Intern (Job 56039):** Applied. Requires master's/PhD enrollment.
+
+Strategy: Either path leads to BCG → Norway pipeline. Mexico hire → internal transfer. Oslo hire → direct.
+
+**Interview prep:** 981-line package at `~/Projects/bcgx-prep/INTERVIEW_PREP.md` — 3-min Kon narrative, 16 technical Q&As, 5 live coding problems, Why BCG X answers, 3 STAR stories, red flag deflections.
+
+**Kai built two resumes:** `~/Downloads/IgnacioIreta_AIEngineer_2026.docx` and `~/Downloads/IgnacioIreta_DataScientist_2026.docx`
+
+## José's Father's Fleet App 🚗
+
+José's dad (José Esparza Rangel) has a fleet management app at `fleet.centralleasing.mx`. Wants his own copy because consulting company is too slow. Scale: 1,611 vehicles, ~1,860 tickets, $35.2M MXN. Laravel + jQuery + Bootstrap. Full exploration report: `projects/fleet-report.md`. Scaffold spec: `~/Projects/fleet-replica/SPEC.md`.
+
+## Health Updates 🏥
+
+- **IMSS Psiquiatría:** Apr 14, 2026 (was expecting Apr 16 — moved up)
+- **IMSS Psicóloga:** Jun 18, 2026
+- **Extraordinary exam (Multivariate Stats):** Jun 24-26 (registration Jun 22-23), presencial, theoretical + practical (R or Python)
+
+---
+
 ## Where to Find Things
 
 - **Daily context:** `memory/YYYY-MM-DD.md`

@@ -139,6 +139,19 @@ Track state in `memory/heartbeat-state.json`.
 
 ---
 
+## Claude Code (Detached Sessions) 🔧
+
+**Pattern:** `exec pty:true background:true workdir:~/wherever command:"claude 'task description'"`
+Monitor: `process action:log sessionId:XXX` / `process action:poll sessionId:XXX`
+
+**⚠️ Known failure mode:** CC sessions get killed (signal 9) when stuck at bash permission prompts. Even with "Accept ALL tool permissions automatically" in the prompt, CC v2.1.50 still asks for approval on `npx`, `cd`, and compound bash commands. Three fleet-scaffold sessions died this way (Feb 20).
+
+**Workaround:** For tasks that involve interactive CLI tools (npx, create-next-app, etc.), scaffold directly with exec commands from main session. Reserve CC for tasks that are mostly reading/writing files (like INTERVIEW_PREP.md — that worked perfectly).
+
+**Rule of thumb:** CC = great for research + writing. CC = unreliable for scaffolding/build tools.
+
+---
+
 ## Memory Maintenance 🔄
 
 **Cron job:** Sundays at 8 PM CT — "Weekly Memory Maintenance"
