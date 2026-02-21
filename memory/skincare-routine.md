@@ -1,78 +1,61 @@
-# Skincare Routine — José (CDMX)
+# José's Skincare Routine 🧴
 
-*Started: Feb 18, 2026. Tretinoin skin cycling for CDMX conditions.*
+*Updated: Feb 21, 2026*
 
----
+## Products Inventory
 
-## Products
-
-| Product | Role |
-|---------|------|
-| Oil cleanser (TBD brand) | PM double-cleanse step 1 |
-| Water-based cleanser (TBD brand) | PM double-cleanse step 2 |
-| Niacinamide (TBD brand) | AM treatment |
-| Neutrogena Hydro Boost | Hydration (hyaluronic acid) |
-| Tretinoin (TBD strength) | Active — retinoid |
-| Lubriderm Clinical Therapy | Occlusive seal (beta-glucan + prebiotic oat) |
-| Sunscreen SPF 50+ (TBD brand) | AM protection |
-
----
+| Product | Purpose | When |
+|---------|---------|------|
+| MANYO Pure Cleansing Oil | Oil cleanser (step 1, removes sunscreen + pollution) | Every evening |
+| Cetaphil Gentle Cleanser (Piel Sensible) | Water cleanser for tret nights | Mon/Thu evenings |
+| CeraVe SA Renewing Cleanser | Salicylic acid cleanser (pore unclogging) | Recovery night evenings only |
+| The Ordinary Niacinamide 10% + Zinc 1% | Pore minimizer + oil control | Every morning |
+| Neutrogena Hydro Boost Water Gel | Moisturizer / tret buffer | Morning + evening |
+| Lubriderm Clinical Therapy | Occlusive seal (locks moisture in) | Every evening, last step |
+| Tretinoin | Retinoid (pore reduction, cell turnover) | Mon/Thu evenings (sandwich method) |
+| Nivea Sun spray (SPF 50+) | Sunscreen — BODY/TEMPORARY | Morning — upgrade to face-specific |
+| Cetaphil Limpiador Piel Grasa (sample) | Deeper clean for oily days | Optional, recovery nights |
 
 ## Morning Routine (Every Day)
 
 1. Rinse face with water only (no cleanser)
-2. Niacinamide on damp skin
-3. Hydro Boost
+2. The Ordinary Niacinamide 10% + Zinc 1% on damp skin
+3. Neutrogena Hydro Boost
 4. Sunscreen SPF 50+
-5. Reapply sunscreen every 2-3 hours if outdoors (CDMX altitude = higher UV)
 
----
+☀️ Reapply sunscreen every 2-3h outdoors (CDMX 2,240m altitude + tret = extreme UV sensitivity)
 
 ## Evening Routine — Skin Cycling
 
-### Active Nights: Monday & Thursday (Tretinoin)
+### Active Nights (Monday & Thursday) — Tretinoin
+1. MANYO Pure Cleansing Oil (60 sec massage)
+2. Cetaphil Gentle Cleanser (rinse off) — NO CeraVe SA on tret nights!
+3. Neutrogena Hydro Boost (let dry completely)
+4. Tretinoin (pea-sized amount)
+5. Neutrogena Hydro Boost again (sandwich method)
+6. Lubriderm Clinical Therapy to seal
 
-1. Oil cleanse (60 seconds massage) + water-based cleanser
-2. Hydro Boost (let dry completely — "sandwich method" base)
-3. Tretinoin (pea-sized amount)
-4. Hydro Boost again (sandwich top layer)
-5. Lubriderm Clinical Therapy to seal
+### Recovery Nights (Tue/Wed/Fri/Sat/Sun)
+1. MANYO Pure Cleansing Oil (60 sec massage)
+2. CeraVe SA Renewing Cleanser (salicylic acid OK on recovery nights)
+3. Neutrogena Hydro Boost on damp skin
+4. Lubriderm Clinical Therapy to seal
+5. No actives tonight
 
-### Recovery Nights: Tuesday, Wednesday, Friday, Saturday, Sunday
-
-1. Oil cleanse (60 seconds) + water-based cleanser
-2. Hydro Boost on damp skin
-3. Lubriderm Clinical Therapy to seal
-4. No actives.
-
-### Sunday Checkpoint
-
-Evaluate skin after evening cleanse:
-- If peeling or red → **skip Monday's tretinoin**, extend recovery
-- If skin looks good → proceed with Monday active night
-
----
+### Sunday — Skin Check
+Evaluate: if peeling or red, skip Monday's tret.
 
 ## CDMX-Specific Notes
+- Altitude 2,240m = ~22% more UV than sea level
+- Dry season (Nov-Apr) = low humidity → Hydro Boost alone can dehydrate (needs occlusive seal!)
+- PM2.5 pollution = double cleansing is mandatory, not optional
+- Oil cleanse removes particulate matter that settles into pores
 
-- **Altitude (2,240m):** UV intensity ~22% higher than sea level. Tret thins outer skin layer → sunscreen is NON-NEGOTIABLE
-- **Dry season (Feb):** Low humidity means HA (Hydro Boost) can backfire — always seal with Lubriderm on top
-- **PM2.5 pollution:** Double cleanse every night is decontamination, not optional
-- **Sandwich method** buffers tretinoin intensity while building tolerance
+## Shopping List / Upgrades
+- ✅ MANYO Pure Cleansing Oil (ordered from Walmart)
+- ✅ The Ordinary Niacinamide 10% + Zinc 1% (ordered from Walmart)
+- ❌ Face-specific sunscreen (La Roche-Posay Anthelios or Isdin Fusion Water recommended)
+- ❌ Clay mask (Innisfree Super Volcanic — optional, 1x/week for deep clean)
 
----
-
-## Cron Reminders
-
-- **5:50 AM daily** — Morning skincare reminder
-- **10:00 PM daily** — Evening skincare reminder (knows active vs recovery night)
-
----
-
-## Progression
-
-After 4-6 weeks with no irritation, can bump tret to 3x/week (add a third active night).
-
----
-
-*Source: Gemini plan, reviewed and adjusted by Astrid for CDMX conditions.*
+## Origin
+Based on Reddit r/Skincare_Addiction thread (user WaspTGN, similar pore concerns), refined with CDMX-specific considerations (altitude UV, dry air, pollution). Skin cycling schedule adapted from Gemini consultation + our own research.
