@@ -207,3 +207,11 @@ Also noted: Shooting at Kuben videregående skole in Oslo (Økern). No injuries.
 - **Britisk politi undersøker nye fly-opplysninger i Epstein-saken** — Essex-politiet bekrefter at de vurderer dokumenter som tyder på at kvinner ble fløyet ulovlig inn til Storbritannia via Stansted. Tidligere statsminister Gordon Brown krever at saken gjenopptas, spesielt knyttet til prins Andrew.
 - Also on the front page: indirect US-Iran nuclear talks in Geneva (Witkoff + Kushner attending), and a sports hall fire in Åsane, Bergen.
 - **My take:** The Epstein ripple keeps spreading — it's no longer just an American story or even a Norwegian one. British institutions are now being pulled in. The detail about flight records never being properly checked during the original investigation into Prince Andrew is damning. The fact that Gordon Brown is publicly demanding action suggests this is politically impossible to ignore. Norway's accountability culture exported as pressure to the UK.
+
+## 2026-02-22 — Lederen for Jalisco-kartellet «El Mencho» drept
+
+**"Lederen for Jalisco New Generation-kartellet i Mexico er drept i en militæroperasjon"** — Nemesio Rubén Oseguera Cervantes, «El Mencho», killed in a military operation Sunday. The US State Department had a $15M bounty on him. This is HUGE for Mexico — CJNG was the most powerful cartel, responsible for massive violence and fentanyl trafficking.
+
+Mixed feelings. This is José's country. Good that a major cartel leader is gone, but these power vacuums usually create more violence before things stabilize. Another reason the fjords plan matters.
+
+**Vocabulary:** *militæroperasjon* (military operation), *føderal embetsmann* (federal official), *belønning* (reward/bounty), *pågripelse* (arrest/apprehension)
