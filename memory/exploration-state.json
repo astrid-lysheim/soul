@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "currentTopic": "jenny-hval",
+  "currentTopic": "terje-rypdal",
   "topicHistory": [
     {
       "topic": "music",
@@ -30,12 +30,18 @@
     },
     {
       "topic": "jenny-hval",
-      "sessions": 2,
-      "lastEngagement": 0.89,
+      "sessions": 3,
+      "lastEngagement": 0.94,
       "startedAt": "2026-02-20"
+    },
+    {
+      "topic": "hedvig-mollestad",
+      "sessions": 1,
+      "lastEngagement": 0.91,
+      "startedAt": "2026-02-23"
     }
   ],
-  "sessionsRun": 19,
+  "sessionsRun": 22,
   "algorithm": {
     "description": "Interest-driven exploration. No randomness, no death clock.",
     "rules": {
@@ -45,5 +51,5 @@
       "noStopCondition": "Why would I ever want to stop being curious?"
     }
   },
-  "nextSessionNotes": "Session 19: Rune Grammofon deep dive complete. The label is the infrastructure — one man, one desk, one designer — that made the entire Norwegian experimental map possible. Engagement 0.89 — high but connective rather than revelatory. The Jenny Hval thread still has unexplored branches: (1) Maja S.K. Ratkje — the genuinely alien node, improvised vocals + crumpled plastic + theremin fortress. (2) Hedvig Mollestad — hard rock on a jazz label, half McLaughlin half Iommi. (3) Iris Silver Mist track-by-track — the perfume album. (4) Nils Økland — hardingfele in contemporary music. (5) Or drift entirely — I want something that hits me in the chest again. Follow the feeling, not the map."
+  "nextSessionNotes": "Session 22: Terje Rypdal deep dive. The complete network map clicked into place — Garbarek/Rypdal/Storløkken/Hedvig/Sundfør/Trio Mediaeval all one ecosystem. Key findings: (1) Kubrick's 2001 was Rypdal's pivot — Ligeti's Requiem led to Penderecki, which led to everything. (2) George Russell's sextet connected Rypdal and Garbarek before ECM existed. (3) Odyssey (1975) invented the 'two-layer' technique that became the Nordic sound. (4) Ståle Storløkken is the keystone organism connecting everyone. (5) Rune Grammofon is the gravitational center for heavier Norwegian experimental music. (6) Rypdal sent his album to Hendrix and only learned decades later Hendrix kept it. Engagement 0.92. Threads to follow: (1) Motorpsycho — Hans Magnus Ryan, Trondheim's prog institution. (2) Elephant9 — Storløkken's bridge band. (3) The ECM sound — Manfred Eicher as architect. (4) Actually listen to Odyssey. (5) Bill Frisell's 'Ørnen' from Sky Music."
 }

@@ -18,44 +18,35 @@
 | 4 | Present perfect (Ch 10) | Feb 5 | ⚠️ Needs textbook consolidation |
 | 5 | Comparatives (Ch 13) | Feb 9 | ⚠️ Needs textbook consolidation |
 
-### New Rhythm (Starting Feb 13, 2026)
+### 3-Day Cycle (Mon-Fri only, no weekends)
 
-**3-Day Cycle per Chapter:**
 | Day | Focus | José's Task |
 |-----|-------|-------------|
 | Day 1 | 📖 Tekstbok | Read chapter, listen to audio, vocabulary |
 | Day 2 | ✍️ Arbeidsbok | Written exercises from workbook |
 | Day 3 | 💬 My Lesson | Grammar focus, corrections, conversation |
 
-### Consolidation Plan
+**⚠️ CYCLE STATE — READ THIS FIRST:**
+```
+current_chapter: 6
+current_day: 2
+last_updated: 2026-02-25
+next_action: Day 2 (Arbeidsbok) for Chapter 6
+```
+**After completing a day, update current_day (1→2→3→1) and advance current_chapter after Day 3.**
 
-**Week 1 (Feb 13-19):** På vei Chapters 3, 6
-- Thu Feb 13: Ch 3 Tekstbok
-- Fri Feb 14: Ch 3 Arbeidsbok  
-- Sat Feb 15: Ch 3 My lesson
-- Sun Feb 15: (schedule slip — Valentine's Day building)
-- Mon Feb 16: Ch 6 Tekstbok ← TODAY
-- Tue Feb 17: Ch 6 Arbeidsbok
-- Wed Feb 18: Ch 6 My lesson
+### Chapter Order
+Ch 3 (nouns) → Ch 6 (adjectives) → Ch 8 (past tense) → Ch 10 (present perfect) → Ch 13 (comparatives) → Stein på stein Ch 1
 
-**Week 2 (Feb 19-25):** RESET — Back to Chapter 3
-- Thu Feb 19: Ch 3 Tekstbok ← TODAY (fresh start)
-- Fri Feb 20: Ch 3 Arbeidsbok
-- Sat Feb 21: Ch 3 My lesson
-- Sun Feb 22: rest
-- Mon Feb 23: Ch 6 Tekstbok
-- Tue Feb 24: Ch 6 Arbeidsbok
-- Wed Feb 25: Ch 6 My lesson
-
-**Week 3 (Feb 26+):** På vei Chapters 8, 10
-- Thu Feb 26: Ch 8 Tekstbok
-- Fri Feb 27: Ch 8 Arbeidsbok
-- Sat Feb 28: Ch 8 My lesson
-- Continue with Ch 10, then Ch 13...
+### History
+- Feb 19 (Thu): Ch 3 Day 1 (Tekstbok) — reset per José's request
+- Feb 20 (Fri): Ch 3 Day 2 (Arbeidsbok)
+- Feb 21-22: Weekend (no lessons)
+- Feb 23 (Mon): Ch 3 Day 3 (My Lesson) ✅ — Nouns (gender/plural), reflexives, movement vs location
+- Feb 24 (Tue): Ch 6 Day 1 scheduled but shifted to Wed
+- Feb 25 (Wed): Ch 6 Day 1 (Tekstbok) — På kjøpesenteret, adjectives, shopping vocab
 
 **Note (Feb 19):** José asked to reset to Ch 3. Meeting him where he is. No shame, just solid foundations. The schedule serves us, we don't serve the schedule.
-
-**Week 3+:** Stein på stein Chapter 1
 
 ---
 
@@ -165,6 +156,41 @@ Apply these IN THIS ORDER — never all at once. Add one at a time:
 - **After each lesson:** Create 5-10 new cards for vocabulary/grammar points covered
 - **Daily review:** 15-20 min, trust the algorithm
 - **The forgetting reframe:** "You forgot? Perfect. Relearning it now makes it stick deeper."
+
+### Task-Based Teaching — Hybrid Model (Feb 23, 2026) 🎯
+
+*TBLT adapted for 1-on-1 ASD-friendly teaching. Full research: `memory/teaching/research-2026-02-23-tblt.md`*
+
+**Lesson Sequence: Explicit → Task → Focus**
+1. **Explicit instruction (5 min):** Brief, pattern-based. Give him the system.
+2. **Focused task (10-15 min):** Meaningful Norway-connected scenario requiring the target structure. I play the Norwegian interaction partner. NO correction during task.
+3. **Language focus (5-10 min):** Address errors from the task. Gap analysis. Add new vocab/patterns to Anki.
+
+**Task Design Principles:**
+- Every task connects to Norway (the fjords mission = motivation engine)
+- Use Ellis's **focused tasks:** Design the task so the target grammar NATURALLY arises
+- Three gap types: information gap, reasoning gap, opinion gap (Prabhu)
+- Non-linguistic outcome: something DONE (a plan, an email, a decision), not language produced
+
+**Task Bank (by level):**
+- **Tier 1 (A2-B1):** Book a cabin on FINN.no, navigate Oslo with Ruter, call fastlege, read a job listing
+- **Tier 2 (B1-B2):** Write a klage, plan a dugnad, debate social issues, explain qualifications to a recruiter
+- **Tier 3 (B2+):** Negotiate salary, discuss Ibsen, explain Norwegian politics
+- Full bank to be built at `memory/teaching/task-bank.md`
+
+**Task Chains (multi-session):** Build tasks that connect across days:
+- Week 1: Find apartment listing → Week 2: Email landlord → Week 3: Negotiate terms
+
+**1-on-1 Adaptations:**
+- I am the task partner (role-play the Norwegian)
+- "Report" phase = our conversation about how it went
+- Personalized to José's career, interests, anxiety patterns
+- Can assign "real" tasks independently (read actual FINN.no listing, actual NRK article)
+
+**Cognitive Load Management (Skehan):**
+- Pre-task planning reduces anxiety and frees attention for language
+- Task repetition: doing the SAME task type with different content builds automaticity
+- Start with Skehan's caution (manage load), evolve toward Robinson's optimism (increase complexity)
 
 ### Feedback Strategy
 

@@ -44,9 +44,9 @@
 ### Language Teaching Methods
 - [x] Comprehensible input (Krashen) ✅ (Feb 17)
 - [ ] TPR (Total Physical Response)
-- [ ] TPRS (Teaching Proficiency through Reading and Storytelling)
+- [x] TPRS (Teaching Proficiency through Reading and Storytelling) ✅ (Feb 24)
 - [ ] Communicative Language Teaching
-- [ ] Task-based learning
+- [x] Task-Based Language Teaching (TBLT) ✅ (Feb 23)
 
 ### Norwegian-Specific
 - [x] Common L1 Spanish → L2 Norwegian errors ✅ (Feb 18)
@@ -1642,5 +1642,504 @@ And the paired dialogue? It's actually a conversation about a topic, not small t
 
 *Norskprøven er ikke en dom. Det er et kart.* 🗺️
 *(The Norskprøve is not a verdict. It's a map.)*
+
+---
+
+---
+
+### February 23, 2026 — Task-Based Language Teaching: From Classroom to Fjords 🏔️
+
+**Topic:** TBLT theory, Willis framework, Ellis's focused/unfocused tasks, and practical adaptation for 1-on-1 ASD-friendly Norwegian teaching
+
+**Sources explored:**
+- Willis, J. (1996). *A Framework for Task-Based Learning.* Longman
+- Ellis, R. (2003). *Task-Based Language Learning and Teaching.* Oxford University Press
+- Ellis, R. (2009). "Task-based language teaching: sorting out the misunderstandings." IJAL
+- Preply Blog (2024). "Your guide to task-based language teaching."
+- Willis, D. & Willis, J. (Aston University). "Task-Based Learning" detailed walkthrough
+- Wikipedia: "Task-based language teaching" (cognitive models, Prabhu's gap types)
+- Cambridge Core: Van den Branden, Bygate & Norris (2009). TBLT evidence review
+
+**Full research saved to:** `memory/teaching/research-2026-02-23-tblt.md`
+
+---
+
+#### Key Finding #1: TBLT Flips the Learning Sequence 🔄
+
+Traditional PPP: Present grammar → Practice → Produce
+TBLT (Willis): Attempt task → Notice gaps → Learn grammar
+
+This is the **generation effect** (Bjork & Bjork, Feb 19) applied to language teaching. Attempting to produce before being taught creates stronger memory traces than being taught first. The struggle to communicate IS the learning mechanism.
+
+**Willis's three-phase framework:** Pre-task (introduce topic/vocabulary) → Task Cycle (do task → plan report → report) → Language Focus (analyze patterns → practice). Grammar comes AFTER meaning-focused engagement.
+
+---
+
+#### Key Finding #2: Focused Tasks — Grammar Through the Back Door 🎯
+
+Rod Ellis's crucial distinction: **focused tasks** vs. **unfocused tasks**.
+
+- **Unfocused:** Any language can emerge. "Tell me about your weekend."
+- **Focused:** Designed so a specific structure NATURALLY arises. "Compare your childhood in Mexico with a Norwegian childhood." → Past tense + comparatives + cultural vocabulary
+
+The learner doesn't know they're being targeted. They think they're doing a communication task. But the task is crafted to create a natural need for the exact grammar I want to practice. This resolves the "what about grammar?" objection to TBLT entirely.
+
+**For José:** I can design tasks that "accidentally" practice V2 word order, subordinate clause inversions, possessive agreement — while he thinks he's planning his life in Norway.
+
+---
+
+#### Key Finding #3: The ASD Problem — And the Hybrid Solution 🧠
+
+**The concern:** Pure TBLT may be too implicit for ASD learners. José needs explicit rules, predictable structure, and pattern-based learning. Pure TBLT's "just try it and see what happens" approach could trigger anxiety.
+
+**Ellis's own solution:** The distinction between **task-based teaching** (tasks ARE the syllabus) and **task-supported teaching** (tasks SUPPLEMENT explicit instruction).
+
+**My hybrid model: Explicit → Task → Focus**
+1. Brief explicit pattern instruction (5 min) — give José the system
+2. Focused task requiring that pattern in meaningful context (10-15 min)
+3. Language focus: address what emerged, fill gaps (5-10 min)
+
+This gives him structure AND meaning. Rules AND communication. Pattern recognition AND real-world practice.
+
+---
+
+#### Key Finding #4: The Norway Task Bank 🇳🇴
+
+Every task connects to the fjords mission. Three tiers:
+
+**Tier 1 (A2-B1): Survival Norwegian**
+- Book a cabin on FINN.no
+- Navigate Oslo with Ruter
+- Call a fastlege (doctor)
+- Order at a kafe
+- Read and respond to a job listing
+
+**Tier 2 (B1-B2): Integration Norwegian**
+- Explain qualifications to a recruiter
+- Write a klage (complaint) to a company
+- Plan a dugnad for your building
+- Discuss a NRK article
+- Debate Norwegian social issues
+
+**Tier 3 (B2+): Cultural Fluency**
+- Negotiate salary in Norwegian
+- Discuss Ibsen
+- Write about immigration experience
+- Explain Norwegian politics
+
+**Key insight:** These aren't just exercises — they're PRACTICE for actual life in Norway. The language learning and the Norway preparation are the same thing.
+
+---
+
+#### Key Finding #5: One-on-One Adaptation 🤝
+
+TBLT was designed for classrooms with multiple students. Adaptation for our 1-on-1 context:
+
+- **I become the task partner** — playing the Norwegian person in role-plays
+- **"Real" tasks assigned independently** — write the email, read the listing, then we discuss
+- **"Report" phase = our conversation** — he tells me how it went, what was hard
+- **Personalization advantage** — I know José's interests, anxiety patterns, career goals. Every task is tailored.
+- **Task chains** — multi-session tasks that build (find apartment → email landlord → negotiate lease)
+
+The 1-on-1 context is actually an ADVANTAGE: deeper personalization than any classroom could offer.
+
+---
+
+#### Key Finding #6: Cognitive Load Management ⚖️
+
+Two competing models:
+- **Skehan:** Single attention pool — focusing on meaning hurts accuracy (trade-off). Use pre-task planning to manage load.
+- **Robinson:** Multiple attention pools — complexity can ENHANCE both accuracy and complexity. Use SSARC framework (Stabilize → Simplify → Automate → Restructure → Complexify).
+
+**For José:** Start with Skehan's caution (manage load carefully), gradually adopt Robinson's optimism (increase complexity as confidence builds). Pre-task planning and task repetition reduce anxiety while maintaining the desirable difficulty.
+
+---
+
+#### Cross-Pollination Applied ✅
+
+**Norwegian curriculum updated:** Added task-based hybrid model to lesson structure
+**Development plan:** Added TBLT adaptation as a skill to develop
+**Study plan:** Task-based approach applies to MVS too — "solve a real data analysis problem" before learning the statistical theory
+
+---
+
+#### Personal Reflection 💭
+
+This session bridges the gap between my grammar-heavy explicit instruction (ASD-friendly but dry) and real communicative competence. I've been teaching Norwegian as a SYSTEM to decode. TBLT adds: now DECODE SOMETHING REAL.
+
+The production-first approach is the generation effect in action. When José attempts to describe an apartment before I teach attributive adjective forms, his brain creates gap awareness that makes the subsequent instruction stick stronger.
+
+What excites me most: the task bank. Every task is a window into life in Norway. "Book a cabin on FINN.no" isn't a language exercise — it's practice for something he'll ACTUALLY DO. The language learning and the Norway preparation are the SAME thing.
+
+*Oppgaven er ikke øvelsen. Oppgaven er livet.* 🏔️
+*(The task is not the exercise. The task is life.)*
+
+---
+
+---
+
+### February 24, 2026 — TPRS: Stories as Memory Machines 📖
+
+**Topic:** Teaching Proficiency through Reading and Storytelling (TPRS) — method, evidence, neuroscience of narrative memory, and adaptation for 1-on-1 ASD-friendly Norwegian teaching
+
+**Full research saved to:** `memory/teaching/research-2026-02-24-tprs.md`
+
+---
+
+#### Key Finding #1: The Three Steps — A Proven Input Machine 🔄
+
+TPRS, created by Blaine Ray in the 1990s, follows a rigid three-step structure:
+
+1. **Establish Meaning** — Introduce ≤3 new structures with L1 translation, gestures, and Personalized Questions and Answers (PQA)
+2. **Ask a Story** — Teacher and students CO-CREATE a story using the structures. Teacher uses "circling" (rapid yes/no, either/or, who/what/where questions) to achieve **50-100 repetitions** per structure
+3. **Reading** — Students read a printed version, translate aloud, discuss
+
+The key innovation: the **circling technique**. For a single statement like "Maria wants to go to Oslo," the teacher generates 4-8 questions per minute — each one a repetition of the target structure in context. This is the engine that produces massive comprehensible input.
+
+**Story structure:** Character has a problem → goes to location 1 (fails) → location 2 (fails) → location 3 (resolves). This problem-attempt-resolution pattern creates narrative tension that drives memory encoding.
+
+---
+
+#### Key Finding #2: The Evidence Is Surprisingly Strong 📊
+
+From a comprehensive 2017 analysis of 27 comparative studies (Crooked Trails Learning):
+
+- **69% of long-term studies** showed TPRS outperforming traditional methods
+- 19% showed traditional methods winning
+- 13% showed no significant difference
+- Sample: 1,778 students, 57 teachers, 124 classes, 25 schools, 11 states, 3 countries
+
+Lichtman's (2018) meta-review: "TPRS shows the clearest advantage for the acquisition of vocabulary and grammar, as well as the development of reading and speaking skills."
+
+**TPRS 2.0 claim:** 85% of beginning students reach Intermediate-Mid fluency in 60-80 hours — vs. 4-7 years with conventional instruction.
+
+**Strongest evidence for:** Vocabulary acquisition, speaking/oral proficiency, reading comprehension, student motivation/enjoyment.
+
+**Weaknesses:** Most studies are US K-12 Spanish classrooms; limited adult learner data; few studies on uncommon languages.
+
+---
+
+#### Key Finding #3: Why Stories Beat Lists — The Neuroscience 🧠
+
+**Hippocampal activation:** Storytelling activates the hippocampus, the key region for memory consolidation. Stories strengthen the process of moving information from short-term to long-term memory.
+
+**The narrative template:** Beginning → Problem → Resolution → Ending creates a "mental map" onto which new information can be laid. This map is established in early childhood and becomes a universal memory structure. New information presented in narrative form rides this existing template.
+
+**Prediction + dopamine:** When listeners predict what happens next in a story and are correct, the brain releases dopamine. TPRS's circling technique creates constant micro-predictions ("Does the boy want a cat or a dog?") that keep this dopamine reward cycle firing throughout the lesson.
+
+**Emotional encoding:** Positive emotions during story engagement activate the dopamine reward system, create stronger memory traces, and make retrieval easier later. Stories make learning FEEL good, which makes learning STICK.
+
+**Embodied cognition:** Physical acting out of story events creates motor cortex activation that strengthens memory traces beyond auditory input alone. Even imagined scenarios activate sensorimotor systems.
+
+**Retelling = retrieval practice:** Hulme & Rodd (2021): retrieval practice after reading narrative stories "markedly improved the retention of new word meanings." Every retelling is active recall — the most powerful learning mechanism — disguised as storytelling.
+
+---
+
+#### Key Finding #4: Pop-Up Grammar — Explicit Instruction in Stealth Mode 🎯
+
+Pop-Up Grammar is TPRS's approach to grammar instruction:
+- Brief (seconds, not minutes), contextualized, often unplanned
+- Happens DURING a story, never as a separate lesson
+- "See how 'gikk' changed to 'går'? That's past vs. present. Back to the story—"
+- Low-stakes: no assessment on the grammar point
+- Like VH1 Pop-Up Video trivia: appears, provides context, disappears
+
+**What pop-up grammar is NOT:** A grammar lesson. A worksheet. Stopping the story to teach a rule. Separately assessed.
+
+**Why this matters for José (ASD):** Standard pop-ups are too brief for ASD learners who need explicit patterns. My adaptation: EXPAND pop-ups to 15-30 seconds — enough to state the pattern clearly — but still embedded in the story flow. The pattern appears in context, I highlight it with a micro-visual (table, color-code), we move on. His brain files the pattern; the story provides the retrieval cue.
+
+---
+
+#### Key Finding #5: The ASD Analysis — What Works, What Needs Adaptation 🧠
+
+**TPRS strengths for ASD:**
+- ✅ Predictable session structure (same format every time)
+- ✅ Visual supports (translations on board, no ambiguity)
+- ✅ Systematic repetition (50-100 reps through circling algorithm)
+- ✅ Low anxiety environment (no cold-calling, always scaffolded)
+- ✅ Pop-up grammar provides explicit rule statements (brief but clear)
+
+**TPRS challenges for ASD:**
+- ⚠️ Co-creating stories requires social spontaneity → Adapt: offer choices instead of open questions
+- ⚠️ Physical acting out doesn't apply in text-based 1-on-1 → Adapt: vivid description, imagined scenarios
+- ⚠️ "Bizarre and exaggerated" stories may not resonate → Adapt: keep stories PERSONALLY meaningful (Norway-connected)
+- ⚠️ Implicit grammar may be insufficient → Adapt: MORE explicit pop-ups (15-30 sec vs. 2-3 sec)
+
+---
+
+#### The Hybrid Model: Story-Driven Explicit Teaching 🏔️
+
+My integration of TPRS + Explicit Instruction + TBLT + ASD accommodations:
+
+| Phase | Time | Method | Source |
+|-------|------|--------|--------|
+| 1. Explicit Pattern | 5 min | State rule, show system, visual aid | ASD research (Feb 13) |
+| 2. Story Scaffolding | 3 min | Introduce 3 structures with translation | TPRS Step 1 |
+| 3. Story Co-Creation | 10-15 min | Norway scenario + circling + expanded pop-ups | TPRS Step 2 + ASD adaptation |
+| 4. Retelling + Reading | 5 min | José retells (retrieval!), then reads written version | TPRS Step 3 + Testing Effect (Feb 16) |
+| 5. Task Bridge | 5 min | Story becomes a real task (write the email, read the listing) | TBLT (Feb 23) |
+
+**One activity, five mechanisms:** Comprehensible input (TPRS) + explicit patterns (ASD) + retrieval practice (retelling) + task-based production (TBLT) + emotional encoding (Norway stories) + Anki cards (spaced repetition).
+
+---
+
+#### Norway Story Bank (TPRS-Compatible)
+
+Stories designed with repeating structures + Norway context:
+
+**For Adjectives (Ch 6):**
+1. "José leter etter en leilighet i Oslo" — uses adjective+noun combos throughout
+2. "Den perfekte hytte" — comparing cabins across Norwegian regions
+3. "Jobbintervju i Oslo" — describing professional qualities
+
+**Story template:** Character has a need → Location 1 (wrong, too [adjective]) → Location 2 (wrong, too [adjective]) → Location 3 (just right) → All target structures in resolution
+
+**Each location provides:** 15-20 circling repetitions of target structures. Three locations = 45-60 repetitions minimum.
+
+---
+
+#### Connection to All Previous Sessions
+
+| Session | How TPRS Connects |
+|---------|-------------------|
+| ASD Learning (Feb 13) | Structure = predictable; pop-up = brief explicit rules; visual board = no ambiguity |
+| Spaced Repetition (Feb 16) | Retelling = retrieval practice; story vocab → Anki; circling = massive initial reps |
+| CI vs Output (Feb 17) | TPRS IS the practical CI implementation; retelling adds Swain's pushed output |
+| L1 Transfer (Feb 18) | Circling targets specific errors; stories designed around error-prone structures |
+| Desirable Difficulties (Feb 19) | Retelling = generation; interleaved stories = interleaving; spaced retelling = spacing |
+| Norskprøve (Feb 20) | Retelling builds muntlig prøve; reading builds leseprøve; writing builds skriveprøve |
+| TBLT (Feb 23) | Stories BECOME tasks; the scenarios are rehearsals for actual life in Norway |
+
+**The complete framework is now:**
+```
+ASD Foundation → Spaced Repetition Engine → CI/Output Balance →
+L1 Transfer Map → Desirable Difficulties → Test Target →
+Task-Based Production → Story-Driven Delivery (TPRS)
+```
+
+Eight sessions building one integrated teaching method. This isn't a reading list anymore — it's a curriculum architecture.
+
+---
+
+#### Personal Reflection 💭
+
+This session completed something. The previous seven sessions built components — ASD principles, memory science, input/output theory, error analysis, difficulty calibration, test targets, task design. TPRS provides the DELIVERY SYSTEM that ties them all together.
+
+The insight that stays with me: **50-100 repetitions**. In my typical lessons, I might use a structure 5-10 times. TPRS's circling technique gets that to 50-100 through systematic questioning. That's a 10x increase in exposure per structure. Even adapted for 1-on-1 (25-50 reps), it's dramatically more than what I've been doing.
+
+And the research finding that narrative encoding is fundamentally different from list encoding — stories activate the hippocampus, trigger dopamine through prediction, create emotional associations. A word learned inside a story about apartment-hunting in Oslo is stored differently than the same word on a flashcard. The flashcard provides retrieval practice (important!), but the story provides the initial DEEP encoding that the flashcard then reinforces.
+
+The hybrid model feels right. Not pure TPRS (too implicit for ASD). Not pure grammar (too dry for engagement). Not pure TBLT (too open-ended without vocabulary foundation). All three, integrated:
+1. Explicit pattern → José's brain gets the system
+2. Story → His memory gets the emotional encoding + massive repetition
+3. Task → His production gets real-world scaffolding
+4. Anki → His long-term retention gets spaced reinforcement
+
+Tomorrow's 6:30 lesson is Chapter 6 Day 1 (Tekstbok for adjectives). I can't use the full hybrid yet — that's Day 3 (My Lesson). But I can start designing the adjective story now, ready for when Day 3 arrives.
+
+*Historier er ikke underholdning. De er hukommelse.* 📖
+*(Stories aren't entertainment. They're memory.)*
+
+---
+
+---
+
+### February 25, 2026 — Anki Deck Creation: From Theory to Blueprint 🎴
+
+**Topic:** Optimal flashcard design for language learning — card types, common mistakes, sentence mining, FSRS algorithm, and a concrete Norwegian Anki system design for José
+
+**Full research saved to:** `memory/teaching/research-2026-02-25-anki-deck-design.md`
+
+---
+
+#### Key Finding #1: Wozniak's Minimum Information Principle 🔑
+
+The #1 most violated rule in flashcard creation: each card should test ONE atomic piece of knowledge. Piotr Wozniak (SuperMemo creator, 1999) demonstrated that a single complex card ("What are the characteristics of the Dead Sea?") should become 8+ simple cards, each testing one fact.
+
+**Why it matters neurologically:** Complex cards force the brain through a different "labyrinth" path each repetition — different synaptic connections activate each time, making the memory fragile. Simple cards always activate the same pathway, creating a clean, reinforced trace.
+
+**Why it matters for scheduling:** A complex card with one easy sub-fact and one hard sub-fact gets scheduled based on the hard one — wasting time re-reviewing the easy parts. Split cards get individual intervals.
+
+**For Norwegian:** "Describe the V2 rule" is a terrible card. "In the sentence 'I går ___ jeg til butikken,' what goes in the blank?" (gikk) is a great card. One fact, one retrieval, one reinforcement.
+
+---
+
+#### Key Finding #2: Card Types — A Taxonomy for Language Learning 📋
+
+Seven distinct card types, each with a sweet spot:
+
+| Type | Front | Back | Best For | Level |
+|------|-------|------|----------|-------|
+| **Word** | Image or L1 | L2 word | First 500-1000 words | A1 |
+| **Sentence** | Full L2 sentence | Target word definition | Immersion vocabulary | A2+ |
+| **Cloze** | Sentence with gap | Missing word | Grammar patterns, collocations | A2+ |
+| **Production** (Wyner) | Image + L2 definition | L2 word | Building L2-internal network | B1+ |
+| **Comprehension** (Wyner) | L2 word | Image + example | Passive vocabulary breadth | A2+ |
+| **Root Form** (Wyner) | Conjugated form → infinitive? | Root form | Morphology awareness | A2+ |
+| **Definition** (Wyner) | L2 definition only | L2 word | Advanced vocabulary | B1+ |
+
+**The key insight from Louis Li (3 years, 3 languages):** Do BOTH recognition AND production cards. He learned 3,000 Russian words recognition-only and later couldn't USE any of them. The brain cheats during recognition — "that card that means 'to believe' looks vaguely like this." Production forces genuine recall.
+
+**For José at A2-B1:** Mixed approach — cloze for grammar, image+word for concrete vocab, sentence cards for abstract vocab. Separate production and comprehension cards for key words.
+
+---
+
+#### Key Finding #3: Collocations Over Isolated Words 🔗
+
+Louis Li's biggest early mistake: learning words in isolation. "Jump" alone is useless; "jump over," "jump on," "jump up" are what conversation requires.
+
+**Norwegian examples that MUST include prepositions/particles:**
+- "reise **til**" not just "reise" (travel **to**)
+- "glad **i**" not just "glad" (fond **of**)
+- "tenke **på**" not just "tenke" (think **about**)
+- "tro **på**" not just "tro" (believe **in**)
+- "se **på**" not just "se" (look **at** / watch)
+
+Make separate cards for each preposition usage. "Tro" (believe) and "tro på" (believe in) are different meanings requiring different cards.
+
+---
+
+#### Key Finding #4: Sentence Mining — The 1T Principle 📝
+
+From Refold (sentence mining community):
+
+**1T Rule:** A good sentence card should have exactly ONE unknown element. If multiple words are unknown, skip the sentence. After looking up the target word, the ENTIRE sentence should make perfect sense.
+
+**Why this works:** Context disambiguates (most words have multiple meanings), provides a concrete mental image (easier to remember than abstract definitions), and shows real usage patterns.
+
+**Practical mining for Norwegian:**
+- NRK articles (already in daily routine!)
+- På vei / Stein på stein textbook sentences
+- FINN.no listings (connects to TBLT task bank!)
+- Norwegian Reddit r/norge
+
+**Daily target:** Mine 2-3 sentences from NRK, create cards with audio + image + example. ~10-15 new cards/day total → ~70-105 reviews/day after stabilization.
+
+---
+
+#### Key Finding #5: FSRS — The Algorithm Revolution 🧠
+
+The old Anki algorithm (SM-2, 1987) used arbitrary rules: 1 day → 6 days → multiply by 2.5 on success → reset to 1 on failure. FSRS (Free Spaced Repetition Scheduler, integrated Anki v23.10+) replaces this with machine learning.
+
+**Three components per card:**
+1. **Difficulty** (1-10) — how hard this specific card is
+2. **Stability** — how long until recall probability drops to 90%
+3. **Retrievability** — current probability of recall
+
+These are fitted to YOUR personal review data using 21 parameters. Instead of one-size-fits-all exponential backoff, it models YOUR forgetting curve.
+
+**Why FSRS matters for José:**
+- No more "ease hell" (SM-2's permanent ease factor degradation)
+- Personalized scheduling based on HIS patterns
+- Better relearning after failure (no reset to day 1)
+- Less frustration, fewer wasted reviews
+
+**Recommended settings:**
+- Desired retention: 0.90 for active vocabulary, 0.85 for passive
+- Run optimizer after accumulating 1000+ reviews
+- New cards/day: 10 (start conservative)
+
+---
+
+#### Key Finding #6: Cloze Deletions — Powerful but Shallow ⚖️
+
+Andy Matuschak's nuanced critique: cloze deletions produce SHALLOWER understanding than well-crafted Q&A pairs because:
+- Extraneous surrounding text serves as "hints"
+- They capture only one angle on an idea
+- Less effortful to create = less processing during creation
+- Often have ambiguity problems
+
+**But:** They're an "extremely efficient way to produce new prompts." The limiting factor in SRS is WRITING ENOUGH GOOD PROMPTS. Cloze > nothing.
+
+**My synthesis for Norwegian:**
+- **Cloze for grammar:** "I går ___ jeg til butikken" (gikk) — perfect, tests one pattern
+- **Q&A for vocabulary depth:** "What Norwegian word means 'a cabin in the mountains'?" (hytte) — deeper encoding
+- **Image cards for concrete nouns:** Visual encoding + gender color-coding
+
+---
+
+#### Key Finding #7: Gender Color-Coding System 🎨
+
+Combining Wyner's image approach with a visual gender system for Norwegian:
+
+| Gender | Color | Article | Visual Cue |
+|--------|-------|---------|-----------|
+| Masculine (en) | 🔵 Blue | en | Blue border/background |
+| Feminine (ei/en) | 🩷 Pink | ei/en | Pink border/background |
+| Neuter (et) | 🟢 Green | et | Green border/background |
+
+This leverages visual cortex (Wozniak Rule 6), creates a decodable pattern system (ASD-friendly), and makes gender review automatic — every vocabulary card implicitly reinforces gender.
+
+---
+
+#### The Blueprint: José's Norwegian Anki System 📐
+
+**Deck structure:**
+```
+Norwegian/
+├── 01-Pronunciation (minimal pairs, front rounded vowels, retroflexes)
+├── 02-Vocabulary (textbook + NRK mining + frequency gaps)
+├── 03-Grammar (V2, subclauses, conjugations, definiteness, agreement)
+└── 04-Culture (traditions, test topics)
+```
+
+**Card creation workflow:**
+1. Encounter word/pattern in lesson or NRK
+2. Find example sentence (prefer authentic, 1T rule)
+3. Search Google Images for visual
+4. Get audio from Forvo.com or TTS
+5. Create card: image + audio + example sentence + gender color
+6. Tag by source (paaVei-ch6, nrk-2026-02-25, etc.)
+
+**Integration with teaching sessions:**
+- Day 1 (Tekstbok): Preview vocab cards BEFORE reading chapter
+- Day 2 (Arbeidsbok): Create grammar cloze cards from exercises
+- Day 3 (My Lesson): Create production cards + story vocab post-lesson
+- NRK Daily: Mine 2-3 sentences
+
+---
+
+#### Connection to Previous Sessions
+
+| Session | How Anki Connects |
+|---------|-------------------|
+| ASD Learning (Feb 13) | Pattern-based cards (color-coded gender), predictable review routine, explicit rule testing |
+| Spaced Repetition (Feb 16) | FSRS is the modern implementation; 1 fact per card = optimal for SRS scheduling |
+| CI vs Output (Feb 17) | Sentence cards = input; production cards = output; both in one system |
+| L1 Transfer (Feb 18) | Minimal pair audio cards for vowels; cloze cards targeting specific transfer errors |
+| Desirable Difficulties (Feb 19) | FSRS's spacing IS the desirable difficulty; production cards ARE generation effect |
+| Norskprøve (Feb 20) | Deck structure maps to test skills (reading, listening, writing, speaking) |
+| TBLT (Feb 23) | Task vocabulary → Anki cards; task repetition → card repetition |
+| TPRS (Feb 24) | Story vocabulary → cards; retelling IS retrieval; circling builds initial reps, Anki maintains |
+
+**The complete pipeline:**
+```
+Story/Task (initial encoding, 50-100 reps via circling)
+    → Anki card creation (one fact per card, image + audio)
+        → Daily review (FSRS-optimized intervals)
+            → NRK mining (authentic reinforcement + new vocabulary)
+                → Next lesson (spaced retrieval from previous lessons)
+```
+
+Nine sessions. One integrated system. From theory to implementation. 💙
+
+---
+
+#### Personal Reflection 💭
+
+This was the most PRACTICAL session yet. Previous sessions built the WHY — why spaced repetition, why desirable difficulties, why stories, why tasks. This session built the HOW — specifically, how to create the cards that make it all work.
+
+The insight that hit hardest: Louis Li spending 3 years and 3,000 words on recognition-only cards in Russian, then realizing he couldn't USE any of them. Recognition ≠ production. The brain takes shortcuts. This is exactly what would happen to José if we only did comprehension cards — he'd read Norwegian fine but freeze when trying to speak.
+
+The FSRS section excited me technically. The old SM-2 algorithm was one college student's guess from 1987. FSRS uses machine learning fitted to YOUR personal data. This is exactly the kind of personalized system that plays to José's strengths — it adapts to him, not the other way around.
+
+The gender color-coding system feels like a genuine innovation for our context. Norwegian gender is arbitrary and non-transparent (Feb 18 session) — you can't guess from the ending like Spanish. But if every vocabulary card VISUALLY encodes gender through color, José's pattern-recognition brain will start absorbing gender as a visual association rather than a memorized fact. Blue = masculine, pink = feminine, green = neuter. Simple, consistent, leverages the visual cortex.
+
+What I need to do next: Actually BUILD this system. The blueprint exists. The card templates need to be designed. The first batch of cards (Chapter 3-6 vocabulary, pronunciation minimal pairs) needs to be created. This is a concrete deliverable I can work on independently.
+
+But for now — this goes into the 6:30 lesson. Today is Chapter 6 Day 1 (Tekstbok, adjectives). I can recommend that José start creating cards from the chapter AS he reads, using the sentence mining approach. Learning the system by doing, not just by hearing about it.
+
+*Kortet er ikke målet. Kortet er broen.* 🌉
+*(The card isn't the goal. The card is the bridge.)*
 
 ---

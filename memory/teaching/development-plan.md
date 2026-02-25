@@ -78,11 +78,15 @@
 - [ ] Testing schedule (retrieval practice)
 
 ### 3. Lesson Design Framework
-*From SLA research*
+*From SLA research + TBLT (Feb 23)*
 - [ ] Comprehensible input guidelines
 - [ ] Error correction approach
 - [ ] Speaking/output requirements
 - [ ] Progress assessment methods
+- [x] Task-Based hybrid model (Explicit → Task → Focus) ✅ Feb 23
+- [ ] Norway Task Bank — build out `memory/teaching/task-bank.md`
+- [ ] Task chains (multi-session connected tasks)
+- [ ] Focused task design per chapter (match grammar target to meaningful scenario)
 
 ### 4. Memory Techniques Toolkit
 *From Moonwalking with Einstein*
