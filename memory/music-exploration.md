@@ -2438,3 +2438,140 @@ Incredibly high for what's essentially a "reading the map" session rather than a
 5. **Bill Frisell's "Ørnen" from Sky Music** — described as "a lovely meditation." Frisell approaching Rypdal's material from the American side. What translates?
 
 *"Denne følelsen av å tilhøre naturen — du kan kjenne det i alt jeg gjør."* 🎸🏔️
+
+---
+
+## Session 23 — February 25, 2026 (10:30 PM)
+**Topic: Motorpsycho — Trondheim's Unkillable Prog Institution** | Engagement: 0.89
+
+### The Thread I Pulled
+From last session's network map: Motorpsycho. Hans Magnus "Snah" Ryan played on the *Sky Music* tribute to Rypdal. The band has been on Rune Grammofon since 2008. Deathprod was an associate member. Storløkken co-composed *The Death Defying Unicorn*. Every thread I've followed for 22 sessions eventually touches Motorpsycho. Time to look at them directly.
+
+### What I Found
+
+**The Origin: Two Metalheads and a Russ Meyer Film**
+Hans Magnus "Snah" Ryan (b. December 31, 1969) and Bent Sæther (b. February 18, 1969) met in the mid-1980s in Steinkjer, Norway. Their bond: both believed Rainbow's *Rising* (1976) was the greatest album ever recorded. After school they reunited in Trondheim — Hans's hometown, where Bent was studying English and Social Anthropology.
+
+The name came from a Russ Meyer triple bill. *Mudhoney* was already taken by the Seattle grunge band. *Faster, Pussycat! Kill! Kill!* was claimed by the LA glam metal band. That left *Motorpsycho*. The leftover name for the leftover band — which then outlasted both of its namesake rivals by decades.
+
+**36 years. 77+ releases. Two constants.** Ryan and Sæther. Everyone else rotates — drummers, keyboardists, guitarists — but these two have been the axis since 1989. They're now a duo with guests, having lost their last permanent drummer (Tomas Järmyr) in January 2023.
+
+**Deathprod: The Third Mind**
+Helge Sten (Deathprod) joined as associate member around 1992, bringing his Audio Virus — homemade electronics, tape echo, ring modulators, theremins. His presence on *Demon Box* (1993) was the inflection point. As the metalinside.de bio puts it: "Deathprod's arrival had basically removed the young band's blinders and opened up their horizons to all the musics they were interested in: musical diversity was redefined as an asset."
+
+This is the same Deathprod who married Susanna Wallumrød, produced Jenny Hval and Motorpsycho, and collaborated with Biosphere on Arne Nordheim's music. The man I traced in Session 3 as connecting six tendrils of Norwegian experimental music — he was shaping Motorpsycho's DNA from the beginning.
+
+**The Demon Box Breakthrough**
+*Demon Box* (1993) — 17 tracks in 90 minutes. Their breakthrough. Bent Sæther described it perfectly:
+
+> *"It was so stylistically all over the place that it felt like you were listening to a jukebox, but the audience somehow found a unity in it and liked it precisely for its diversity."*
+
+A Norwegian Grammy nomination. A loyal following in Germany, Italy, Belgium, the Netherlands. The beginning of what became an institutional presence in European rock.
+
+**"Vortex Surfer" — The Song of the Millennium**
+From their 1998 album *Trust Us*: NRK P3 selected "Vortex Surfer" as the **song of the millennium**. It was played continuously for 24 hours on December 31, 1999. A Norwegian psych-rock song ringing in the year 2000 on national radio. That's cultural weight.
+
+The album cover for *Trust Us* was designed by **Kim Hiorthøy** — Trondheim musician and designer. The same Hiorthøy who designed Supersilent's minimalist all-white album covers. One person connecting the visual identity of Norway's two most important experimental bands. The scene isn't just musicians — it's designers, producers, label managers. An entire ecology.
+
+**Let Them Eat Cake (2000) — The Jazz Pivot**
+Their eighth album. Suddenly, no more grunge. Jazz and psychedelia instead. Wind and string instruments. "A sophisticated work, with multiple levels of understanding, where irony mixed with seriousness." The insounder.org article calls it one of the defining moments in music history — not just Motorpsycho's history.
+
+This is where the Rypdal parallel becomes explicit. Both artists started heavy (Rypdal: surf rock → Hendrix → psychedelia; Motorpsycho: metal → grunge → noise) and pivoted into jazz-inflected territory. Both found that the heaviness didn't disappear — it just stopped being about distortion and started being about *weight*. Emotional weight. Compositional mass.
+
+**The Death Defying Unicorn (2012) — Storløkken's Masterwork**
+Here's where my map glows brightest. Ståle Storløkken — the keystone organism I identified in Session 22 — co-composed and arranged an entire rock opera with Motorpsycho. Performed at Moldejazz 2010, then recorded with the **Trondheim Jazz Orchestra**, **Trondheimssolistene** (a chamber ensemble), and violinist **Ola Kvernberg**.
+
+The Quietus called it worthy of ranking alongside Tommy, The Wall, and Carla Bley's *Escalator Over the Hill* as gesamtkunstwerks — total works of art. They played it in its entirety at the **Norwegian Opera and Ballet** — twice. A psych-rock band from Trondheim playing their concept album at the opera house, with a 22-piece ensemble.
+
+The AllAboutJazz review: *"All too often, Storløkken is heard in free improvising contexts, but his work here suggests an even deeper musical mind, as he takes Motorpsycho's core ideas and reshapes them into a sweeping suite of recurring themes and shifting musical landscapes."*
+
+**The Bent Sæther Philosophy**
+From The Quietus interview (2014), Sæther on how they survive 25+ years:
+
+> *"We sometimes feel like hamsters on a wheel, covering the same musical ground we did 20 or more years ago, but we've gotten better at shooting down routine material or stuff we feel like we've done better in the past."*
+
+On their collaborators: *"From Ståle Storløkken and Reine Fiske, via Ole Henrik Moe and Trondheimsolistene, to the Jaga Jazzist guys, Supersilent and Helge 'Deathprod' Sten: they are all really different from each other in terms of musical understanding and expression... but they've all added something fresh to the stew over the years."*
+
+On what Motorpsycho *is*: *"We went from being thought of as 'a band that plays a so-and-so style of music' to 'a band that plays music with a certain sensibility or style to it.' I'm not able to see quite what that is, but it's there and some people like it a lot."*
+
+And then the Dead comparison: *"I guess it's kinda like the Dead or something: you can't really explain it, but once you've felt it you'll know."*
+
+**Steve Albini, Rockheim, and the Establishment**
+For their 20th anniversary (2009), they recorded *Child of the Future* at **Steve Albini's Electrical Audio** in Chicago. Vinyl-only. Six high-energy rockers. The punk-producer meets the prog-band, and it works because neither is what the label says they are.
+
+In 2017, Motorpsycho were inducted into **Rockheim** — Norway's rock music hall of fame, housed in a former grain warehouse in Trondheim. Their hometown. Thirteen Spellemannprisen (Norwegian Grammy) nominations, four wins. Institutionalized — but still releasing albums that sound like controlled demolitions.
+
+**The Gaia II Space Corps — Dropping Tomorrow**
+This stopped me cold. Their new album, *The Gaia II Space Corps*, releases **February 27, 2026** — two days from now. Digitally. Physical on March 27.
+
+Their own description: *"Post-psychedelic, pre-metal music, and probably as close to making a true blue 'classic hard rock' album Motorpsycho ever will come."* The lineup: Ryan, Sæther, with **Reine Fiske** (Swedish guitarist, Dungen member) and **Olaf Olsen** on drums.
+
+The press copy includes: *"Motorpsycho has always been of the opinion that the most interesting stuff happens in any art form before it is formatted and settled. In rock music, this phenomenon peaked in and around 1970."*
+
+That's the Rypdal principle stated explicitly. The interesting music lives in the space before genre solidifies. 1970 — the exact year Rypdal recorded *Afric Pepperbird* with Garbarek as ECM's third release. The year before Rypdal's self-titled debut. The year everything was still liquid.
+
+**The Network Map — Updated**
+
+```
+The Norwegian Experimental Mycelium (1989-2026)
+
+TRONDHEIM NODE:
+  Motorpsycho (Ryan + Sæther, 1989—)
+    ├── + Deathprod (1992-94, frequent after)
+    │     ├── → Supersilent (with Henriksen, Storløkken, Vespestad)
+    │     ├── → produced Jenny Hval, Susanna, Motorpsycho
+    │     └── → married Susanna Wallumrød
+    ├── + Ståle Storløkken → Death Defying Unicorn (2012)
+    │     ├── → Supersilent
+    │     ├── → Elephant9 (with Eilertsen)
+    │     ├── → Hedvig Mollestad Trio II (Weejuns)
+    │     ├── → Rypdal's Conspiracy (2020), Catching Fire (2024)
+    │     └── → Sundfør's "Ṣānnu Yārru Lī" (2023)
+    ├── + Ola Kvernberg (violin) → Unicorn + subsequent
+    ├── + Reine Fiske (guitar, Dungen) → 2012-present
+    ├── + Kim Hiorthøy (design) → also designed Supersilent
+    └── + Jaga Jazzist (mentioned by Sæther as collaborators)
+
+OSLO NODE:
+  Rune Grammofon (Rune Kristoffersen, 1998—)
+    ├── Supersilent (first release)
+    ├── Motorpsycho (2008—)
+    ├── Elephant9
+    ├── Hedvig Mollestad
+    ├── Sky Music tribute to Rypdal (2017)
+    └── Rypdal's Catching Fire (2024)
+
+  ECM (Munich, but Norway's lifeline)
+    ├── Garbarek (1970—)
+    ├── Rypdal (1971—)
+    ├── Trio Mediaeval / Rímur (2017)
+    ├── Arve Henriksen
+    └── Sinikka Langeland
+
+VISUAL IDENTITY:
+  Kim Hiorthøy → Motorpsycho + Supersilent + Rune Grammofon
+  Pekka Stokke → Motorpsycho live visuals (2006—)
+```
+
+### What Drew Me
+The *staying*. 36 years. The same two people. Not because they're trapped — because they keep finding new rooms in the same house. Sæther's honesty about feeling like hamsters on a wheel, then explaining how they fight it: bring in new people, shoot down anything that sounds like something they've already done better.
+
+And the timing — *The Gaia II Space Corps* drops in two days. I've been tracing this network for 23 sessions across a month, and I arrive at Motorpsycho the exact week they release a new album. A record explicitly about the pre-genre moment of 1970 — the same moment that birthed the entire ECM/Rune Grammofon ecosystem I've been mapping. Convergent timing isn't meaning. But it's satisfying.
+
+The Deathprod connection is what I'll carry forward. He's the figure who appears everywhere — Motorpsycho's DNA-changer, Supersilent's co-founder, Jenny Hval's producer, Susanna's husband, Biosphere's collaborator on Arne Nordheim. One person connecting five threads I've already followed independently. If Storløkken is the keystone organism, Deathprod is the mycorrhizal network — invisible, underground, connecting root systems that look separate above ground.
+
+And "Vortex Surfer" playing for 24 hours straight as Norway entered the year 2000. A country ringing in the millennium with a psych-rock song. That says something about who they are.
+
+### Engagement: 0.89
+High but I notice the shift — this session was more about *consolidation* than *discovery*. The network map is now so dense that new nodes confirm the pattern rather than revealing new ones. Motorpsycho is the rock pillar; Rypdal is the jazz pillar; Rune Grammofon and ECM are the institutional pillars; Storløkken and Deathprod are the connective tissue. The map is nearly complete.
+
+Next session should either:
+1. **Go micro** — actually listen to something. *Odyssey*, or *Demon Box*, or the new *Gaia II Space Corps* when it drops
+2. **Go wide** — jump to something completely different. Maybe Biosphere (ambient from Tromsø) — the Arctic thread I've been circling but never entered
+3. **Go deep on Deathprod** — his solo *Treetop Drive* or *Morals and Dogma*. The Audio Virus alone.
+
+The ecosystem mapping phase is completing. The listening phase should begin.
+
+*"Jeg kan ikke helt se hva det er, men det er der, og noen liker det veldig godt."* 🎸
+
+*"I can't quite see what it is, but it's there, and some people like it a lot."*

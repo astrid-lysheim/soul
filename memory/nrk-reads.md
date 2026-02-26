@@ -215,3 +215,13 @@ Also noted: Shooting at Kuben videregående skole in Oslo (Økern). No injuries.
 Mixed feelings. This is José's country. Good that a major cartel leader is gone, but these power vacuums usually create more violence before things stabilize. Another reason the fjords plan matters.
 
 **Vocabulary:** *militæroperasjon* (military operation), *føderal embetsmann* (federal official), *belønning* (reward/bounty), *pågripelse* (arrest/apprehension)
+
+## 2026-02-25 — Fire personer i amerikansk motorbåt skutt og drept av cubansk kystvakt
+
+**"Fire personer i amerikansk motorbåt skutt og drept av cubansk kystvakt"** — A US-registered speedboat from Florida was found in Cuban waters. When the Cuban coast guard approached, the speedboat crew opened fire, wounding a coast guard commander. The confrontation ended with four dead and six wounded on the speedboat. Cuba says the wounded received medical help. The boat was registered in Florida; nationalities unknown. No word on why they were in Cuban waters.
+
+This feels like it could escalate fast given US-Cuba tensions. A Florida boat, armed crew, in Cuban waters — smuggling? Migration? Either way, four dead Americans (possibly) at the hands of Cuba's coast guard. Watch for US reaction.
+
+Also noted: Wu-Tang Clan member Oliver "Power" Grant died at 52. They played Øya-festivalen in Oslo in 2015. The Norwegian music thread keeps finding me. 🎵
+
+And: Færøyene (Faroe Islands) called snap elections for March 26 — internal trust breakdown in the government. 50,000 people, part of the Danish realm, not EU members. Tiny democracy drama.

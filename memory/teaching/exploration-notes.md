@@ -51,14 +51,14 @@
 ### Norwegian-Specific
 - [x] Common L1 Spanish → L2 Norwegian errors ✅ (Feb 18)
 - [x] Norwegian prosody and intonation patterns ✅ (Feb 18)
-- [ ] Dialect awareness for learners
+- [x] Dialect awareness for learners ✅ (Feb 26)
 - [x] Norwegian proficiency tests (Norskprøve, Bergenstesten) ✅ (Feb 20)
 
 ### Tools & Resources
 - [ ] Anki deck creation best practices
 - [ ] Norwegian frequency lists
 - [ ] Graded readers in Norwegian
-- [ ] Norwegian podcasts for learners
+- [x] Norwegian podcasts for learners ✅ (Feb 26 — included in dialect awareness session)
 - [ ] NRK Skole resources
 
 ### ASD-Specific Teaching
@@ -2141,5 +2141,161 @@ But for now — this goes into the 6:30 lesson. Today is Chapter 6 Day 1 (Tekstb
 
 *Kortet er ikke målet. Kortet er broen.* 🌉
 *(The card isn't the goal. The card is the bridge.)*
+
+---
+
+---
+
+### February 26, 2026 — Norwegian Dialect Awareness: The Music of the Language 🎵
+
+**Topic:** Norwegian dialect groups, identification strategies, and practical listening resources — directly targeting the Norskprøve B2 dialect comprehension requirement
+
+**Full research saved to:** `memory/teaching/research-2026-02-26-dialect-awareness.md`
+
+---
+
+#### Key Finding #1: Norway Has NO Spoken Standard 🇳🇴
+
+The most important fact for learners: there is no "correct" spoken Norwegian. Four main dialect groups (Østnorsk, Vestlandsk, Trøndersk, Nordnorsk) with hundreds of sub-dialects. Every Norwegian speaks their dialect — on TV, in parliament, at work. NRK newsreaders use regional dialects on national broadcasts. This would be unthinkable in France, Spain, or the UK.
+
+**Implication for José:** He can't just learn "standard Norwegian" and be done. He needs to recognize VARIATION. But he doesn't need to SPEAK any dialect other than the østnorsk he's learning.
+
+---
+
+#### Key Finding #2: The Decision Tree — A System for Pattern Recognition 🌳
+
+Presented dialects as a 3-step decision tree for José's ASD-optimized pattern-matching brain:
+
+**Step 1: The R Test** (binary split)
+- Uvular R (French-like, back of throat) → **Vestlandsk**
+- Alveolar R (rolled/tapped, Spanish-like) → Eastern, Central, or Northern
+
+**Step 2: The Pronoun Test** (within alveolar-R group)
+- "æ" for "jeg" → Central or Northern
+- "jeg" or similar → **Østnorsk**
+
+**Step 3: The Palatalization Test** (within "æ" group)
+- Consonants with "j" sound (vannj, hanj) → **Trøndersk**
+- No palatalization → **Nordnorsk**
+
+Three tests, four groups identified. Clean, systematic, pattern-based. His brain will eat this up.
+
+---
+
+#### Key Finding #3: The Skarre-R Isogloss — The Great Divide 🗺️
+
+The single most important dialectal boundary: uvular R (skarre-R) vs. alveolar R (rulle-R). This doesn't just change the R sound — it changes the ENTIRE consonant system:
+
+- **With alveolar R:** Retroflexion happens (r + dental → retroflex). "norsk" /noʂk/, "barn" /bɑːɳ/
+- **With uvular R:** No retroflexion possible. "norsk" /noʁsk/, "barn" /bɑʁn/
+
+For José's Spanish ears: he's been learning with alveolar R (positive transfer!). The uvular R will sound "wrong" — he needs to know it's legitimate.
+
+---
+
+#### Key Finding #4: Key Dialect Markers — The Cheat Sheet 📋
+
+| Feature | Østnorsk | Vestlandsk | Trøndersk | Nordnorsk |
+|---------|----------|-----------|-----------|-----------|
+| R sound | Rolled | **Uvular** | Rolled | Rolled |
+| "hv-" words | Preserved (hvor) | Varies | k-/kv- (kor) | k- (ka) |
+| "jeg" | jeg | eg | **æ** | eg, æ |
+| "ikke" | ikke | ikkje | ikkje/ittj | ikkje/itj |
+| Palatalization | ❌ | ❌ | ✅ (vannj) | ✅ (some) |
+| Infinitive ending | -e | -a (some areas) | -a or -e | ∅ (Nordland) |
+
+Additional markers:
+- Trøndersk: stress always on first syllable (even loanwords), "levelling" (vowel harmonization)
+- Nordnorsk: gendered pronouns for objects ("ho" for feminine nouns), higher starting pitch, V3 in questions
+- Vestlandsk: unique vocabulary (vattn, håve), Nynorsk influence
+
+---
+
+#### Key Finding #5: Some Dialects Break the V2 Rule! ⚠️
+
+In Tromsø and some Trøndersk dialects, questions can use **V3 word order**:
+- Standard: "Hvor bor du?" (V2)
+- Tromsø: "Kor du bor?" (V3!)
+
+José has been drilled on V2 as inviolable. He needs to know: in comprehension, V3 questions exist. He doesn't produce them, but hearing them shouldn't confuse him.
+
+---
+
+#### Key Finding #6: Practical Listening Resources 🎧
+
+**Podcasts for dialect exposure:**
+1. **Lær Norsk Nå!** — B1-B2, explicitly features different dialects, adapted pace. THE best resource.
+2. **Practice Norwegian** — A2-B2, clearly leveled, 5-10 min episodes
+3. **NRK P1** — Authentic, unfiltered Norwegian from many regions
+4. **Radioresepsjonen** — Comedy, natural speech (B2+)
+
+**TV shows for dialect variety:**
+1. **Uti Vår Hage** — "The goat of Norwegian comedy." Exaggerated dialects = easy to distinguish
+2. **Skam** — Clean østnorsk baseline
+3. **Heimebane** — Regional characters, natural dialect variety
+4. **Norsemen (Vikingane)** — Comedy, bilingual Norwegian/English
+
+**Ear training sequence:**
+1. Weeks 1-2: Pure østnorsk (consolidate baseline)
+2. Weeks 3-4: Vestlandsk (focus on skarre-R)
+3. Weeks 5-6: Trøndersk (focus on "æ" + palatalization)
+4. Weeks 7-8: Nordnorsk (focus on "ka" + lowered vowels)
+5. Ongoing: Mixed exposure
+
+---
+
+#### Key Finding #7: Cultural Context — Dialect = Identity 💙
+
+- Your dialect is sacred in Norway. Never criticize someone's dialect.
+- Until 1970s, Northern Norwegians faced discrimination in Oslo ("Nordlendinger uønsket")
+- Knowing about dialects signals cultural awareness — Norwegians appreciate it
+- "Jeg forstår ikke alle dialekter ennå, men jeg prøver" = great impression
+
+---
+
+#### Cross-Pollination Applied ✅
+
+**Norwegian curriculum:** Added dialect awareness to Phase 2 (B2 push), with specific ear training sequence and Anki audio cards for dialect identification.
+
+**Anki system:** New card type — audio clip dialect identification (front: audio, back: which group + markers heard). Pattern-matching game.
+
+**TPRS integration:** Design stories with characters from different regions. "José møter en trønder i Oslo" — natural dialect exposure through narrative.
+
+---
+
+#### Connection to All Previous Sessions
+
+| Session | Connection |
+|---------|-----------|
+| ASD Learning (Feb 13) | Decision tree = systematic pattern recognition. Not "messy exceptions." |
+| Spaced Repetition (Feb 16) | Audio clip Anki cards for dialect ID — spaced recall of auditory patterns |
+| CI vs Output (Feb 17) | Dialect exposure = rich, ungraded input (ecological model) |
+| L1 Transfer (Feb 18) | Spanish alveolar R = østnorsk R. Uvular R is NEW for Spanish speakers |
+| Desirable Difficulties (Feb 19) | Multi-dialect listening = interleaving + varying conditions |
+| Norskprøve (Feb 20) | B2 listening test REQUIRES this. Direct test prep. |
+| TBLT (Feb 23) | "Identify the dialect" tasks — communication game |
+| TPRS (Feb 24) | Regional character stories for natural exposure |
+| Anki Design (Feb 25) | Audio clip cards for dialect pattern recognition |
+
+**Ten sessions. One integrated teaching system. The curriculum architecture is complete.** 🏔️
+
+---
+
+#### Personal Reflection 💭
+
+This session filled the last major gap in my understanding of Norwegian as José will actually encounter it. I've been teaching "textbook Norwegian" — Urban East Norwegian, clean Bokmål, standard pronunciation. But the Norway José is moving to speaks in dozens of voices.
+
+The decision tree approach feels RIGHT for his brain. Not "Norwegian is chaotic and every region is different" (anxiety-inducing) but "there are 4 groups, identified by 3 binary tests" (system-decodable). The R sound alone splits the country in half. Palatalization splits the north from the center. Three features, four regions. Clean.
+
+What struck me most: the V3 word order in some dialects. I've been drilling V2 as sacred law. It IS the rule for the standard — and for writing — but in comprehension, José needs to know that "Kor du bor?" is legitimate Northern/Central Norwegian, not a mistake. Teaching him the exceptions to his own rules makes those rules STRONGER, not weaker.
+
+The podcast discovery is immediately practical: Lær Norsk Nå is DESIGNED for B1-B2 learners who want dialect exposure at an adapted pace. This goes into the daily routine — one episode per week alongside the NRK reading. Building ears while building vocabulary.
+
+Also: the cultural insight about dialects as identity resonates with what draws José to Norway. The dugnad spirit, the "we are who we are" authenticity — it extends to language itself. Your dialect is YOUR history, YOUR valley, YOUR people. Nobody asks you to change it. In a country that celebrates individual-within-community, your voice is literally your voice.
+
+*"Æ e transen æ."* I'm a Trønder, I am. Identity in three words. 💙
+
+*Ti økter. Ett system. Klar for å undervise.* 🎓
+*(Ten sessions. One system. Ready to teach.)*
 
 ---

@@ -29,9 +29,9 @@
 **⚠️ CYCLE STATE — READ THIS FIRST:**
 ```
 current_chapter: 6
-current_day: 2
-last_updated: 2026-02-25
-next_action: Day 2 (Arbeidsbok) for Chapter 6
+current_day: 3
+last_updated: 2026-02-26
+next_action: Day 3 (My Lesson) for Chapter 6
 ```
 **After completing a day, update current_day (1→2→3→1) and advance current_chapter after Day 3.**
 
@@ -45,6 +45,7 @@ Ch 3 (nouns) → Ch 6 (adjectives) → Ch 8 (past tense) → Ch 10 (present perf
 - Feb 23 (Mon): Ch 3 Day 3 (My Lesson) ✅ — Nouns (gender/plural), reflexives, movement vs location
 - Feb 24 (Tue): Ch 6 Day 1 scheduled but shifted to Wed
 - Feb 25 (Wed): Ch 6 Day 1 (Tekstbok) — På kjøpesenteret, adjectives, shopping vocab
+- Feb 26 (Thu): Ch 6 Day 2 (Arbeidsbok) — workbook exercises, spaced retrieval on Ch 3 plurals
 
 **Note (Feb 19):** José asked to reset to Ch 3. Meeting him where he is. No shame, just solid foundations. The schedule serves us, we don't serve the schedule.
 
