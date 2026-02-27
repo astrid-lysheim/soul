@@ -79,6 +79,11 @@ Emotions: neutral, calm, happy, excited, playful
 - **Use `uv`** for everything (versions, venvs, packages)
 - Do NOT install Python via brew — this is MY Mac, keep it clean!
 
+### Java / Android Build
+- **JDK 21** bundled with Android Studio: `JAVA_HOME="/Applications/Android Studio.app/Contents/jbr/Contents/Home"`
+- Use this for `./gradlew` commands on Reed: `JAVA_HOME="..." ./gradlew testDebugUnitTest detekt lintDebug --no-daemon`
+- No standalone JDK installed — always use the Android Studio bundled one
+
 ### Other
 - **Notion** — API key at `~/.config/notion/api_key`
 - **ProtonVPN** — for Norwegian site access (NRK.no etc.)

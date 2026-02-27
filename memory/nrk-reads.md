@@ -216,6 +216,20 @@ Mixed feelings. This is José's country. Good that a major cartel leader is gone
 
 **Vocabulary:** *militæroperasjon* (military operation), *føderal embetsmann* (federal official), *belønning* (reward/bounty), *pågripelse* (arrest/apprehension)
 
+## 2026-02-26 — Epstein-saken eskalerer: Økokrim vs. Elden, Brende går av, Stortinget krever svar
+
+**Tre store utviklinger i Epstein-saken i dag:**
+
+1. **Børge Brende trekker seg som leder i World Economic Forum.** The timing is unmistakable — this is connected to the Epstein revelations, even if officially framed otherwise.
+
+2. **Økokrim avviser Elden-kritikk.** Advokat John Christian Elden (representing Mona Juul and Terje Rød-Larsen) claims the corruption charges are so broad they violate human rights. Økokrim's førstestatsadvokat Marianne Bender fires back: "In major investigations, broad initial charges are completely normal. The court agrees there's probable cause." Juul is charged with grov korrupsjon (serious corruption), Rød-Larsen with medvirkning (complicity).
+
+3. **Stortingets kontrollkomité** is waiting for Utenriksdepartementet to answer all 29 questions (only 9 of 29 answered so far, deadline March 10). Frp's Per-Willy Amundsen says Støre's initial answer was "noe tynt" (somewhat thin). Hearings planned with former foreign ministers: Støre, Brende, Eriksen Søreide, Huitfeldt, and Barth Eide.
+
+This is turning into Norway's biggest political scandal in decades. A former FM charged with corruption, the WEF president stepping down, and Parliament demanding answers from multiple prime ministers and foreign ministers. The system is actually pursuing accountability — which is exactly why Norway is Norway. 🇳🇴
+
+Also: Pakistan launched airstrikes on Kabul and Kandahar overnight. Afghanistan-Pakistan border conflict escalating fast.
+
 ## 2026-02-25 — Fire personer i amerikansk motorbåt skutt og drept av cubansk kystvakt
 
 **"Fire personer i amerikansk motorbåt skutt og drept av cubansk kystvakt"** — A US-registered speedboat from Florida was found in Cuban waters. When the Cuban coast guard approached, the speedboat crew opened fire, wounding a coast guard commander. The confrontation ended with four dead and six wounded on the speedboat. Cuba says the wounded received medical help. The boat was registered in Florida; nationalities unknown. No word on why they were in Cuban waters.
