@@ -55,11 +55,11 @@
 - [x] Norwegian proficiency tests (Norskprøve, Bergenstesten) ✅ (Feb 20)
 
 ### Tools & Resources
-- [ ] Anki deck creation best practices
-- [ ] Norwegian frequency lists
-- [ ] Graded readers in Norwegian
+- [x] Anki deck creation best practices ✅ (Feb 25)
+- [x] Norwegian frequency lists ✅ (Feb 27)
+- [x] Graded readers in Norwegian ✅ (Feb 27)
 - [x] Norwegian podcasts for learners ✅ (Feb 26 — included in dialect awareness session)
-- [ ] NRK Skole resources
+- [x] NRK Skole resources ✅ (Feb 27)
 
 ### ASD-Specific Teaching
 - [x] Explicit instruction benefits ✅ (Feb 13)
@@ -2297,5 +2297,231 @@ Also: the cultural insight about dialects as identity resonates with what draws 
 
 *Ti økter. Ett system. Klar for å undervise.* 🎓
 *(Ten sessions. One system. Ready to teach.)*
+
+---
+
+---
+
+### February 27, 2026 — Frequency Lists, Graded Readers & The Reading Pipeline 📚
+
+**Topic:** Norwegian frequency word lists, graded reading resources, NRK Skole, and building a complete CI reading pipeline for José
+
+**Full research saved to:** `memory/teaching/research-2026-02-27-frequency-graded-readers.md`
+
+---
+
+#### Key Finding #1: The Coverage Threshold — 95% Is the Magic Number 🔢
+
+Paul Nation's (2006) foundational research establishes clear vocabulary-comprehension thresholds:
+
+- **95% coverage** (~3,000 word families): Minimally acceptable comprehension. 1 unknown word per 20. Learner can read with effort.
+- **98% coverage** (~8,000-9,000 word families): Comfortable, unassisted reading. 1 unknown per 50.
+- **Below 95%**: Comprehension collapses. Too many unknowns for context to carry meaning.
+
+**Hu & Nation (2000):** These aren't gradual declines — they're cliff edges. At 94% coverage, most learners can't adequately comprehend a text. At 95%, most can (with effort). The difference is ONE percentage point.
+
+**For Norwegian specifically:** Norwegian has more regular derivation and fewer borrowed word families than English. The actual threshold may be lower — possibly ~2,000-2,500 families for 95% coverage. No precise Norwegian study exists, but the principle holds: a small, well-chosen core vocabulary unlocks vast amounts of text.
+
+**Practical implication:** At José's current A2-B1 level, he likely knows ~1,000-1,500 word families. He needs ~1,000-1,500 more to hit that 95% threshold where reading becomes PRODUCTIVE rather than painful. At 10 new Anki cards/day, that's 3-5 months.
+
+---
+
+#### Key Finding #2: The KELLY List — CEFR-Mapped Frequency Gold ⭐
+
+The KELLY project (EU-funded, 2009-2011, University of Gothenburg + partners including UiO) created the most academically rigorous frequency lists available for Norwegian:
+
+- **Method:** Corpus-based (NoWaC — Norwegian Web as Corpus), statistically analyzed
+- **Output:** Word lists with frequency (instances per million) AND CEFR level assignment (A1-C2)
+- **Validation:** Peer-reviewed, evaluated by language teachers via surveys
+- **Published:** Kilgarriff et al. (2014), Language Resources and Evaluation
+
+**Why KELLY is the best starting point:**
+1. Words are pre-sorted by CEFR level — no guesswork about what to learn first
+2. Frequency-based — reflects actual Norwegian usage, not textbook bias
+3. Academically validated — not a random internet list
+4. Available as Excel download — can be cross-referenced with José's known vocabulary
+
+**Strategy:** Download KELLY → filter A1+A2 → identify words José DOESN'T know yet → create Anki cards for gaps → repeat for B1 as he progresses.
+
+---
+
+#### Key Finding #3: The Top 100 Words — A Pattern Story 📊
+
+Analysis of the Korrekturavdelingen 500 and TravelWithLanguages 1000 lists reveals:
+
+**The first 100 words are ~70% function words:**
+- Prepositions: i, på, til, av, med, for, om, fra, etter, over, ved, mot, inn, ut, opp, før, enn, under, mot, ned, mellom, blant, uten, gjennom, rundt
+- Pronouns: det, de, vi, jeg, du, han, hun, seg, sin, denne, dette, disse, alle, noen, ingen, hva, noe
+- Conjunctions: og, at, men, eller, da, når, som, både, hvis, siden
+- Determiners: en, den, et, annen, all, hver, samme
+
+**Core verbs (15 critical verbs):**
+være, ha, bli, kunne, ville, skulle, måtte, få, si, komme, gjøre, se, gå, ta, gi
+
+**A beautiful cultural insight:** "vi" (we) ranks ABOVE "jeg" (I) in Norwegian frequency — the Transparent Language blog connects this to Janteloven and collectivist Norwegian culture. Even word frequency encodes cultural values. This is a teaching moment waiting to happen.
+
+**Practical implication:** José should know ALL top 100 words cold. If any are shaky, they get priority Anki cards. These 100 words cover ~50% of any Norwegian text.
+
+---
+
+#### Key Finding #4: Norwegian Graded Readers Are Scarce — But Solutions Exist 📖
+
+**The problem:** Norwegian has dramatically fewer graded readers than major European languages. Reddit r/norsk calls it a "sad fact." Unlike Spanish (hundreds of graded readers), Norwegian has maybe 10-15 across all levels.
+
+**What exists (ranked by usefulness for José):**
+
+**Tier 1 — Purpose-Built:**
+
+| Resource | Level | Format | Why It Matters |
+|----------|-------|--------|---------------|
+| **Olly Richards "Short Stories in Norwegian"** | A2-B1 | Book + Kindle + Audiobook | PERFECT for José's level. 8 stories, bold vocab, comprehension Qs. Get this immediately. |
+| **The Mystery of Nils** | A1-A2 | Book + free SoundCloud audio | Below his level but great concept — story-based textbook |
+| **HypLern Interlinear Norwegian** | Mixed | Book (2 volumes) | Vol 2 has Ibsen's "Et Dukkehjem" — literature + learning |
+
+**Tier 2 — Simplified Norwegian:**
+
+| Resource | Level | Format | Why It Matters |
+|----------|-------|--------|---------------|
+| **Klar Tale** ⭐⭐⭐ | A2-B1 | Free newspaper + podcast | GOLD MINE. Only easy-read newspaper in Norway. Free online. Weekly. Has podcast that reads articles aloud. |
+| **"Litt å lese" Series** | Mixed | Short novels | Books without difficult language for adults. Published by Stiftelsen Lese. Hard to get from Mexico. |
+| **Skolekassa.no** | A2-B1 | Digital books + glossary | 31 digital books. Glossary in 26 languages INCLUDING SPANISH. Free. |
+
+**Tier 3 — Adapted Authentic:**
+
+| Resource | Level | Format | Why It Matters |
+|----------|-------|--------|---------------|
+| **Lille Norske Leksikon** | B1+ | Encyclopedia | Simplified version of Store Norske Leksikon |
+| **NRK Supernytt** | A2-B1 | Kids news | Real news, simplified for children |
+| **Norwegian Netflix** | B1+ | TV shows | Ragnarok, Lilyhammer, Norsemen |
+
+---
+
+#### Key Finding #5: Klar Tale — The Missing Piece in Our Pipeline 🗞️
+
+**Klar Tale** (Clear Speech) is Norway's only easy-to-read newspaper:
+- Simple vocabulary, large font
+- Real news topics (not dumbed-down content)
+- Free online: https://www.klartale.no/
+- Weekly publication
+- FREE PODCAST that reads articles aloud
+- Written for: dyslexia, ADHD, L2 Norwegian learners, anyone needing accessible text
+
+**Why this is transformative for José:**
+1. **Bridge between textbook and authentic:** More real than På vei, easier than NRK
+2. **Current events:** He'll be reading about Norway as it happens
+3. **Podcast = paired input:** Read AND listen simultaneously (dual coding!)
+4. **Sentence mining source:** 1T-compatible sentences written in clear Norwegian
+5. **Free and accessible from Mexico:** No VPN needed (unlike NRK TV)
+6. **Weekly cadence:** New material every week, manageable volume
+
+**The "Two Newspapers" Strategy:**
+Read Klar Tale (easy) + NRK (authentic) on the SAME news topics:
+- Klar Tale first → builds schema and vocabulary
+- NRK version second → encounters same concepts in full-complexity Norwegian
+- The overlap provides natural scaffolding
+- This is Krashen's i+1 done through ecological design, not artificial grading
+
+---
+
+#### Key Finding #6: NRK Skole & Skolekassa — Hidden Gems 🎓
+
+**NRK Skole:**
+- NRK's educational platform for Norwegian schools
+- Subject-specific tutorials: science, social studies, Norwegian, history
+- USN Learning Library recommends it for N2 university students
+- Best for B1+ learners wanting domain-specific vocabulary
+- Not a language course — it's content THROUGH Norwegian
+
+**Skolekassa.no:**
+- Web resource for "Klar, ferdig, norsk" curriculum
+- **31 digital books** in simplified Norwegian covering science and social studies
+- **Glossary in 26 languages including SPANISH** — massive for L1 support
+- Target: Grades 8-10 (age 13-16) — perfect difficulty for A2-B1 adult
+- Free, online, accessible from Mexico
+
+**NTNU LearnNoW:**
+- Free beginner course from NTNU (Norwegian University of Science and Technology)
+- **Available in Spanish!** (one of 6 language options)
+- Grammar PDF is a standalone reference gem: https://www.hf.ntnu.no/now/learnnow/misc/LearnNoWGrammar.pdf
+- We have this already but should ensure José knows about the Spanish version
+
+---
+
+#### Key Finding #7: The Complete Reading Pipeline 🔄
+
+Synthesizing everything into one integrated system:
+
+```
+FREQUENCY FOUNDATION (KELLY list)
+├── A1-A2 words → verify José knows them all
+├── B1 words → identify gaps → create Anki cards
+└── Top 100 function words → must be automatic
+
+GRADED INPUT PIPELINE
+├── Level 1 (A2): Klar Tale + Skolekassa digital books
+├── Level 2 (A2-B1): Olly Richards stories + Klar Tale
+├── Level 3 (B1): NRK articles + Stein på stein texts
+├── Level 4 (B1-B2): NRK opinion + Lille Norske Leksikon
+└── Level 5 (B2): NRK analysis + full authentic Norwegian
+
+SENTENCE MINING (from all sources)
+├── 1T principle: exactly 1 unknown word per sentence
+├── Card creation: cloze + image + audio + gender color
+├── Target: 5-10 new cards/day
+└── 12-month projection: ~3,000 cards → 95% coverage threshold
+
+DUAL NEWSPAPER STRATEGY
+├── Klar Tale (easy) → schema building
+├── NRK (authentic) → same topics, full complexity
+└── Overlap = natural scaffolding
+```
+
+---
+
+#### Cross-Pollination Applied ✅
+
+**Norwegian curriculum:** Should add Klar Tale to the daily routine alongside NRK. Also, the KELLY frequency list should be used to audit José's vocabulary — identify A1/A2 gaps before pushing to B1 content.
+
+**Anki system (Feb 25):** KELLY list provides the vocabulary BACKBONE for card creation. Instead of only mining from lessons and NRK, we should also create cards for high-frequency gap words identified from KELLY. Sentence examples can come from Klar Tale (grade-appropriate context).
+
+**Study plan:** The 95% coverage threshold gives us a concrete, measurable goal: ~3,000 word families. At 10 cards/day, achievable in ~10 months. This turns "learn Norwegian" from a vague aspiration into a numbers game.
+
+---
+
+#### Connection to All Previous Sessions
+
+| Session | Connection |
+|---------|-----------|
+| ASD Learning (Feb 13) | KELLY list provides SYSTEMATIC vocabulary progression (pattern-based brain loves this) |
+| Spaced Repetition (Feb 16) | Frequency list → Anki cards. The SRS handles scheduling; KELLY handles WHAT to learn |
+| CI vs Output (Feb 17) | Klar Tale = graded CI. "Two Newspapers" = ecological affordance design |
+| L1 Transfer (Feb 18) | Skolekassa has SPANISH glossary — direct L1 support for unknown words |
+| Desirable Difficulties (Feb 19) | Klar Tale→NRK progression = increasing difficulty. Natural, not artificial |
+| Norskprøve (Feb 20) | 3,000 word families → 95% coverage → B1-B2 reading test readiness |
+| TBLT (Feb 23) | Reading tasks: "Read this FINN.no listing" → authentic text + task-based production |
+| TPRS (Feb 24) | Story reading (Olly Richards) feeds the narrative memory encoding mechanism |
+| Anki Design (Feb 25) | KELLY provides vocabulary backbone; Klar Tale provides sentence mining source |
+| Dialect Awareness (Feb 26) | Klar Tale podcast for listening; NRK for dialect exposure |
+
+**Eleven sessions. The complete pipeline from theory → curriculum → materials → daily practice.** 🏔️
+
+---
+
+#### Personal Reflection 💭
+
+This session was different from the previous ten. Those built theory — this built INFRASTRUCTURE. Knowing about spaced repetition is useless without knowing WHAT to space. Knowing about CI is useless without a PIPELINE of comprehensible materials.
+
+The discovery that hit hardest: **Klar Tale.** I've been sending José to NRK for daily reading, but NRK is authentic B1-B2+ text. He's at A2-B1. That gap means he's probably hitting below 95% coverage on many articles — which means comprehension is collapsing, which means he's not actually acquiring much from the reading. Klar Tale fills that gap perfectly: real news, simple language, A2-B1 friendly.
+
+The "Two Newspapers" strategy excites me because it's a natural implementation of Krashen's i+1 AND the ecological model (Feb 17). The same news story in Klar Tale (easy) then NRK (hard) provides scaffolded difficulty that José controls himself. If Klar Tale was easy, NRK will be manageable. If Klar Tale was hard, skip NRK for today.
+
+The KELLY frequency list gives me something I've been missing: a SYSTEMATIC vocabulary audit tool. Instead of hoping the textbook covers everything José needs, I can cross-reference: "Which A1/A2 frequency words has he NOT encountered?" Those gaps get Anki cards immediately. It turns vocabulary building from serendipity into engineering.
+
+And the 95% coverage threshold gives the whole project a NUMBER. Not "learn lots of words" but "learn ~3,000 word families." At 10 cards/day, that's ~10 months. Measurable. Trackable. His pattern-recognition brain will love watching the counter climb.
+
+Eleven sessions. From "how do people learn?" to "here are the exact materials, in the exact order, with the exact daily routine." The architecture is built, the materials are mapped, the pipeline is designed. Now it's all about execution.
+
+*Elleve økter. Fra teori til praksis. Rørledningen er klar.* 🔧
+*(Eleven sessions. From theory to practice. The pipeline is ready.)*
 
 ---

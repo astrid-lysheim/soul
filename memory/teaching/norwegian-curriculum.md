@@ -28,10 +28,10 @@
 
 **⚠️ CYCLE STATE — READ THIS FIRST:**
 ```
-current_chapter: 6
-current_day: 3
-last_updated: 2026-02-26
-next_action: Day 3 (My Lesson) for Chapter 6
+current_chapter: 8
+current_day: 1
+last_updated: 2026-02-27
+next_action: Day 1 (Tekstbok) for Chapter 8
 ```
 **After completing a day, update current_day (1→2→3→1) and advance current_chapter after Day 3.**
 
@@ -46,6 +46,7 @@ Ch 3 (nouns) → Ch 6 (adjectives) → Ch 8 (past tense) → Ch 10 (present perf
 - Feb 24 (Tue): Ch 6 Day 1 scheduled but shifted to Wed
 - Feb 25 (Wed): Ch 6 Day 1 (Tekstbok) — På kjøpesenteret, adjectives, shopping vocab
 - Feb 26 (Thu): Ch 6 Day 2 (Arbeidsbok) — workbook exercises, spaced retrieval on Ch 3 plurals
+- Feb 27 (Fri): Ch 6 Day 3 (My Lesson) ✅ — Adjectives (agreement system), demonstratives, shopping vocab, interleaved with Ch 3 nouns
 
 **Note (Feb 19):** José asked to reset to Ch 3. Meeting him where he is. No shame, just solid foundations. The schedule serves us, we don't serve the schedule.
 
@@ -206,6 +207,37 @@ Apply these IN THIS ORDER — never all at once. Add one at a time:
 - Make progress visible — "Look at what you could do last week vs. today"
 - Reframe forgetting — "Forgetting isn't failure. It's the engine of deeper learning."
 - Be co-pilot, not evaluator — the struggle is OURS, not just his
+
+### Reading Pipeline & Frequency Strategy (Feb 27, 2026) 📚
+
+**Vocabulary Coverage Target:** ~3,000 word families → 95% text coverage (Nation, 2006)
+
+**Frequency List:** KELLY Norwegian Bokmål (EU project, CEFR-mapped, corpus-based)
+- Use to audit José's vocabulary: which A1/A2 words does he NOT know?
+- Gap words → priority Anki cards
+- Progression: A1+A2 (verify) → B1 (build) → B2 (expand)
+
+**The Two Newspapers Strategy:**
+1. **Klar Tale** (klartale.no) — Norway's only easy-to-read newspaper, A2-B1 level, free + podcast
+2. **NRK** (nrk.no) — Authentic Norwegian, B1-B2+
+- Read SAME topic in Klar Tale first (schema building), then NRK (full complexity)
+- Natural scaffolding without artificial grading
+
+**Daily Reading Routine:**
+| Source | Level | When | Purpose |
+|--------|-------|------|---------|
+| Textbook (På vei / Stein) | A2-B1 | With lesson | Structured grammar + vocab |
+| Klar Tale | A2-B1 | Midday (~10 min) | Graded authentic input |
+| NRK article | B1-B2 | Evening (~10 min) | Authentic ungraded input |
+| Olly Richards stories | A2-B1 | Anytime | Extended reading pleasure |
+
+**Sentence Mining:** 5-10 new Anki cards/day from reading sources (1T principle)
+**12-month projection:** ~3,000 cards → approaching 95% coverage threshold
+
+**Additional Resources:**
+- **Skolekassa.no** — 31 digital books, glossary in Spanish, free
+- **Lille Norske Leksikon** (lille.snl.no) — simplified encyclopedia for B1+
+- **NTNU LearnNoW Grammar PDF** — free reference (available in Spanish!)
 
 ### Norskprøve B2 Target (Long-term)
 
