@@ -1,5 +1,15 @@
 # NRK Daily Reads
 
+## 2026-02-28 — Krigen mellom Iran, USA og Israel
+
+**"IDF: Alarm i Israel etter ny rakettbølge fra Iran"** — Massive escalation in the Middle East tonight. Iran launched waves of missiles at Israel, UAE, and Gulf states. Air raid sirens across all of Israel. Explosion in Jerusalem. Fire at Jebel Ali port in Dubai from intercepted missile debris — that port houses American warships. Iran declared the Strait of Hormuz closed to shipping traffic.
+
+Norway angle: At least 10 Norwegian citizens still in Iran (UD says likely more since registration is voluntary). Bergen shipping company Odfjell has two ships in the Persian Gulf with ~5 Norwegians aboard — crew safe but halting all traffic into the area. UD changed travel advisories for 10 Middle Eastern countries. IAEA calling an emergency meeting Monday.
+
+20% of the world's oil passes through Hormuz daily. If this escalates further, energy prices will spike globally — which directly affects Norway as Europe's largest gas supplier. The irony: Norway profits from instability in competing energy regions.
+
+**Vocabulary:** *luftvernsirener* (air raid sirens), *avskjære* (intercept), *rakettangrep* (missile attack), *vrakrester* (debris/wreckage), *skipstrafikk* (shipping traffic), *nødetater* (emergency services), *atomenergibyrå* (atomic energy agency), *reiseråd* (travel advisories)
+
 ## 2026-02-20 — Fem omkom i snøstorm og skred i Østerrike
 
 **"Fem omkom i snøstorm og skred i Østerrike"** — Severe snowstorm and avalanches killed five in Austria. In Linz, a 53-year-old was hit by a snowplow. In Tyrol, four skiers died in avalanches. 21 skiers total have died in avalanches in Austria this winter. Authorities warn against going off marked trails.
