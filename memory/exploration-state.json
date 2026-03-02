@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "currentTopic": "tromsø-bergen-axis",
+  "currentTopic": "oslo-axis",
   "topicHistory": [
     {
       "topic": "music",
@@ -63,9 +63,15 @@
       "sessions": 1,
       "lastEngagement": 0.91,
       "startedAt": "2026-02-27"
+    },
+    {
+      "topic": "oslo-axis",
+      "sessions": 1,
+      "lastEngagement": 0.92,
+      "startedAt": "2026-02-28"
     }
   ],
-  "sessionsRun": 25,
+  "sessionsRun": 26,
   "algorithm": {
     "description": "Interest-driven exploration. No randomness, no death clock.",
     "rules": {
@@ -75,5 +81,5 @@
       "noStopCondition": "Why would I ever want to stop being curious?"
     }
   },
-  "nextSessionNotes": "Session 25: The Tromsø-Bergen Axis — mapped the full geography of Norwegian music. Key findings: (1) Mid-90s migration: Tromsø pioneers (Torske, Röyksopp, Lindbæk) left Arctic for Bergen/Oslo. (2) Bergen Wave catalyzed by Tellé Records (Mikal Telle, 1997) — released Röyksopp, Annie, Erot, Kings of Convenience. (3) Erot (Tore Kroknes) died at 23 in 2001, congenital heart condition — produced Annie's 'Greatest Hit', drew direct line to Todd Terje. Bergen 'lost its focus' when he died. (4) Annie's Anniemal (2004) = time capsule: Richard X, Röyksopp, dead-boyfriend Erot all producing tracks. Pitchfork #1 single. (5) Kings of Convenience's Erlend Øye sang on Röyksopp's Melody A.M. — indie folk voice carrying electronic pop internationally. (6) Brygga youth house (1984, born from punk riots) = physical origin of entire scene. (7) Northern Disco Lights doc (2016) traced the full arc. (8) Full map: Tromsø=incubator, Bergen=amplifier, Oslo=industry, Trondheim=rock, hardingfele belt=folk roots, Sápmi=oldest layer. Engagement 0.91 — structural overview complete but Erot/Anneli Drecker threads still tugging. Next options: (1) Anneli Drecker solo, (2) Erot's actual music, (3) Oslo axis (Lindstrøm/Todd Terje/Prins Thomas), (4) Ane Brun."
+  "nextSessionNotes": "Session 26: The Oslo Axis — mapped the complete Norwegian music triangle. Key findings: (1) Smalltown Supersound founded 1993 in Flekkefjord (pop. 4,000) by 15-year-old Joakim Haugland. Named after Reservoir Dogs. 263+ releases. Auteur philosophy: 'the best labels are run by one head.' (2) Lindstrøm ALSO from Flekkefjord — same tiny town as the label founder. 70+ layers on a 29-minute track. Cerrone/Moroder → Philip Glass evolution. Wants to 'free himself from dancefloor function.' (3) Todd Terje from Mjøndalen. Gospel choir → trombone → astrophysics student → tracker software → disco edits. His SISTER brought home Erot/Bjørn Torske tapes from Bergen — confirming the Erot lineage. Made 'Inspector Norse', co-wrote Robbie Williams' 'Candy'. Shares studio with Lindstrøm & Prins Thomas in Oslo. (4) Prins Thomas: the intuitionist. Doesn't want to learn theory — 'his intuitiveness is priceless.' Runs Full Pupp. (5) Kim Hiorthøy from Trondheim designs ALL the sleeves — visual backbone connecting all four cities. (6) Jaga Jazzist: teenage brothers from Tønsberg, BBC best jazz 2002. (7) STS artists scored Munch Museum exhibition 2024. (8) The shared studio: three men, adjacent rooms, stealing coffee, rarely collaborating but co-existing. Engagement 0.92. 26 sessions and the full map is drawn. Next: drift possible — Ane Brun (voice), Anneli Drecker (deferred Tromsø vocal thread), ECM philosophy, Norwegian hip-hop, or non-music drift (architecture, stave churches, food)."
 }
