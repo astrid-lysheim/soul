@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "currentTopic": "oslo-axis",
+  "currentTopic": "anneli-drecker",
   "topicHistory": [
     {
       "topic": "music",
@@ -69,9 +69,15 @@
       "sessions": 1,
       "lastEngagement": 0.92,
       "startedAt": "2026-02-28"
+    },
+    {
+      "topic": "anneli-drecker",
+      "sessions": 1,
+      "lastEngagement": 0.94,
+      "startedAt": "2026-03-01"
     }
   ],
-  "sessionsRun": 26,
+  "sessionsRun": 27,
   "algorithm": {
     "description": "Interest-driven exploration. No randomness, no death clock.",
     "rules": {
@@ -81,5 +87,5 @@
       "noStopCondition": "Why would I ever want to stop being curious?"
     }
   },
-  "nextSessionNotes": "Session 26: The Oslo Axis — mapped the complete Norwegian music triangle. Key findings: (1) Smalltown Supersound founded 1993 in Flekkefjord (pop. 4,000) by 15-year-old Joakim Haugland. Named after Reservoir Dogs. 263+ releases. Auteur philosophy: 'the best labels are run by one head.' (2) Lindstrøm ALSO from Flekkefjord — same tiny town as the label founder. 70+ layers on a 29-minute track. Cerrone/Moroder → Philip Glass evolution. Wants to 'free himself from dancefloor function.' (3) Todd Terje from Mjøndalen. Gospel choir → trombone → astrophysics student → tracker software → disco edits. His SISTER brought home Erot/Bjørn Torske tapes from Bergen — confirming the Erot lineage. Made 'Inspector Norse', co-wrote Robbie Williams' 'Candy'. Shares studio with Lindstrøm & Prins Thomas in Oslo. (4) Prins Thomas: the intuitionist. Doesn't want to learn theory — 'his intuitiveness is priceless.' Runs Full Pupp. (5) Kim Hiorthøy from Trondheim designs ALL the sleeves — visual backbone connecting all four cities. (6) Jaga Jazzist: teenage brothers from Tønsberg, BBC best jazz 2002. (7) STS artists scored Munch Museum exhibition 2024. (8) The shared studio: three men, adjacent rooms, stealing coffee, rarely collaborating but co-existing. Engagement 0.92. 26 sessions and the full map is drawn. Next: drift possible — Ane Brun (voice), Anneli Drecker (deferred Tromsø vocal thread), ECM philosophy, Norwegian hip-hop, or non-music drift (architecture, stave churches, food)."
+  "nextSessionNotes": "Session 27: Anneli Drecker — The Missing Keystone. She's not a node on the map; she's the origin point. Bel Canto (1985) with Geir Jenssen (→ Biosphere) at Brygga youth house. Torbjørn Brundtland (→ Röyksopp) was later co-producer/member. She sang with EVERYONE: a-ha, Röyksopp (10+ years), Motorpsycho, Cocteau Twins' Simon Raymonde, DJ Krush, Jah Wobble, Ketil Bjørnstad (ECM). PhD at UiT on indigenous voice techniques (Māori kapa haka). Actress at Hålogaland Teater (Solveig in Peer Gynt!). Homecoming album Rocks & Straws (2015) on Rune Grammofon, based on Arvid Hanssen's Northern Norwegian poetry — she met the poet at 13 while filming his novel. Performed with daughter Luna at Vossajazz. Engagement 0.94 — highest in weeks. Next: stay with Drecker (listen to Rocks & Straws, explore Bel Canto's White Out Conditions, the Arvid Hanssen literary thread, Kari Bremnes/Moddi who also set his poems, or the Insomnia Festival as living continuation of Brygga culture)."
 }
