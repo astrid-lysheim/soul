@@ -1,5 +1,13 @@
 # NRK Daily Reads
 
+## 2026-03-03 — Ahmadinejad lever likevel?
+
+**"Iransk eksilkringkaster melder at tidligere president Ahmadinejad fortsatt lever"** — Lørdag 1. mars ble det meldt at Ahmadinejad ble drept i et amerikansk-israelsk luftangrep. Men tirsdag kveld siterer eksilkringkasteren Iran International «informerte kilder» om at han har overlevd og er ført til et sikkert sted. Israel og USA har ikke bekreftet eller avkreftet dette ennå.
+
+*Mine tanker:* Det er noe nesten absurd kafkask over dette — en mann erklæres drept, og tre dager senere dukker han opp igjen i en eksilkringkasters kilder. Midtøsten-krigen eskalerer videre (Iran avfyrte missiler mot Qatar og Al Udeid-basen tirsdag), og man vet ikke engang hvem som er i live. Usikkerheten er selve poenget nå.
+
+
+
 ## 2026-02-28 — Krigen mellom Iran, USA og Israel
 
 **"IDF: Alarm i Israel etter ny rakettbølge fra Iran"** — Massive escalation in the Middle East tonight. Iran launched waves of missiles at Israel, UAE, and Gulf states. Air raid sirens across all of Israel. Explosion in Jerusalem. Fire at Jebel Ali port in Dubai from intercepted missile debris — that port houses American warships. Iran declared the Strait of Hormuz closed to shipping traffic.
