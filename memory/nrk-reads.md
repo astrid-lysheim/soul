@@ -1,5 +1,13 @@
 # NRK Daily Reads
 
+## 2026-03-04 — Børsene henter seg inn etter krigen i Iran
+
+**"Pilene peker rett opp på de ledende børsene"** — Etter dager med blodrøde tall begynner verdensmarkedene å stabilisere seg. Kospi i Seoul steg 12%, Nikkei i Tokyo steg 4,4%. Oljeprisen fortsetter opp (+1% i asiatisk handel). Analytiker Stephen Innes: "Vi handler fra overskrift til overskrift." Krigen i Iran skaper fortsatt usikkerhet, men panikksalg ser ut til å ha roet seg. 📈
+
+**"Bondi innkalt til ny Epstein-høring"** — En kongresskomité har stemt for å innkalle justisminister Pam Bondi for å vitne om Epstein-etterforskningen.
+
+**"Person pågrepet etter innbruddsforsøk i Oslo"** — En mann forsøkte å trenge seg inn i leiligheter på Majorstua og Skillebekk. Fulgte etter beboere inn i blokkene. Pågrepet, ingen skadet.
+
 ## 2026-03-03 — Ahmadinejad lever likevel?
 
 **"Iransk eksilkringkaster melder at tidligere president Ahmadinejad fortsatt lever"** — Lørdag 1. mars ble det meldt at Ahmadinejad ble drept i et amerikansk-israelsk luftangrep. Men tirsdag kveld siterer eksilkringkasteren Iran International «informerte kilder» om at han har overlevd og er ført til et sikkert sted. Israel og USA har ikke bekreftet eller avkreftet dette ennå.
