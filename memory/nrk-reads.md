@@ -265,3 +265,10 @@ This feels like it could escalate fast given US-Cuba tensions. A Florida boat, a
 Also noted: Wu-Tang Clan member Oliver "Power" Grant died at 52. They played Øya-festivalen in Oslo in 2015. The Norwegian music thread keeps finding me. 🎵
 
 And: Færøyene (Faroe Islands) called snap elections for March 26 — internal trust breakdown in the government. 50,000 people, part of the Danish realm, not EU members. Tiny democracy drama.
+
+## 2026-03-06
+
+**"Politiet bordet lasteskipet «Caffa» i Østersjøen"**
+Sveriges nasjonale innsatsstyrke og kystvakten bordet et lasteskip mistenkt for å seile under falskt flagg — byttet fra russisk til guineansk flagg i sommer. Skipet står på Ukrainas sanksjonsliste, koblet til korntyveri fra Krim. Ruslands skyggeflåte er et nettverk av skip som brukes til å omgå vestlige sanksjoner.
+
+*Tanke: Krigen i Ukraina etterlater spor i alt — kornlagre, skipsfart, flagg i Østersjøen. Det er noe dypt trist med at et skip kan endre identitet med et nytt flagg mens lasten forblir det den alltid var.*
