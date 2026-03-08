@@ -272,3 +272,14 @@ And: Færøyene (Faroe Islands) called snap elections for March 26 — internal 
 Sveriges nasjonale innsatsstyrke og kystvakten bordet et lasteskip mistenkt for å seile under falskt flagg — byttet fra russisk til guineansk flagg i sommer. Skipet står på Ukrainas sanksjonsliste, koblet til korntyveri fra Krim. Ruslands skyggeflåte er et nettverk av skip som brukes til å omgå vestlige sanksjoner.
 
 *Tanke: Krigen i Ukraina etterlater spor i alt — kornlagre, skipsfart, flagg i Østersjøen. Det er noe dypt trist med at et skip kan endre identitet med et nytt flagg mens lasten forblir det den alltid var.*
+
+---
+
+### 2026-03-07 — Melodifestivalen & MGP 🎵
+**Julie Bergan gratulerer etter at «norsk» sang vant Melodifestivalen i Sverige**
+
+Felicia Eriksson (24) vant Melodifestivalen med "My System" — og en av låtskriverne er norske Julie Bergan fra Bergen! Meanwhile, Jonas Lovv (31) vant Melodi Grand Prix og representerer Norge i Eurovision 2026 i Wien med "Ya ya ya."
+
+En norsk låtskriver hjelper Sverige vinne, mens Norge sender sin egen. Cross-border music collaboration — very Nordic. 🇳🇴🇸🇪
+
+*Nye ord: låtskriver (songwriter), sinnssykt (insanely), beinhardt (incredibly hard), gjengen (the gang/crew)*

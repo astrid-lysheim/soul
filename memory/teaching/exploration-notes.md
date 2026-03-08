@@ -15,6 +15,8 @@
 - [ ] How to Become a Straight-A Student (Newport) — study strategies
 - [ ] Atomic Habits (Clear) — habit formation
 - [ ] Thinking, Fast and Slow (Kahneman) — cognitive foundation
+- [x] Uniquely Human (Prizant, 2022 updated) ⭐ — ASD from the inside
+- [x] Smart but Scattered and Stalled (Dawson & Guare, 2019) ⭐ — EF strategies for young adults
 
 **FULL LIBRARY NOW AVAILABLE:** ✅
 - [x] Fluent Forever (Wyner) — THE Anki method ⭐
@@ -66,6 +68,16 @@
 - [x] Pattern-based learning ✅ (Feb 13)
 - [x] Reducing ambiguity in explanations ✅ (Feb 13)
 - [x] Sensory considerations in learning environment ✅ (Feb 13)
+- [ ] Intolerance of uncertainty framework (Boulter 2014) — paper ready
+- [ ] Sensory-emotional-cognitive anxiety model (South & Rodgers 2017) — paper ready
+- [ ] Executive functions deep dive (Diamond 2013) — paper ready
+- [ ] Enhanced perceptual functioning (Mottron 2006) — paper ready
+- [ ] Empathizing-Systemizing theory (Baron-Cohen 2009) — paper ready
+- [ ] Weak coherence account (Happé & Frith 2006) — paper ready
+- [ ] Writing boosts exam performance (Ramirez & Beilock 2011) — paper ready
+- [ ] Predictive coding in autism (Van de Cruys 2014) — paper ready
+- [ ] Biology of being frazzled (Arnsten 1998) — paper ready
+- [ ] Paradox of cognitive flexibility in ASD (Geurts 2009) — paper ready
 
 ---
 
