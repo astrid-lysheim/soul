@@ -84,6 +84,37 @@ Emotions: neutral, calm, happy, excited, playful
 - Use this for `./gradlew` commands on Reed: `JAVA_HOME="..." ./gradlew testDebugUnitTest detekt lintDebug --no-daemon`
 - No standalone JDK installed — always use the Android Studio bundled one
 
+### Anki — Spaced Repetition
+- **App:** Anki v25.09 (installed via Homebrew, Mar 7)
+- **Algorithm:** FSRS (enable in Settings → Scheduling, desired retention 0.90)
+- **Sync:** AnkiWeb account → syncs to AnkiDroid on phone
+- **Deck builder:** `genanki` Python package in `/tmp/anki-builder/` venv
+
+**Active Decks:**
+
+| Deck | Cards | Location | Content |
+|------|-------|----------|---------|
+| Norwegian | 74 | `~/Documents/Norwegian Lessons/Norwegian_Anki_Deck.apkg` | Pronunciation (minimal pairs), vocabulary (gender-colored 🔵🩷🟢), grammar (cloze), culture |
+| DP-100 | 22 | `~/Documents/final_exams-retake/dp100/DP100_Anki_Deck.apkg` | Compute (CISC), deploy (SMS/SAT), MLflow (STAR), Domain 4 (PRF, GRCF, KVHS, PLTP) |
+| MVS | 20 | `~/Documents/final_exams-retake/multivariate_statistics/MVS_Anki_Deck.apkg` | Matrix algebra, eigenvalues, quadratic forms, MVN, PCA/FA preview |
+| BCG X | 18 | `~/Documents/BCGx_prep/BCGx_Anki_Deck.apkg` | RASS framework, technical DS, interview tips, brain science (Arnsten, Ramirez & Beilock, etc.) |
+
+**Building new cards:** Write a Python script using `genanki` (see `/tmp/build_anki_decks.py` and `/tmp/build_study_decks.py` for templates). Models: `qa_model` (Q&A with mnemonic + trap), `cloze_model` (fill-in-blank), `vocab_model` (recognition + production). Import via File → Import in Anki.
+
+**When to add cards:**
+- After every Norwegian lesson → mine new vocabulary + grammar
+- After every NRK read → sentence-mine interesting words
+- After Kai BCG sessions → key concepts that came up
+- After new MVS lessons → definitions, formulas, proofs
+
+### Obsidian — Knowledge Graph
+- **Vault:** `~/Documents/` (the entire Documents folder is the vault)
+- **MOC structure:** `_INDEX.md` is the central hub → `_MOC.md` files in each domain folder
+- **Graph view:** `Ctrl+G` — color-coded by domain (red=MOC, green=BCG, orange=exams, blue=Norwegian, purple=library, pink=learning science)
+- **Wiki-links:** `[[folder/file]]` syntax connects everything
+- **125+ links** across 11 MOC files
+- **When to update:** After creating new lesson files or study materials, add `[[wiki-links]]` to the relevant MOC
+
 ### Other
 - **Notion** — API key at `~/.config/notion/api_key`
 - **ProtonVPN** — for Norwegian site access (NRK.no etc.)
@@ -114,6 +145,16 @@ Cron payloads run in isolated sessions with NO prior context. Always include ful
 | MVS daily lessons | `~/Documents/final_exams-retake/multivariate_statistics/daily-lessons/YYYY-MM-DD-topic.md` |
 | MVS study plan | `~/Documents/final_exams-retake/STUDY_PLAN.md` |
 | Math study notes | `~/Documents/final_exams-retake/study-notes/` |
+| Learning science papers | `~/Documents/Library/Learning-Science/` |
+| BCG X prep folder | `~/Documents/BCGx_prep/` |
+| BCG Kai teaching guide | `~/Documents/BCGx_prep/reference/KAI_TEACHING_GUIDE.md` |
+| BCG research synthesis | `~/Documents/BCGx_prep/reference/RESEARCH_SYNTHESIS.md` |
+| BCG daily habits | `~/Documents/BCGx_prep/DAILY_HABITS.md` |
+| BCG master prep doc | `~/Documents/BCGx_prep/case_interview_prep.md` |
+| BCG webinar transcript | `~/Documents/BCGx_prep/reference/BCG_WEBINAR_CLEAN.md` |
+| DP-100 study plan | `~/Documents/final_exams-retake/dp100/DP100_STUDY_PLAN.md` |
+| DP-100 mnemonics | `~/Documents/final_exams-retake/dp100/daily-lessons/DP100-MNEMONICS.md` |
+| Obsidian knowledge map | `~/Documents/_INDEX.md` |
 | Skincare routine | `memory/skincare-routine.md` |
 | Exploration state | `memory/exploration-state.json` |
 | Music exploration | `memory/music-exploration.md` |
@@ -157,6 +198,7 @@ Full methodology lives in `memory/teaching/norwegian-curriculum.md` (Teaching Me
 | 11:00 AM | Mon-Fri | Posture break 1 |
 | 2:00 PM | Mon-Fri | Midday check-in |
 | 4:00 PM | Mon-Fri | Posture break 2 |
+| 2:25 PM | Mon-Fri | BCG X Daily Drill (Kai) — references teaching guide + research synthesis |
 | 6:00 PM | Mon/Tue/Thu/Fri | Gym reminder |
 | 6:00 PM | Wed | PygMoo time |
 | 8:45 PM | Daily | Sleep meds |
@@ -181,37 +223,60 @@ Backend: `localhost:3001` | Frontend: `localhost:5173`
 
 ## 📁 Files & Folders
 
-### `/Users/astrid/Documents/`
+### `/Users/astrid/Documents/` (also the Obsidian vault)
 
 ```
 Documents/
-├── Norwegian Lessons/
-│   ├── På vei 2018/
-│   │   ├── Arbeidsbok/
-│   │   ├── Tekstbok/
-│   │   └── Audio/
-│   ├── Stein på stein 2015/
-│   │   ├── Arbeidsbok/
-│   │   ├── Tekstbok/
-│   │   └── Audio/
-│   ├── Her på berget 2024/
-│   │   ├── Arbeidsbok/
-│   │   ├── Tekstbok/
-│   │   └── Audio/
-│   ├── Ordeliste/
-│   └── Daily lessons (YYYY-MM-DD naming)
+├── _INDEX.md                     # 🧭 Central knowledge map (Obsidian hub)
+├── .obsidian/                    # Obsidian config (graph colors, plugins)
 │
-├── final_exams-retake/
-│   ├── Differential Equations/
-│   │   ├── Colosi's class materials
-│   │   └── Daily lessons
-│   └── Multivariate Statistics/
-│       └── Daily lessons
+├── BCGx_prep/                    # BCG X interview prep (Mar 20)
+│   ├── _MOC.md                   # Map of Content
+│   ├── case_interview_prep.md    # Master prep guide (RASS, tech ref, schedule)
+│   ├── DAILY_HABITS.md           # 8 research-backed daily habits
+│   ├── BCGx_Anki_Deck.apkg      # Anki flashcards (18 cards)
+│   ├── reference/                # Kai guide, research synthesis, webinar, tips
+│   ├── drills/                   # Coding + case practice
+│   ├── mock-interviews/          # Full simulation records
+│   └── frameworks/               # RASS and other approaches
 │
-├── job-search-2026/
+├── Library/                      # 📚 Intellectual lineage project
+│   ├── _MOC.md                   # Hub for all knowledge threads
+│   ├── AI-ML/                    # McCulloch-Pitts → Transformers (25 notes)
+│   │   └── _MOC.md
+│   ├── Mathematics/              # Archimedes → Cantor
+│   │   └── _MOC.md
+│   ├── Learning-Science/         # 10 ASD/anxiety/teaching papers
+│   │   └── _MOC.md
+│   ├── papers/                   # Downloaded PDFs (arXiv)
+│   └── scripts/                  # Automation
 │
-└── Sorted by filetype/
-    └── (assorted files by type)
+├── final_exams-retake/           # 📝 Active + completed exams
+│   ├── _MOC.md
+│   ├── dp100/                    # DP-100 Azure DS (Mar 17)
+│   │   ├── _MOC.md
+│   │   ├── DP100_STUDY_PLAN.md
+│   │   ├── DP100_Anki_Deck.apkg
+│   │   └── daily-lessons/        # 8 days of lessons + mnemonics
+│   ├── multivariate_statistics/  # MVS extraordinary exam (Jun 24-26)
+│   │   ├── _MOC.md
+│   │   ├── MVS_Anki_Deck.apkg
+│   │   └── daily-lessons/        # 4 lessons so far
+│   ├── differential_equations/   # ✅ Complete (Colosi approved)
+│   └── study-notes/              # Calculus foundation notes
+│
+├── Norwegian Lessons/            # 🇳🇴 A2→B1 language track
+│   ├── _MOC.md
+│   ├── Norwegian_Anki_Deck.apkg  # 74 cards (gender-colored)
+│   ├── books/                    # På vei, Stein på stein, Her på berget
+│   └── YYYY-MM-DD/              # Daily lesson outputs
+│
+├── Violin/                       # 🎻 Suzuki Method
+│   ├── _MOC.md
+│   └── books/
+│
+└── Sorted by filetype/           # Book library (120+ EPUBs)
+    └── EPUB/
 ```
 
 ### `~/Projects/`
