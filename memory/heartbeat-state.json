@@ -1,10 +1,10 @@
 {
   "lastChecks": {
-    "email": 1773058084,
+    "email": "2026-03-09T14:22-failed-oauth",
     "nrk": 1773058084,
     "calendar": null,
     "weather": null
   },
   "lastGitBackup": "2026-03-09",
-  "notes": "DP-100 exam was Mar 7. Email check failing (gog returning no output). NATO shot down Iranian missile in Turkey — major escalation. Oslo embassy explosion still unsolved. PROFECO Aeroméxico hearing Apr 15. IMSS Psiquiatría Apr 14."
+  "notes": "Gmail OAuth expired — needs re-auth. Git backup done. NRK done (NATO/Iran). Wallet created for Astrid (Solana). BCG X Daily Drill fires at 14:25. Doctor --fix cleaned config keys. PROFECO Aeroméxico hearing Apr 15. IMSS Psiquiatría Apr 14."
 }
