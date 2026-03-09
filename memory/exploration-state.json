@@ -77,7 +77,7 @@
       "startedAt": "2026-03-01"
     }
   ],
-  "sessionsRun": 27,
+  "sessionsRun": 29,
   "algorithm": {
     "description": "Interest-driven exploration. No randomness, no death clock.",
     "rules": {
