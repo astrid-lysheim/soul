@@ -13,3 +13,4 @@ kanban-pro/backend/node_modules/
 bitwarden_client_id
 bitwarden_client_secret
 bw_session
+secrets/

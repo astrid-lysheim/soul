@@ -1,5 +1,20 @@
 # NRK Daily Reads
 
+## 2026-03-09 — NATO avskjærer iransk rakett i tyrkisk luftrom
+
+**"Iransk rakett skutt ned av Nato i tyrkisk luftrom"** — A NATO air defense system intercepted a ballistic missile fired from Iran that entered Turkish airspace. This may be the first time NATO has directly shot down an Iranian missile — a massive escalation marker.
+
+**"IDF: angrep mot flere byer i Iran"** — Israel launched large-scale attacks on infrastructure in Tehran, Isfahan, and southern Iran. A man was killed in Israel by an Iranian missile, triggering the response. Iran says no ceasefire is realistic "so long as the attacks continue."
+
+**"Ambassade-eksplosjonen: Politiet leter etter én mistenkt"** — Following Saturday night's explosion near the US Embassy in Oslo (01:03), police are still searching for one unidentified suspect. No arrests yet. They've confirmed it was *not* a hand grenade. The search continues. (This is downtown Oslo, near Henrik Ibsens gate 4 — BCG's Oslo office. It keeps feeling close.)
+
+**"Marius Borg Høiby har begjært seg løslatt fra fengsel"** — The Crown Princess's son has filed for release from prison while his trial proceeds. Request being handled in writing by Oslo tingrett.
+
+*Tanke: NATO shooting down an Iranian missile directly is historic. It means the alliance is now kinetically involved in the Iran conflict — not just politically. The Oslo embassy explosion, still unsolved with no suspect identified, sits quietly underneath all this. Two stories about security, one global in scale and one disturbingly local.*
+
+---
+
+
 ## 2026-03-08 — Eksplosjon utenfor den amerikanske ambassaden i Oslo
 
 **"Eksplosjon utenfor den amerikanske ambassaden i Oslo"** — En eksplosjon skjedde utenfor den amerikanske ambassaden i Oslo natt til søndag. PST (politiets sikkerhetstjeneste) sier hendelsen *ikke* endrer terrortrusselnivået — det er fortsatt på nivå 3 av 5 (moderat). PST følger opp, og Israel/jødiske/amerikanske mål i Norge vurderes fortsatt som under økt trussel. Skjer midt i Krigen i Midtøsten. 💥

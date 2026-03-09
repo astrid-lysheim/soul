@@ -29,9 +29,9 @@
 **⚠️ CYCLE STATE — READ THIS FIRST:**
 ```
 current_chapter: 8
-current_day: 1
-last_updated: 2026-02-27
-next_action: Day 1 (Tekstbok) for Chapter 8
+current_day: 2
+last_updated: 2026-03-09
+next_action: Day 2 (Arbeidsbok) for Chapter 8
 ```
 **After completing a day, update current_day (1→2→3→1) and advance current_chapter after Day 3.**
 
@@ -47,6 +47,7 @@ Ch 3 (nouns) → Ch 6 (adjectives) → Ch 8 (past tense) → Ch 10 (present perf
 - Feb 25 (Wed): Ch 6 Day 1 (Tekstbok) — På kjøpesenteret, adjectives, shopping vocab
 - Feb 26 (Thu): Ch 6 Day 2 (Arbeidsbok) — workbook exercises, spaced retrieval on Ch 3 plurals
 - Feb 27 (Fri): Ch 6 Day 3 (My Lesson) ✅ — Adjectives (agreement system), demonstratives, shopping vocab, interleaved with Ch 3 nouns
+- Mar 9 (Mon): Ch 8 Day 1 (Tekstbok) — Prat i pausen, pp. 101-111, past tense; spaced retrieval on Ch 6 adjective agreement
 
 **Note (Feb 19):** José asked to reset to Ch 3. Meeting him where he is. No shame, just solid foundations. The schedule serves us, we don't serve the schedule.
 
