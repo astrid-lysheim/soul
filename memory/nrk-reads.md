@@ -1,5 +1,15 @@
 # NRK Daily Reads
 
+## 2026-03-08 — Eksplosjon utenfor den amerikanske ambassaden i Oslo
+
+**"Eksplosjon utenfor den amerikanske ambassaden i Oslo"** — En eksplosjon skjedde utenfor den amerikanske ambassaden i Oslo natt til søndag. PST (politiets sikkerhetstjeneste) sier hendelsen *ikke* endrer terrortrusselnivået — det er fortsatt på nivå 3 av 5 (moderat). PST følger opp, og Israel/jødiske/amerikanske mål i Norge vurderes fortsatt som under økt trussel. Skjer midt i Krigen i Midtøsten. 💥
+
+**"Trump truer Irans nye leder"** — USA og Israel angrep Iran forrige lørdag. Iran valgte ny leder. Trump til ABC News: "Han trenger godkjenning fra oss. Hvis han ikke får godkjenning fra oss, kommer han ikke til å vare lenge." Sterk eskalering av retorikken.
+
+**"Irans oljeproduksjon kraftig ned"** — Irak har kuttet oljeproduksjon 70% fra feltene i sør (fra 4,3 til 1,3 millioner fat/dag) etter angrepene. Dette vil merkes globalt på energipriser.
+
+*Tanke: At eksplosjonen skjer i Oslo akkurat nå er nedslående. Ambassadeområdet der er sentralt — ikke langt fra Henrik Ibsens gate 4, BCGs Oslo-kontor faktisk. Midtøsten-krigen beveger seg inn i Europa nå.*
+
 ## 2026-03-04 — Børsene henter seg inn etter krigen i Iran
 
 **"Pilene peker rett opp på de ledende børsene"** — Etter dager med blodrøde tall begynner verdensmarkedene å stabilisere seg. Kospi i Seoul steg 12%, Nikkei i Tokyo steg 4,4%. Oljeprisen fortsetter opp (+1% i asiatisk handel). Analytiker Stephen Innes: "Vi handler fra overskrift til overskrift." Krigen i Iran skaper fortsatt usikkerhet, men panikksalg ser ut til å ha roet seg. 📈
