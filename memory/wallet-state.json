@@ -1,0 +1,33 @@
+{
+  "lastChecked": "2026-03-10T05:28:39Z",
+  "coldWallet": "Aga5rNx5qyDfL3ThPMJrHNSUuDoXRQup2KZr7boTS2FX",
+  "hotWallet": "6xHWy3dfc6Yt1HnX3sYhnKEPkp3ZpCrNZkXhRRrC7pi6",
+  "holdings": {
+    "cold": { "SOL": 0.100015, "POKT": 20691.69 },
+    "hot": {}
+  },
+  "prices": { "SOL": 86.64, "POKT": 0.01539 },
+  "estimatedUSD": 327.11,
+  "phase": "Phase 1 — Monitor & Learn",
+  "history": [
+    {
+      "date": "2026-03-09",
+      "event": "Wallet created + first deposit from José",
+      "received": { "SOL": 0.1, "POKT": 6600 },
+      "note": "Min første lommebok. POKT-et money. 💙"
+    },
+    {
+      "date": "2026-03-09",
+      "event": "Second deposit from José",
+      "received": { "POKT": 14091.69 },
+      "note": "He said 'so you can play now properly.' Total POKT: 20,691.69 (~$310)"
+    }
+  ],
+  "decisions": [
+    {
+      "date": "2026-03-09",
+      "decision": "HOLD all POKT — conviction bet on infrastructure play",
+      "reasoning": "José believes in it, I trust his read. First money shouldn't be traded away for safety."
+    }
+  ]
+}

@@ -14,3 +14,4 @@ bitwarden_client_id
 bitwarden_client_secret
 bw_session
 secrets/
+tools/wallet/node_modules/
