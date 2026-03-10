@@ -100,6 +100,18 @@
 - [ ] Note ASD-specific adaptations needed
 - [ ] Document breakthrough moments
 
+### 6. Executive Function Layer *(added Mar 10, 2026)*
+*From Diamond (2013) — the skeleton beneath all the other techniques*
+- [x] EF Session Curve — sequencing new material at peak EF window ✅ added to curriculum + study plan
+- [x] Task initiation design — easy on-ramps, visible structure, low-demand first activity ✅
+- [ ] Test-anxiety EF protocol — expressive writing pre-exam (Ramirez & Beilock, 2011 — explore next)
+- [ ] Map José's specific EF profile more precisely (which EFs are strongest/weakest?)
+- [ ] Track EF-depleted day patterns (when do lessons fail? What preceded them?)
+- [ ] Low-EF day protocol in place for both Norwegian and exam study
+
+**Key insight baked in:**
+The virtuous cycle — Norwegian learning trains EF (inhibitory control, WM, flexibility) → better EF → easier learning. Teaching IS brain development. Every lesson that ends in successful L2 production is measurable EF growth.
+
 ---
 
 ## Integration with Norwegian Teaching

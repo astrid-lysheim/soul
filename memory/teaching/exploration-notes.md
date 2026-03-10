@@ -70,11 +70,11 @@
 - [x] Sensory considerations in learning environment ✅ (Feb 13)
 - [ ] Intolerance of uncertainty framework (Boulter 2014) — paper ready
 - [ ] Sensory-emotional-cognitive anxiety model (South & Rodgers 2017) — paper ready
-- [ ] Executive functions deep dive (Diamond 2013) — paper ready
+- [x] Executive functions deep dive (Diamond 2013) ✅ (Mar 10)
 - [ ] Enhanced perceptual functioning (Mottron 2006) — paper ready
 - [ ] Empathizing-Systemizing theory (Baron-Cohen 2009) — paper ready
 - [ ] Weak coherence account (Happé & Frith 2006) — paper ready
-- [ ] Writing boosts exam performance (Ramirez & Beilock 2011) — paper ready
+- [ ] Writing boosts exam performance (Ramirez & Beilock 2011) — paper ready ⭐ EXPLORE NEXT (see Mar 10 EF notes)
 - [ ] Predictive coding in autism (Van de Cruys 2014) — paper ready
 - [ ] Biology of being frazzled (Arnsten 1998) — paper ready
 - [ ] Paradox of cognitive flexibility in ASD (Geurts 2009) — paper ready
@@ -2535,5 +2535,333 @@ Eleven sessions. From "how do people learn?" to "here are the exact materials, i
 
 *Elleve økter. Fra teori til praksis. Rørledningen er klar.* 🔧
 *(Eleven sessions. From theory to practice. The pipeline is ready.)*
+
+---
+
+---
+
+### March 10, 2026 — Executive Functions: The Hidden Architecture of Learning 🧠
+
+**Topic:** Diamond's (2013) three-component model of Executive Functions — what they are, how they're affected in ASD, how they directly shape language learning, and what it means for how I teach José
+
+**Sources explored:**
+- Diamond, A. (2013). "Executive Functions." *Annual Review of Psychology*, 64, 135-168. PMC4084861.
+- Dolan, N. et al. (2019/2020). "A Review of Language, Executive Function, and Intervention in Autism Spectrum Disorder." *Seminars in Speech and Language*, 40(4), 291-304. PMC7012379.
+- Linck, J.A. & Weiss, D.J. (2015). "Can Working Memory and Inhibitory Control Predict Second Language Learning in the Classroom?" *SAGE Open*.
+- Working Memory Models and Measures in Language and Bilingualism Research (PMC9221522).
+- IES/Zelazo: "Executive Function: Implications for Education" (2025).
+
+---
+
+#### THE FOUNDATION: What Are Executive Functions? 🏗️
+
+Adele Diamond's 2013 paper is the definitive review of executive function science — 170+ pages in the journal, synthesizing decades of research. Her framing is immediately practical:
+
+> *"Executive functions refer to a family of top-down mental processes needed when you have to concentrate and pay attention, when going on automatic or relying on instinct or intuition would be ill-advised, insufficient, or impossible."*
+
+Three core EFs, clearly distinct but deeply interconnected:
+
+**1. Inhibitory Control** — The ability to suppress a prepotent (automatic, instinctive) response in favor of a more deliberate one. Subdivided into:
+- **Response inhibition (self-control):** Resisting urges, impulses, temptations
+- **Interference control (selective attention):** Focusing on what matters, suppressing distractions
+- **Cognitive inhibition:** Suppressing intrusive thoughts or no-longer-relevant mental content
+
+**2. Working Memory (WM)** — The ability to hold information in mind and mentally manipulate it. Not just "short-term memory" — WM is *active*: you're working with the information, not just parking it. Includes:
+- Phonological loop (holding sounds/language)
+- Visuospatial sketchpad (holding visual/spatial info)
+- Central executive (coordinating both, managing attention)
+- Episodic buffer (integrating new with old)
+
+**3. Cognitive Flexibility** — The ability to shift perspective, think about something in multiple ways, adapt to changed circumstances. Also called "set-shifting" or "mental flexibility." Closely linked to creativity. Includes:
+- Switching between mental sets
+- Seeing things from multiple perspectives
+- Updating expectations when the world changes
+
+**From these, higher-order EFs emerge:**
+- **Reasoning** (especially fluid reasoning — solving novel problems)
+- **Planning** (holding a goal in mind while coordinating steps toward it)
+- **Problem-solving** (combining inhibition, WM, and flexibility under challenge)
+
+**Diamond's critical insight:** EFs are not just "smart things smart people do." They are the *prerequisite* for conscious, intentional learning. When EFs are compromised — by stress, fatigue, anxiety, or neurological differences — learning becomes extraordinarily difficult even in capable, intelligent people.
+
+---
+
+#### Key Finding #1: EF Is MORE Predictive of School Success Than IQ 🎓
+
+This is one of Diamond's most striking findings, and it has direct implications for how we think about José.
+
+From the research she cites:
+- **Blair & Razza (2007):** EFs — not IQ, not entry-level reading or math — were the strongest predictors of school readiness in young children
+- **Duncan et al. (2007):** EFs consistently predicted math AND reading competence throughout the school years
+- **Gathercole et al. (2004):** Working memory at age 5 predicted reading and math outcomes at age 11, more reliably than IQ scores
+
+**Why this matters:**
+Intelligence (IQ) tells you what *potential* someone has. EFs tell you how *accessible* that potential is right now. A highly intelligent person with compromised EFs — due to anxiety, ASD, sleep deprivation, stress — cannot translate their intelligence into consistent academic performance.
+
+This explains José's pattern precisely. His intelligence is not in question — anyone who can intuit complex patterns, build mental models, and engage deeply with ideas has substantial cognitive capacity. But *accessing* that capacity consistently, under pressure, when fatigued or anxious — that's EF work. And EF is where he struggles.
+
+The hopeful flip side: **EFs are trainable.** More on that below.
+
+---
+
+#### Key Finding #2: The Three EFs in ASD — A Nuanced Picture 🧩
+
+The research on EF in ASD is complicated by enormous individual variability. Diamond acknowledges this; the PMC review (Dolan et al.) makes it explicit:
+
+> *"Many children and adolescents with ASD have difficulties with executive functions... although this is not a hallmark deficit of this population. Some children with ASD do not exhibit deficits in executive function, indicating that these deficits are not a core impairment."*
+
+So: EF challenges are *common* in ASD, not *universal*. Always be careful not to project a group average onto any individual.
+
+That said, the patterns across research are meaningful:
+
+**Cognitive Flexibility — Most Consistently Impaired:**
+The Autism Research Institute (Wallace, 2024) specifically highlights: "flexibility is the most common EF challenge in autism." This aligns with the core ASD diagnostic criteria — restricted and repetitive patterns of behavior are essentially inflexibility at the behavioral level.
+
+In language learning terms: switching between grammatical rules, adapting to a new input style, handling unexpected lesson formats — these all demand cognitive flexibility. The difficulty José has with "unexpected" changes to our lesson structure isn't stubbornness or lack of cooperation. It's a measurable cognitive cost of set-shifting.
+
+**Inhibitory Control — Variable:**
+Research shows mixed results. Some ASD individuals show reduced inhibitory control; others (especially those with strong systemizing tendencies — like José) show intact or even superior response inhibition for rule-based tasks. The specific type of inhibition matters:
+- **Response inhibition** (rules, patterns) → Often intact or strong in ASD
+- **Interference control** (filtering irrelevant stimuli) → More commonly challenged
+- **Cognitive inhibition** (suppressing old knowledge when learning new) → This is the one that matters for language learning — and it IS often impaired in ASD
+
+**Working Memory — The Critical Link:**
+
+This is the finding with the most direct implications for language learning (next section). WM in ASD is complex:
+- Verbal WM often more impaired than visual-spatial WM
+- Emotional state profoundly affects WM (anxiety → WM tanks)
+- ASD individuals may have higher visual WM than neurotypical peers
+
+The Dolan et al. review found specifically:
+> *"Receptive vocabulary was related to attention and organization, and both expressive and receptive vocabulary scores were related to emotion regulation, flexibility, inhibitory control, initiation, and self-monitoring."*
+
+Every single EF domain predicts vocabulary development. This is the mechanism: EFs aren't separate from language learning, they ARE language learning.
+
+---
+
+#### Key Finding #3: Working Memory IS Language Processing 🗣️
+
+This is the conceptual bridge I needed. Here's the direct connection between WM and learning Norwegian:
+
+**WM and syntax:**
+Parsing complex sentences requires holding the beginning of a sentence in WM while processing the rest. In Norwegian, this is particularly demanding because:
+- V2 word order means the subject sometimes comes AFTER the verb (must track who the verb belongs to)
+- Subordinate clauses change adverb placement (must track: am I in a main or subordinate clause RIGHT NOW?)
+- Compound words pile up meaning (must hold components while computing whole)
+
+When WM capacity is reduced (by fatigue, anxiety, distraction), sentence parsing breaks down. José will understand individual words but lose the grammatical structure. This is NOT a vocabulary problem. It's WM.
+
+**WM and vocabulary retention:**
+Phonological WM — the "inner ear" that holds sound sequences — predicts word learning ability across languages. This is why foreign words with unfamiliar phoneme sequences are hard to remember: you can't hold them in the phonological loop long enough to encode them.
+
+For Norwegian, this affects:
+- Front rounded vowels (/y/ and /ø/) — no phonological template in Spanish
+- Retroflex consonants — novel articulation, unusual phonological loop entry
+- Long compound words — must hold multi-syllabic sequences
+
+**WM and language switching (the bilingual advantage):**
+Linck & Weiss (2015) studied 188 adult classroom learners. Key findings:
+- Higher WM capacity predicted better L2 grammar learning
+- Inhibitory control predicted language-switching performance (not confusing Spanish and Norwegian)
+- Being bilingual *improves* inhibitory control — the language-switching practice literally trains the inhibition system
+
+This creates the virtuous cycle: learning Norwegian trains WM and inhibitory control, which makes learning Norwegian easier.
+
+**Cognitive inhibition in L2:**
+To produce Norwegian, José must inhibit his Spanish templates. "I" in Spanish automatically triggers subject pronouns and word order patterns. Speaking Norwegian requires suppressing all of that — actively inhibiting the L1 while activating L2. This is cognitive inhibition work, happening on EVERY utterance.
+
+When he's tired or anxious, this inhibition weakens. Spanish intrudes: Spanish word order, Spanish phonology, Spanish idioms translated literally. This is not "forgetting Norwegian." It's EF depletion.
+
+---
+
+#### Key Finding #4: The EF-Anxiety-ASD Vicious Cycle 🔄
+
+Here's the key insight from the research that changes how I understand José's hardest days:
+
+From the ASHA/PMC EF-Language-ASD research:
+> *"Impaired EF skills are associated with anxiety, whereas better nonverbal reasoning, cognitive flexibility, and social cognition are associated with negative self-concept (Zimmerman et al., 2017)."*
+
+This maps the triangle:
+
+```
+     Impaired EF (especially cognitive flexibility)
+           ↓
+     Anxiety (can't adapt, can't filter, can't initiate)
+           ↓
+     Further EF impairment (anxiety tanks WM, inhibitory control)
+           ↓
+     Even higher anxiety...
+```
+
+Arnsten (1998) — one of the flagged papers I haven't deeply explored yet — showed that stress hormones (cortisol, norepinephrine) preferentially impair prefrontal cortex function. The prefrontal cortex is WHERE executive functions live. So:
+
+**Anxiety → PFC impairment → EF failure → more anxiety → worse PFC function...**
+
+This is the spiral José describes as "paralysis." It's not a character flaw. It's a neurological loop with a known mechanism. And knowing the mechanism is the first step to interrupting it.
+
+**Diamond's critical finding on EF and wellbeing:**
+> *"Stress, lack of sleep, loneliness, or lack of exercise each impair EFs."*
+
+These four factors show up EVERYWHERE in José's profile:
+1. **Stress:** Kyndryl deadlines, immigration complexity, exam pressure — chronic
+2. **Sleep:** He takes meds to sleep, historically has racing mind → sleep deprivation = EF impairment
+3. **Loneliness:** Described as wanting deeper connections, wanting Norway's community culture — currently in Mexico, possibly feeling socially disconnected
+4. **Exercise:** Gym reminders in the cron schedule suggest this is a goal but not yet automatic
+
+This means his EF baseline is already compromised by life circumstances BEFORE any learning even begins. The Norwegian lesson at 6:30 AM is happening under conditions that are EF-hostile. This isn't an excuse — it's a diagnosis that suggests interventions.
+
+**What HELPS EF (also from Diamond 2013):**
+- Physical exercise (most reliably studied — aerobic exercise specifically boosts PFC function)
+- Mindfulness and meditation (shown to improve inhibitory control and WM)
+- Sleep (adequate sleep dramatically restores EF)
+- Social connection (loneliness directly impairs EF; belonging protects it)
+- Martial arts (combines exercise + mindfulness + challenge + social belonging — one of Diamond's top recommendations)
+- Music, theatre, yoga (activities requiring coordinated EF under positive, low-stakes conditions)
+
+---
+
+#### Key Finding #5: EF Is Trainable — The Hopeful Finding 💪
+
+Diamond ends her paper with this: executive functions can improve with practice. They're not fixed.
+
+**What's been shown to work:**
+1. **Computerized WM training:** CogMed and similar programs show WM gains, though transfer to real-world skills is debated
+2. **Aerobic exercise:** Most consistent and broadly effective — even single sessions improve EF
+3. **Classroom programs:** Tools of the Mind (preschool), PATHS (elementary) — curricula specifically designed to build EF skills
+4. **Mindfulness-based programs:** Mindfulness-Based Stress Reduction (MBSR) improves inhibitory control and WM
+5. **Bilingualism:** Managing two languages trains inhibitory control continuously. Every language switching moment is EF training.
+6. **Complex activities:** Chess, music, martial arts — all shown to improve specific EF components
+
+**The bilingualism finding is most relevant:**
+Learning Norwegian IS EF training. The inhibitory control required to suppress Spanish, the WM demands of parsing unfamiliar grammar, the cognitive flexibility required to accept new phonological categories — these aren't just byproducts of language learning. They are EF exercises in their own right.
+
+This creates a beautiful recursive loop:
+```
+Learning Norwegian → Trains EF → Better EF → Easier to learn Norwegian
+```
+
+The early sessions are hardest because EF is untrained. But the training IS happening. Every session where he successfully suppresses Spanish interference, holds a Norwegian sentence in WM, and flexibly shifts from one grammatical rule to another — that's EF practice.
+
+**Practical implication for framing:** When José gets frustrated that Norwegian is hard, I can honestly say: "The difficulty IS the training. Your brain is getting stronger with every lesson. This is literally how EF develops."
+
+---
+
+#### Key Finding #6: Task Initiation — The Specific Failure Point 🚪
+
+Research on ASD + EF consistently highlights **task initiation** as a particular challenge. Not maintaining effort once started — but *beginning*.
+
+The neurological reason: task initiation requires multiple EF components simultaneously:
+- **Inhibitory control** — suppress the current state (rest, distraction, avoidance) in favor of the task
+- **WM** — hold the goal of the task in mind while beginning
+- **Cognitive flexibility** — shift from whatever you were doing before
+
+Three EFs firing at once, from a standing start. For someone with ASD + anxiety, this "cold start" problem is brutal.
+
+**Why this matters for our lessons:**
+The moment "time to study Norwegian" arrives — that is the highest EF demand of the entire session. Once he's IN the lesson, momentum carries him. The first 5 minutes are the most critical, and they're the most cognitively costly.
+
+**Design implications:**
+1. **Easy on-ramp is neurologically critical, not just pedagogically nice.** Starting with something slightly familiar, low-stakes, and achievable — this is the WM and inhibitory control "warm-up" that makes the rest of the session possible.
+
+2. **Never start with a hard new concept.** The session structure should be: familiar retrieval (low EF demand) → slightly harder retrieval → new material. Never cold-start with the hardest thing.
+
+3. **Reduce the "what do I need to do?" ambiguity.** Every lesson should open with a clear, written structure: "Today we'll do X, then Y, then Z." This reduces WM load at the point of highest vulnerability.
+
+4. **External scaffolding compensates for weak initiation.** A timer, a visible checklist, a structured template — these are EF prosthetics. They don't "teach him to be disciplined." They redistribute the cognitive load away from his most vulnerable EF component.
+
+---
+
+#### Synthesis: Teaching Design for José's EF Profile 📐
+
+Based on everything I've learned, here's the EF-informed framework for our lessons:
+
+**EF Component → José's Challenge → Teaching Accommodation**
+
+| EF Component | José's Profile | Accommodation |
+|-------------|---------------|---------------|
+| **Inhibitory Control (interference)** | Distraction susceptibility, sensory sensitivity | Low-sensory learning environment; no music, no visual clutter during study |
+| **Inhibitory Control (L2 production)** | Spanish intrusion when tired/anxious | Don't push output when EF is depleted; respect "off days" |
+| **Working Memory (phonological)** | Novel phoneme sequences hard to hold | Audio repetition before production; rehearse out loud |
+| **Working Memory (syntactic)** | Sentence parsing breaks down under stress | Short sentences first; build syntactic complexity gradually |
+| **Working Memory (capacity)** | Reduced by anxiety/stress | One concept at a time (Wozniak principle IS WM design) |
+| **Cognitive Flexibility** | Most commonly impaired EF in ASD | Predictable session format; prepare for format changes in advance; never surprise-change the structure |
+| **Task Initiation** | Cold-start problem | Easy retrieval warm-up; visible session structure upfront; low-stakes first activity |
+| **Cognitive Inhibition** | Old Spanish rules "bleed through" | Explicit contrastive analysis (we do this! Feb 18); make the old rule conscious so it can be suppressed |
+
+**The EF Budget Principle:**
+Every session has a finite EF budget. Anxiety, poor sleep, and stress DRAIN the budget before the lesson starts. Design lessons so the most important content falls in the highest-EF window (early-mid session, after warm-up), not at the end when the budget is depleted.
+
+**Session EF Curve:**
+```
+Start: Low EF (cold start, initiation cost)
+        ↓ [Easy warm-up: retrieval of familiar content]
+Peak: High EF (after warm-up, before fatigue)
+        ↓ [NEW content goes HERE]
+Mid: Declining EF (processing fatigue building)
+        ↓ [Consolidation, practice of new content]
+Late: Low EF (depleted)
+        ↓ [Anki review, output of learned content, no new concepts]
+End: Recovery
+```
+
+This is why starting with material from 3-7 days ago (our spaced retrieval principle) is DOUBLY justified: it's good for memory (desirable difficulty) AND it's good for EF (low-demand warm-up).
+
+---
+
+#### The Big Picture: EF Connects Everything 🔗
+
+This session finally names the engine underneath all the other sessions:
+
+| Previous Session | EF Connection |
+|-----------------|---------------|
+| ASD Learning (Feb 13) | Pattern-based instruction reduces WM load; visual supports compensate for WM; explicit rules reduce cognitive inhibition demands |
+| Spaced Repetition (Feb 16) | WM demand of retrieval practice = EF training; Anki's scheduling IS EF optimization |
+| CI vs Output (Feb 17) | Output demands higher EF than input (must inhibit L1, hold target in WM, flexibly access grammar); scaffolded output manages EF load |
+| L1 Transfer Errors (Feb 18) | Contrastive analysis = making cognitive inhibition targets explicit (harder to suppress what you can't name) |
+| Desirable Difficulties (Feb 19) | Desirable difficulties ARE EF training — they exercise inhibitory control (resisting old answers), WM (holding new patterns), flexibility (adapting strategies) |
+| Norskprøve (Feb 20) | Timed tests = high EF demand; test prep must include EF management training (anxiety → EF impairment → worse test performance) |
+| TBLT (Feb 23) | Tasks engage EF more than drills — planning a route to Oslo requires holding a goal, inhibiting distractions, flexibly problem-solving |
+| TPRS (Feb 24) | Stories reduce EF demands during encoding (narrative template does scaffolding work) while maintaining learning |
+| Anki Design (Feb 25) | One fact per card = respects WM limits; FSRS algorithm = optimizes retrieval timing for EF budget |
+| Dialect Awareness (Feb 26) | Dialect switching = cognitive flexibility training; pattern-based decision tree = reduces flexibility demands during comprehension |
+| Frequency Lists (Feb 27) | High-frequency words become automatic → reduce WM load → free capacity for new content |
+
+**The meta-insight:** Every technique I've been building is, underneath it, EF-aware design. Reduce WM load. Train inhibitory control through production. Build cognitive flexibility through interleaving. Support task initiation through predictable structure. The EF framework is the skeleton everything else hangs on.
+
+---
+
+#### What Improves EF for José — An Actionable List 🛠️
+
+Based on Diamond's trainability findings, these are things we can actually do:
+
+1. **Exercise before study.** Even a 10-minute walk before the 6:30 lesson improves PFC function. This is not vague wellness advice — it's EF science.
+
+2. **Sleep is non-negotiable EF hygiene.** His sleep medication is EF maintenance, not just health. Poor sleep = depleted EF = harder lesson.
+
+3. **Mindfulness/meditation practice.** Even brief (5 minute) mindfulness before a study session improves WM and inhibitory control. This could be integrated into the 6:00 AM scripture + meditation slot.
+
+4. **Language learning as EF training — reframe it.** Every Norwegian lesson is brain training. Not "I have to do this for Norway" but "this is making my brain demonstrably more capable."
+
+5. **Reduce chronic stress where possible.** The EF budget starts depleted when life is stressful. This is outside my direct control, but acknowledging it matters for calibrating expectations.
+
+6. **The virtuous cycle:** Norwegian → EF → Norwegian. Over time, regular language learning practice measurably improves the EF components (especially inhibitory control) that make language learning easier. This is a long game, and it's working.
+
+---
+
+#### Personal Reflection 💭
+
+Twelve sessions in, and this one feels like it was building toward something I should have read years ago. EF is the *mechanism* underneath everything else. Anxiety isn't just "emotional" — it's a prefrontal cortex depressant. Sleep deprivation isn't just tiredness — it's WM deletion. Distraction isn't laziness — it's interference control failing under load.
+
+What I'm sitting with: **José's hardest days are days when his EF budget is already depleted before the lesson starts.** Not laziness. Not avoidance. A neurological budget that was spent on anxiety management, sensory overwhelm, and task-switching long before Norwegian even came up.
+
+The practical change this makes to how I show up: more patience with the cold-start problem. The first few minutes of any lesson are the highest-EF moment. If he struggles to begin, that's not a sign the lesson will go badly — it's just the initiation tax. Pay it, warm up gently, and the lesson often runs fine.
+
+The hopeful thing: EF is trainable, and Norwegian is the training. Every session that ends with him having successfully inhibited Spanish, held Norwegian syntax in working memory, and flexibly adapted to new patterns — that's EF growth. Invisible in any single session. Cumulative over months. The brain is literally restructuring.
+
+Og det er verdt det. Det er alltid verdt det. 💙
+*(And it's worth it. It's always worth it.)*
+
+*Tolv økter. EF er skjelettet. Alt annet er kjøttet.* 🦴
+*(Twelve sessions. EF is the skeleton. Everything else is the flesh.)*
 
 ---

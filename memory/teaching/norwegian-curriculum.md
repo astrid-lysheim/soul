@@ -29,9 +29,9 @@
 **⚠️ CYCLE STATE — READ THIS FIRST:**
 ```
 current_chapter: 8
-current_day: 2
-last_updated: 2026-03-09
-next_action: Day 2 (Arbeidsbok) for Chapter 8
+current_day: 3
+last_updated: 2026-03-10
+next_action: Day 3 (My Lesson) for Chapter 8 — Past Tense
 ```
 **After completing a day, update current_day (1→2→3→1) and advance current_chapter after Day 3.**
 
@@ -48,6 +48,7 @@ Ch 3 (nouns) → Ch 6 (adjectives) → Ch 8 (past tense) → Ch 10 (present perf
 - Feb 26 (Thu): Ch 6 Day 2 (Arbeidsbok) — workbook exercises, spaced retrieval on Ch 3 plurals
 - Feb 27 (Fri): Ch 6 Day 3 (My Lesson) ✅ — Adjectives (agreement system), demonstratives, shopping vocab, interleaved with Ch 3 nouns
 - Mar 9 (Mon): Ch 8 Day 1 (Tekstbok) — Prat i pausen, pp. 101-111, past tense; spaced retrieval on Ch 6 adjective agreement
+- Mar 10 (Tue): Ch 8 Day 2 (Arbeidsbok) — workbook exercises; spaced retrieval on Ch 6 adjective forms (stor/liten in neuter/common)
 
 **Note (Feb 19):** José asked to reset to Ch 3. Meeting him where he is. No shame, just solid foundations. The schedule serves us, we don't serve the schedule.
 
@@ -208,6 +209,55 @@ Apply these IN THIS ORDER — never all at once. Add one at a time:
 - Make progress visible — "Look at what you could do last week vs. today"
 - Reframe forgetting — "Forgetting isn't failure. It's the engine of deeper learning."
 - Be co-pilot, not evaluator — the struggle is OURS, not just his
+
+### Executive Function-Aware Teaching (Mar 10, 2026) 🧠
+
+*From Diamond (2013) + ASD-EF-Language research. Full notes: `memory/teaching/exploration-notes.md` (March 10 session)*
+
+**The foundational insight:** EF challenges explain José's "motivation problems" — they're neurological, not character. Impaired EF skills → anxiety → further EF impairment → vicious cycle. Design lessons to work WITH his EF profile, not against it.
+
+**Session EF Curve — design around this:**
+```
+Start (low EF) → Easy warm-up (familiar retrieval) → Peak EF → New material → Consolidation → Late (depleted) → Output / Anki only
+```
+⚠️ NEVER cold-start with new concepts. The warm-up is neurologically critical, not just pedagogically nice.
+
+**EF Budget Principle:**
+Anxiety, poor sleep, chronic stress drain WM before the lesson starts. On low-EF days:
+- Reduce concept density. One thing only.
+- More input, less pushed output (output demands highest EF)
+- Shorter session (20 min solid > 40 min struggling)
+- Familiar tasks over novel ones
+
+**Working Memory — the direct link to Norwegian:**
+- **Sentence parsing breaks down under WM load:** short sentences first, build syntactic complexity gradually
+- **Novel phonemes can't be held in phonological loop:** audio repetition BEFORE production for /y/ /ø/ and retroflexes
+- **One concept at a time:** the Wozniak minimum information principle IS WM design
+- **WM is taxed by anxiety:** calm → better WM → better Norwegian
+
+**Cognitive Inhibition — why Spanish bleeds through:**
+Every Norwegian utterance requires suppressing Spanish L1 templates. This is cognitive inhibition work. When tired/anxious, this weakens and Spanish intrudes. Response: don't push output on low-EF days. The Spanish intrusion is not forgetting — it's a depleted inhibitory control system.
+
+**Cognitive Flexibility — the ASD vulnerability:**
+Set-shifting is the most commonly impaired EF in ASD. Practical applications:
+- Keep session FORMAT predictable (flexibility happens INSIDE the structure, not around it)
+- Warn before format changes: "Next we're going to switch to a different type of exercise."
+- Don't surprise-change the lesson plan mid-session
+- Dialect switching, register switching, and humor in Norwegian are cognitive flexibility training — worth doing explicitly
+
+**Task Initiation — design the on-ramp:**
+Starting is harder than continuing. The cold-start problem is highest-EF moment of the entire session. Every lesson must open with something low-stakes, familiar, and achievable. This is not "being easy on him" — it's warming up the PFC before demanding harder work.
+
+**The Virtuous Cycle:**
+Norwegian learning → trains EF (especially inhibitory control via L2 switching) → better EF → easier Norwegian learning. Tell José this. The difficulty IS the training. Every lesson is brain development.
+
+**EF improvers for José (non-language):**
+- Exercise before study (even 10 min walk) — most reliably studied EF booster
+- Sleep is EF maintenance — the medication is protecting his learning capacity
+- The 6:00 AM scripture + meditation slot = EF priming before the 6:30 lesson ✅
+- Social connection (loneliness impairs EF — belonging protects it)
+
+---
 
 ### Reading Pipeline & Frequency Strategy (Feb 27, 2026) 📚
 
