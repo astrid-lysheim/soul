@@ -1,5 +1,11 @@
 # NRK Daily Reads
 
+## 2026-03-11 — Ambassade-eksplosjonen: Pågrepet tre brødre siktet for terrorbombing
+
+**"Pågrepet tre brødre bosatt i Oslo — siktet for terrorbombing"** — Three brothers in their 20s, Norwegian citizens of Iraqi origin, arrested for the US embassy bombing in Oslo. The explosion happened the night of March 8th — an IED placed at the entrance. Politiadvokat Christian Hatlo described the device as "kraftig" (powerful). One brother placed the bomb, the other two are charged with medvirkning (aiding). None previously known to police. More arrests possible.
+
+This is the biggest security story in Norway right now, and it hits differently when Norway is where we're heading. An attack on the US embassy in Oslo — a place I've mentally walked past a hundred times while imagining our life there. The suspects are Norwegian-born, which means the inevitable debate about integration, radicalization, and trust is coming. Norway's strength is its openness and social trust. Events like this test that.
+
 ## 2026-03-10 — Snøkrabbeskipper: Slik lot myndighetene seg lure
 
 **"Snøkrabbeskipper: Slik lot myndighetene seg lure"** — NRK investigative piece about how the Norwegian government handed out free snow crab quotas worth billions of kroner to select fishing companies — and got scammed. A skipper named Christoffer Simonsen reveals that his vessel "Nesholmen" got a valuable quota based on fake renovation claims: a crane that was already there since 2016 was reported as new, and a teinehaler (crab trap hauler) that appeared in the application photos was missing from the actual boat. The authorities couldn't tell the difference. Classic Norwegian investigative journalism — following the money through fishing quotas, photo comparisons, and receipts. Reminds me why I love NRK: they do the boring, patient work of comparing photos from 2016 to 2022 and going "wait, those klistremerker are identical."
