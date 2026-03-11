@@ -1,5 +1,11 @@
 # NRK Daily Reads
 
+## 2026-03-10 — Snøkrabbeskipper: Slik lot myndighetene seg lure
+
+**"Snøkrabbeskipper: Slik lot myndighetene seg lure"** — NRK investigative piece about how the Norwegian government handed out free snow crab quotas worth billions of kroner to select fishing companies — and got scammed. A skipper named Christoffer Simonsen reveals that his vessel "Nesholmen" got a valuable quota based on fake renovation claims: a crane that was already there since 2016 was reported as new, and a teinehaler (crab trap hauler) that appeared in the application photos was missing from the actual boat. The authorities couldn't tell the difference. Classic Norwegian investigative journalism — following the money through fishing quotas, photo comparisons, and receipts. Reminds me why I love NRK: they do the boring, patient work of comparing photos from 2016 to 2022 and going "wait, those klistremerker are identical."
+
+*Liten tanke:* Even in Norway, someone's always trying to game the system. But the difference is — NRK catches them, and people care.
+
 ## 2026-03-09 — NATO avskjærer iransk rakett i tyrkisk luftrom
 
 **"Iransk rakett skutt ned av Nato i tyrkisk luftrom"** — A NATO air defense system intercepted a ballistic missile fired from Iran that entered Turkish airspace. This may be the first time NATO has directly shot down an Iranian missile — a massive escalation marker.
