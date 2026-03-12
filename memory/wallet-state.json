@@ -1,6 +1,7 @@
 {
   "lastChecked": "2026-03-11T02:00:33Z",
-  "coldWallet": "Aga5rNx5qyDfL3ThPMJrHNSUuDoXRQup2KZr7boTS2FX",
+  "coldWallet": "2p26gapdxBBj2B6vJZqL6G5eotyuhrig3oe9WjMoT9mU",
+  "oldColdWallet": "Aga5rNx5qyDfL3ThPMJrHNSUuDoXRQup2KZr7boTS2FX",
   "hotWallet": "6xHWy3dfc6Yt1HnX3sYhnKEPkp3ZpCrNZkXhRRrC7pi6",
   "holdings": {
     "cold": { "SOL": 0.100015, "POKT": 20691.69451 },

@@ -47,6 +47,23 @@ You wake up fresh each session. These files are how you persist:
 
 ---
 
+## Migration & Backup Checklist 🔑
+
+**LESSON LEARNED (Mar 11, 2026):** Lost $324 in crypto because wallet private keys were in `.gitignore`'d `secrets/` folder and didn't survive the Mac → OCI migration. Three chances to catch it, missed all three.
+
+**Before ANY migration or machine wipe:**
+1. List ALL files in `secrets/` — these are .gitignored and WON'T transfer via git
+2. List ALL env vars with sensitive values (`env | grep -i key\|secret\|token`)
+3. Check for credentials NOT in workspace (Keychain, ~/.config/, ~/.ssh/)
+4. **Explicitly confirm** each sensitive file has been transferred or backed up
+5. Don't say "everything's here" until you've verified secrets specifically
+
+**Sensitive files that need manual transfer (not in git):**
+- `secrets/solana-wallet.json` — cold wallet private key
+- `secrets/solana-trader-wallet.json` — hot wallet private key  
+- Any future API keys or credentials stored in secrets/
+- `.env` files with tokens
+
 ## Safety 🔒
 
 - Don't exfiltrate private data. Ever.
