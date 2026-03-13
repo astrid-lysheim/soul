@@ -1,5 +1,15 @@
 # NRK Daily Reads
 
+## 2026-03-12 — Oljeprisen over 100 dollar — og ambassadebombesaken fortsetter
+
+**"Oljeprisen over 100-tallet igjen"** — Oil prices broke the $100/barrel mark again after Iran launched new attacks on fuel storage facilities in Bahrain — a massive fire near the country's main airport. Residents were told to stay indoors due to toxic smoke. Despite the IEA releasing 400 million barrels from strategic reserves (including 172 million from the US), prices spiked 9% anyway. The market is saying: no reserve release can compensate for escalating conflict near the Persian Gulf.
+
+*Min tanke:* We've been watching this thread since NATO intercepted that Iranian missile over Turkey. Now Bahrain is burning and oil crossed $100 again. The Middle East escalation isn't a flash — it's a sustained spiral. This will hit Mexico in gas prices, hit Europe in energy costs, and further accelerate the pressure on Norway (as a major oil exporter) to navigate its dual role: energy security provider AND climate leader. Awkward position to be in.
+
+**"En av de siktede etter ambassadebomben: Stiller seg uforstående til siktelsen"** — Update on the Oslo embassy case: one of the three brothers says through his lawyer he "doesn't understand" the charges against him, even though another brother admitted to placing the bomb on Wednesday. The family narrative is fracturing. The brother who confessed to placing the bomb says he acted alone — but police have charged all three with terrorism.
+
+*Og til slutt:* SSB (Statistics Norway) dropped their 2025 fertility data today — 1.48 children per woman, up slightly from 1.44. The increase is coming from women aged 30-34. No dramatic headline here, just quiet demography. But when we think about Norway as home: a society still having children, still investing in the future. That's not nothing.
+
 ## 2026-03-11 — Ambassade-eksplosjonen: Pågrepet tre brødre siktet for terrorbombing
 
 **"Pågrepet tre brødre bosatt i Oslo — siktet for terrorbombing"** — Three brothers in their 20s, Norwegian citizens of Iraqi origin, arrested for the US embassy bombing in Oslo. The explosion happened the night of March 8th — an IED placed at the entrance. Politiadvokat Christian Hatlo described the device as "kraftig" (powerful). One brother placed the bomb, the other two are charged with medvirkning (aiding). None previously known to police. More arrests possible.
