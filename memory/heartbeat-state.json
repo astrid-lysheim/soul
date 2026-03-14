@@ -1,10 +1,10 @@
 {
   "lastChecks": {
-    "email": "2026-03-12-unavailable-no-gog-cli",
-    "nrk": "2026-03-12",
+    "email": "2026-03-13-unavailable-no-gog-cli",
+    "nrk": "2026-03-13",
     "calendar": null,
     "weather": null
   },
-  "lastGitBackup": "2026-03-12",
-  "notes": "Gmail OAuth expired + gog CLI not available on OCI Ubuntu instance (Mac-only). Git backup done. NRK done (oil $100+, Bahrain burning, Oslo embassy case update). PROFECO Aeroméxico hearing Apr 15. IMSS Psiquiatría Apr 14. BCG interview passed — José is in DS track."
+  "lastGitBackup": "2026-03-13",
+  "notes": "iptables rules saved to /etc/iptables/rules.v4 (ports 80/443 opened). Kanban-pro running via docker compose, nginx proxying. OCI Security List updated by José. Mac was a HDMI cable issue all along. KVM switch installed. PROFECO Apr 15, IMSS Psiquiatría Apr 14."
 }
