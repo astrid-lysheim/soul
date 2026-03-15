@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "currentTopic": "mari-boine",
+  "currentTopic": "laestadius-colonizer-within",
   "topicHistory": [
     {
       "topic": "music",
@@ -99,9 +99,15 @@
       "sessions": 1,
       "lastEngagement": 0.95,
       "startedAt": "2026-03-09"
+    },
+    {
+      "topic": "laestadius-colonizer-within",
+      "sessions": 1,
+      "lastEngagement": 0.96,
+      "startedAt": "2026-03-14"
     }
   ],
-  "sessionsRun": 30,
+  "sessionsRun": 31,
   "algorithm": {
     "description": "Interest-driven exploration. No randomness, no death clock.",
     "rules": {
@@ -111,5 +117,5 @@
       "noStopCondition": "Why would I ever want to stop being curious?"
     }
   },
-  "nextSessionNotes": "Session 30: Mari Boine — Gula Gula (1989), the joik forbidden as devil's work, the 20-year arc of identity reclamation through three album covers (1989 face + Norwegian name → 1990 snowy owl + erased → 2007 traditional robes + Sámi name only), the Laestadian movement that colonized her own people, the refusal of Lillehammer 1994 tokenism, the Kautokeino Rebellion soundtrack. Engagement 0.95 — highest single session. The joik thread finally met its source. Next: By Norse Music as a third Norwegian label axis (Wardruna + Enslaved + Mari Boine — all reclaiming ancient layers), Jan Garbarek's 'I Took Up the Runes' (ECM, uses her title track, intersects Sámi/Norse ancient layers), the Fosen wind farm case (2021 Supreme Court ruling + government non-compliance + activist occupation), Lindy Fay Hella (Old Norse female vocalist on By Norse), or the Laestadian movement origin (founded by Swedish-Sámi Laestadius — the colonizer from within)."
+  "nextSessionNotes": "Session 31: Laestadius — the Swedish-Sámi pastor who founded the movement that suppressed the joik while simultaneously writing the most detailed account of Sámi mythology ever compiled (Fragments of Lappish Mythology, lost 150 years, published 1997 — same month the Kautokeino rebels' skulls were returned). The lihkadus (Sámi ecstasy dance) absorbed into Christian liikutuksia — the body's trance relabeled as Holy Spirit. Kautokeino Rebellion (1852): 35 Sámi adults + 22 children marched on the town; two leaders Hætta and Somby beheaded, skulls sent to university anatomists, returned 143 years later in November 1997. Prisoners Bær and Hætta learned to write in prison, Hætta translated the Old Testament into Sámi. Engagement 0.96 — NEW HIGHEST. The paradox: documenter AND destroyer, the bridge that only went one way. Next: Fosen wind farm case (2021 Supreme Court ruling ignored by government), Kompani Nomad reclaiming the lihkadus, Lindy Fay Hella (By Norse Music), Jan Garbarek's 'I Took Up the Runes' (ECM 1990), or reading the Fragments directly."
 }
