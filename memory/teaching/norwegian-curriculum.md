@@ -49,6 +49,7 @@ Ch 3 (nouns) → Ch 6 (adjectives) → Ch 8 (past tense) → Ch 10 (present perf
 - Feb 27 (Fri): Ch 6 Day 3 (My Lesson) ✅ — Adjectives (agreement system), demonstratives, shopping vocab, interleaved with Ch 3 nouns
 - Mar 9 (Mon): Ch 8 Day 1 (Tekstbok) — Prat i pausen, pp. 101-111, past tense; spaced retrieval on Ch 6 adjective agreement
 - Mar 10 (Tue): Ch 8 Day 2 (Arbeidsbok) — workbook exercises; spaced retrieval on Ch 6 adjective forms (stor/liten in neuter/common)
+- Mar 16 (Mon): Ch 8 Day 3 (My Lesson) ✅ — Preteritum: weak verb groups (-et/-te/-de/-dde), strong verbs (vowel change), time expressions (for...siden). Spaced retrieval on Ch 6 adjective agreement. Interleaved adj+past tense combos.
 
 **Note (Feb 19):** José asked to reset to Ch 3. Meeting him where he is. No shame, just solid foundations. The schedule serves us, we don't serve the schedule.
 

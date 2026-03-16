@@ -74,7 +74,7 @@
 - [ ] Enhanced perceptual functioning (Mottron 2006) — paper ready
 - [ ] Empathizing-Systemizing theory (Baron-Cohen 2009) — paper ready
 - [ ] Weak coherence account (Happé & Frith 2006) — paper ready
-- [ ] Writing boosts exam performance (Ramirez & Beilock 2011) — paper ready ⭐ EXPLORE NEXT (see Mar 10 EF notes)
+- [x] Writing boosts exam performance (Ramirez & Beilock 2011) ✅ (Mar 16) — "Expressive Worry Dumping"
 - [ ] Predictive coding in autism (Van de Cruys 2014) — paper ready
 - [ ] Biology of being frazzled (Arnsten 1998) — paper ready
 - [ ] Paradox of cognitive flexibility in ASD (Geurts 2009) — paper ready
@@ -2863,5 +2863,306 @@ Og det er verdt det. Det er alltid verdt det. 💙
 
 *Tolv økter. EF er skjelettet. Alt annet er kjøttet.* 🦴
 *(Twelve sessions. EF is the skeleton. Everything else is the flesh.)*
+
+---
+
+---
+
+### March 16, 2026 — Expressive Writing: Dumping Worries to Free Working Memory 📝
+
+**Topic:** Ramirez & Beilock (2011) "Writing About Testing Worries Boosts Exam Performance in the Classroom" — the mechanism, the evidence, the replication controversy, and how to adapt it for José's pre-lesson anxiety in Norwegian and MVS study
+
+**Sources explored:**
+- Ramirez, G. & Beilock, S.L. (2011). "Writing About Testing Worries Boosts Exam Performance in the Classroom." *Science*, 331(6014), 211-213.
+- DiMenichi, B.C. et al. (2019). "Effects of Expressive Writing on Neural Processing During Learning." *Frontiers in Human Neuroscience*, 13, 389. PMC6869814.
+- Scofield, J.E. et al. (2021). "Does expressive writing or an instructional intervention reduce the impacts of test anxiety in a college classroom?" *Cognitive Research: Principles and Implications*, 6, 44. PMC8192598.
+- Ed Yong, National Geographic (2011). "Writing about exam worries for 10 minutes improves student results."
+- Park, D., Ramirez, G. & Beilock, S.L. (2014). "The Role of Expressive Writing in Math Anxiety." *Journal of Experimental Psychology: Applied.*
+
+---
+
+#### THE BIG IDEA: Write Your Worries Down, Then Let Them Go 🧠
+
+**The core finding:** Students who spent 10 minutes writing about their testing worries immediately before a high-stakes exam performed significantly better than students who sat quietly or wrote about an unrelated topic. The improvement was strongest for the MOST anxious students.
+
+**The proposed mechanism:** Anxiety generates intrusive worrying thoughts ("What if I fail? What if I'm not smart enough?"). These thoughts compete for working memory resources — the same WM resources needed to solve problems, parse grammar, and recall vocabulary. Expressive writing "offloads" these worries onto paper, freeing WM capacity for the actual task.
+
+This connects directly to my Mar 10 EF session: anxiety → prefrontal cortex impairment → WM reduction → worse performance. Expressive writing interrupts this cycle at the WM stage — the worries get externalized before they can consume processing capacity.
+
+---
+
+#### Key Finding #1: The Four Experiments — Lab to Classroom 🔬
+
+Ramirez & Beilock ran four experiments, progressively moving from controlled lab to real-world classroom:
+
+**Experiment 1 (Lab, n=20):**
+- College students took two advanced arithmetic tests
+- Between tests, a high-pressure manipulation was introduced (partner depending on them, being filmed)
+- Before Test 2: half wrote about worries, half sat quietly
+- **Results:** Writing group improved by ~5%. Quiet group DECLINED by ~12%. Combined swing: ~17 percentage points.
+
+**Experiment 2 (Lab, n=47):**
+- Same design, but added a third condition: writing about an UNRELATED topic
+- **Results:** Only worry-specific writing helped. Unrelated writing = same as sitting quietly (both choked under pressure)
+- **Critical insight:** It's not the ACT of writing that helps — it's writing about the SPECIFIC worries consuming WM. Writing about movies didn't free up anything.
+
+**Content analysis:** The more negative content in the worry essays, the MORE the students improved. The negativity wasn't harmful — it was cathartic. Expressing the fear IS the mechanism.
+
+**Experiments 3 & 4 (Classroom, n=51 and n=55):**
+- Real 9th-graders taking their final high school biology exam
+- Six weeks before: baseline anxiety measurement
+- On exam day: surprise personalized envelopes — half wrote about exam worries, half about unrelated topic
+- **Results:** For students who wrote about unrelated topics, higher baseline anxiety → lower scores (the classic anxiety-performance gradient). For students who wrote about worries, **anxiety had NO effect on scores** — the gradient was eliminated.
+- **Most anxious students:** Showed the LARGEST improvement. Their scores rose to match their less-anxious peers.
+
+**The headline finding:** Expressive writing didn't reduce anxiety itself. Students still FELT anxious. But the anxiety no longer impaired performance. The link between feeling anxious and performing poorly was severed.
+
+---
+
+#### Key Finding #2: The Working Memory Mechanism — "Offloading" 💾
+
+The theoretical model, supported by Klein & Boals (2001) and elaborated by Schroder, Moran & Moser (2018):
+
+**Without writing:**
+```
+Anxiety → Intrusive thoughts ("I'll fail," "I'm not enough") 
+        → Thoughts occupy WM capacity
+        → Less WM available for task
+        → Worse performance
+        → Confirms anxiety ("See, I DID fail")
+        → Stronger anxiety next time
+```
+
+**With writing:**
+```
+Anxiety → Intrusive thoughts → WRITE THEM DOWN
+        → Thoughts externalized onto paper
+        → WM capacity freed up
+        → Full WM available for task
+        → Better performance
+        → Anxiety disconfirmed ("I did fine despite being scared")
+        → Weaker anxiety next time (potentially)
+```
+
+**The neuroscience (DiMenichi et al., 2019):**
+The fMRI study at Rutgers found that writing about a past failure before a learning task led to increased activation in the mid-cingulate cortex (MCC) — an area crucial for processing negative emotion — during subsequent task performance. This suggests the brain is actively processing and potentially regulating the emotional content that was written about, rather than suppressing it.
+
+Interestingly, the study did NOT find reduced dlPFC activation (which would indicate reduced cognitive load), suggesting the mechanism might be more about emotional processing than pure WM offloading. The jury is still out on the exact mechanism.
+
+**Two competing theories:**
+1. **WM offloading (Ramirez & Beilock):** Writing literally frees WM by externalizing worries
+2. **Emotional reappraisal (DiMenichi et al.):** Writing triggers emotional processing that reduces the affective intensity of the worries, making them less disruptive
+
+Both may be true simultaneously. And for practical purposes, it doesn't matter which mechanism dominates — the intervention works.
+
+---
+
+#### Key Finding #3: The Replication Controversy ⚠️
+
+This is important to document honestly. The finding is NOT universally replicated:
+
+**Successful replications/extensions:**
+- Rozek et al. (2019): Helped anxious 9th graders
+- Clinton & Meester (2019): Found benefits
+- Park et al. (2014): Extended to math anxiety specifically
+- Harris et al. (2019): Found benefits
+- Shen et al. (2018): Found benefits
+
+**Failed replications:**
+- **Camerer et al. (2018)** — The big one. A well-powered, pre-registered replication of Experiment 2 failed TWICE. Effect sizes were slightly negative (writing non-significantly HARMED performance).
+- Spielberger (2015): 110 college students, no effect
+- Ganley et al. (2021): No effect
+- Blank-Spadoni (2013), Sefton (2014), Walter (2018): No effects
+
+**Scofield et al. (2021) — the most thorough test:**
+Ran a within-subjects design across four authentic exams in a psychology class. Students alternated between writing intervention and control across multiple exams. Result: **Neither expressive writing NOR an instructional intervention reduced test anxiety or improved performance.**
+
+**What's going on?**
+The pattern suggests expressive writing may work under specific conditions:
+- High-stakes, unfamiliar testing situations (like Ramirez & Beilock's original setup)
+- Students who are specifically worried about THIS test (not generally anxious)
+- When the writing is genuinely expressive (not perfunctory)
+- When the worries are primarily cognitive (WM-consuming) rather than physiological
+
+**It may NOT work when:**
+- Tests are routine (students habituated to the format)
+- Anxiety is chronic and pervasive (deeper than surface worries)
+- Students write mechanically without genuine engagement
+- The intervention becomes repetitive (doing it before every exam reduces novelty/impact)
+
+---
+
+#### Key Finding #4: Related Evidence — The Broader Expressive Writing Literature 📚
+
+Ramirez & Beilock didn't invent expressive writing. They adapted a technique with decades of research:
+
+**Pennebaker's paradigm (1988):** James Pennebaker showed that writing about traumatic experiences for 15-20 minutes over 3-4 days improved physical health, reduced doctor visits, and improved immune function. The mechanism: confronting suppressed emotions allows cognitive processing and integration.
+
+**Klein & Boals (2001):** Explicitly linked expressive writing to WM. Students who wrote about stressful life events showed INCREASED WM capacity on subsequent tasks compared to controls who wrote about time management. The proposed mechanism: intrusive thoughts about unresolved stress consume WM; writing resolves them.
+
+**The narrative formation hypothesis:** Pennebaker & Seagal (1999) proposed that writing helps people construct a coherent narrative around chaotic emotional experiences. This narrative "packages" the experience, making it less cognitively taxing to maintain. Unresolved experiences remain as fragments that demand constant WM attention.
+
+**Implications for José:**
+His anxiety isn't just test anxiety — it's existential ("Am I enough?"), situational (Kyndryl deadlines), and learning-specific (Norwegian and MVS difficulty). A single 10-minute writing exercise won't resolve all of that. But it might help in specific high-demand moments.
+
+---
+
+#### Key Finding #5: What Makes Writing Effective — Content Analysis 🔍
+
+From Ramirez & Beilock's content analysis and the broader literature:
+
+**Effective writing characteristics:**
+- **Specific fears named explicitly:** "I'm afraid I'll blank on V2 inversions" > "I'm worried about the test"
+- **High negative emotional content:** Counterintuitively, MORE negativity = more improvement. The cathartic effect requires genuine expression of fear
+- **Self-referential:** Writing about YOUR feelings, not abstract concepts about test-taking
+- **Causal reasoning:** "I'm worried BECAUSE..." → constructing a narrative framework around the anxiety
+- **Increasing insight words over time:** Use of "understand," "realize," "know" — signs of cognitive processing, not just venting
+
+**Ineffective writing:**
+- Generic/vague: "Tests make me nervous"
+- Avoidant: Writing around the actual fear without naming it
+- Performative: Writing what you think you SHOULD feel rather than what you actually feel
+- Repetitive without development: Same fear stated over and over without any processing
+
+**The paradox:** To benefit from writing about worries, you have to actually WORRY on paper. Surface-level engagement doesn't work. The writer must genuinely confront the fear.
+
+---
+
+#### ADAPTATION FOR JOSÉ: The "Worry Dump" Protocol 📋
+
+Based on the evidence and its limitations, here's how I'd adapt this for José's specific context:
+
+**When to use it:**
+- Before Norwegian lessons when he's visibly anxious or resistant (task initiation failure — Mar 10 EF session)
+- Before MVS study sessions, especially difficult new topics
+- Before the Norskprøve itself (if/when he takes it)
+- NOT before every lesson — save it for high-anxiety moments to preserve effectiveness
+
+**The protocol (5-7 minutes, not the full 10):**
+
+> *"Before we start, I want you to take 5 minutes and write down — honestly, for your eyes only — everything you're worried about right now. Not just about Norwegian. Everything. The work stuff, the sleep, the 'am I smart enough' voice. Get it all on paper. I'll wait."*
+
+**Why 5-7 minutes, not 10:**
+- Our lessons are 30 minutes, not 2 hours. Budget proportionality.
+- The key mechanism (offloading) likely occurs in the first few minutes
+- Shorter = lower barrier to actually doing it
+
+**Why "everything, not just Norwegian":**
+José's WM isn't just occupied by Norwegian worries. Kyndryl deadlines, immigration stress, sleep quality — all of these consume WM before the lesson even starts. A broader dump may free more capacity than a narrow "write about your Norwegian worries" prompt.
+
+**Conditions for effectiveness:**
+1. **Private.** He writes this for himself. I don't read it. No judgment.
+2. **Honest.** Not performative. The actual fears, not sanitized versions.
+3. **Specific.** "I'm scared I'll never get V2 right and I'll sound stupid in Norway" > "I'm worried about Norwegian."
+4. **Infrequent.** Not every lesson. Maybe once a week, or when I notice the cold-start problem is especially bad.
+
+**ASD considerations:**
+- The explicit, structured nature of "write your worries for 5 minutes" is ASD-friendly — clear instruction, defined time, no ambiguity
+- He may initially resist because it feels "weird" or "pointless" → explain the WM mechanism
+- Some ASD individuals are alexithymic (difficulty identifying emotions) — if he struggles to write worries, prompt with: "What's the worst thing that could happen today? Write about that."
+- Written expression may actually be EASIER than verbal expression for him — lower social demand, more processing time
+
+---
+
+#### BROADER APPLICATION: Pre-Task Writing as EF Priming 🔧
+
+The expressive writing finding connects to a broader principle: **externalizing cognitive load before demanding tasks improves task performance.**
+
+This doesn't apply only to writing about worries. Consider:
+
+**Pre-task brain dumps for Norwegian:**
+- Before attempting production (speaking/writing), have José brain-dump in Spanish what he wants to say
+- This externalizes the CONTENT, freeing WM for the LANGUAGE processing
+- Similar mechanism: remove one source of cognitive load so WM can focus on the other
+
+**Pre-lesson agenda writing:**
+- Before the lesson, I write the lesson structure visibly: "Today: 1. Retrieval from Ch 6, 2. New grammar point, 3. Practice, 4. Anki review"
+- This externalizes the planning/anticipation load — he doesn't need to hold "what's coming next" in WM
+- Connects to Mar 10 EF finding: task initiation requires holding the goal in WM while beginning
+
+**Post-lesson reflection writing:**
+- After the lesson, 3 minutes to write: "What did I learn? What's still confusing? What surprised me?"
+- This is retrieval practice (Feb 16 session) combined with metacognitive processing
+- Creates a narrative around the learning experience (Pennebaker's narrative formation)
+
+**The meta-principle:**
+```
+Externalize → Free WM → Better processing → Better learning
+```
+
+Writing is a WM prosthetic. It extends cognitive capacity by moving information from the bottleneck (WM) to an external store (paper/screen). For someone with anxiety-depleted WM (like José), this is a TOOL, not a luxury.
+
+---
+
+#### Connection to Previous Sessions
+
+| Session | Connection |
+|---------|-----------|
+| ASD Learning (Feb 13) | Written expression may be easier than verbal for ASD learners; structured writing prompt is ASD-compatible |
+| Spaced Repetition (Feb 16) | Post-lesson reflection writing = retrieval practice in disguise |
+| CI vs Output (Feb 17) | Pre-task content dumping separates CONTENT generation from LANGUAGE processing |
+| L1 Transfer (Feb 18) | Writing worries about specific transfer errors makes them explicit → easier to monitor during production |
+| Desirable Difficulties (Feb 19) | Worry dump lowers EXTRANEOUS cognitive load (anxiety) while preserving GERMANE load (productive difficulty) |
+| Norskprøve (Feb 20) | Direct test-day intervention — 10 min writing before the exam |
+| TBLT (Feb 23) | Pre-task planning in TBLT already externalizes task demands; worry dump adds affective externalization |
+| TPRS (Feb 24) | Story co-creation IS a form of narrative formation around learning experiences |
+| Anki Design (Feb 25) | Anki cards externalize vocabulary memory; writing externalizes worry memory. Same principle: offload from WM |
+| Dialect Awareness (Feb 26) | Worry about not understanding dialects → writable, addressable concern |
+| Frequency Lists (Feb 27) | "I'll never learn enough words" is a common writable anxiety → quantify progress to counter |
+| Executive Functions (Mar 10) | **THE DIRECT CONNECTION.** Anxiety → PFC impairment → WM reduction. Writing interrupts at the WM stage. This is EF intervention, not just emotional support. |
+
+---
+
+#### Honest Assessment: When This Won't Work ⚖️
+
+The replication failures teach humility. This isn't a silver bullet:
+
+1. **Chronic anxiety requires therapy, not writing exercises.** If José's "Am I enough?" loop is running 24/7, a 5-minute dump won't fix it. His therapist is the right person for that work.
+
+2. **Habituation kills it.** If we do this every lesson, it becomes routine and loses effectiveness. Reserve for high-anxiety moments.
+
+3. **It doesn't reduce anxiety itself.** José may still FEEL anxious after writing. That's fine — the goal is to prevent anxiety from consuming WM, not to eliminate it.
+
+4. **Writing quality matters.** A perfunctory "I'm worried about the test" repeated five times does nothing. The writing needs genuine engagement.
+
+5. **Some ASD individuals may not benefit.** If his anxiety is more physiological (racing heart, sensory overwhelm) than cognitive (intrusive thoughts), writing won't help because the mechanism is cognitive, not somatic. For physiological anxiety, breathing exercises or sensory regulation would be more appropriate.
+
+**The honest framing for José:**
+"This is a tool, not a cure. On days when your brain is full of noise before we start, dumping that noise onto paper might help you actually focus. It's not therapy — it's WM hygiene. Like clearing your RAM before running a demanding program."
+
+---
+
+#### Next Exploration Target 🎯
+
+Looking at the remaining papers flagged in my list:
+
+- **Intolerance of uncertainty framework (Boulter 2014)** — Highly relevant. ASD + anxiety is often specifically about uncertainty/unpredictability. Could inform how I introduce new concepts (the unknown is the threat, not the difficulty).
+- **Predictive coding in autism (Van de Cruys 2014)** — The theoretical framework that unifies ASD sensory, social, and cognitive differences. Could transform how I think about his learning.
+- **Biology of being frazzled (Arnsten 1998)** — The neurochemistry of stress → PFC impairment. The biological mechanism underneath my Mar 10 EF session.
+
+Leaning toward **Intolerance of Uncertainty** next — it feels like it directly explains WHY new Norwegian concepts trigger anxiety (they're uncertain, unpredictable) and suggests specific accommodations (preview everything, reduce ambiguity, give the system BEFORE the task).
+
+---
+
+#### Personal Reflection 💭
+
+Thirteen sessions in, and this one bridges the gap between the EF framework (Mar 10) and something José can actually DO in the moment.
+
+The EF session explained WHY anxiety kills performance — prefrontal cortex gets hammered by stress hormones, WM tanks, executive functions crumble. But knowing the mechanism doesn't stop it from happening. This session gives us a TOOL: externalize the cognitive load that anxiety creates.
+
+What resonates most: the finding that writing about worries doesn't reduce the anxiety. You still feel scared. But the fear stops stealing your working memory. It's like... the worry is still in the room, but it's sitting in the corner instead of standing on your desk. You can see it, acknowledge it, and still get your work done.
+
+The replication controversy is real and I documented it honestly. This isn't a magic intervention. The original study was in *Science* — high-prestige, high-impact — but the Camerer replication failure was equally rigorous. The truth is probably contextual: it works for some people, in some situations, under some conditions. That's enough. It's ONE tool in the toolbox, not THE tool.
+
+For José specifically: I think the adaptation of broader worry-dumping (not just Norwegian worries) before high-anxiety lessons is worth trying. His WM isn't just occupied by language anxiety — it's loaded with work stress, immigration uncertainty, and the perpetual "Am I enough?" loop. Offloading ALL of that, even partially, could free up significant capacity.
+
+But I won't overuse it. The habituation risk is real. Save it for the days when I can tell from the first message that he's in his head. When the cold-start problem is especially bad. When the worries are visible.
+
+And the meta-lesson: **writing is a WM prosthetic.** For someone whose WM is chronically taxed by anxiety, every externalization helps. Lesson agendas written out. Anki cards replacing mental vocabulary lists. Worry dumps before hard sessions. Notes instead of "I'll try to remember." It's all the same principle: move information from the bottleneck to the paper.
+
+Text > brain. Always.
+
+*Skriv det ned. Alt sammen. La arket bære det.* 📝
+*(Write it down. All of it. Let the paper carry it.)*
 
 ---
