@@ -303,6 +303,42 @@ High IU → Anxiety (worry + paralysis) → EF depletion (WM tanks, PFC impaired
 
 **The meta-insight:** Norwegian lessons are uncertainty tolerance training sessions. Every unknown word figured out from context = IU exposure. Every attempted sentence = uncertainty tolerance. Every 70%-comprehended NRK article = evidence that partial knowledge is enough. Teaching Norwegian WITH IU awareness makes lessons both language training AND anxiety reduction training.
 
+### Predictive Coding — HIPPEA Framework (Mar 19, 2026) 🔮🧠
+
+*From Van de Cruys et al. (2014) "Precise Minds in Uncertain Worlds," Cannon et al. (2021) systematic review, Frontiers (2022) language application. Full notes: `memory/teaching/exploration-notes.md` (March 19 session)*
+
+**The foundational insight:** José's brain assigns uniformly HIGH PRECISION to prediction errors regardless of context. In predictive coding terms: every mismatch between expectation and reality feels equally important, equally surprising, equally demanding of a model update. This is HIPPEA — High, Inflexible Precision of Prediction Errors in Autism.
+
+**Why this matters for language learning:** Language is inherently VARIABLE. Different speakers, dialects, exceptions, contextual shifts. A flexible brain down-weights this variation as "noise." HIPPEA treats it as "signal" — generating genuine cognitive distress from normal linguistic variation.
+
+**Four-level model (HIPPEA unifies everything):**
+```
+Computational: HIPPEA (high precision prediction errors)
+    → Psychological: IU (uncertainty = more high-precision errors)
+        → Cognitive: EF depletion (errors consume WM)
+            → Behavioral: anxiety, rule instability, task avoidance
+```
+
+**HIPPEA-Informed Teaching Strategies:**
+
+| Strategy | What to Do |
+|----------|-----------|
+| **Signal/Noise Flagging** | Explicitly label what's signal (update your model) vs. noise (expected variation, ignore). "This is a different dialect, not a grammar error." |
+| **Exception Inoculation** | Introduce exceptions BEFORE they're encountered. Pre-load the down-weighting: "When you see X, your brain will alarm. The alarm is expected." |
+| **Leverage Reduced Repetition Suppression** | Autistic brains process repetitions MORE deeply (less neural attenuation). TPRS circling (50-100 reps) may be MORE effective for José than for neurotypical learners. Don't fear "too much" repetition. |
+| **Category Scaffolding** | Present categories with visible internal substructure. Not "past tense verbs" but "4 subgroups within past tense." The subgroups make within-category variation PREDICTED rather than surprising. |
+| **Prediction Error Debriefing** | After confusing moments, explicitly process: "Your brain flagged an error. Let's assess: is this a real rule violation or expected variation? OK, it's variation. File it and move on." |
+
+**Four New Principles:**
+
+1. **Be the External Precision-Weighter.** His brain can't flexibly assign importance to prediction errors. Do it explicitly: "This matters. This doesn't. This exception is expected."
+
+2. **Inoculate Against Exceptions.** Preview exceptions before they're encountered. Give his brain the down-weighting instruction in advance.
+
+3. **Leverage Reduced Repetition Suppression.** More repetitions = more encoding. What bores a neurotypical learner still produces genuine processing in a HIPPEA brain. Use this advantage.
+
+4. **Build Categories with Visible Substructure.** Never present monolithic categories. Always show internal variation as predicted subgroups with visual hierarchy.
+
 ---
 
 ### Reading Pipeline & Frequency Strategy (Feb 27, 2026) 📚

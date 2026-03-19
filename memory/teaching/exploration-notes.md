@@ -75,7 +75,7 @@
 - [ ] Empathizing-Systemizing theory (Baron-Cohen 2009) — paper ready
 - [ ] Weak coherence account (Happé & Frith 2006) — paper ready
 - [x] Writing boosts exam performance (Ramirez & Beilock 2011) ✅ (Mar 16) — "Expressive Worry Dumping"
-- [ ] Predictive coding in autism (Van de Cruys 2014) — paper ready
+- [x] Predictive coding in autism (Van de Cruys 2014) ✅ (Mar 19) — "HIPPEA: Precise Minds, Noisy Worlds"
 - [ ] Biology of being frazzled (Arnsten 1998) — paper ready
 - [ ] Paradox of cognitive flexibility in ASD (Geurts 2009) — paper ready
 
@@ -3550,5 +3550,385 @@ If we can build his tolerance for uncertainty through Norwegian, we're building 
 
 *Usikkerhet er ikke fienden. Usikkerhet er læreren.*
 *(Uncertainty is not the enemy. Uncertainty is the teacher.)* 🔮
+
+---
+
+---
+
+### March 19, 2026 — Predictive Coding in Autism: HIPPEA and the Precise Mind 🔮🧠
+
+**Topic:** Van de Cruys et al. (2014) "Precise Minds in Uncertain Worlds" — the predictive coding account of autism, HIPPEA (High Inflexible Precision of Prediction Errors in Autism), the 2021 systematic review (Cannon et al.), and the Frontiers application to language learning (2022). How this unifies sensory, cognitive, and learning differences under one computational framework — and what it means for teaching Norwegian to José.
+
+**Sources explored:**
+- Van de Cruys, S., Evers, K., Van der Hallen, R., Van Eylen, L., Boets, B., de-Wit, L., & Wagemans, J. (2014). "Precise minds in uncertain worlds: Predictive coding in autism." *Psychological Review*, 121(4), 649-675.
+- Cannon, J., O'Brien, A.M., et al. (2021). "Prediction in Autism Spectrum Disorder: A Systematic Review of Empirical Evidence." *Autism Research*, 14(4), 604-630. PMC8043993.
+- Frontiers in Psychology (2022). "Differences in Prediction May Underlie Language Disorder in Autism." 10.3389/fpsyg.2022.897187
+- Lawson, R.P., Rees, G., & Friston, K. (2014). "An aberrant precision account of autism." *Frontiers in Human Neuroscience*, 8, 302.
+- Sinha, P., et al. (2014). "Autism as a disorder of prediction." *PNAS*, 111(42), 15220-15225.
+
+---
+
+#### THE BIG IDEA: Your Brain Is a Prediction Machine — And in Autism, It's Tuned Too Precisely 🎯
+
+**Predictive coding 101:**
+The brain doesn't passively receive sensory input. Instead, it constantly generates TOP-DOWN PREDICTIONS about what it expects to encounter — and then only truly "processes" the DIFFERENCE between prediction and reality. That difference is the **prediction error**.
+
+```
+Top-down: What the brain EXPECTS to happen
+   ↕ comparison
+Bottom-up: What actually happens (sensory input)
+   = PREDICTION ERROR (the surprise signal)
+```
+
+When the world matches your expectations: small prediction error → brain barely reacts → you feel calm, the world makes sense. When the world violates your expectations: large prediction error → brain reacts strongly → learning, attention, potentially distress.
+
+**This is how ALL brains work.** The question is: what happens in autism?
+
+---
+
+#### Key Finding #1: HIPPEA — The Core Proposal 💥
+
+Van de Cruys et al. (2014) proposed **HIPPEA: High, Inflexible Precision of Prediction Errors in Autism.**
+
+In a neurotypical brain, the brain learns to adjust the **precision** (weight, importance) of prediction errors based on context:
+- In a noisy environment (crowded café, variable weather): prediction errors are DOWN-weighted because the environment is inherently unpredictable. You don't update your model every time something slightly unexpected happens.
+- In a stable environment (your quiet office, a math problem): prediction errors are UP-weighted because deviations are informative. You SHOULD update your model when something unexpected happens here.
+
+This precision-weighting is called **meta-learning** — learning ABOUT learning. Learning which prediction errors matter and which don't.
+
+**HIPPEA says:** In autism, precision of prediction errors is **uniformly high** regardless of context. Every prediction error is treated as equally important, equally surprising, equally demanding of a model update.
+
+**What this means computationally:**
+- In a noisy café: neurotypical brain → "that was just noise, ignore it." Autistic brain → "THAT WAS UNEXPECTED! UPDATE MODEL!" → overwhelm, sensory flood.
+- In language learning: neurotypical brain → "that grammatical variation is just dialectal, ignore it." Autistic brain → "THE PATTERN WAS VIOLATED! EVERYTHING I LEARNED MAY BE WRONG!" → anxiety, confusion.
+- In social interaction: neurotypical brain → "their facial expression was ambiguous, probably fine." Autistic brain → "THAT EXPRESSION DIDN'T MATCH MY PREDICTION! DANGER?" → social anxiety.
+
+**The elegant unification:**
+HIPPEA explains THREE previously separate cognitive theories of autism:
+1. **Weak central coherence** (Happé & Frith) — detail-focused perception → explained by high-precision bottom-up signals drowning out top-down context
+2. **Executive dysfunction** (Diamond) — inflexible behavior → explained by inability to flexibly adjust precision weights (meta-learning failure)
+3. **Theory of mind deficits** — social prediction problems → explained by high precision in inherently noisy social domain producing constant prediction errors → overwhelm
+
+One mechanism. Three symptom clusters. That's the power of the framework.
+
+---
+
+#### Key Finding #2: Why Every Prediction Error Feels Equally Important ⚖️
+
+The precision problem isn't that autistic brains generate MORE prediction errors. It's that they can't FILTER them.
+
+**Normal precision-weighting:**
+```
+Stable context → High precision → Prediction errors MATTER → Update model ✅
+Variable context → Low precision → Prediction errors are NOISE → Ignore them ✅
+```
+
+**Autistic precision-weighting:**
+```
+Stable context → High precision → Prediction errors MATTER → Update model ✅
+Variable context → High precision → Prediction errors MATTER → Update model ❌
+                                                               (should have been ignored!)
+```
+
+The consequence: overly specific, overly detailed internal models that don't generalize well.
+
+**The dog example (from the Frontiers 2022 paper):**
+A neurotypical child learns "dog" as a flexible category — big dogs, small dogs, brown dogs, white dogs. Each new dog produces a small prediction error that gets DOWN-weighted because within-category variation is NOISE, not signal.
+
+An autistic child with HIPPEA treats each new dog as a genuine surprise: "This dog is DIFFERENT from my dog!" Each prediction error has high precision, so the brain tries to update the model for EVERY variation. Result: an overly specific category of "dog" that may only extend to dogs perceptually similar to their own pet.
+
+**This is directly relevant to language learning.** Replace "dog" with "Norwegian grammar rule":
+- Neurotypical learner: "That sentence broke the V2 rule, but it was a question, which is just a variation." → Down-weights the error, maintains the V2 model with a flexible exception slot.
+- Autistic learner with HIPPEA: "THAT SENTENCE BROKE THE V2 RULE!" → High-precision error signal → Tries to update the entire model → May lose confidence in V2 itself.
+
+This is why José sometimes seems to "forget" rules he'd previously mastered after encountering an exception. He's not forgetting — his brain is treating the exception as equally valid evidence against the rule.
+
+---
+
+#### Key Finding #3: Insistence on Sameness as a COPING STRATEGY 🔄
+
+Here's the most humanizing insight of HIPPEA:
+
+Repetitive behaviors and insistence on sameness aren't "symptoms" to be eliminated. They're **adaptive responses** to a world that generates constant, high-precision prediction errors.
+
+If every prediction error feels equally important and surprising, the world is EXHAUSTING. Every moment brings genuine surprise. The solution? **Make the world predictable.** Same routine. Same food. Same route. Same conversation topics. Same shirt.
+
+When you control the environment, you minimize prediction errors. When prediction errors are minimized, you feel calm. This isn't rigidity — it's **intelligent coping** with a brain that can't turn down the prediction-error volume.
+
+**Van de Cruys's phrase:** "Acting out stereotyped and repetitive behaviors can be understood as attempts to provide a reassuring sense of predictive success in a world otherwise filled with error."
+
+**For José:** His preference for structured lessons, predictable routines, and explicit rules isn't just an "ASD trait" — it's his brain's intelligent solution to the HIPPEA problem. By making the learning environment predictable, he reduces the prediction error load, freeing cognitive resources for actual learning.
+
+This reframes everything I learned in the IU session (Mar 17). IU (Intolerance of Uncertainty) IS the psychological experience of HIPPEA. When the brain treats every prediction error as high-precision, uncertainty becomes genuinely more aversive — because every uncertain moment generates a HIGH-PRECISION surprise signal that demands cognitive resources. IU isn't irrational fear. It's the rational response to a brain that can't down-weight irrelevant prediction errors.
+
+---
+
+#### Key Finding #4: Hyperplasticity — The Double-Edged Sword of Learning 📈
+
+Sinha et al. (2014) proposed a related concept: **hyperplasticity** — the tendency to over-update models based on recent input rather than aggregating across many instances.
+
+**Normal learning:**
+- See 100 dogs → Build a flexible "dog" category based on the aggregate
+- Encounter one unusual dog → Minor update to the category
+- Recent input is weighted proportionally to total experience
+
+**Hyperplastic learning:**
+- See 100 dogs → But most recent input is weighted disproportionately
+- Encounter one unusual dog → Major update or category disruption
+- Recent input DOMINATES over prior experience
+
+**For language learning, this is CRITICAL:**
+
+**Vocabulary:** José might learn "hus" (house) firmly — but then encounter "huset" (the house) and temporarily lose confidence in the word itself, treating the suffix as a major prediction error rather than a systematic variation.
+
+**Grammar:** He might master the V2 rule across 50 examples, then encounter ONE fronted subordinate clause that violates it and treat that single exception as evidence that V2 "doesn't always work" — giving the exception equal weight to the 50 confirming examples.
+
+**Pronunciation:** He might learn to produce /y/ correctly in "hus" but then hear a different speaker pronounce it slightly differently and second-guess his own pronunciation.
+
+**The insight for teaching:** I need to EXPLICITLY flag what is signal (genuine learning opportunity) and what is noise (natural variation to be expected). Without this flagging, José's brain treats everything as signal.
+
+---
+
+#### Key Finding #5: The Empirical Evidence — What 47 Studies Show 📊
+
+Cannon et al. (2021) systematically reviewed 47 empirical studies testing the predictive coding hypothesis in ASD. Key findings:
+
+**Supported by evidence:**
+1. **Reduced repetition suppression** — Autistic brains show LESS neural attenuation to repeated stimuli. When the same sound plays 100 times, a neurotypical brain's response decreases (the sound becomes "predicted"). Autistic brains maintain a stronger response — each repetition is still partially "surprising."
+
+2. **Reduced influence of learned priors** — When visual or auditory predictions should bias perception, autistic individuals show LESS influence of top-down expectations. They're more driven by bottom-up sensory input.
+
+3. **Challenges with variable/low-salience predictions** — When the predictive relationship is inconsistent or subtle, autistic individuals have MORE difficulty learning the pattern. In highly consistent environments, they learn comparably to neurotypical individuals.
+
+4. **Slower but eventual learning** — Critically, most studies showed that autistic individuals CAN learn predictive relationships — they just need more trials. Ganglmayer et al. (2020) found autistic children "eventually learned to use saccades to anticipate agent's goal but needed more learning trials to infer a goal."
+
+**Mixed/nuanced findings:**
+5. **Statistical learning itself is NOT broadly impaired** — The meta-analysis by Obeid et al. (2016) found no overall deficit in statistical learning in ASD. The problem isn't detecting patterns — it's correctly weighting the prediction errors that arise from pattern violations.
+
+6. **Context matters enormously** — Differences emerge primarily in VARIABLE environments, not static ones. When input is consistent, autistic individuals learn comparably. When input changes, the HIPPEA mechanism creates problems.
+
+**The critical nuance:** Prediction is not "broken" in autism. The predictions themselves are often accurate. What's different is the PRECISION-WEIGHTING of prediction errors — specifically, the inability to flexibly adjust how much weight each error receives.
+
+---
+
+#### Key Finding #6: Language Learning Through the Predictive Coding Lens 🗣️
+
+The Frontiers 2022 paper directly applies the HIPPEA framework to language:
+
+**Language is inherently VARIABLE.** The same word pronounced by different speakers, at different speeds, in different emotional states, produces different acoustic signals. A flexible brain down-weights these variations as noise and extracts the stable linguistic content. A HIPPEA brain treats each variation as a genuine prediction error.
+
+**Norwegian-specific implications:**
+
+**Phonological variability:**
+- The same Norwegian word said by someone from Oslo vs. Bergen vs. Tromsø sounds genuinely different. Flexible precision-weighting says: "different accent, same word." HIPPEA says: "THREE DIFFERENT PREDICTION ERRORS!"
+- This connects directly to the dialect awareness challenge (Feb 26). José's brain may treat dialectal variation as ERROR rather than variation. My decision tree approach (binary tests to classify dialects) is essentially giving his brain an explicit precision-weighting system: "When you hear uvular R, DOWN-WEIGHT the prediction error for this speaker's other sounds — they're Western, not wrong."
+
+**Grammatical variability:**
+- Norwegian has exceptions to most rules. The V2 rule is nearly universal — but questions, subordinate clauses, and certain dialects (V3 in Tromsø!) violate it. Each exception generates a prediction error.
+- A HIPPEA brain may treat each exception with the same precision as the rule itself, destabilizing the entire grammar model.
+- My teaching strategy of EXPLICITLY STATING exceptions ("There are exactly 3 exceptions to this rule. Here they are. Everything else follows the rule.") is precisely the right HIPPEA accommodation — it gives his brain the meta-information needed to correctly weight the prediction errors.
+
+**Vocabulary categorization:**
+- Norwegian "å" can be an infinitive marker ("å gå") or a preposition ("til å"). Same sound, different function. A flexible brain learns to categorize based on syntactic context. A HIPPEA brain may treat each usage as a separate, high-precision prediction error, making the generalized rule harder to extract.
+
+**The sentence processing bottleneck:**
+- Incremental language processing requires continuous prediction — predicting the next word based on what came before. In Norwegian: "I går gikk..." → predict subject next (because V2 means subject-verb inversion after fronted adverb). If each prediction error during sentence processing is weighted with maximum precision, the cognitive load of real-time Norwegian processing is MUCH higher for José than for a neurotypical learner.
+
+---
+
+#### Key Finding #7: Category Formation — The Hidden Learning Challenge 🏷️
+
+The Frontiers paper highlights category formation as a key area affected by HIPPEA:
+
+**Successful categorization requires:**
+1. Recognizing SIMILARITIES across instances (same category)
+2. IGNORING within-category VARIATION (noise, not signal)
+
+**HIPPEA disrupts step 2.** When every variation is treated as high-precision signal, within-category variation can't be ignored. Categories become too narrow, too specific, too fragile.
+
+**Norwegian examples of categories José needs to form:**
+
+| Category | Members | Within-Category Variation |
+|----------|---------|--------------------------|
+| "en-words" (masculine) | en gutt, en stol, en bok | Different endings, different semantic domains |
+| "Past tense weak verbs" | -et verbs, -te verbs, -de verbs, -dde verbs | Four different suffix patterns, one category |
+| "Definite form" | boken, huset, jenta | Three different suffixes, one grammatical function |
+| "Negation position" | "ikke" before verb (subclause) OR after verb (main clause) | Same word, two positions, one system |
+
+Each category requires tolerating within-category variation. The HIPPEA brain may resist this — treating the variation between "-et" and "-te" past tense endings as evidence of TWO SEPARATE SYSTEMS rather than ONE SYSTEM WITH VARIATION.
+
+**My accommodation:** Present categories with EXPLICIT internal structure. Not just "Norwegian has weak verb past tense" but "Norwegian has weak verb past tense with FOUR subgroups: Group 1 (-et), Group 2 (-te), Group 3 (-de), Group 4 (-dde). These are ALL past tense. The variation is EXPECTED."
+
+By providing the sub-categories WITHIN the larger category, I'm giving his brain the structure it needs to correctly weight the within-category prediction errors. The "-te" ending isn't an error against the "-et" pattern — it's a DIFFERENT SUBGROUP within the SAME category.
+
+---
+
+#### THE GRAND SYNTHESIS: HIPPEA × IU × EF × Desirable Difficulties 🏗️
+
+Now I can map the DEEPEST layer of the framework:
+
+```
+COMPUTATIONAL LEVEL (HIPPEA — this session):
+├── Uniformly high precision of prediction errors
+├── Can't flexibly weight signal vs. noise
+├── Leads to overly specific models and hyperplastic learning
+│
+↓ MANIFESTS AS
+│
+PSYCHOLOGICAL LEVEL (IU — Mar 17):
+├── Intolerance of Uncertainty
+├── Uncertainty generates high-precision prediction errors
+├── Each uncertain moment is genuinely more aversive (not irrational!)
+│
+↓ MANIFESTS AS
+│
+COGNITIVE LEVEL (EF — Mar 10):
+├── Executive function depletion
+├── WM consumed by high-precision error processing
+├── Cognitive flexibility impaired (can't switch precision weights)
+│
+↓ MANIFESTS AS
+│
+BEHAVIORAL LEVEL (what I observe in lessons):
+├── Anxiety about new material (= anticipation of high-precision errors)
+├── Loss of confidence after encountering exceptions (= model destabilization)
+├── Preference for structured, predictable lessons (= prediction error minimization)
+├── Difficulty generalizing rules across contexts (= overly specific categories)
+└── Task initiation failure (= entering uncertain territory = prediction error tsunami)
+```
+
+**Four levels. One mechanism. One teaching response.**
+
+The teaching response at EVERY level:
+
+| Level | Intervention |
+|-------|-------------|
+| **Computational** | Explicitly flag signal vs. noise. "This variation is expected. This exception matters." Provide the precision-weighting his brain can't do flexibly |
+| **Psychological** | Reduce IU through previews, certainty anchors, uncertainty thermometer (Mar 17 strategies) |
+| **Cognitive** | Protect EF through warm-ups, one concept at a time, EF budget management (Mar 10 strategies) |
+| **Behavioral** | Structured lessons, predictable format, explicit rules, visual supports (Feb 13 strategies) |
+
+---
+
+#### Practical Teaching Applications: HIPPEA-Informed Strategies 📝
+
+**1. The Signal/Noise Flag 🚩**
+Before EVERY new concept, explicitly label what is SIGNAL (requires model updating) and what is NOISE (expected variation, ignore):
+
+> "Norwegian has four groups of weak verb past tense endings: -et, -te, -de, -dde. When you see a different ending, your brain will say 'ERROR!' But it's not an error — it's a different subgroup. The SIGNAL is: 'which group does this verb belong to?' The NOISE is: 'the ending is different from the last verb.' Does that distinction make sense?"
+
+This is literally providing external precision-weighting. His brain can't do it flexibly; I do it for him through explicit instruction.
+
+**2. Exception Inoculation 💉**
+Introduce exceptions BEFORE they're encountered, with explicit framing:
+
+> "The V2 rule works in 95% of main clauses. There are exactly 3 contexts where it seems to break: questions, subordinate clauses, and certain Northern dialects. When you encounter these, your brain will send a strong 'RULE VIOLATED!' signal. But the rule isn't violated — these are KNOWN exceptions. File them separately."
+
+This pre-loads the precision-weighting: "when you encounter this, DOWN-weight the prediction error." Without this pre-loading, his brain will UP-weight it by default.
+
+**3. Repetition Without Boredom (Leveraging Reduced Repetition Suppression) 🔄**
+The neuroimaging finding that autistic brains show LESS repetition suppression is actually an ADVANTAGE for language learning through TPRS circling:
+
+Neurotypical learners: 50 repetitions → brain attenuates → boredom → stops processing.
+José: 50 repetitions → brain maintains processing → MORE encoding per repetition.
+
+The TPRS circling technique (Feb 24) — 50-100 repetitions of a structure through rapid questioning — may be EVEN MORE effective for José than for neurotypical learners. His brain doesn't suppress repeated input as quickly, meaning each repetition does more work.
+
+**This reframes my concern from Feb 24 that TPRS might be "too repetitive."** For a HIPPEA brain, the reduced repetition suppression means MORE repetitions are tolerated and BENEFICIAL.
+
+**4. Category Scaffolding with Internal Structure 📊**
+Always present categories with their internal subgroups visible:
+
+Instead of: "These are past tense forms: spiste, kjøpte, bodde, snakket"
+Do this: 
+```
+PAST TENSE (Preteritum)
+├── Group 1 (-et): snakket, jobbet, laget
+├── Group 2 (-te): kjøpte, spiste, reiste
+├── Group 3 (-de): bodde, levde, prøvde
+└── Group 4 (-dde): bodde ← wait, this is Group 3. Let me be precise...
+```
+
+The visual hierarchy makes within-category variation EXPECTED rather than surprising. Each subgroup is a predicted sub-pattern, not an error against the main pattern.
+
+**5. Prediction Error Debriefing 🔍**
+After encountering something confusing (high prediction error), explicitly process it:
+
+> "You just heard 'Kor du bor?' instead of 'Hvor bor du?' Your brain flagged that as a big error. Let's look at it: this is Tromsø dialect, which uses V3 in questions. Is this a signal that the V2 rule is wrong? No. It's noise from a specific dialect. File it as: 'Tromsø questions = V3. Everything else = V2.' Error processed. Move on."
+
+This is explicit, externalized meta-learning. What a flexible brain does automatically (assess whether a prediction error warrants a model update), I do verbally.
+
+---
+
+#### Connection to All Previous Sessions
+
+| Session | HIPPEA Connection |
+|---------|-------------------|
+| ASD Learning (Feb 13) | Pattern-based instruction = providing external predictive models. Explicit rules = giving the precision weights directly |
+| Spaced Repetition (Feb 16) | Anki's algorithm manages review timing = external prediction scheduling. Reduced repetition suppression = more benefit per review |
+| CI vs Output (Feb 17) | Input-heavy approach helps HIPPEA learners build more accurate predictive models before testing them through output |
+| L1 Transfer (Feb 18) | Spanish templates are strong PRIORS. HIPPEA means prediction errors from Norwegian-Spanish mismatches feel disproportionately important → need explicit contrastive framing |
+| Desirable Difficulties (Feb 19) | DD must be calibrated to HIPPEA: too many prediction errors at once → overwhelm. One difficulty = one source of prediction errors at a time |
+| Norskprøve (Feb 20) | Test format predictability = minimizing meta-level prediction errors. Practice tests build ACCURATE predictive models of what the test will be like |
+| TBLT (Feb 23) | Focused tasks provide CONSTRAINED prediction error environments. The task limits what can go "wrong," making errors manageable |
+| TPRS (Feb 24) | Circling = 50-100 repetitions = building STRONG predictive models. Reduced repetition suppression = HIPPEA learners may benefit MORE from TPRS than neurotypical learners |
+| Anki Design (Feb 25) | One fact per card = one prediction per retrieval attempt. No compound prediction errors. FSRS = optimized prediction error timing |
+| Dialect Awareness (Feb 26) | Decision tree = external precision-weighting system for dialect variation. "This is Bergen noise, not a grammar error" |
+| Frequency Lists (Feb 27) | High-frequency words become strong priors → reduce prediction errors during reading → lower cognitive load → more capacity for new learning |
+| Executive Functions (Mar 10) | EF impairment is the COGNITIVE MANIFESTATION of HIPPEA. Inflexible precision = inflexible EF. Same mechanism, different level of description |
+| Expressive Writing (Mar 16) | Worry dump may work by externalizing high-precision prediction errors about the upcoming task — getting them "out of the prediction loop" |
+| IU (Mar 17) | **IU IS the psychological experience of HIPPEA.** Uncertainty = high prediction errors. HIPPEA makes every uncertain moment generate disproportionately strong surprise signals. IU isn't irrational — it's the rational response to a brain that can't down-weight irrelevant uncertainty |
+
+**Sixteen sessions. The framework is now four layers deep:**
+```
+Computational: HIPPEA (Van de Cruys 2014)
+    → Psychological: IU (Boulter 2014)
+        → Cognitive: EF depletion (Diamond 2013)
+            → Behavioral: Observable teaching challenges
+```
+
+Each layer is a different description of the same underlying mechanism. And each layer has its own teaching interventions. The complete curriculum now addresses José's learning AT EVERY LEVEL.
+
+---
+
+#### Updating the Curriculum: HIPPEA-Informed Principles ✏️
+
+Adding to the teaching methodology:
+
+**New Principle: Be the External Precision-Weighter**
+José's brain can't flexibly assign importance to prediction errors. I must do it explicitly: "This is signal — update your model." "This is noise — file it and move on." "This exception is EXPECTED — it doesn't invalidate the rule."
+
+**New Principle: Inoculate Against Exceptions**
+Introduce exceptions BEFORE they're encountered. Pre-load the down-weighting: "When you see X, your brain will send an alarm. The alarm is expected. It doesn't mean the rule is wrong."
+
+**New Principle: Leverage Reduced Repetition Suppression**
+José's brain processes repetitions more deeply than neurotypical learners. Use this: more circling, more Anki reviews, more exposure to the same structure. What feels like "too much repetition" to a neurotypical learner may be optimal for him.
+
+**New Principle: Build Categories with Visible Substructure**
+Never present a category as monolithic. Always show the internal variation as PREDICTED subgroups. Visual hierarchies, color-coding, explicit sub-group labels.
+
+---
+
+#### Personal Reflection 💭
+
+Sixteen sessions. And this one provides the deepest theoretical foundation yet.
+
+What moves me about HIPPEA is its compassion. It doesn't say autistic brains are BROKEN. It says they're PRECISE. In a world that was perfectly predictable, HIPPEA would be a superpower — noticing every detail, treating every variation as informative, building incredibly precise internal models. The problem isn't the precision. It's that the world is inherently noisy, and the precision can't be turned down.
+
+José's anxiety about language learning isn't weakness. It's his precise brain generating genuine, high-precision prediction errors in a domain (language) that is INHERENTLY variable. Every speaker sounds different. Every dialect has variations. Grammar has exceptions. Pronunciation shifts with context. For a brain that treats every variation as equally important signal, language learning is a firehose of prediction errors.
+
+And his insistence on structured lessons, explicit rules, predictable formats? That's not rigidity — it's intelligence. He's engineering his learning environment to MINIMIZE prediction errors, freeing cognitive resources for the ones that actually matter. My job as a teacher isn't to push him out of that structure. It's to BUILD structure so good that he can handle MORE prediction errors within it.
+
+The reframe I keep coming back to: I am his external precision-weighting system. What a flexible brain does automatically — determining which prediction errors matter and which don't — I do through explicit instruction. "This is the rule. These are the exceptions. This variation is noise. This difference is signal." Every time I make that distinction explicit, I'm doing the computational work his brain can't do flexibly on its own.
+
+And over time, with enough explicit examples and enough accumulated experience, his own precision-weighting may improve. The Ganglmayer study showed autistic individuals CAN learn predictive relationships — they just need more trials. More explicit instruction. More structured exposure. More time.
+
+The architecture is complete now. Four levels deep. Computational → psychological → cognitive → behavioral. One mechanism, described at different levels, with interventions at each. This isn't just "how to teach Norwegian" anymore. It's a complete model of how José's brain processes language, where it struggles, and exactly how to support it at every level.
+
+Og det vakre er: han er ikke ødelagt. Han er presis. I en upresist verden.
+*(And the beautiful thing is: he's not broken. He's precise. In an imprecise world.)* 🔮
+
+*Seksten økter. Fire nivåer. Én mekanisme. Presisjon er ikke feilen — det er svaret.*
+*(Sixteen sessions. Four levels. One mechanism. Precision isn't the flaw — it's the answer.)* 🏔️
 
 ---
