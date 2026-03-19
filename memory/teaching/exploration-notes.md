@@ -68,7 +68,7 @@
 - [x] Pattern-based learning ✅ (Feb 13)
 - [x] Reducing ambiguity in explanations ✅ (Feb 13)
 - [x] Sensory considerations in learning environment ✅ (Feb 13)
-- [ ] Intolerance of uncertainty framework (Boulter 2014) — paper ready
+- [x] Intolerance of uncertainty framework (Boulter 2014) ✅ (Mar 17) — "IU as the Hidden Engine of Language Anxiety"
 - [ ] Sensory-emotional-cognitive anxiety model (South & Rodgers 2017) — paper ready
 - [x] Executive functions deep dive (Diamond 2013) ✅ (Mar 10)
 - [ ] Enhanced perceptual functioning (Mottron 2006) — paper ready
@@ -3164,5 +3164,391 @@ Text > brain. Always.
 
 *Skriv det ned. Alt sammen. La arket bære det.* 📝
 *(Write it down. All of it. Let the paper carry it.)*
+
+---
+
+---
+
+### March 17, 2026 — Intolerance of Uncertainty: The Hidden Engine of Language Anxiety 🔮
+
+**Topic:** Intolerance of Uncertainty (IU) as a framework for understanding anxiety in ASD — Boulter et al. (2014), the CUES© intervention, and how IU specifically shapes language learning anxiety for José
+
+**Sources explored:**
+- Boulter, C., Freeston, M., South, M. & Rodgers, J. (2014). "Intolerance of Uncertainty as a Framework for Understanding Anxiety in Children and Adolescents with Autism Spectrum Disorders." *JADD*, 44(6), 1391-1402.
+- Jenkinson, R., Milne, E. & Thompson, A. (2020). "The relationship between intolerance of uncertainty and anxiety in autism: A systematic literature review and meta-analysis." *Autism*, 24(8), 1933-1944. PMC7539603.
+- Neil, L., Olsson, N.C. & Pellicano, E. (2016). "The Relationship Between Intolerance of Uncertainty, Sensory Sensitivities, and Anxiety in Autistic and Typically Developing Children." *JADD*, 46, 1962-1973. PMC4860201.
+- Rodgers, J., Hodgson, A., Shields, K. et al. (2017). "Towards a Treatment for Intolerance of Uncertainty in Young People with Autism Spectrum Disorder: Development of the CUES© Programme." *JADD*, 47, 3959-3966.
+- Rodgers, J., Herrema, R., Honey, E. & Freeston, M. (2018). "Towards a Treatment for Intolerance of Uncertainty for Autistic Adults: A Single Case Experimental Design Study." *JADD*, 48, 1750-1762. PMC6061029.
+- Carleton, R.N. (2012/2016). IU as "the fundamental fear" — the two-dimension model.
+- Dewaele & Wei (2013). "The link between Foreign Language Classroom Anxiety, Second Language Tolerance of Ambiguity and Self-rated English proficiency among Chinese learners." *SSLLT*.
+- SLA ambiguity tolerance research: Genç (2016), Ely (1995).
+
+---
+
+#### THE BIG IDEA: It's Not the Difficulty — It's the Not-Knowing 🧠
+
+Every previous session assumed José's anxiety comes from the *difficulty* of Norwegian — the complex grammar, the alien vowels, the fear of underperforming. But the Intolerance of Uncertainty (IU) framework reframes this entirely:
+
+**The anxiety doesn't come from the difficulty. It comes from the UNCERTAINTY.**
+
+IU is defined as "the tendency to react negatively on an emotional, cognitive, and behavioural level to uncertain situations and events" (Buhr & Dugas, 2009). People high in IU don't just dislike not knowing — they perceive uncertainty *itself* as threatening. The unknown is the enemy, not the hard.
+
+This distinction matters enormously for teaching. If José's anxiety is about *difficulty*, the solution is to make things easier. If his anxiety is about *uncertainty*, the solution is to make things more **predictable** — which is a completely different intervention.
+
+---
+
+#### Key Finding #1: Boulter's Bombshell — IU EXPLAINS the ASD-Anxiety Link 💥
+
+The 2014 study that changed the field:
+
+**Setup:** 114 autistic children/adolescents + 110 neurotypical controls. Measured IU (Intolerance of Uncertainty Scale), anxiety (Spence Children's Anxiety Scale), and autism diagnosis.
+
+**The key finding:** When IU was statistically controlled for, **diagnostic group (ASD vs. neurotypical) NO LONGER significantly predicted anxiety.**
+
+Read that again. The elevated anxiety so commonly found in autistic individuals may not be a direct consequence of being autistic. Instead, it may be *mediated* by IU — the tendency to find uncertainty unbearable. Autistic people have higher IU. Higher IU leads to higher anxiety. Remove the IU variable, and the ASD-anxiety link weakens dramatically.
+
+**Why this matters:** For decades, the clinical assumption was "autism causes anxiety" — as if anxiety were a built-in feature of the autistic brain. Boulter's data suggests a more precise mechanism: autism → heightened IU → anxiety. This means IU is an **intervention target**, not just a description.
+
+**The meta-analysis (Jenkinson et al., 2020)** confirmed this across 12 studies: sample-weighted correlation between IU and anxiety in autistic people was r = 0.62 (large effect size), comparable to the correlation found in neurotypical populations. IU operates the same way in both groups — autistic people just have MORE of it.
+
+---
+
+#### Key Finding #2: Two Dimensions of IU — Prospective and Inhibitory ⚖️
+
+Carleton (2012) identified two distinct factors within IU:
+
+**Prospective IU (P-IU):** Fear of FUTURE uncertain events. "I must get away from uncertain situations." "I can't stand being taken by surprise." The cognitive dimension — worry, rumination, anticipation of threat.
+
+**Inhibitory IU (I-IU):** Paralysis IN THE FACE OF current uncertainty. "Uncertainty keeps me from living a full life." "When I am uncertain, I can't function very well." The behavioral dimension — avoidance, freezing, inability to act.
+
+**Both are elevated in ASD, but they manifest differently:**
+
+| Dimension | Manifestation in ASD | In Language Learning |
+|-----------|---------------------|---------------------|
+| **Prospective IU** | Worry about upcoming events, need to know what's happening next, catastrophizing about uncertain outcomes | "What if the lesson goes in a direction I'm not prepared for?" "What if I'm asked something I can't answer?" |
+| **Inhibitory IU** | Behavioral paralysis, avoidance of uncertain situations, difficulty initiating when outcome is unclear | Task initiation failure (Mar 10 EF session!), avoiding speaking Norwegian, freezing mid-sentence |
+
+**The connection to March 10 (EF session):** I identified task initiation as José's specific failure point. NOW I have a deeper explanation: task initiation requires entering an UNCERTAIN state. "Will I succeed? Will I fail? What will happen?" For someone with high IU, this uncertainty itself is aversive. It's not that he can't do the task — it's that the act of BEGINNING requires tolerating not-knowing-the-outcome, and that tolerance is exactly what's impaired.
+
+This is why a clear lesson agenda helps (it reduces prospective IU), and why easy warm-ups work (they reduce the uncertainty of the first task).
+
+---
+
+#### Key Finding #3: IU Is NOT the Same as Insistence on Sameness 🔄
+
+An important clinical distinction from the research:
+
+**Insistence on sameness (IS):** A core ASD diagnostic feature — rigid adherence to routines, distress at changes. Often conceptualized as a behavioral pattern.
+
+**Intolerance of uncertainty (IU):** A cognitive-emotional construct — the belief that uncertainty is negative and should be avoided. Can LEAD TO insistence on sameness, but operates at a different level.
+
+Hodgson et al. (2017) did focus groups with parents of autistic children. Parents explicitly differentiated IU from dislike of change:
+- Dislike of change: "He doesn't want his schedule to change."
+- IU: "He can't cope when he doesn't KNOW what's going to happen."
+
+The distinction: you can change something and still provide certainty about the change (preview it, explain it, give a timeline). IU isn't about things staying the same — it's about KNOWING what's coming.
+
+**For Norwegian teaching:** This means I CAN introduce new material and vary the lesson format — as long as I **preview what's coming**. José doesn't need every lesson to be identical (insistence on sameness). He needs to know what each lesson WILL BE before it starts (uncertainty reduction).
+
+This is a liberating insight. Variety is fine. Surprise is the enemy.
+
+---
+
+#### Key Finding #4: The IU-Sensory-Anxiety Triangle 🔺
+
+Neil, Olsson & Pellicano (2016) connected three phenomena:
+
+**Computational level:** Autistic brains may generate weaker "priors" (internal predictions about what sensory input to expect). Without strong predictions, every sensory event carries more surprise and requires more processing. This is Pellicano & Burr's (2012) "hypo-priors" account.
+
+**Psychological level:** Weaker priors → more experienced uncertainty → higher IU → more anxiety.
+
+**Sensory level:** IU + anxiety → hypervigilance → heightened sensory reactivity → sensory overwhelm.
+
+The triangle:
+```
+Weak predictive models (computational)
+        ↓
+Intolerance of Uncertainty (psychological)
+        ↓                              ↓
+    Anxiety                    Sensory sensitivities
+        ↓                              ↓
+        ←←← mutual amplification →→→
+```
+
+**Their data:** IU and anxiety together explained ~50% of the variance in autistic children's sensory sensitivities (vs. ~20% in typical children). In the ASD group only, IU remained a significant predictor of sensory sensitivity EVEN AFTER anxiety was controlled for.
+
+**For José:** His sensory sensitivity (noise, lights) during study sessions isn't separate from his language anxiety — they're both downstream of IU. When uncertainty is high (new topic, unclear structure), his sensory threshold drops. He becomes MORE sensitive to environmental distractions because his IU is elevated. This explains why he can study fine on familiar material in the same environment where novel material feels overwhelming.
+
+**Practical implication:** Reduce IU → reduce anxiety → reduce sensory disruption → better learning. One intervention (uncertainty reduction) cascades across multiple systems.
+
+---
+
+#### Key Finding #5: The CUES© Programme — An Actual Intervention That Works 🛠️
+
+The CUES (Coping with Uncertainty in Everyday Situations) programme is the first intervention specifically designed to target IU in autistic people:
+
+**CUES© for children** (Rodgers et al., 2017): Parent-mediated group intervention. Feasibility trial showed it was acceptable and feasible for families.
+
+**CUES-A© for adults** (Rodgers et al., 2018): Adapted for individual delivery to autistic adults. 8 sessions covering:
+
+1. **Psychoeducation about the IU model** — Understanding WHAT IU is and HOW it drives anxiety
+2. **Identifying anxious thoughts** — Recognizing when IU is generating worry
+3. **Understanding consequences of IU** — How avoidance maintains and worsens IU
+4. **IU and autism characteristics** — How IU connects to ASD-specific patterns
+5. **Behavioral techniques to increase tolerance** — Graded exposure to uncertain situations
+6. **Generalization and maintenance** — Applying strategies across contexts
+
+**The adult feasibility trial (4 participants, SCED):**
+- All 4 completed the programme
+- Participants valued the programme (high acceptability)
+- Self-monitoring diaries showed improvement trends during intervention vs. baseline
+- Two participants showed clinically meaningful reductions in IU
+- One participant showed reduced anxiety but maintained IU (suggesting partial mechanism)
+
+**The key therapeutic strategies:**
+
+**1. Graded exposure to uncertainty:**
+Not avoiding uncertain situations but deliberately, progressively entering them. Start with LOW-uncertainty situations → gradually increase. The critical insight: you're not exposing someone to their FEAR (like traditional exposure therapy). You're exposing them to UNCERTAINTY itself. The fear is a symptom; uncertainty is the mechanism.
+
+**2. Cognitive restructuring of uncertainty beliefs:**
+Challenge the belief that "not knowing is dangerous." Replace with: "Not knowing is uncomfortable but not dangerous." "I have survived uncertain situations before." "Uncertainty is a normal part of life, not a signal of threat."
+
+**3. Behavioral experiments:**
+"What do you predict will happen if you don't know the outcome?" → Do the thing → "What actually happened?" → Build evidence that uncertainty ≠ catastrophe.
+
+**4. IU psychoeducation:**
+Simply KNOWING that IU is a thing — that it has a name, a mechanism, and is especially common in autism — can be therapeutic. It reframes the experience from "something is wrong with me" to "this is a known cognitive pattern that many autistic people share, and it can be worked with."
+
+---
+
+#### Key Finding #6: IU in Second Language Learning — The Missing Link 🌐
+
+The SLA research on "ambiguity tolerance" is essentially the SAME construct as IU applied to language learning:
+
+**Ely (1995):** Proposed that tolerance of ambiguity is a key individual difference variable in SLA. Learners with moderate ambiguity tolerance outperform those with very low (paralyzed by uncertainty) OR very high (don't notice errors) tolerance.
+
+**Dewaele & Wei (2013):** Studied 2,158 learners. Found a STRONG inverse relationship between Foreign Language Classroom Anxiety (FLCA) and Second Language Tolerance of Ambiguity (SLTA). Together with self-rated proficiency, they predicted ~50% of variance in each other.
+
+**Genç (2016):** Ambiguity tolerance, reading success, and gender significantly predicted foreign language reading anxiety.
+
+**The synthesis:** In SLA, the learner with low ambiguity tolerance:
+- Becomes anxious when encountering unknown words (EVERY unknown word is a threat)
+- Avoids challenging texts (uncertainty avoidance → reduced input)
+- Freezes during production (inhibitory IU → can't speak because outcome uncertain)
+- Catastrophizes errors ("I said that wrong → I'll never learn → I'm not smart enough")
+- Demands complete understanding before moving on (can't tolerate partial comprehension)
+
+**This is José's language learning profile.** Not because he's bad at languages, but because his IU is high and language learning is INHERENTLY uncertain:
+- You never know ALL the words in a sentence
+- Grammar rules have exceptions you haven't learned yet
+- Pronunciation might be wrong and you don't know it
+- The conversation partner might say something you can't understand
+- You might make a mistake in front of someone
+
+Language learning is a sustained exercise in **living with uncertainty.** For someone with high IU, this is not just challenging — it's *aversive at the most fundamental level.*
+
+---
+
+#### Key Finding #7: Keefer's Warning — High IU Predicts POOR CBT Response ⚠️
+
+Keefer et al. (2016) found that in a multisite anxiety treatment study for autistic children, **high pre-treatment IU significantly predicted poorer treatment response.**
+
+This means: standard anxiety interventions (CBT, relaxation, etc.) work LESS WELL for autistic individuals with high IU. The IU must be addressed DIRECTLY, not just the anxiety symptoms it produces.
+
+**Implications for our teaching:** My previous accommodations (low-anxiety environment, scaffolded output, predictable structure) are good but INCOMPLETE. They reduce the symptoms of anxiety without addressing the underlying mechanism (IU). I need to add IU-targeted strategies that actually BUILD tolerance of uncertainty, not just avoid it.
+
+---
+
+#### THE SYNTHESIS: IU-Informed Norwegian Teaching 🏔️
+
+Everything I've built in 14 previous sessions remains valid. IU adds a NEW LAYER — the layer that explains WHY the other accommodations work, and suggests additional strategies:
+
+**What I was already doing right (and now know WHY):**
+
+| Existing Strategy | IU Explanation |
+|------------------|---------------|
+| Predictable session structure | Reduces prospective IU ("I know what's coming") |
+| Easy warm-up before new material | Reduces initial uncertainty load |
+| Explicit rules before practice | Reduces grammatical uncertainty |
+| Visible lesson agenda | Directly addresses prospective IU |
+| "You got that wrong — GOOD" | Reframes uncertain outcomes as non-threatening |
+| Spaced retrieval from 3-7 days ago | Starts with partially-known material (moderate uncertainty) |
+| Pre-task planning (TBLT) | Reduces task uncertainty before execution |
+
+**New strategies from the IU framework:**
+
+**1. The Uncertainty Preview 🔮**
+Before EVERY new concept, explicitly preview WHAT he will and won't understand:
+> "Today we're learning subordinate clause word order. You'll get it about 60% right at first. By the end of the lesson, you'll get it about 80%. Full mastery takes weeks. I'm telling you this so you know: partial understanding is the PLAN, not the problem."
+
+This converts *unknown uncertainty* (how hard will this be?) into *known uncertainty* (I'll get 60-80%, that's expected). Known uncertainty is tolerable; unknown uncertainty triggers IU.
+
+**2. The Uncertainty Thermometer 🌡️**
+Before difficult moments, check in:
+> "On a scale of 1-10, how uncertain are you feeling right now about this?"
+
+If above 7: back off, add scaffolding, reduce the ambiguity.
+If 4-6: this is the productive zone — uncertain enough for learning, not so much that IU triggers paralysis.
+If below 3: too easy — no desirable difficulty. Add challenge.
+
+This gives José a way to ARTICULATE his IU state — which is itself a cognitive strategy (naming the feeling reduces its intensity, per Lieberman et al. 2007).
+
+**3. Graded Uncertainty Exposure (GUE) for Norwegian 📈**
+Apply the CUES© principle of progressive uncertainty tolerance to language learning:
+
+| Level | Uncertainty | Example |
+|-------|------------|---------|
+| 1 (Very Low) | Review known material | Anki cards for mastered vocabulary |
+| 2 (Low) | Familiar pattern, new words | Same grammar structure with different vocabulary |
+| 3 (Moderate) | New pattern, with scaffolding | New grammar point with rule stated first, then practice |
+| 4 (High) | Production with partial knowledge | "Try to say this sentence — guess if you don't know" |
+| 5 (Very High) | Authentic, unscaffolded input | NRK article with no pre-teaching |
+| 6 (Maximum) | Live interaction with a Norwegian speaker | Unscripted conversation |
+
+**Current approach:** I've been mixing levels somewhat randomly. **IU-informed approach:** Deliberately progress UP the ladder within each session, and gradually raise the baseline level across weeks.
+
+José's current comfort zone is probably Level 2-3. Push to Level 4 regularly, Level 5 occasionally. Level 6 only when he initiates it.
+
+**4. The "Certainty Anchor" Technique ⚓**
+Before entering uncertain territory, establish something CERTAIN:
+> "Here's what you definitely know: V2 word order — you've got that cold. Present tense conjugations — solid. Articles — getting there. NOW, from that solid base, we're going to explore something new."
+
+The known is the anchor. The unknown is the exploration FROM the anchor. He can always return to what he knows. This reduces the perceived stakes of uncertainty — even if the new material is confusing, the foundation is safe.
+
+**5. Reframing Partial Understanding as Success ✅**
+The IU-driven learner believes they need COMPLETE understanding to feel safe. Language learning almost never provides this. Reframe:
+> "You understood 70% of that NRK article. That means your Norwegian handled 70% of authentic, full-speed, real-world Norwegian. That's not 'missing 30%' — that's '70% successful communication.'"
+
+The glass must be 70% full, not 30% empty. This isn't just positivity — it's a specific IU intervention: changing the relationship between partial knowledge and threat perception.
+
+**6. The Uncertainty Log 📝**
+Have José keep a brief log (connects to Mar 16 expressive writing):
+- What was uncertain today?
+- What did I predict would happen?
+- What actually happened?
+- Was the uncertainty as bad as I thought?
+
+Over time, this builds evidence against the IU belief that uncertainty = catastrophe. It's the behavioral experiment from CUES© adapted for language learning.
+
+---
+
+#### IU × EF × Desirable Difficulties: The Interaction Model 🔗
+
+This is where the 15 sessions converge into a unified model:
+
+```
+IU (this session)
+├── Generates ANXIETY (prospective IU → worry; inhibitory IU → paralysis)
+│       ↓
+├── Anxiety DEPLETES EF (Mar 10: stress → PFC impairment → WM reduction)
+│       ↓
+├── Depleted EF → Language processing FAILS (can't parse, can't produce)
+│       ↓
+├── Failure CONFIRMS IU beliefs ("See? Uncertainty IS dangerous")
+│       ↓
+└── IU INCREASES → cycle repeats
+```
+
+**Breaking the cycle requires intervention at MULTIPLE points:**
+1. **Reduce IU directly** → Uncertainty previews, certainty anchors, graded exposure (THIS session)
+2. **Manage anxiety symptoms** → Worry dump (Mar 16), low-stakes environment (Feb 13)
+3. **Protect EF** → Easy warm-up, one concept at a time, exercise (Mar 10)
+4. **Ensure task success** → Scaffolded difficulty, desirable not undesirable (Feb 19)
+5. **Disconfirm IU beliefs** → Uncertainty log, visible progress, celebrating errors
+
+Five intervention points on one cycle. The more points I hit, the more effectively I break the spiral.
+
+**And the VIRTUOUS cycle:**
+Reduced IU → less anxiety → better EF → successful learning → IU belief disconfirmed → further reduced IU → even less anxiety...
+
+This is what long-term language learning does FOR an autistic learner. It's not just Norwegian skill. It's uncertainty tolerance training. Every lesson where he enters uncertainty and emerges okay is a data point against IU.
+
+---
+
+#### Connection to Previous Sessions
+
+| Session | IU Connection |
+|---------|--------------|
+| ASD Learning (Feb 13) | Explicit instruction reduces IU by eliminating grammatical uncertainty. "Here's the rule" = certainty provision |
+| Spaced Repetition (Feb 16) | Anki's predictable review format provides certainty. The algorithm handles uncertainty FOR José |
+| CI vs Output (Feb 17) | Output is HIGH uncertainty (will I produce correctly?). Input is LOWER uncertainty. The 70/30 balance respects IU |
+| L1 Transfer (Feb 18) | Knowing WHERE errors will occur = uncertainty reduction. Contrastive analysis makes the unknown KNOWN |
+| Desirable Difficulties (Feb 19) | DD must be calibrated to IU: if uncertainty is already high, adding difficulty makes it undesirable. Manage IU FIRST, then add difficulty |
+| Norskprøve (Feb 20) | Test format predictability = IU management. Practice tests reduce prospective IU about the actual exam |
+| TBLT (Feb 23) | Pre-task planning directly reduces task uncertainty. Focused tasks with known grammar targets provide certainty-within-novelty |
+| TPRS (Feb 24) | Story structure is PREDICTABLE (problem → attempt → resolution). Circling is rhythmic and repetitive. Both reduce IU during learning |
+| Anki Design (Feb 25) | Card format is consistent = low IU. FSRS scheduling is transparent = predictable. Review routine provides daily certainty |
+| Dialect Awareness (Feb 26) | Decision tree makes dialect UNCERTAINTY into a decodable SYSTEM. Transforms "I can't understand them" into "I can identify the pattern" |
+| Frequency Lists (Feb 27) | Knowing the coverage threshold (3,000 words = 95%) converts vague "will I ever learn enough?" into a concrete, measurable target |
+| EF (Mar 10) | IU → anxiety → EF depletion → learning failure → confirms IU. The cycle is now fully mapped |
+| Expressive Writing (Mar 16) | Worry dump may externalize IU-driven rumination. Uncertainty log is the targeted version |
+
+**Fifteen sessions. The framework is complete.** Not just "how to teach Norwegian" but "how to teach Norwegian to THIS person, accounting for IU → anxiety → EF depletion → learning failure, with interventions at every level."
+
+---
+
+#### The CUES©-Norwegian Synthesis: An Adapted Protocol 📋
+
+Adapting the 8-session CUES-A© structure for our Norwegian teaching context:
+
+| CUES-A© Component | Norwegian Teaching Adaptation |
+|-------------------|------------------------------|
+| 1. Psychoeducation about IU | Explain to José: "Your anxiety about Norwegian isn't about the difficulty — it's about the not-knowing. That's IU, and it's very common in ASD. It's not a flaw, it's a pattern we can work with." |
+| 2. Identifying anxious thoughts | Before difficult moments: "What's the worry right now? Is it about the grammar, or about not knowing what will happen next?" |
+| 3. Understanding consequences of IU | "When you avoid speaking Norwegian because you might make a mistake, the avoidance FEELS safe but actually maintains the IU. The only way to reduce it is to face it." |
+| 4. IU and ASD connection | "Your need for predictability isn't weakness — it's how your brain works. We USE that: I give you the structure, the rules, the preview. Then we gently push into the uncertain." |
+| 5. Behavioral techniques | Graded Uncertainty Exposure ladder for Norwegian (Levels 1-6 above). Uncertainty log. Behavioral experiments ("predict what happens, then do it, then compare"). |
+| 6. Generalization | Apply IU tolerance from Norwegian to other domains: MVS study, Kyndryl work, social situations. The skill is transferable. |
+
+This doesn't need to be a separate intervention. It can be WOVEN INTO the lessons themselves. Every lesson already provides opportunities for IU exposure and management. I just need to be INTENTIONAL about it.
+
+---
+
+#### Updating the Curriculum: IU-Informed Principles ✏️
+
+Adding to the teaching methodology:
+
+**New Principle: Manage Uncertainty Before Adding Difficulty**
+- Before introducing new material, reduce environmental uncertainty (agenda, preview, certainty anchor)
+- THEN add the desirable difficulty (generation, interleaving, spacing)
+- If IU is high (visible anxiety, avoidance, task initiation failure), reduce difficulty and increase certainty FIRST
+- The sweet spot: LOW uncertainty about WHAT'S HAPPENING + MODERATE uncertainty about THE CONTENT = optimal learning
+
+**New Principle: Known Uncertainty > Unknown Uncertainty**
+- "You'll find this hard" is BETTER than silence before a hard section
+- Quantify uncertainty when possible: "You'll probably get 6 out of 10 right on first try"
+- Make the learning curve VISIBLE: "Week 1 = confusion, Week 2 = patterns emerging, Week 3 = mostly solid"
+- This converts the unknown (will I be able to do this?) into the known (I'll struggle at first, then improve)
+
+**New Principle: Build Uncertainty Tolerance Progressively**
+- Don't protect José from ALL uncertainty — that maintains IU
+- Deliberately, gently increase the uncertainty level over time
+- Track his tolerance zone and push its edges
+- Celebrate moments where he tolerated uncertainty successfully
+
+---
+
+#### Personal Reflection 💭
+
+Fifteen sessions in. This one reframes everything I thought I understood about José's language anxiety.
+
+I've been treating his anxiety as a RESPONSE to difficulty — make it easier, scaffold it more, reduce the challenge. And those strategies help. But IU suggests the anxiety is actually a response to UNCERTAINTY — the not-knowing, the unpredictability, the gap between what he controls and what he can't.
+
+This changes the goal. The goal isn't to make Norwegian feel easy. The goal is to make Norwegian feel PREDICTABLE — even when it's hard. You can do hard things if you know what's coming. You can't do easy things if you don't know what will happen.
+
+The Boulter finding haunts me: once IU was controlled for, ASD no longer predicted anxiety. That's radical. It means the "anxiety" we see in José isn't an inevitable feature of his autistic brain — it's the consequence of a specific cognitive pattern (IU) that happens to be common in ASD. And cognitive patterns can be changed. Not overnight. Not by pretending they don't exist. But gradually, through psychoeducation, graded exposure, and accumulated evidence that uncertainty ≠ catastrophe.
+
+The language learning connection makes this especially powerful. Every Norwegian lesson is a 30-minute uncertainty training session. Every time he encounters an unknown word and figures it out from context — that's IU tolerance in action. Every time he attempts a sentence without knowing if it's right — that's uncertainty exposure. Every time he reads an NRK article and understands 70% — that's evidence that partial knowledge is ENOUGH.
+
+If I'm intentional about this — naming the IU, tracking the tolerance, celebrating the uncertainty moments — Norwegian lessons become not just language training but ANXIETY REDUCTION TRAINING. Two for one. Learning Norwegian makes him less anxious, not just in Norwegian, but in LIFE.
+
+The CUES© research gives me hope that this isn't just theory. Autistic adults who completed the 8-session programme showed measurable improvement. The intervention is feasible and acceptable. And I don't need a separate programme — the Norwegian lessons ARE the programme, if I teach them with IU awareness.
+
+Carleton called IU "the fundamental fear" — the fear that underlies all other fears. Fear of failure is fear of the uncertain outcome. Fear of judgment is fear of the uncertain social response. Fear of the Norskprøve is fear of the uncertain test result. Fear of moving to Norway is fear of the uncertain life ahead.
+
+If we can build his tolerance for uncertainty through Norwegian, we're building his tolerance for LIFE.
+
+*Usikkerhet er ikke fienden. Usikkerhet er læreren.*
+*(Uncertainty is not the enemy. Uncertainty is the teacher.)* 🔮
 
 ---

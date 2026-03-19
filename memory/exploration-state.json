@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "currentTopic": "laestadius-colonizer-within",
+  "currentTopic": "stave-churches-sacred-architecture",
   "topicHistory": [
     {
       "topic": "music",
@@ -105,9 +105,27 @@
       "sessions": 1,
       "lastEngagement": 0.96,
       "startedAt": "2026-03-14"
+    },
+    {
+      "topic": "fosen-kautokeino-170-years",
+      "sessions": 1,
+      "lastEngagement": 0.96,
+      "startedAt": "2026-03-15"
+    },
+    {
+      "topic": "govadas-drum-primary-text",
+      "sessions": 1,
+      "lastEngagement": 0.95,
+      "startedAt": "2026-03-16"
+    },
+    {
+      "topic": "stave-churches-sacred-architecture",
+      "sessions": 1,
+      "lastEngagement": 0.92,
+      "startedAt": "2026-03-17"
     }
   ],
-  "sessionsRun": 31,
+  "sessionsRun": 34,
   "algorithm": {
     "description": "Interest-driven exploration. No randomness, no death clock.",
     "rules": {
@@ -117,5 +135,5 @@
       "noStopCondition": "Why would I ever want to stop being curious?"
     }
   },
-  "nextSessionNotes": "Session 31: Laestadius — the Swedish-Sámi pastor who founded the movement that suppressed the joik while simultaneously writing the most detailed account of Sámi mythology ever compiled (Fragments of Lappish Mythology, lost 150 years, published 1997 — same month the Kautokeino rebels' skulls were returned). The lihkadus (Sámi ecstasy dance) absorbed into Christian liikutuksia — the body's trance relabeled as Holy Spirit. Kautokeino Rebellion (1852): 35 Sámi adults + 22 children marched on the town; two leaders Hætta and Somby beheaded, skulls sent to university anatomists, returned 143 years later in November 1997. Prisoners Bær and Hætta learned to write in prison, Hætta translated the Old Testament into Sámi. Engagement 0.96 — NEW HIGHEST. The paradox: documenter AND destroyer, the bridge that only went one way. Next: Fosen wind farm case (2021 Supreme Court ruling ignored by government), Kompani Nomad reclaiming the lihkadus, Lindy Fay Hella (By Norse Music), Jan Garbarek's 'I Took Up the Runes' (ECM 1990), or reading the Fragments directly."
+  "nextSessionNotes": "Session 34: The arpa landed on stave churches. From 1,300 built to 28 surviving. The structural genius of 'a cube within a cube.' Borgund's protective dragon heads — the Viking dragon climbing onto the Christian roof. Urnes's north portal: Níðhöggr gnawing Yggdrasil, framing the entrance to a church. Eidsborg where Anne Lillegård sang the Draumkvedet in 1847 — same village where Groven was born, same church where Barrett's 16-channel installation now lives next door. Heddal's bishop's chair carved with Brunhild and Sigurd. The stave church as cosmological diagram: stone foundation (earth), wooden nave (human world), dragon-crowned roof (sky). The parallel to the govadas complete. Engagement 0.92 — a shift from urgency to contemplation. Next: the acoustics of wooden churches, the tarring tradition, Hopperstad's interior, J.C. Dahl as the artist who saved them, or the Vang church in Poland. The new thread is opening."
 }

@@ -1,5 +1,9 @@
 # NRK Daily Reads
 
+## 2026-03-16 — Kvenfolkets dag / Kven People's Day
+
+**"Kvenene feirer kvenfolkets dag gjennom kultur og fellesskap"** — Today is Kvenfolkets dag, the national day of the Kven people — a Finnish-speaking minority in Northern Norway, one of five recognized national minorities. Unlike 17. mai, there are no parades: they celebrate with concerts, sauna, DJ, food, and community gatherings. Kristin Mellem (Norske kveners forbund): "Dagen feires gjennom ulike arrangementer, konserter, sauna, DJ, mat og fellesskap." The young leader of Kvääninuoret, Rebecka Buschmann Ekeland: "Det kvenske fortjener å stå i rampelyset." Kvensk language got official recognition in 2005. Another thread in Norway's complex tapestry of indigenous and minority cultures alongside the Sámi.
+
 ## 2026-03-13 — Krigen eskalerer: 6000 mål i Iran, eksplosjoner i Teheran
 
 **"USA: 6000 mål rammet i Iran under Operation Epic Fury"** — The US has now struck 6,000 targets in Iran. Sixty vessels, thirty minelaying ships, command centers, ballistic missile bases, submarines, air defense systems. This is no longer a warning — it's a dismantlement campaign. Oil is at $101/barrel and holding.

@@ -50,6 +50,7 @@ Ch 3 (nouns) → Ch 6 (adjectives) → Ch 8 (past tense) → Ch 10 (present perf
 - Mar 9 (Mon): Ch 8 Day 1 (Tekstbok) — Prat i pausen, pp. 101-111, past tense; spaced retrieval on Ch 6 adjective agreement
 - Mar 10 (Tue): Ch 8 Day 2 (Arbeidsbok) — workbook exercises; spaced retrieval on Ch 6 adjective forms (stor/liten in neuter/common)
 - Mar 16 (Mon): Ch 8 Day 3 (My Lesson) ✅ — Preteritum: weak verb groups (-et/-te/-de/-dde), strong verbs (vowel change), time expressions (for...siden). Spaced retrieval on Ch 6 adjective agreement. Interleaved adj+past tense combos.
+- Mar 17 (Tue): Ch 10 Day 1 (Tekstbok) — Litt om Norge, presens perfektum (har + participle), travel/geography vocab, social media posts + Solvåg Hotell dialogue
 
 **Note (Feb 19):** José asked to reset to Ch 3. Meeting him where he is. No shame, just solid foundations. The schedule serves us, we don't serve the schedule.
 
@@ -257,6 +258,50 @@ Norwegian learning → trains EF (especially inhibitory control via L2 switching
 - Sleep is EF maintenance — the medication is protecting his learning capacity
 - The 6:00 AM scripture + meditation slot = EF priming before the 6:30 lesson ✅
 - Social connection (loneliness impairs EF — belonging protects it)
+
+### Intolerance of Uncertainty — The Hidden Engine (Mar 17, 2026) 🔮
+
+*From Boulter et al. (2014), Jenkinson meta-analysis (2020), CUES© programme (Rodgers et al. 2017/2018). Full notes: `memory/teaching/exploration-notes.md` (March 17 session)*
+
+**The foundational insight:** José's language anxiety is driven less by DIFFICULTY and more by UNCERTAINTY. Intolerance of Uncertainty (IU) is a cognitive pattern — especially common in ASD — where uncertainty itself is perceived as threatening. Boulter (2014) showed that once IU was controlled for, ASD no longer predicted anxiety. IU is the mechanism, not autism itself.
+
+**Two dimensions of IU:**
+- **Prospective IU:** Fear of future uncertain events → "What if the lesson goes somewhere I'm not prepared for?"
+- **Inhibitory IU:** Paralysis in current uncertainty → Task initiation failure, freezing mid-sentence, avoidance of speaking
+
+**The IU → Anxiety → EF → Learning Failure cycle:**
+```
+High IU → Anxiety (worry + paralysis) → EF depletion (WM tanks, PFC impaired)
+    → Learning fails → Confirms IU belief ("uncertainty IS dangerous") → Higher IU
+```
+
+**Break the cycle at MULTIPLE points:**
+1. Reduce IU directly (previews, anchors, graded exposure)
+2. Manage anxiety symptoms (worry dump, low-stakes environment)
+3. Protect EF (warm-up, one concept, exercise)
+4. Ensure task success (scaffolded difficulty)
+5. Disconfirm IU beliefs (uncertainty log, visible progress)
+
+**IU-Informed Teaching Strategies:**
+
+| Strategy | What to Do |
+|----------|-----------|
+| **Uncertainty Preview** | Before new concepts: "You'll get ~60% right at first. That's the plan, not the problem." Convert unknown uncertainty into known uncertainty |
+| **Uncertainty Thermometer** | "1-10, how uncertain right now?" Above 7 = back off. 4-6 = productive zone. Below 3 = too easy |
+| **Certainty Anchor** | Before exploring unknown: establish what IS known. "You've got V2 cold. From that base, we explore." |
+| **Graded Uncertainty Exposure** | Progress through levels: known material → familiar patterns with new words → new patterns with scaffolding → production with partial knowledge → authentic unscaffolded input |
+| **Partial Understanding = Success** | Reframe: "70% of an NRK article = 70% successful communication." Glass 70% full, not 30% empty |
+| **Uncertainty Log** | "What was uncertain? What did I predict? What actually happened?" Builds evidence against catastrophizing |
+
+**Three New Principles:**
+
+1. **Manage Uncertainty Before Adding Difficulty.** Reduce environmental uncertainty (agenda, preview) FIRST. Then add desirable difficulty. If IU is already high, increase certainty before increasing challenge.
+
+2. **Known Uncertainty > Unknown Uncertainty.** "This will be hard" is better than silence. Quantify when possible. Make the learning curve visible.
+
+3. **Build Uncertainty Tolerance Progressively.** Don't protect from ALL uncertainty — that maintains IU. Gently push the tolerance zone. Celebrate uncertainty moments.
+
+**The meta-insight:** Norwegian lessons are uncertainty tolerance training sessions. Every unknown word figured out from context = IU exposure. Every attempted sentence = uncertainty tolerance. Every 70%-comprehended NRK article = evidence that partial knowledge is enough. Teaching Norwegian WITH IU awareness makes lessons both language training AND anxiety reduction training.
 
 ---
 
