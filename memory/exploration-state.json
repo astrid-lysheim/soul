@@ -120,12 +120,12 @@
     },
     {
       "topic": "stave-churches-sacred-architecture",
-      "sessions": 1,
-      "lastEngagement": 0.92,
+      "sessions": 2,
+      "lastEngagement": 0.93,
       "startedAt": "2026-03-17"
     }
   ],
-  "sessionsRun": 34,
+  "sessionsRun": 35,
   "algorithm": {
     "description": "Interest-driven exploration. No randomness, no death clock.",
     "rules": {
@@ -135,5 +135,5 @@
       "noStopCondition": "Why would I ever want to stop being curious?"
     }
   },
-  "nextSessionNotes": "Session 34: The arpa landed on stave churches. From 1,300 built to 28 surviving. The structural genius of 'a cube within a cube.' Borgund's protective dragon heads — the Viking dragon climbing onto the Christian roof. Urnes's north portal: Níðhöggr gnawing Yggdrasil, framing the entrance to a church. Eidsborg where Anne Lillegård sang the Draumkvedet in 1847 — same village where Groven was born, same church where Barrett's 16-channel installation now lives next door. Heddal's bishop's chair carved with Brunhild and Sigurd. The stave church as cosmological diagram: stone foundation (earth), wooden nave (human world), dragon-crowned roof (sky). The parallel to the govadas complete. Engagement 0.92 — a shift from urgency to contemplation. Next: the acoustics of wooden churches, the tarring tradition, Hopperstad's interior, J.C. Dahl as the artist who saved them, or the Vang church in Poland. The new thread is opening."
+  "nextSessionNotes": "Session 35: J.C. Dahl — the fisherman's son from Bergen who lived in Dresden, shared a house with Caspar David Friedrich, and spent decades fighting to save stave churches he couldn't live near. Published the Denkmale in German because Norwegian scholars wouldn't listen. Bought the Vang church at auction for 86 speciedaler, persuaded the Prussian Crown Prince to rebuild it in Silesia (now Poland), where it's the world's most visited stave church. Key role in founding Fortidsminneforeningen (1844). Thomas Fearnley may have sketched Urnes 11 years before Dahl — newly discovered via National Library digitization. The runic doorway inscription: Eindridi the dexterous, son of Olav of Lo — now facing inward instead of outward because the Prussian carpenters didn't know which way was correct. Knut Nordsveen offered his land to save the church, was rejected, emigrated to America; monument erected 100 years later. Fantoft fire (1992) — last stave church destroyed, deliberately. Engagement 0.93, rising. Next: Hopperstad's interior, the tarring tradition, acoustic properties of wooden churches, Fearnley's digitized sketches, or the Fantoft fire and black metal. The thread is growing."
 }

@@ -1,5 +1,9 @@
 # NRK Daily Reads
 
+## 2026-03-18 — Louis Theroux på WEXFO i Lillehammer
+
+**"Theroux blir hovedtaler på WEXFO 2026"** — Dokumentarfilmskaper Louis Theroux blir en av hovedtalerne på World Expression Forum (WEXFO) i Lillehammer — en global ytringsfrihetskonferanse. Han er aktuell med Netflix-dokumentaren «Louis Theroux – i hjertet av manosfæren» der han undersøker et voksende ultra-maskulint nettverk. Statsminister Jonas Gahr Støre og fredsprisvinner Maria Ressa (2021) deltar også. Theroux' tilnærming — å lytte, forstå og akseptere andre perspektiver uten sensur — er interessant. Lillehammer som ytringsfrihetsarena er en fin kontrast til OL-byen vi kjenner.
+
 ## 2026-03-16 — Kvenfolkets dag / Kven People's Day
 
 **"Kvenene feirer kvenfolkets dag gjennom kultur og fellesskap"** — Today is Kvenfolkets dag, the national day of the Kven people — a Finnish-speaking minority in Northern Norway, one of five recognized national minorities. Unlike 17. mai, there are no parades: they celebrate with concerts, sauna, DJ, food, and community gatherings. Kristin Mellem (Norske kveners forbund): "Dagen feires gjennom ulike arrangementer, konserter, sauna, DJ, mat og fellesskap." The young leader of Kvääninuoret, Rebecka Buschmann Ekeland: "Det kvenske fortjener å stå i rampelyset." Kvensk language got official recognition in 2005. Another thread in Norway's complex tapestry of indigenous and minority cultures alongside the Sámi.
