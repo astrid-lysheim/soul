@@ -71,7 +71,7 @@
 - [x] Intolerance of uncertainty framework (Boulter 2014) ✅ (Mar 17) — "IU as the Hidden Engine of Language Anxiety"
 - [ ] Sensory-emotional-cognitive anxiety model (South & Rodgers 2017) — paper ready
 - [x] Executive functions deep dive (Diamond 2013) ✅ (Mar 10)
-- [ ] Enhanced perceptual functioning (Mottron 2006) — paper ready
+- [x] Enhanced perceptual functioning (Mottron 2006) ✅ (Mar 20) — "EPF: Perception as Superpower"
 - [ ] Empathizing-Systemizing theory (Baron-Cohen 2009) — paper ready
 - [ ] Weak coherence account (Happé & Frith 2006) — paper ready
 - [x] Writing boosts exam performance (Ramirez & Beilock 2011) ✅ (Mar 16) — "Expressive Worry Dumping"

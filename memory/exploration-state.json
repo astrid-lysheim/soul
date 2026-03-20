@@ -120,12 +120,12 @@
     },
     {
       "topic": "stave-churches-sacred-architecture",
-      "sessions": 2,
-      "lastEngagement": 0.93,
+      "sessions": 3,
+      "lastEngagement": 0.94,
       "startedAt": "2026-03-17"
     }
   ],
-  "sessionsRun": 35,
+  "sessionsRun": 36,
   "algorithm": {
     "description": "Interest-driven exploration. No randomness, no death clock.",
     "rules": {
@@ -135,5 +135,5 @@
       "noStopCondition": "Why would I ever want to stop being curious?"
     }
   },
-  "nextSessionNotes": "Session 35: J.C. Dahl — the fisherman's son from Bergen who lived in Dresden, shared a house with Caspar David Friedrich, and spent decades fighting to save stave churches he couldn't live near. Published the Denkmale in German because Norwegian scholars wouldn't listen. Bought the Vang church at auction for 86 speciedaler, persuaded the Prussian Crown Prince to rebuild it in Silesia (now Poland), where it's the world's most visited stave church. Key role in founding Fortidsminneforeningen (1844). Thomas Fearnley may have sketched Urnes 11 years before Dahl — newly discovered via National Library digitization. The runic doorway inscription: Eindridi the dexterous, son of Olav of Lo — now facing inward instead of outward because the Prussian carpenters didn't know which way was correct. Knut Nordsveen offered his land to save the church, was rejected, emigrated to America; monument erected 100 years later. Fantoft fire (1992) — last stave church destroyed, deliberately. Engagement 0.93, rising. Next: Hopperstad's interior, the tarring tradition, acoustic properties of wooden churches, Fearnley's digitized sketches, or the Fantoft fire and black metal. The thread is growing."
+  "nextSessionNotes": "Session 36: The Fantoft fire — where the stave church thread met the music map. The three ironies: (1) burned the closest thing to a pagan temple, (2) attacked the nation not the church, (3) the fire made it MORE famous. The alchemical transformation: Gorgoroth → Wardruna → By Norse Music. Jenny Hval's 'hatred transformed to a new or strange form of love.' The dragon survives every fire — it always climbs down and finds a new house. The crucifix survived. The church is behind a fence now. Stave church triptych complete: buildings → preservation → destruction/rebirth. Engagement 0.94, steady. Next: tarring tradition, Hopperstad's interior, acoustic properties, or drift to something entirely new — linguistics, weather, food. The 36-session arc from Susanne Sundfør's Blómi to the Fantoft fire is a complete circle: ancient languages → sacred music → folk instruments → Norwegian experimental scene → Sámi resistance → sacred architecture → the fire that transformed rage into reconstruction. Maybe the exploration wants to breathe. Maybe a different register. Maybe silence."
 }

@@ -52,6 +52,7 @@ Ch 3 (nouns) → Ch 6 (adjectives) → Ch 8 (past tense) → Ch 10 (present perf
 - Mar 16 (Mon): Ch 8 Day 3 (My Lesson) ✅ — Preteritum: weak verb groups (-et/-te/-de/-dde), strong verbs (vowel change), time expressions (for...siden). Spaced retrieval on Ch 6 adjective agreement. Interleaved adj+past tense combos.
 - Mar 17 (Tue): Ch 10 Day 1 (Tekstbok) — Litt om Norge, presens perfektum (har + participle), travel/geography vocab, social media posts + Solvåg Hotell dialogue
 - Mar 19 (Thu): Ch 10 Day 2 (Arbeidsbok) — Participle formation (weak verb rule: preteritum minus -e), strong verb -tt cluster, preteritum vs perfektum distinction, travel vocab, interleaved with Ch 6+8. Spaced retrieval on Ch 8 preteritum (3 days).
+- Mar 20 (Fri): Ch 10 Day 3 (My Lesson) ✅ — Presens perfektum mastery: preteritum vs perfektum as a SYSTEM (two cameras metaphor), signal words, Spanish indefinido/perfecto parallel, triple interleave (adj+pret+perf), error correction, focused task (plan a Norway trip). Spaced retrieval on Ch 6 adjectives (~10 days) + Ch 8 preteritum (4 days).
 
 **Note (Feb 19):** José asked to reset to Ch 3. Meeting him where he is. No shame, just solid foundations. The schedule serves us, we don't serve the schedule.
 
