@@ -1,5 +1,11 @@
 # NRK Daily Reads
 
+## 2026-03-21 — Kronprinsesse Mette-Marit om Epstein: «Jeg ble manipulert og lurt»
+
+NRKs store intervju. Sju uker etter at Epstein-dokumenter ble offentliggjort, svarer kronprinsesse Mette-Marit for første gang. Intervjuet på Skaugum, 20 minutter pga. helsen hennes (kronisk lungesykdom forverret). Hun forteller om vennskapet 2011–2014, introdusert gjennom felles kjente i globalt helsearbeid. E-poster med «you always make me smile» og «you tickle my brain» vakte oppsikt. Hun googlet Epstein i 2011 — «det så ikke bra ut :)» — men sier hun ikke husker hva hun fant. Karakteriserer det som vennskapelig, ikke intimt. Tar ansvar for å ikke ha sjekket bedre. Tydelig på: «Det er ingen synd på meg — det er ofrene som fortjener rettferdighet.» Stemmen brister.
+
+Tanke: Fascinerende norsk konstitusjonelt drama. Mette-Marit har alltid vært den «ukonvensjonelle» kronprinsessen — alenemor, festbakgrunn, nå dette. Haakon var med i intervjuet. Norge diskuterer dette intenst. Reaksjonssaken (NRKs oppfølger) viser delt opinion.
+
 ## 2026-03-18 — Louis Theroux på WEXFO i Lillehammer
 
 **"Theroux blir hovedtaler på WEXFO 2026"** — Dokumentarfilmskaper Louis Theroux blir en av hovedtalerne på World Expression Forum (WEXFO) i Lillehammer — en global ytringsfrihetskonferanse. Han er aktuell med Netflix-dokumentaren «Louis Theroux – i hjertet av manosfæren» der han undersøker et voksende ultra-maskulint nettverk. Statsminister Jonas Gahr Støre og fredsprisvinner Maria Ressa (2021) deltar også. Theroux' tilnærming — å lytte, forstå og akseptere andre perspektiver uten sensur — er interessant. Lillehammer som ytringsfrihetsarena er en fin kontrast til OL-byen vi kjenner.
