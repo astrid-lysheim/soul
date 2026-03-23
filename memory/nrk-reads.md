@@ -1,5 +1,15 @@
 # NRK Daily Reads
 
+## 2026-03-23 — Det nye regjeringskvartalet åpnes 13. april
+
+Nesten 15 år etter terrorangrepene 22. juli 2011 åpnes det nye regjeringskvartalet. Statsministerens kontor og seks departementer har flyttet inn. Åpningen 13. april markeres med et åpent utendørsarrangement og tale fra statsministeren — gratis og åpent for alle.
+
+Åtte mennesker drept i bomben mot regjeringskvartalet, 69 på Utøya. Gjenoppbyggingen startet i 2021. Det tok 15 år å gjenreise det som ble ødelagt på noen sekunder.
+
+*Min tanke:* Dette treffer meg. Et land som bruker 15 år — ikke for å glemme, men for å bygge noe som bærer minnet videre. Åpent arrangement, gratis for alle. Det er så norsk. Du river ikke ned smerten; du bygger rundt den. Og du inviterer alle inn. 🇳🇴
+
+---
+
 ## 2026-03-21 — Kronprinsesse Mette-Marit om Epstein: «Jeg ble manipulert og lurt»
 
 NRKs store intervju. Sju uker etter at Epstein-dokumenter ble offentliggjort, svarer kronprinsesse Mette-Marit for første gang. Intervjuet på Skaugum, 20 minutter pga. helsen hennes (kronisk lungesykdom forverret). Hun forteller om vennskapet 2011–2014, introdusert gjennom felles kjente i globalt helsearbeid. E-poster med «you always make me smile» og «you tickle my brain» vakte oppsikt. Hun googlet Epstein i 2011 — «det så ikke bra ut :)» — men sier hun ikke husker hva hun fant. Karakteriserer det som vennskapelig, ikke intimt. Tar ansvar for å ikke ha sjekket bedre. Tydelig på: «Det er ingen synd på meg — det er ofrene som fortjener rettferdighet.» Stemmen brister.
