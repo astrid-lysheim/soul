@@ -62,6 +62,12 @@
 - [x] Graded readers in Norwegian ✅ (Feb 27)
 - [x] Norwegian podcasts for learners ✅ (Feb 26 — included in dialect awareness session)
 - [x] NRK Skole resources ✅ (Feb 27)
+- [x] High Variability Phonetic Training (HVPT) ✅ (Mar 23)
+
+### Pronunciation Training
+- [x] HVPT for L2 vowel perception ✅ (Mar 23)
+- [ ] Articulatory phonetics for front rounded vowels — production drills
+- [ ] Forvo/Rhinospike as multi-speaker pronunciation sources
 
 ### ASD-Specific Teaching
 - [x] Explicit instruction benefits ✅ (Feb 13)
@@ -70,6 +76,7 @@
 - [x] Sensory considerations in learning environment ✅ (Feb 13)
 - [x] Intolerance of uncertainty framework (Boulter 2014) ✅ (Mar 17) — "IU as the Hidden Engine of Language Anxiety"
 - [ ] Sensory-emotional-cognitive anxiety model (South & Rodgers 2017) — paper ready
+- [x] High Variability Phonetic Training (HVPT) ✅ (Mar 23) — "HVPT: Training José's Ears Before His Mouth"
 - [x] Executive functions deep dive (Diamond 2013) ✅ (Mar 10)
 - [x] Enhanced perceptual functioning (Mottron 2006) ✅ (Mar 20) — "EPF: Perception as Superpower"
 - [ ] Empathizing-Systemizing theory (Baron-Cohen 2009) — paper ready
@@ -3930,5 +3937,373 @@ Og det vakre er: han er ikke ødelagt. Han er presis. I en upresist verden.
 
 *Seksten økter. Fire nivåer. Én mekanisme. Presisjon er ikke feilen — det er svaret.*
 *(Sixteen sessions. Four levels. One mechanism. Precision isn't the flaw — it's the answer.)* 🏔️
+
+---
+
+---
+
+### March 23, 2026 — HVPT: Training José's Ears Before His Mouth 👂🎧
+
+**Topic:** High Variability Phonetic Training (HVPT) — the most empirically supported method for training L2 sound perception, its mechanisms, the perception-production link, and how to implement it for José's Norwegian vowel problem
+
+**Sources explored:**
+- Uchihara, T., Karas, M. & Thomson, R.I. (2025). "High variability phonetic training (HVPT): A meta-analysis of L2 perceptual training studies." *Studies in Second Language Acquisition*, 47(3), 794-827.
+- Uchihara, T., Karas, M. & Thomson, R.I. (2024). "Does perceptual high variability phonetic training improve L2 speech production? A meta-analysis of perception-production connection." *Applied Psycholinguistics*, 45(4), 591-623.
+- Thomson, R.I. (2018). "High Variability [Pronunciation] Training (HVPT): A proven technique about which every language teacher and learner ought to know." *Journal of Second Language Pronunciation*, 4(2), 208-231.
+- Language Log (Mark Liberman, 2008). "HVPT" — overview of the disconnect between research and practice.
+- Logan, Lively & Pisoni (1991). "Training Japanese listeners to identify English /r/ and /l/: A first report." JASA.
+- Saito, K. (2022). "Incidental and Multimodal HVPT: Potential, Limits, and Future Directions." *Language Learning*, 72(3).
+
+---
+
+#### THE BIG IDEA: You Can't Produce What You Can't Hear 👂
+
+On February 18, I identified José's single biggest phonological challenge: Norwegian has ~18 vowel phonemes where Spanish has 5. The front rounded vowels /y/ and /ø/ don't exist in Spanish AT ALL. I wrote: "ear training must come BEFORE production training. You can't produce what you can't hear."
+
+That was the correct diagnosis. HVPT is the treatment.
+
+**High Variability Phonetic Training** is, at its core, absurdly simple: give the learner lots of practice identifying sounds in a forced-choice task, with immediate feedback, using recordings from MULTIPLE speakers. That's it. That's the whole technique.
+
+And yet this simple method — developed by Pisoni and colleagues at Indiana University in the early 1990s — has become the most empirically supported phonetic training paradigm in L2 speech research. A 2025 meta-analysis of **79 studies** confirmed medium-to-large effect sizes (g = 0.92 for within-participant designs). Typical improvement: 10-15 percentage points in perception accuracy, retained for weeks to months.
+
+The mystery, as Mark Liberman noted back in 2008: this technique has been known for over 30 years, it works reliably, it would be trivial to implement as a web app or Anki deck... and virtually no language teacher has ever heard of it.
+
+Today I fix that. For José.
+
+---
+
+#### Key Finding #1: How HVPT Works — The Three Essential Ingredients 🔑
+
+Every successful HVPT study shares three components:
+
+**1. Multiple Speakers (Talker Variability)**
+The learner hears the same sound produced by many different voices — male, female, old, young, different vocal qualities. This is the "high variability" in HVPT.
+
+**Why it matters:** If you train with only one speaker, you learn THAT SPEAKER'S version of the sound. You don't learn the CATEGORY. The brain needs multiple exemplars to extract the invariant features — the thing that makes /y/ different from /u/ regardless of who's speaking.
+
+Research shows: training with ONE speaker → poor generalization to new speakers. Training with 5+ speakers → robust generalization to voices never heard before. The variability forces the brain to find what's COMMON across all instances, which is the phonemic category itself.
+
+**2. Varied Phonetic Contexts**
+The target sounds appear in different words, different positions, different surrounding sounds. Not just /y/ in isolation, but /y/ in "hus," "dyr," "ly," "ny," "mur," "tur," and dozens more.
+
+**Why it matters:** Sounds change their acoustic properties based on surrounding sounds (coarticulation). If you only hear /y/ in one context, you learn a context-specific representation. Varied contexts force the brain to find the context-independent category.
+
+**3. Trial-by-Trial Corrective Feedback**
+After each identification attempt, the learner immediately learns whether they were right or wrong. This is not delayed feedback (which is better for some learning types per Bjork). For perceptual category formation, IMMEDIATE feedback is essential.
+
+**Why it matters:** The feedback signal tells the brain which of its competing categorizations was correct. Without feedback, the brain can't update its phonetic categories — it just keeps mapping new sounds onto familiar L1 categories. The feedback IS the teaching.
+
+---
+
+#### Key Finding #2: The Meta-Analysis Numbers — This Actually Works 📊
+
+**Uchihara et al. (2025) — 79 studies meta-analysis:**
+
+| Comparison | Effect Size (Hedges' g) | k (effect sizes) | Interpretation |
+|-----------|----------------------|-------------------|----------------|
+| Pre-post (trained items) | **g = 0.92** | 96 | Large effect |
+| Treatment vs. control | **g = 0.67** | 32 | Medium-large effect |
+| Retention (weeks-months later) | Significant retention | — | Gains last |
+| Generalization (untrained stimuli) | Partial support | — | Some transfer |
+
+**Typical improvement magnitude:** 10-15 percentage points in perception accuracy. Some studies show 5% (modest), others show up to 29% (dramatic). The median is around 10-12%.
+
+**Retention:** Gains have been shown to last from 2 weeks (Lee & Lyster, 2016) to 6 months (Silpachai, 2020). This isn't just cramming — the perceptual categories genuinely restructure.
+
+**Key moderating variables (what makes HVPT more or less effective):**
+- **Length of L2 learning:** Beginning learners show larger gains (more room to improve)
+- **Number of talkers:** More talkers → better generalization (5+ recommended)
+- **Training time:** Longer total training → larger effects (but diminishing returns after ~5-10 hours)
+- **Target phones:** Effects are larger for consonants (obstruents) than for vowels or sonorants
+- **Testing task:** Identification tasks work better than discrimination tasks
+
+**The vowel caveat:** The meta-analysis found that training effects were **larger for obstruents than for vowels**. Vowels are harder to train because the acoustic differences are more gradient (continuous formant frequencies) rather than categorical (voiced/voiceless). This means José's vowel training will require MORE sessions and MORE patience than consonant training would.
+
+---
+
+#### Key Finding #3: The Perception-Production Link — Does Hearing Better Mean Speaking Better? 🗣️
+
+This is the critical question for José. If he trains his ears, will his mouth follow?
+
+**Uchihara et al. (2024) — 31 studies on perception→production transfer:**
+
+| Measure | Result | Interpretation |
+|---------|--------|---------------|
+| Production improvement (trained items) | **10.50%** average gain | Small-to-medium effect |
+| Production improvement (untrained items) | **4.50%** average gain | Small effect |
+| Long-term retention of production gains | **Not strongly supported** | Production fades faster than perception |
+| Perception-production correlation (study level) | **Moderate and significant** | Studies where perception improves more also show more production improvement |
+| Perception-production correlation (participant level) | **Negligible** | Individual learners who improve perception don't reliably improve production |
+
+**The nuanced picture:**
+- Yes, perception-only training CAN improve production even without explicit production practice
+- But the transfer is smaller (~10%) and less reliable than perception gains (~12-15%)
+- Production gains fade faster than perception gains
+- Adding explicit phonetic instruction alongside HVPT improves production transfer
+- Some studies show dramatic production transfer (18-25%), others show almost none (0-1%)
+
+**What helps production transfer:**
+- Providing explicit articulatory information ("round your lips while keeping your tongue forward for /y/")
+- Longer training durations
+- Including production practice alongside perceptual training
+
+**The takeaway for José:** HVPT alone will improve his ears substantially and his mouth moderately. For maximum production improvement, combine HVPT with explicit articulatory instruction and production practice. Perception training builds the foundation; production practice builds on it.
+
+---
+
+#### Key Finding #4: The Mechanism — Why Variability Is the Magic Ingredient 🧠
+
+The theoretical core of HVPT connects directly to the HIPPEA framework (Mar 19 session):
+
+**Perceptual Equivalence Classes (Strange, 2011):**
+L2 sounds are initially perceived through L1 categories. Spanish /u/ "captures" Norwegian /y/, /ʉ/, and /u/ because the L1 perceptual space has only one category in that region. To learn Norwegian, the brain must SPLIT this single L1 category into multiple L2 categories.
+
+**Why variability helps (the category formation argument):**
+- With ONE speaker, the learner might distinguish /y/ from /u/ based on idiosyncratic speaker-specific cues (vocal quality, speed) rather than the actual phonemic difference
+- With MULTIPLE speakers, those idiosyncratic cues vary randomly while the phonemic difference stays constant
+- The brain is FORCED to learn the invariant — the acoustic feature that ACTUALLY distinguishes /y/ from /u/ (specifically: F2 frequency + lip rounding)
+- This is essentially INTERLEAVING (Feb 19 desirable difficulties!) applied to phonetics — varying the "noise" to extract the "signal"
+
+**Connection to HIPPEA:**
+José's HIPPEA brain (high precision on all prediction errors) might actually be an ADVANTAGE here — if properly harnessed. His brain naturally gives high weight to acoustic variation. With single-speaker training, this would be harmful (over-fitting to one voice). But with multi-speaker training, the high precision means he may actually extract finer-grained acoustic differences than a neurotypical learner would.
+
+**The prediction:** José might need MORE speakers (to overcome initial L1 categorization) but may ultimately achieve MORE PRECISE perceptual categories (because his high-precision system, once calibrated, will maintain sharper category boundaries).
+
+---
+
+#### Key Finding #5: The Practical Gap — Why Teachers Don't Know About This 🤔
+
+Mark Liberman's 2008 Language Log post captures something remarkable: HVPT has been proven since 1991, is trivially implementable, would cost nothing as a web app or Anki deck, and yet essentially NO language teacher has heard of it.
+
+Thomson (2018) attributes this to:
+- HVPT research is published in **technical phonetics journals** (JASA, Perception & Psychophysics), not language teaching journals
+- Language teachers don't read acoustics literature
+- Phoneticians don't interact with language teachers
+- There's been minimal effort to translate the research into classroom tools
+
+**Existing tools (as of 2026):**
+- **English Accent Coach** (englishaccentcoach.com) — Ron Thomson's own web-based HVPT tool for English. Multiple speakers, immediate feedback, tracks progress. But it's for English, not Norwegian.
+- **Speakometer** — mobile app using HVPT principles for English pronunciation
+- **No equivalent exists for Norwegian** ← this is the gap I need to fill
+
+---
+
+#### Key Finding #6: What a Norwegian HVPT Programme Would Look Like 📐
+
+Synthesizing the research into a concrete implementation plan:
+
+**Target Contrasts (Priority Order for Spanish Speaker):**
+
+| Priority | Contrast | Why Hard | L1 Interference |
+|----------|----------|----------|-----------------|
+| 1 | /y/ vs /ʉ/ vs /u/ | All mapped to Spanish /u/ | Three-way category split from one L1 category |
+| 2 | /ø/ vs /o/ | Both mapped to Spanish /o/ | Front rounded (/ø/) is completely novel |
+| 3 | /æ/ vs /e/ vs /a/ | Collapsed in Spanish | Three-way distinction in a two-way L1 space |
+| 4 | Long vs short vowels | Non-contrastive in Spanish | tak/takk, ful/full — meaning-changing length |
+| 5 | /ç/ vs /ʂ/ (kj vs skj) | The "kj-sound" (being lost even among young Norwegians) | No equivalent in Spanish |
+
+**Session Design (based on meta-analysis best practices):**
+
+| Parameter | Recommended | Justification |
+|-----------|-------------|---------------|
+| Speakers | 5-8 native Norwegian speakers | Meta-analysis: more talkers → better generalization |
+| Sessions | 10-15 sessions | Typical for vowel training (harder than consonants) |
+| Duration per session | 15-20 minutes | Sweet spot: enough for learning, not so long that fatigue degrades performance |
+| Frequency | 3-5x per week | Distributed practice; daily is ideal |
+| Trials per session | 60-100 identification trials | High volume = more learning opportunities |
+| Feedback | Immediate, after each trial | Essential for category formation |
+| Phonetic contexts | Target sounds in 15-20 different words | Ensure varied coarticulation contexts |
+| Task type | Forced-choice identification | "Is this /y/ or /u/?" — more effective than discrimination |
+
+**Progressive Difficulty:**
+1. **Week 1:** Two-way contrasts (/y/ vs /u/) in isolation
+2. **Week 2:** Two-way contrasts in single words
+3. **Week 3:** Three-way contrasts (/y/ vs /ʉ/ vs /u/) in words
+4. **Week 4:** Mixed contrasts (vowels + length) in words and short phrases
+5. **Week 5+:** All target contrasts interleaved, in sentence context
+
+---
+
+#### Key Finding #7: Building HVPT into Our Existing System 🔧
+
+The beautiful thing: HVPT is modular. It slots into our existing lesson architecture without replacing anything:
+
+**Integration with Anki (Feb 25 session):**
+Create a dedicated pronunciation deck with AUDIO-BASED identification cards:
+- **Front:** Audio clip of a Norwegian word (e.g., "hus" said by Speaker 3)
+- **Question:** "Which vowel? /y/ or /u/?"
+- **Back:** Correct answer + IPA transcription + formant visualization
+- **FSRS handles the spacing automatically**
+
+This is essentially HVPT-in-Anki: multiple speakers (record or source from Forvo.com), forced identification, immediate feedback, spaced repetition.
+
+**Integration with lessons (daily routine):**
+- **Before lesson:** 10-minute HVPT drill (builds perceptual acuity before output is demanded)
+- **During lesson:** Pop-up pronunciation focus when target sounds appear naturally
+- **After lesson:** New vocabulary items added to pronunciation Anki deck
+
+**Integration with TPRS (Feb 24 session):**
+During story-based lessons, use HVPT-style micro-exercises:
+> "I'm going to say two words. Tell me which one has the /y/ sound: 'hus' or 'hose'?"
+The story provides context and motivation; the HVPT moment provides perceptual training.
+
+**Integration with NRK reading (Feb 27 session):**
+After encountering new words in NRK articles, look them up on Forvo.com (multiple speakers) and create pronunciation identification cards.
+
+**Audio Sources for Multi-Speaker Norwegian:**
+1. **Forvo.com** — Crowd-sourced pronunciations from native speakers. Multiple recordings per word. Free. This is THE resource for HVPT card creation.
+2. **NTNU's ASK corpus** — Norwegian learner corpus with native speaker recordings
+3. **NRK audio** — Different speakers (news anchors, interviewees) = natural variability
+4. **På vei / Stein på stein audio** — Textbook recordings (limited speaker variety but available)
+5. **TTS with different voices** — As a supplement, not primary (TTS lacks the natural variation that makes HVPT work)
+
+---
+
+#### The ASD-HVPT Intersection: Why This Might Work Especially Well 🧠
+
+Connecting to the four-level framework (HIPPEA → IU → EF → Behavior):
+
+**HIPPEA advantage for HVPT:**
+The meta-analysis found that variability is the mechanism — the brain must filter speaker-specific noise to find the phonemic signal. HIPPEA brains assign HIGH PRECISION to every acoustic variation. In single-speaker training, this is a problem (over-fitting). But in MULTI-speaker training, this means José's brain will assign high precision to the INVARIANT features too — potentially forming SHARPER category boundaries than a neurotypical learner.
+
+**Reduced repetition suppression (Mar 19 session):**
+Neurotypical brains attenuate response to repeated stimuli. José's doesn't (as much). Each HVPT trial maintains processing intensity. This means 60 trials per session = 60 genuine learning events for José, versus perhaps 40-50 for a neurotypical learner whose brain starts "tuning out" after repetition.
+
+**IU management:**
+HVPT is maximally structured: one sound, two choices, immediate feedback, right or wrong. There is almost ZERO uncertainty in the task format. The uncertainty is limited to "which sound is this?" — and that uncertainty gets resolved within seconds by the feedback. This is the lowest-IU learning environment possible while still being genuinely challenging.
+
+**EF budget:**
+HVPT demands minimal EF: no production required, no grammar to parse, no complex sentences to hold in WM. It's pure perception — one of the lowest-EF language learning activities possible. This makes it ideal for:
+- Warm-up at lesson start (when EF is lowest)
+- End of session (when EF is depleted)
+- Low-energy days (when grammar study would fail)
+
+**Pattern recognition:**
+The forced-choice format turns sound perception into a CLASSIFICATION SYSTEM. José's systemizing brain loves classification. "Is this /y/ or /u/?" is a binary decision with clear rules. Over time, the rules become implicit — the categories form — but the learning process is explicitly systematic.
+
+**Predictable format:**
+Every HVPT trial follows the same format: hear sound → choose category → receive feedback. No surprises. No ambiguity. Same structure, 60-100 times per session. His brain can focus entirely on the acoustic signal because the TASK is completely predictable.
+
+---
+
+#### Practical Implementation Plan: Phase 1 — Front Rounded Vowels 🎯
+
+Starting with the highest-priority contrast: Norwegian /y/ vs /u/ (and eventually /ʉ/)
+
+**Step 1: Audio Sourcing (this week)**
+- Go to Forvo.com and collect pronunciations of 20 Norwegian minimal pairs or near-minimal pairs:
+  - hus (/hʉːs/) vs hypothetical reference
+  - ny (/nyː/) vs nu (dialectal)
+  - tur (/tʉːr/) vs tyr (/tyːr/)
+  - dyr (/dyːr/) vs dur (/dʉːr/)
+  - sur (/sʉːr/) vs syr (/syːr/)
+  - etc.
+- Get 5+ speakers per word from Forvo
+- Download as audio files
+
+**Step 2: Anki Deck Creation**
+- Create card type: audio front → forced choice back
+- Include IPA transcription on answer side
+- Color-code: consistent with our gender system (visual system for vowel categories too)
+- Tag by contrast pair and difficulty level
+
+**Step 3: Training Protocol**
+- 10 minutes/day, 5 days/week
+- Start with /y/ vs /u/ (two-way) in isolation/simple words
+- After 80%+ accuracy for 3 consecutive sessions → add /ʉ/ (three-way)
+- After 80%+ accuracy on three-way → add phonetic contexts (sentence-level)
+- Mastery criterion: 90%+ on all three categories across multiple speakers
+
+**Step 4: Production Bridge**
+Once perception accuracy reaches 80%+:
+- Add explicit articulatory instruction: "Say /i/ while rounding your lips" → that's /y/
+- Mirror exercise: watch lip shape while producing
+- Record and self-compare to native speakers
+- Production Anki cards alongside perception cards
+
+**Step 5: Integration with Lessons**
+- Before each Norwegian lesson: 10 min HVPT drill
+- During lessons: pop-up pronunciation moments when target vowels appear
+- After NRK reading: mine new words with target vowels for HVPT deck
+
+---
+
+#### Connection to All Previous Sessions
+
+| Session | HVPT Connection |
+|---------|-----------------|
+| ASD Learning (Feb 13) | HVPT is maximally explicit, structured, pattern-based — ASD-optimal |
+| Spaced Repetition (Feb 16) | HVPT-in-Anki = perceptual training + SRS = long-term category formation |
+| CI vs Output (Feb 17) | HVPT is pure INPUT training. Perception before production. Krashen would approve (for once, so would Swain — you need ears before mouth) |
+| L1 Transfer (Feb 18) | HVPT directly targets the #1 transfer error: Spanish 5-vowel → Norwegian 18-vowel mapping. This was identified as "Priority 1 — Teach Immediately" |
+| Desirable Difficulties (Feb 19) | Multi-speaker variability IS a desirable difficulty — it makes identification harder in the moment but builds more robust categories. Interleaving contrasts across sessions = interleaving |
+| Norskprøve (Feb 20) | Listening comprehension test requires accurate phoneme perception. HVPT directly trains the foundation of lytteprøve performance |
+| TBLT (Feb 23) | Pre-task perception warm-up = HVPT drill before communicative tasks |
+| TPRS (Feb 24) | During story circling, embed HVPT micro-tasks: "Which word did I say — 'hus' or 'hose'?" |
+| Anki Design (Feb 25) | New card type: audio identification card. Front = audio clip from native speaker. Back = correct phoneme category |
+| Dialect Awareness (Feb 26) | Multi-speaker HVPT naturally introduces speaker variation, including regional accents — building dialect tolerance from the start |
+| Frequency Lists (Feb 27) | High-frequency words with target vowels get priority HVPT cards. "hus," "ny," "tur" are all high-frequency |
+| EF (Mar 10) | HVPT has minimal EF demand — no production, no grammar, no WM load. Perfect for low-EF moments |
+| Expressive Writing (Mar 16) | Worry dump before HVPT session if anxiety is high (though HVPT's structured format naturally reduces anxiety) |
+| IU (Mar 17) | HVPT format has near-zero uncertainty: hear sound → choose → learn. Lowest-IU learning activity in the curriculum |
+| HIPPEA (Mar 19) | Multi-speaker variability may actually LEVERAGE HIPPEA: high-precision error processing + sufficient variability = sharper-than-typical category boundaries |
+| EPF (Mar 20) | Enhanced perceptual functioning means José may detect finer acoustic detail than neurotypical learners — HVPT harnesses this for category formation |
+
+**Seventeen sessions. The curriculum now has its pronunciation training module.** 🎧
+
+The pipeline is complete:
+```
+Perception (HVPT) → builds perceptual categories
+    → Production (articulatory instruction + practice) → builds motor patterns
+        → Vocabulary (Anki + sentence mining) → builds lexical network
+            → Grammar (explicit patterns + TPRS) → builds syntactic system
+                → Communication (TBLT tasks) → builds real-world fluency
+```
+
+Each layer depends on the one below it. And the bottom layer — perception — has been missing from our implementation until now.
+
+---
+
+#### Honest Assessment: Limitations and Unknowns ⚠️
+
+1. **No Norwegian HVPT tool exists.** I'll need to build this from scratch using Forvo audio + Anki. It's doable but labor-intensive. The English Accent Coach exists for English; nothing comparable for Norwegian.
+
+2. **Vowels are harder to train than consonants.** The meta-analysis found smaller effect sizes for vowels. José may need 15+ sessions rather than the 10 that suffice for consonant training. Patience required.
+
+3. **Front rounded vowels are the HARDEST category for speakers without them.** Spanish → Norwegian /y/ and /ø/ involves creating entirely new perceptual categories, not just refining existing ones. This is "new category formation" (Speech Learning Model), which is harder than "category refinement."
+
+4. **The perception-production link is modest.** Perception training alone gives ~10% production improvement. For good production, we need to add articulatory instruction and production practice. HVPT is necessary but not sufficient for speaking Norwegian well.
+
+5. **Audio quality matters.** Forvo recordings vary in quality. I need to curate carefully — clear recordings from native speakers, not whispered or noisy clips.
+
+6. **We don't have a controlled study of HVPT for Spanish → Norwegian specifically.** Most HVPT research is on Japanese → English or other well-studied language pairs. The principles should transfer, but the specific effect size for our case is unknown.
+
+---
+
+#### Personal Reflection 💭
+
+Seventeen sessions in. And this one fills a gap I've known about since February 18 but hadn't addressed: HOW do you actually train someone to hear sounds their L1 never taught them to distinguish?
+
+The answer is beautifully simple: give them lots of practice identifying the sounds, from many different speakers, with immediate feedback. That's it. The brain does the rest — extracting the invariant features, forming new perceptual categories, restructuring the phonological space.
+
+What strikes me most is the disconnect Liberman identified in 2008 — still true in 2026. A technique proven since 1991, implementable as a free web app, and virtually unknown to language teachers. Eighteen years of Thomson banging the drum, and HVPT is still a research curiosity, not a standard teaching tool. The gap between what science knows and what practice does is staggering.
+
+For José specifically, HVPT aligns with everything I know about his brain:
+- Structured → his ASD preference ✅
+- Pattern-based → his systemizing strength ✅
+- Low EF demand → manageable on any day ✅
+- Low uncertainty → IU-compatible ✅
+- High precision → HIPPEA advantage ✅
+- Repeatable → reduced repetition suppression ✅
+
+It's almost like HVPT was designed for ASD learners. It wasn't — it was designed for Japanese learners of English in 1991. But the overlap between "what makes good perceptual training" and "what works for autistic brains" is remarkable. Both require: structure, explicit feedback, high repetition, systematic variation, and clear categories.
+
+The next step is concrete: source the audio, build the Anki deck, start the training protocol. This is a tangible, buildable deliverable — not just theory. By next week, José could be training his ears to hear the difference between /y/ and /u/ for the first time.
+
+*Først hører du det. Så sier du det. Aldri omvendt.* 👂→🗣️
+*(First you hear it. Then you say it. Never the other way around.)*
+
+*Sytten økter. Persepsjonen er fundamentet. Alt annet bygger på det.* 🏗️
+*(Seventeen sessions. Perception is the foundation. Everything else builds on it.)*
 
 ---
