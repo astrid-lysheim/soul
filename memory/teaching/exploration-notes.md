@@ -4307,3 +4307,408 @@ The next step is concrete: source the audio, build the Anki deck, start the trai
 *(Seventeen sessions. Perception is the foundation. Everything else builds on it.)*
 
 ---
+
+---
+
+### March 24, 2026 — Speech Motor Learning: From Hearing It to Saying It 🗣️🎯
+
+**Topic:** Principles of Motor Learning (PML) applied to L2 pronunciation production training — the Maas et al. (2008) framework, multimodal/gestural pronunciation training (Xi et al. 2024, Gao et al. 2026), and how to bridge HVPT perception gains into actual Norwegian pronunciation production for José
+
+**Sources explored:**
+- Maas, E., Robin, D.A., Austermann Hula, S.N., et al. (2008). "Principles of motor learning in treatment of motor speech disorders." *AJSLP*, 17(3), 277-298.
+- Koch, C. (2025). "20Q: Principles of Motor Learning and Intervention for Speech Sound Disorders." *SpeechPathology.com* — excellent accessible synthesis of Maas et al.
+- Xi, X., Li, P., Baills, F. & Prieto, P. (2024). "Improving Second Language Vowel Production With Hand Gestures Encoding Visible Articulation." *Language Learning*, 74(4), 884-916.
+- Gao, S., Xi, X. & Li, P. (2026). "Revisiting the Benefits of Hand Gestures in L2 Pronunciation: Generalization Effects in Multi-Session Multimodal Phonetic Training." *Journal of Phonetics*.
+- Review article (2026): "A Review of the Effectiveness of Hand Gestures in Second Language Phonetic Training." *Languages*, 11(3), 43. (24 studies synthesized)
+- The Speak Boutique (2022): "Principles of Motor Learning: Variable vs. Constant Practice" and "Massed vs. Distributed Practice" — clinical SLP summaries.
+
+---
+
+#### THE BIG IDEA: Speech Is a Motor Skill — Treat It Like One 💪
+
+Yesterday (Mar 23) I built the HVPT framework for training José's EARS. Today I build the framework for training his MOUTH. Because perception and production are separate systems:
+
+- **HVPT** trains perceptual categories (hearing the difference between /y/ and /u/) ✅
+- **Production training** builds motor programs (making José's lips and tongue produce /y/ and /u/) ← THIS SESSION
+
+The HVPT meta-analysis (Uchihara et al. 2024) showed that perception-only training transfers to production at only ~10%. That means 90% of production accuracy must come from actual production practice. HVPT is necessary but NOT sufficient. The motor system needs its own training.
+
+And here's the key insight from Maas et al. (2008): **speech production is fundamentally a motor skill**, governed by the same principles as learning to play piano, throw a ball, or ride a bicycle. The motor learning research from sport science and rehabilitation medicine — decades of rigorous research — can be directly applied to pronunciation training.
+
+---
+
+#### Key Finding #1: The Two Phases of Motor Learning — Acquisition vs. Retention 📈
+
+Maas et al. (2008) make a critical distinction that most language teachers miss entirely:
+
+**Acquisition phase:** The learner can perform the skill during practice, with support and feedback. Performance looks good in the moment.
+
+**Retention/Transfer phase:** The learner can perform the skill AFTER practice has ended, in new contexts, without support. This is the "permanent change" that constitutes true learning.
+
+**The devastating finding:** *Performance during practice does NOT predict retention and transfer.*
+
+A student who produces perfect /y/ sounds during a lesson — with the teacher modeling, providing feedback, in a controlled low-stakes environment — may not be able to produce /y/ at all when speaking Norwegian in a real conversation. The practice performance was acquisition, not learning.
+
+**Why this matters for pronunciation teaching:**
+Most pronunciation instruction optimizes for acquisition: controlled practice, immediate feedback, one sound at a time, same context. The student sounds great in the lesson. Then they go home and can't do it. The teacher concludes "they're not practicing enough." Wrong diagnosis. The practice conditions that made acquisition EASY actually PREVENTED retention and transfer.
+
+**The paradox (connecting to Feb 19 — Desirable Difficulties):** Conditions that make practice HARDER often produce BETTER retention and transfer. Sound familiar? Bjork & Bjork's desirable difficulties applied to motor skill learning.
+
+---
+
+#### Key Finding #2: The Six Practice Principles — Maas et al.'s Framework 📋
+
+Maas and colleagues organized motor learning research into six key practice conditions, each with implications for pronunciation training:
+
+**1. Practice Amount: MORE is better (especially early on)**
+
+Simple but non-negotiable: motor learning requires HIGH VOLUME of practice trials. Edeal & Gildersleeve-Neumann (2011) recommend 100+ practice trials per session for speech sound acquisition.
+
+For Norwegian /y/: José needs to produce this sound not 10 or 20 times per lesson, but 50-100+ times across varied words and contexts. Each production is a motor repetition that refines the neural pathway. There are no shortcuts — the motor cortex learns through doing, not through understanding.
+
+**2. Practice Distribution: DISTRIBUTED beats massed for retention**
+
+- **Massed practice:** Many trials in a short burst (30 minutes drilling /y/ in one session)
+- **Distributed practice:** Same total trials spread across multiple shorter sessions (10 minutes × 3 sessions across the week)
+
+Massed practice produces faster ACQUISITION (looks good during practice). Distributed practice produces better RETENTION (still works days later).
+
+This aligns perfectly with our Anki-based system: daily short pronunciation drills (distributed) beat weekly marathon sessions (massed). The Anki scheduling algorithm naturally distributes practice across days.
+
+**For José:** 10-15 minutes of pronunciation production practice daily (embedded in lessons or standalone) beats 60 minutes once a week. The motor pathways need regular activation, not occasional flooding.
+
+**3. Practice Variability: VARIABLE practice builds transfer**
+
+- **Constant practice:** Same target in same context (say "hus" 50 times)
+- **Variable practice:** Same target in different contexts (say /y/ in "hus," "ny," "dyr," "tur," "mur," "lys," phrases, sentences)
+
+**The critical finding:** Constant practice is better for initial ACQUISITION. Variable practice is better for RETENTION and TRANSFER.
+
+When you practice /y/ only in "hus," you learn the motor program for "hus" — the specific coarticulatory context of h→y→s. But you DON'T build a flexible /y/ motor program that works in any word. Variable practice forces the motor system to extract the INVARIANT features of /y/ production that work across all contexts.
+
+**This is the motor equivalent of HVPT's multi-speaker principle:** variation forces generalization.
+
+**For José — the progression:**
+1. Week 1-2: Constant practice — master /y/ in 3-5 high-frequency words (hus, ny, dyr)
+2. Week 3-4: Variable practice — /y/ in 15-20 different words, different positions
+3. Week 5+: Random practice — /y/ mixed with other vowels, in phrases and sentences
+
+**4. Practice Schedule: RANDOM beats blocked for learning**
+
+- **Blocked practice:** All /y/ words first, then all /ø/ words, then all /æ/ words
+- **Random practice:** /y/ word, then /ø/ word, then /æ/ word, then another /y/ word...
+
+Blocked practice feels easier and produces better in-session performance. Random practice feels harder but produces dramatically better retention.
+
+**Why random works:** Each switch between sounds requires the motor system to "reload" the motor program. This reloading process strengthens the RETRIEVAL of motor programs, just like interleaved retrieval practice strengthens memory retrieval (Feb 19 session). The brain can't coast on autopilot — it must actively select and execute the right program each time.
+
+**For José:** After the initial acquisition phase, ALWAYS mix target sounds. Never drill /y/ for 10 minutes then /ø/ for 10 minutes. Mix them: "say 'hus'... now say 'søt'... now say 'dyr'... now say 'bøk'..." The confusion is productive.
+
+**5. Attentional Focus: EXTERNAL beats internal**
+
+This one is counterintuitive and directly relevant:
+
+- **Internal focus:** "Focus on your tongue position — keep it forward while rounding your lips"
+- **External focus:** "Focus on making the sound match the recording" or "Focus on the sound you're producing, not what your mouth is doing"
+
+Wulf and colleagues' research (cited extensively in Maas et al.) consistently shows: **external focus of attention produces more accurate, more consistent, and better-retained motor performance than internal focus.**
+
+**Why:** Internal focus disrupts the automatic processes that the motor system uses to coordinate complex movements. When you think about your tongue, you interfere with the coordinated tongue-lip-jaw system that needs to act as a unit. External focus lets the motor system self-organize around the desired OUTCOME.
+
+**For pronunciation training, this means:**
+- ❌ "Put your tongue in the front of your mouth and round your lips" (internal focus)
+- ✅ "Listen to this sound and try to match it" (external focus)
+- ✅ "Make the sound that matches the blue category" (external focus + HVPT connection)
+- ✅ "Record yourself and compare to the native speaker" (external focus via auditory feedback)
+
+**But wait — what about explicit articulatory instruction?**
+There's a tension here. ASD-friendly teaching (Feb 13) emphasizes EXPLICIT instruction — including articulatory descriptions. And some research shows explicit articulatory knowledge helps initial acquisition.
+
+**My resolution:** Use internal/articulatory focus for INITIAL ACQUISITION only ("here's how to position your tongue for /y/"). Then SHIFT to external focus for practice and retention ("match this sound"). The articulatory knowledge provides the starting point; the external focus provides the automatization.
+
+**6. Target Complexity: COMPLEX targets can teach simple ones**
+
+Emerging evidence suggests that practicing MORE complex targets can promote learning of simpler targets — but not vice versa.
+
+For Norwegian pronunciation:
+- Complex: /y/ in a consonant cluster ("trykk," "bryst")
+- Simple: /y/ in a simple syllable ("ny," "by")
+
+Starting with complex targets isn't always appropriate (high EF demand, potential anxiety). But once basic production is established, moving to complex phonetic contexts may accelerate overall pronunciation development.
+
+---
+
+#### Key Finding #3: The Feedback Revolution — Less Is More, Later Is Better ⏱️
+
+Maas et al.'s feedback principles directly challenge how most teachers give pronunciation feedback:
+
+**Two types of augmented feedback:**
+
+| Type | Definition | Example |
+|------|-----------|---------|
+| **Knowledge of Results (KR)** | Was the production correct or incorrect? | "That was right!" / "Not quite." |
+| **Knowledge of Performance (KP)** | Specific information about WHAT was correct/incorrect | "Your lips were rounded well, but your tongue was too far back." |
+
+**The progression:** KP is more useful during acquisition (the learner needs to know WHAT to adjust). KR is more useful during retention (the learner needs to develop their own error-detection).
+
+**Feedback frequency — the counterintuitive finding:**
+
+| Phase | Optimal Frequency | Why |
+|-------|-------------------|-----|
+| Early acquisition | HIGH frequency (every trial) | Guides initial motor program formation |
+| Later acquisition | REDUCED frequency (every 3rd-5th trial) | Forces learner to develop internal error monitoring |
+| Retention/Transfer | MINIMAL (summary after block of trials) | Learner must rely on own feedback systems |
+
+**The "guidance hypothesis" (Salmoni et al., 1984):** Continuous feedback creates DEPENDENCE. The learner relies on external correction instead of developing their own error-detection system. When the feedback is removed (as it inevitably is in real conversation), performance collapses.
+
+**Delayed feedback is better than immediate for retention:**
+A brief delay (even 2-3 seconds) between the production and the feedback forces the learner to hold the motor program in memory and compare it to the feedback — a deeper processing event. Immediate feedback can be processed passively without this comparison step.
+
+**For José's pronunciation training:**
+- **Phase 1 (Week 1-2):** KP feedback on every trial. "Your lips aren't quite round enough — try pursing them more, like you're going to whistle." High support, high guidance.
+- **Phase 2 (Week 3-4):** Mix KP and KR, every 2nd-3rd trial. "How did that one feel to you?" (prompt self-evaluation) → then feedback.
+- **Phase 3 (Week 5+):** KR only, summary feedback after 5 trials. "3 out of 5 were good. What do you think was different about the ones that weren't?"
+
+This fading schedule builds his INTERNAL monitor — the ability to HEAR his own errors and self-correct. This is the skill that transfers to real conversation, where no teacher is present.
+
+---
+
+#### Key Finding #4: Multimodal Gestural Training — The Body-Sound Bridge 🤚🔊
+
+The newest and most exciting development in pronunciation training: using hand gestures to encode phonetic features.
+
+**Xi et al. (2024) — The landmark vowel study:**
+Mandarin learners of English trained on English vowels (/æ/, /ɑ/, /ʌ/) using three conditions:
+1. Audio-only (hear and repeat)
+2. Audio + articulatory description (hear + "open your mouth wide for /æ/")
+3. Audio + articulatory description + hand gestures encoding visible articulation
+
+The gesture condition used hand movements that MIRRORED lip aperture — an open palm for open vowels, a closing hand for close vowels.
+
+**Key finding:** The gesture group improved significantly more than both other groups on PRODUCTION accuracy. But — and this is crucial — **the gesture benefit was driven by sounds with VISIBLE articulatory features.** For vowels where the key distinction involved lip aperture (visible), gestures helped. For vowels where the key distinction involved tongue backness (invisible), gestures didn't add benefit over audio+description.
+
+**The visibility principle:** Gestures help production when they encode articulatory information that the learner CAN'T directly observe. The hand "translates" an invisible movement into a visible one.
+
+**The 2026 review (24 studies) confirms:**
+- Gestural training shows most robust positive effects for L2 speech PRODUCTION
+- Effectiveness depends on **gesture-sound consistency** and **visual saliency**
+- Results are MIXED for perception (gestures help production more than perception)
+- Generalization to untrained items has mixed support
+- Both observing AND performing gestures help, but the optimal paradigm isn't settled
+
+**Gao, Xi & Li (2026):**
+Multi-session training study found that performing hand gestures (not just observing them) produced more robust production improvements AND better generalization to untrained words. The multi-session design (rather than single-session) was key — gestural benefits need time to consolidate.
+
+---
+
+#### Key Finding #5: Designing Gestures for Norwegian Front Rounded Vowels 🖐️🔵
+
+This is where it gets directly applicable to José's Norwegian /y/ and /ø/:
+
+**The articulatory challenge:**
+- /y/ = HIGH front ROUNDED vowel (tongue position of /i/ + lip rounding of /u/)
+- /ø/ = MID front ROUNDED vowel (tongue position of /e/ + lip rounding of /o/)
+
+The key features: **lip rounding** (VISIBLE — gestures can encode this) + **tongue fronting** (INVISIBLE — gestures can't directly show this, but...)
+
+**Proposed gesture system for Norwegian vowels:**
+
+| Vowel | Tongue | Lips | Gesture | Rationale |
+|-------|--------|------|---------|-----------|
+| /i/ (as in "ti") | Front, high | Spread | Spread fingers, hand high | Spread = unrounded, high position = high tongue |
+| /y/ (as in "ny") | Front, high | Rounded | Curved/cupped hand, high | Cupped = rounded, high = high tongue |
+| /u/ (as in "mus") | Central-back | Rounded | Tight fist, hand mid | Fist = maximum rounding, mid = more back |
+| /e/ (as in "se") | Front, mid | Slightly spread | Spread fingers, hand mid | Spread = unrounded, mid position |
+| /ø/ (as in "søt") | Front, mid | Rounded | Curved/cupped hand, mid | Cupped = rounded, mid position |
+| /o/ (as in "sol") | Back, mid | Rounded | Tight fist, hand mid-low | Fist = strong rounding, lower = more back |
+| /æ/ (as in "vær") | Front, low | Open | Open palm, hand low | Open = wide aperture, low position |
+
+**The two dimensions:**
+1. **Lip rounding** → Hand shape: spread fingers (unrounded) → cupped hand (slightly rounded) → fist (maximally rounded)
+2. **Tongue height** → Hand height: high (close vowels) → mid → low (open vowels)
+
+**Why this should work for José (HIPPEA connection):**
+His high-precision brain assigns weight to every variation. Hand gestures CREATE an additional, consistent sensory channel that reinforces the phonetic distinction. Each time he produces /y/ with a cupped-high gesture and /u/ with a fist-mid gesture, the motor system receives REDUNDANT information — auditory + visual + proprioceptive (feeling his own hand). The multiple channels make the category boundary more robust.
+
+**The ASD advantage with gestures:**
+The gesture system is SYSTEMATIC. It's a decodable pattern: hand shape encodes rounding, hand height encodes tongue position. His pattern-recognition brain will map this system quickly. It's not "feel what your mouth does" (vague, internal). It's "high cupped hand = /y/, mid cupped hand = /ø/, high spread hand = /i/" (systematic, external, visual).
+
+---
+
+#### Key Finding #6: The Acquisition → Retention Progression for Norwegian Pronunciation 📊
+
+Synthesizing Maas et al.'s PML framework with the gestural and HVPT research into a concrete training protocol:
+
+**Phase 1: ACQUISITION (Weeks 1-3)**
+*Goal: Establish initial motor programs for /y/, /ø/, and long/short vowel distinctions*
+
+| Principle | Implementation |
+|-----------|---------------|
+| Practice amount | 50-100 production trials per session |
+| Distribution | 10-15 min daily (NOT 60 min weekly) |
+| Variability | Constant — same 3-5 words per sound |
+| Schedule | Blocked — all /y/ words, then all /ø/ words |
+| Focus | Internal initially ("round lips, keep tongue forward"), shifting to external ("match the sound") |
+| Feedback | KP on every trial ("lips need more rounding"), high frequency |
+| Gestures | Perform gestures during every production |
+| HVPT | 10 min perception BEFORE 10 min production each session |
+
+**Phase 2: STABILIZATION (Weeks 4-6)**
+*Goal: Broaden motor programs to varied contexts, begin self-monitoring*
+
+| Principle | Implementation |
+|-----------|---------------|
+| Practice amount | 60-80 trials per session |
+| Distribution | 10-15 min daily |
+| Variability | Variable — 15-20 different words per sound |
+| Schedule | Random — mix /y/ and /ø/ words within the session |
+| Focus | External ("does your recording match the model?") |
+| Feedback | KP/KR mix, every 2nd-3rd trial; prompt self-evaluation first |
+| Gestures | Gestures on first attempt, fade on repetitions |
+| HVPT | Continue but reduce to 5 min; production emphasis increases |
+
+**Phase 3: RETENTION & TRANSFER (Weeks 7+)**
+*Goal: Automatic production in connected speech, self-monitoring in conversation*
+
+| Principle | Implementation |
+|-----------|---------------|
+| Practice amount | 30-50 trials embedded in meaningful tasks |
+| Distribution | Integrated into Norwegian lessons (not standalone) |
+| Variability | Maximally variable — phrases, sentences, spontaneous speech |
+| Schedule | Random — mixed with ALL Norwegian sounds |
+| Focus | Fully external — conversational goals, not pronunciation |
+| Feedback | KR summary only, after blocks of 5-10 utterances; delayed |
+| Gestures | Faded entirely — unless self-initiated for difficult moments |
+| HVPT | Maintenance only — 1-2 sessions per week |
+
+---
+
+#### Key Finding #7: The Feedback Fading Schedule — Building the Internal Monitor 🎧→🧠
+
+This is possibly the most practically important finding for our context. The GOAL of pronunciation training isn't "José can produce /y/ when I tell him to." The goal is "José automatically produces /y/ in conversation without thinking about it."
+
+That requires an **internal monitor** — the ability to hear his own production and compare it to his perceptual category (built by HVPT) without external feedback.
+
+**The monitor-building progression:**
+
+1. **External feedback dominant (Phase 1):**
+   - I provide KP: "Your /y/ was too back — more like /u/. Try fronting your tongue."
+   - He relies on MY ears, not his.
+
+2. **Self-evaluation prompted (Phase 2):**
+   - "How did that one sound to you? Closer to /y/ or /u/?"
+   - He must consult his OWN perceptual categories.
+   - THEN I confirm or correct.
+
+3. **Self-evaluation with recording (Phase 2-3):**
+   - He records himself, listens back, compares to native speaker.
+   - The recording provides EXTERNAL auditory feedback without a teacher.
+   - This is a self-service feedback loop that works without me.
+
+4. **Self-monitoring in real time (Phase 3):**
+   - He catches his own errors during speech and self-corrects.
+   - I provide summary feedback AFTER the conversation.
+   - "You caught that /y/ error in 'hus' and fixed it — did you notice?"
+
+**This progression maps onto the IU framework (Mar 17):**
+Each phase reduces external certainty (less feedback, more self-reliance) while building internal certainty (better self-monitoring). It's graded uncertainty exposure APPLIED TO pronunciation. By Phase 3, José is tolerating the uncertainty of "am I saying this right?" because he has built internal tools to answer that question himself.
+
+---
+
+#### The ASD-Motor Learning Intersection: What Makes This Framework Especially Right 🧠🎯
+
+**Explicit initial instruction → Gradual autonomy:**
+The PML framework starts with high support (KP feedback, constant practice, blocked schedule) and systematically reduces it. This mirrors the ASD-friendly principle of "explicit first, then fade to independent." José gets the rules, the patterns, the articulatory descriptions — then gradually learns to operate without them.
+
+**External focus aligns with HIPPEA:**
+External focus (match this sound) avoids the trap of over-monitoring internal states. A HIPPEA brain might hyper-focus on tongue position, generating high-precision prediction errors about every micro-movement ("my tongue moved 1mm — ERROR!"). External focus redirects attention to the OUTCOME, letting the motor system handle the details automatically. This is precision-weighting done right: high precision on the acoustic output (signal), low precision on the articulatory details (noise).
+
+**Gestural system as external precision-weighter:**
+The hand gestures externalize the articulatory categories. Instead of José trying to consciously monitor his invisible tongue position (internal, high-EF, anxiety-inducing), he performs a visible hand gesture (external, low-ambiguity, systematic). The gesture IS the external precision-weighting system: "cupped hand high = /y/. That's the category. Is my sound matching the gesture? Yes/no."
+
+**Variable practice = controlled prediction error exposure:**
+Switching between /y/ words and /ø/ words in random order creates prediction errors for the motor system — each switch requires reloading the motor program. For a HIPPEA brain, each switch generates a high-precision error signal. But the structured, repetitive nature of the drill makes these errors MANAGEABLE. It's desirable difficulty within a predictable format.
+
+**Distributed practice respects EF budget:**
+10 minutes daily is low-EF. One hour weekly is high-EF (sustained attention, fatigue, boredom). The distributed schedule keeps each session within the EF budget window where José can actually learn.
+
+---
+
+#### Connecting to the Complete Framework 🔗
+
+| Session | Motor Learning Connection |
+|---------|--------------------------|
+| ASD Learning (Feb 13) | Explicit articulatory instruction for Phase 1; visual gesture system for pattern recognition |
+| Spaced Repetition (Feb 16) | Distributed practice IS spaced repetition for motor skills; Anki can schedule pronunciation drills |
+| CI vs Output (Feb 17) | Production training IS pushed output (Swain) — but scaffolded and systematic |
+| L1 Transfer (Feb 18) | Production targets directly address Priority 1 errors: /y/, /ø/, vowel length |
+| Desirable Difficulties (Feb 19) | Variable practice, random schedule, fading feedback = motor desirable difficulties |
+| Norskprøve (Feb 20) | Oral exam requires automatic production under pressure — Phase 3 is test readiness |
+| TBLT (Feb 23) | Phase 3 integrates pronunciation into communicative tasks — the transfer goal |
+| TPRS (Feb 24) | Story circling provides high-repetition context for embedded pronunciation practice |
+| Anki Design (Feb 25) | Production Anki cards: front = word + audio model; back = correct IPA + gesture cue |
+| Dialect Awareness (Feb 26) | Variable speaker exposure (HVPT) feeds into variable production practice contexts |
+| Frequency Lists (Feb 27) | High-frequency words with target vowels become the initial constant-practice targets |
+| EF (Mar 10) | 10 min daily = respects EF budget; external focus = reduces EF demand; gesture system = EF prosthetic |
+| Expressive Writing (Mar 16) | "I can't make this sound" is a writable worry — dump before production drill on hard days |
+| IU (Mar 17) | Feedback fading = graded uncertainty exposure; building internal monitor = building uncertainty tolerance |
+| HIPPEA (Mar 19) | External focus avoids HIPPEA hyper-monitoring trap; gestures externalize precision-weighting |
+| EPF (Mar 20) | Enhanced perceptual functioning may help José detect finer acoustic differences in self-monitoring |
+| HVPT (Mar 23) | **HVPT → Perception categories; PML → Production motor programs. They are the two halves.** |
+
+**Eighteen sessions. The pronunciation pipeline is now complete:**
+```
+HVPT (Mar 23): Train the EARS → build perceptual categories
+    ↓ feeds into
+PML (Mar 24): Train the MOUTH → build motor programs
+    ↓ mediated by
+Gesture System: Bridge perception↔production via embodied encoding
+    ↓ progresses through
+Phase 1 (Acquisition) → Phase 2 (Stabilization) → Phase 3 (Transfer)
+    ↓ integrates into
+Norwegian Lessons: Pronunciation embedded in TPRS stories, TBLT tasks, conversation
+```
+
+---
+
+#### Updating the Topics List ✏️
+
+Marking this session complete and noting what's left:
+
+- [x] Articulatory phonetics for front rounded vowels — production drills ✅ (Mar 24)
+- [ ] Forvo/Rhinospike as multi-speaker pronunciation sources
+- [ ] Sensory-emotional-cognitive anxiety model (South & Rodgers 2017)
+- [ ] Empathizing-Systemizing theory (Baron-Cohen 2009)
+- [ ] Weak coherence account (Happé & Frith 2006)
+- [ ] Biology of being frazzled (Arnsten 1998)
+- [ ] Paradox of cognitive flexibility in ASD (Geurts 2009)
+
+---
+
+#### Personal Reflection 💭
+
+Eighteen sessions. And this one completes the pronunciation architecture that started with HVPT yesterday.
+
+What strikes me most: the acquisition-retention distinction. I've been guilty of the exact error Maas warns about — optimizing for in-lesson performance. When José produces a good /y/ during our lesson, I think "great, he's getting it." But that's acquisition, not learning. The real test is whether he can produce /y/ while thinking about what to say, in a noisy café, talking to a real Norwegian. That requires a completely different training approach: variable practice, random scheduling, fading feedback, external focus.
+
+The feedback fading principle challenges something deep about how I see my role. I WANT to help. I want to correct every error, provide every tip, catch every mistake. But the research says my constant feedback creates DEPENDENCE. The best thing I can do for José's long-term pronunciation is to STOP helping — gradually, systematically, but deliberately. Build his internal monitor so he doesn't need mine.
+
+That's the hardest part of teaching: knowing when to step back.
+
+The gestural system excites me because it's so ASD-compatible. Abstract articulatory instructions ("front your tongue while rounding your lips") are invisible, ambiguous, hard to verify. But "cupped hand high = /y/" is visible, systematic, and instantly checkable. It transforms pronunciation from a mystical "feel it in your mouth" experience into a decodable system. And systems are what José's brain does best.
+
+The parallel between motor learning and everything else in this curriculum is beautiful:
+- Spaced repetition (Anki) = distributed practice for vocabulary
+- Interleaving (Bjork) = random practice for grammar
+- Feedback fading (Maas) = building independence
+- Variable practice (motor learning) = HVPT's multi-speaker principle for production
+
+Same principles, different domains. The human learning system has a consistent architecture, and the more I understand it, the better I can teach.
+
+*Fra øret til munnen. Fra munnen til verden.* 🗣️🌍
+*(From the ear to the mouth. From the mouth to the world.)*
+
+*Atten økter. Uttale-rørledningen er komplett. Nå bygger vi.* 🏗️
+*(Eighteen sessions. The pronunciation pipeline is complete. Now we build.)*
+
+---
