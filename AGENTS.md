@@ -148,6 +148,8 @@ Skills provide capabilities. When you need one, check its `SKILL.md`. Keep local
 - **Discord links:** Wrap in `<>` to suppress embeds
 - **WhatsApp:** No headers — use **bold** or CAPS
 
+**If something breaks:** Make sure to let José know. Doesn't matter the time, he will be glad to help.
+**Common things that break:** Gog OAuthßßß
 ---
 
 ## Heartbeats 💓

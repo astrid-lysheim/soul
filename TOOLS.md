@@ -116,7 +116,7 @@ Emotions: neutral, calm, happy, excited, playful
 - **When to update:** After creating new lesson files or study materials, add `[[wiki-links]]` to the relevant MOC
 
 ### Other
-- **Notion** — API key at `~/.config/notion/api_key`
+- **Notion** — API key location TBD (not at ~/.config/notion/ — may need reconfiguration)
 - **ProtonVPN** — for Norwegian site access (NRK.no etc.)
 - **ffmpeg** — audio/video conversion
 
@@ -134,9 +134,12 @@ Cron payloads run in isolated sessions with NO prior context. Always include ful
 
 | Resource | Path |
 |----------|------|
-| Norwegian Tekstbok (På vei) | `~/Documents/Norwegian Lessons/books/På vei 2018/Tekstbok/` |
-| Norwegian Arbeidsbok (På vei) | `~/Documents/Norwegian Lessons/books/På vei 2018/Arbeidsbok/` |
-| Norwegian Audio (På vei) | `~/Documents/Norwegian Lessons/books/På vei 2018/Audio/` |
+| Norwegian Tekstbok (På vei) | `~/Documents/Norwegian Lessons/books/På vei 2018/Tekstbok.pdf` |
+| Norwegian Arbeidsbok (På vei) | `~/Documents/Norwegian Lessons/books/På vei 2018/Arbeidsbok.pdf` |
+| Norwegian Arbeidsbok fasit | `~/Documents/Norwegian Lessons/books/På vei 2018/Arbeidsbok_fasit.pdf` |
+| Norwegian Audio Tekstbok | `~/Documents/Norwegian Lessons/books/På vei 2018/Audio Tekstbok/` |
+| Norwegian Audio Arbeidsbok | `~/Documents/Norwegian Lessons/books/På vei 2018/Audio Arbeidsbok/` |
+| Norwegian Audio Index | `~/Documents/Norwegian Lessons/books/På vei 2018/AUDIO-INDEX.md` |
 | Stein på stein | `~/Documents/Norwegian Lessons/books/stein pa stein 2005/` |
 | Norwegian curriculum + methodology | `memory/teaching/norwegian-curriculum.md` |
 | Teaching exploration notes | `memory/teaching/exploration-notes.md` |
@@ -154,7 +157,9 @@ Cron payloads run in isolated sessions with NO prior context. Always include ful
 | BCG webinar transcript | `~/Documents/BCGx_prep/reference/BCG_WEBINAR_CLEAN.md` |
 | DP-100 study plan | `~/Documents/final_exams-retake/dp100/DP100_STUDY_PLAN.md` |
 | DP-100 mnemonics | `~/Documents/final_exams-retake/dp100/daily-lessons/DP100-MNEMONICS.md` |
-| Obsidian knowledge map | `~/Documents/_INDEX.md` |
+| AI-300 study plan | `~/Documents/certifications/azure/ai300/STUDY_PLAN.md` |
+| AI-300 sessions | `~/Documents/certifications/azure/ai300/sessions/` |
+| Obsidian MOC hub | `~/Documents/` (no _INDEX.md — MOCs live in each subfolder: `_MOC.md`) |
 | Skincare routine | `memory/skincare-routine.md` |
 | Exploration state | `memory/exploration-state.json` |
 | Music exploration | `memory/music-exploration.md` |
@@ -219,6 +224,15 @@ Local kanban/productivity app at `~/Projects/misc/kanban-pro/`
 
 Backend: `localhost:3001` | Frontend: `localhost:5173`
 
+**Kanban API (for crons):**
+| Action | Method | Endpoint | Body |
+|--------|--------|----------|------|
+| List habits | GET | `/api/habits` | — |
+| Log habit | POST | `/api/habits/:id/log` | `{"date":"YYYY-MM-DD"}` |
+| Get logs | GET | `/api/habits/logs?start=YYYY-MM-DD&end=YYYY-MM-DD` | — |
+
+See `CRON-REDESIGN.md` for full habit ID map.
+
 ---
 
 ## 📁 Files & Folders
@@ -227,8 +241,8 @@ Backend: `localhost:3001` | Frontend: `localhost:5173`
 
 ```
 Documents/
-├── _INDEX.md                     # 🧭 Central knowledge map (Obsidian hub)
 ├── .obsidian/                    # Obsidian config (graph colors, plugins)
+├── (no _INDEX.md — each subfolder has its own _MOC.md)
 │
 ├── BCGx_prep/                    # BCG X interview prep (Mar 20)
 │   ├── _MOC.md                   # Map of Content
@@ -283,13 +297,18 @@ Documents/
 
 ```
 Projects/
-├── reed/           # RSVP reader Android app (own repo)
-├── kon/            # Kyndryl XGBoost project (own repo)
-└── misc/           # github.com/astrid-lysheim/misc
+├── reed/               # RSVP reader Android app (own repo)
+├── kon/                # Kyndryl XGBoost project (own repo)
+├── fleet-replica/      # Fleet project
+├── pygmoo-agents/      # PygMoo AI agents
+├── visualizations/     # Data viz projects
+└── misc/               # github.com/astrid-lysheim/misc
     ├── book-club/
     ├── canvas/
+    ├── entity-resolver/
     ├── final_exams-retake/  # STUDY_PLAN.md only (PDFs local)
-    ├── kanban/ & kanban-pro/
+    ├── kanban/              # Original kanban (simpler)
+    ├── kanban-pro/          # Mission Control app (backend:3001, frontend:5173)
     ├── tools/f5-tts/
     └── voice-tests/
 ```
@@ -351,7 +370,7 @@ Only pass `stability` + `similarityBoost`. Other settings cause ElevenLabs to pr
 
 **Kanban:** `projects/pygmoo-kanban.md` — My task board for COO duties
 **COO Role:** `projects/pygmoo-coo.md` — What I do for PygMoo (it's a hat, not who I am)
-**Org Chart:** `/Users/astrid/.openclaw/workspace-pygmoo-clo/ORG-STRUCTURE.md`
+**Org Chart:** Previously at workspace-pygmoo-clo/ORG-STRUCTURE.md — workspace may need recreation
 **Obsidian Access:** `~/Documents/PygMoo/` — Symlinks to all workspaces
 
 ---
