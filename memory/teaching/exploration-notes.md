@@ -83,7 +83,7 @@
 - [ ] Weak coherence account (Happé & Frith 2006) — paper ready
 - [x] Writing boosts exam performance (Ramirez & Beilock 2011) ✅ (Mar 16) — "Expressive Worry Dumping"
 - [x] Predictive coding in autism (Van de Cruys 2014) ✅ (Mar 19) — "HIPPEA: Precise Minds, Noisy Worlds"
-- [ ] Biology of being frazzled (Arnsten 1998) — paper ready
+- [x] Biology of being frazzled (Arnsten 1998) ✅ (Mar 25) — "The Reflective→Reflexive Flip"
 - [ ] Paradox of cognitive flexibility in ASD (Geurts 2009) — paper ready
 
 ---
@@ -4710,5 +4710,48 @@ Same principles, different domains. The human learning system has a consistent a
 
 *Atten økter. Uttale-rørledningen er komplett. Nå bygger vi.* 🏗️
 *(Eighteen sessions. The pronunciation pipeline is complete. Now we build.)*
+
+---
+
+### March 25, 2026 — The Reflective→Reflexive Flip (Arnsten 1998/2015) 🧠⚡
+
+**Micro-topic:** How acute stress neurochemically shuts down the PFC and hands control to the amygdala/striatum — and why José froze in the BCG interview on March 20.
+
+**Sources:** Arnsten 1998 ("The Biology of Being Frazzled," *Science*); Arnsten 2015 ("Stress weakens prefrontal networks," *Nature Neuroscience*); Woo et al. 2021 ("Chronic Stress Weakens Connectivity in the Prefrontal Cortex")
+
+---
+
+#### Key Findings (5 bullets):
+
+- **The inverted U:** Both dopamine (D1) and norepinephrine (NE) follow inverted-U dose-response curves in the PFC. Moderate levels = optimal working memory, attention, and flexible reasoning. Too high (acute stress) OR too low (fatigue/boredom) = PFC goes offline. This is why José can solve case problems at home but freezes in a live interview — the catecholamine spike from interview stress pushes him past the peak.
+
+- **The flip is FAST and AUTOMATIC:** Under uncontrollable stress, high NE activates α1-adrenoceptors and high DA activates D1 receptors, which open potassium channels in PFC pyramidal neurons → weakened synaptic connections → PFC "taken offline." Simultaneously, the same catecholamines STRENGTHEN amygdala (conditioned fear) and striatum (habitual responses). The brain literally flips from **reflective** (PFC: flexible, novel reasoning) to **reflexive** (striatum: practiced habits, rote responses). This is not a choice. It's neurochemistry.
+
+- **Only HABITUAL responses survive the flip:** This is the killer insight for BCG prep. When PFC goes offline, the striatum takes over — but the striatum only runs *practiced, procedural* responses. Novel reasoning (like improvising a case framework) requires PFC. So under interview stress, José can only access what he's drilled to automaticity. RASS needs to be **striatal** (over-practiced habit) not **cortical** (intellectual understanding). The Mar 20 freeze wasn't nerves — it was his PFC going offline and finding nothing procedural to fall back on.
+
+- **Uncontrollability is the key variable:** Arnsten emphasizes that *uncontrollable* stress is what triggers the flip. Predictable, controllable stressors don't impair PFC as much. **Teaching implication:** build José's sense of control in high-stakes situations. Interview prep = make the format predictable (mock interviews), the framework automatic (drill RASS 50+ times), and the emotional response practiced (expressive writing before, per Ramirez & Beilock). Control the controllables → reduce the catecholamine spike → keep PFC online longer.
+
+- **Chronic stress causes ARCHITECTURAL damage:** Woo et al. 2021 found that chronic stress doesn't just temporarily impair PFC — it causes dendritic retraction (spines shrink, connections weaken) in PFC while dendrites EXPAND in the amygdala. The reflective→reflexive bias becomes structural. **For José:** his chronic anxiety/ASD baseline may mean his PFC-amygdala balance already tilts reflexive under lower stress thresholds than neurotypical peers. This makes procedural drilling EVEN MORE important — his stress floor is higher, so the window of PFC availability is narrower.
+
+---
+
+#### Direct Application to Our Teaching Framework:
+
+| Principle | Application |
+|-----------|-------------|
+| **Inverted U** | Lessons should maintain moderate arousal — not too relaxed (boring), not too pressured (PFC offline). The "escape hatch" ("10 more minutes, then we stop") keeps stress controllable. |
+| **Only habits survive** | Any skill needed under pressure (Norwegian oral exam, BCG interview) must be drilled past intellectual understanding into procedural automaticity. Blocked practice → random practice → embedded in conversation = the motor learning pipeline we already built for pronunciation. |
+| **Controllability** | Preview lesson structure at start ("Today: 5 min retrieval, 10 min new grammar, 5 min production"). Predictability = controllability = lower catecholamine release = PFC stays online. |
+| **HIPPEA intersection** | A HIPPEA brain generates high-precision prediction errors → higher catecholamine response to novelty/uncertainty → faster PFC shutdown. José's stress threshold is genuinely lower. Not weakness — neurochemistry. |
+| **Expressive writing** | Ramirez & Beilock's worry-dumping works BECAUSE it offloads anxious rumination from working memory, reducing the cognitive load that competes with PFC function during the catecholamine spike. The mechanism is now clearer. |
+
+---
+
+#### One Sentence Summary:
+
+**Under stress, the brain flips from flexible thinking (PFC) to habitual responding (striatum) — so anything José needs under pressure must be drilled to automaticity, not just understood.**
+
+*Stress tar PFC-en offline. Bare vaner overlever. Drill det.* ⚡
+*(Stress takes PFC offline. Only habits survive. Drill it.)*
 
 ---
