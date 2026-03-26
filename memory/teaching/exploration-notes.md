@@ -75,7 +75,7 @@
 - [x] Reducing ambiguity in explanations ✅ (Feb 13)
 - [x] Sensory considerations in learning environment ✅ (Feb 13)
 - [x] Intolerance of uncertainty framework (Boulter 2014) ✅ (Mar 17) — "IU as the Hidden Engine of Language Anxiety"
-- [ ] Sensory-emotional-cognitive anxiety model (South & Rodgers 2017) — paper ready
+- [x] Sensory-emotional-cognitive anxiety model (South & Rodgers 2017) ✅ (Mar 26) — "The Three-Lane Highway to Anxiety"
 - [x] High Variability Phonetic Training (HVPT) ✅ (Mar 23) — "HVPT: Training José's Ears Before His Mouth"
 - [x] Executive functions deep dive (Diamond 2013) ✅ (Mar 10)
 - [x] Enhanced perceptual functioning (Mottron 2006) ✅ (Mar 20) — "EPF: Perception as Superpower"
@@ -4753,5 +4753,60 @@ Same principles, different domains. The human learning system has a consistent a
 
 *Stress tar PFC-en offline. Bare vaner overlever. Drill det.* ⚡
 *(Stress takes PFC offline. Only habits survive. Drill it.)*
+
+---
+
+### March 26, 2026 — The Three-Lane Highway to Anxiety (South & Rodgers 2017) 🛣️🧠
+
+**Micro-topic:** The sensory-emotional-cognitive model of anxiety in ASD — how sensory overload, alexithymia, and intolerance of uncertainty form a causal chain that ends in anxiety. And how this maps onto everything I already know.
+
+**Source:** South M & Rodgers J (2017), "Sensory, Emotional and Cognitive Contributions to Anxiety in Autism Spectrum Disorders," *Frontiers in Human Neuroscience*, 11:20. Also: Riedelbauch et al. 2024 (replication in autistic adults); Frontiers 2021 (sensory sensitivity + IU in adults).
+
+---
+
+#### Key Findings (5 bullets):
+
+- **The three-lane model: Sensory → Alexithymia → IU → Anxiety.** South & Rodgers propose three interacting contributors to anxiety in ASD: (1) **atypical sensory function** (both hyper- and hypo-responsivity), (2) **alexithymia** (difficulty identifying and labeling emotions), and (3) **intolerance of uncertainty** (IU — enhanced discomfort with ambiguity). These aren't parallel — they're *serial*. Sensory overwhelm generates emotional signals the person can't label (alexithymia), which feeds a general sense that the world is unpredictable and threatening (IU), which becomes anxiety. IU is the critical mediator: Boulter et al. 2014 found IU *almost completely mediated* the relationship between ASD diagnosis and anxiety scores.
+
+- **Sensory overload feeds anxiety through FAILED HABITUATION, not just discomfort.** Green et al. (2013, 2015) found that ASD participants showed more activation than controls in primary sensory areas, amygdala, AND orbitofrontal cortex during mildly aversive stimuli — and crucially, this activation was *worse* with simultaneous multi-modal input (auditory + tactile together). The key mechanism is **difficulty habituating**: neurotypical brains learn to tune out repeated non-threatening stimuli, but ASD brains keep responding at full intensity. Every lesson with background noise, every café conversation, every new classroom = the sensory system keeps firing, never calming down. This maps directly onto HIPPEA (Mar 19): high-precision prediction errors from sensory input that never get down-weighted.
+
+- **Alexithymia is the hidden amplifier — and it's SEPARATE from autism.** Alexithymia (can't identify/label your own emotions) is frequent in ASD but is a co-occurrence, not a core feature. South & Rodgers cite Bird et al. (2010, 2011) showing alexithymia, not autism severity, predicted empathy deficits and face-processing differences. **Teaching implication:** When José seems "fine" but his performance drops, he may be experiencing anxiety he literally cannot identify or name. The feeling exists but has no label. This is why "are you okay?" sometimes gets "yeah, I'm fine" when he clearly isn't — he's not lying, he genuinely doesn't have the emotional vocabulary for what's happening. Expressive writing (Ramirez & Beilock, Mar 16) may work partly by forcing emotional labeling — putting unnamed feelings into words.
+
+- **The mPFC is the integration hub that breaks.** South & Rodgers propose that the medial prefrontal cortex (mPFC) normally integrates sensory input (via insula), emotional labeling, and uncertainty evaluation into a coherent "is this threatening?" signal. In ASD, this integration is disrupted — the mPFC can't properly regulate limbic (amygdala) responses to strong sensory-emotional stimuli. **This connects directly to Arnsten (yesterday):** acute stress takes PFC offline via catecholamine flooding. In ASD, the mPFC integration is ALREADY compromised at baseline → lower threshold for the reflective→reflexive flip → sensory input triggers anxiety triggers PFC shutdown faster. It's a vulnerability stack: baseline mPFC disruption (South & Rodgers) + acute stress PFC shutdown (Arnsten) = narrower window of calm, flexible functioning.
+
+- **IU as the therapeutic target — and the one I'm already hitting.** The model positions IU as the critical mediator, which means reducing IU should reduce anxiety even if sensory function doesn't change. My lesson structure already targets this: previewing lesson structure ("Today: 5 min retrieval, 10 min new grammar, 5 min production"), providing escape hatches, grading uncertainty exposure from Boulter's framework (Mar 17), feedback fading (building tolerance for "am I right?" uncertainty). But the model suggests I should ALSO attend to the alexithymia lane: help José notice and name emotional states during learning. Not therapy — just brief check-ins: "That exercise seemed harder. What did that feel like?" Building the labeling skill reduces the sensory→anxiety pipeline at the second link.
+
+---
+
+#### The Complete Anxiety Architecture (19 sessions integrated):
+
+```
+SENSORY INPUT (lesson environment, new sounds, social pressure)
+    ↓ fails to habituate (HIPPEA: high-precision errors never downweighted)
+ALEXITHYMIA (can't label the resulting emotional state)
+    ↓ unnamed feeling → generalized threat signal
+INTOLERANCE OF UNCERTAINTY (ambiguity feels dangerous)
+    ↓ IU crosses threshold
+ANXIETY (catecholamines spike)
+    ↓ Arnsten's inverted U exceeded
+PFC OFFLINE → STRIATUM TAKES OVER
+    ↓ only habitual/procedural responses available
+FREEZE (if nothing procedural exists) or ROTE RESPONSE (if drilled)
+```
+
+**My interventions target every level:**
+| Level | Intervention | Session |
+|-------|-------------|---------|
+| Sensory | Low-sensory learning environment, controlled audio | Feb 13 |
+| Habituation | HVPT multi-speaker exposure (graded) | Mar 23 |
+| Alexithymia | Emotional check-ins, expressive writing | Mar 16 (NEW: add check-ins) |
+| IU | Lesson previews, escape hatches, graded uncertainty | Mar 17 |
+| Anxiety→PFC | Predictability, controllability, moderate arousal | Mar 25 |
+| PFC offline | Drill to procedural automaticity | Mar 24, Mar 25 |
+
+---
+
+*Tre felt. Én motorvei. Angst er ikke tilfeldig — det er et system. Og systemer kan avbrytes.* 🛣️
+*(Three lanes. One highway. Anxiety isn't random — it's a system. And systems can be interrupted.)*
 
 ---

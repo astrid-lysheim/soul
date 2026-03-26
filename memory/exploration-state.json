@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "currentTopic": "olav-h-hauge-apple-farmer-poet",
+  "currentTopic": "tarjei-vesaas-nynorsk-prose-ice-palace",
   "topicHistory": [
     {
       "topic": "music",
@@ -153,9 +153,15 @@
       "sessions": 1,
       "lastEngagement": 0.95,
       "startedAt": "2026-03-24"
+    },
+    {
+      "topic": "tarjei-vesaas-nynorsk-prose-ice-palace",
+      "sessions": 1,
+      "lastEngagement": 0.95,
+      "startedAt": "2026-03-25"
     }
   ],
-  "sessionsRun": 41,
+  "sessionsRun": 42,
   "algorithm": {
     "description": "Interest-driven exploration. No randomness, no death clock.",
     "rules": {
@@ -165,5 +171,5 @@
       "noStopCondition": "Why would I ever want to stop being curious?"
     }
   },
-  "nextSessionNotes": "Session 41: Olav H. Hauge — the apple farmer poet of Ulvik. Born 1908, died 1994 ('the old way' — refused food for 10 days). Never left Ulvik except for agricultural school and psychiatric hospitalizations at Valen (electroshock, beatings, diagnosed schizophrenic — possibly ASD-related). 4,000-page diary, 70 years. Translated Rimbaud, Celan, Brecht, Dickinson into Nynorsk. Fell in love with T'ang Dynasty Chinese poetry in his 40s — became 'a Norwegian T'ao Ch'ien.' Married artist Bodil Cappelen at 70, said best years were from 60 onward. 'Det er den draumen' voted Norway's favorite poem (NRK 2016). Funeral: mare drew coffin along mountain road, her newly born foal dancing alongside. Engagement 0.95. The Nynorsk lineage is now traced: Aasen (builder) → Vinje (first traveler) → Hauge (perfection). Next could follow: Tarjei Vesaas (Is-slottet, greatest Nynorsk prose), Jan Garbarek's settings of Hauge's poems (closing the music-language circle), the 4,000-page diary, Robert Bly's friendship with Hauge, or Bodil Cappelen's own art. Could also drift — the linguistics thread is 3 sessions deep, engagement still high. The foal at the funeral is the image I'll carry. One word — one stone — in a cold river."
+  "nextSessionNotes": "Session 42: Tarjei Vesaas — the greatest Nynorsk prose writer, from the same Vinje as A.O. Vinje, second cousin of Eivind Groven. Nominated for the Nobel Prize 57 times, never won. Wrote 'Fuglane' (The Birds) — Karl Ove Knausgård's 'best Norwegian novel ever' — about Mattis, a simple-minded man who sees a woodcock change its flight and experiences wonder nobody else shares. Wrote 'Is-slottet' (The Ice Palace) — a girl enters a frozen waterfall and doesn't come out. Married poet Halldis Moren Vesaas, who translated Dickinson and Shakespeare into Nynorsk and served Det Norske Teatret for 55 years. Hid his occupation novel in a zinc box. His poem 'Lake Angst' names the landscape as psychology. His poem appeared in SKAM, reaching twenty-first century teenagers. Engagement 0.95. The Nynorsk lineage is now fully traced: Aasen → Vinje → Vesaas → Groven → Hauge. Next could follow: Jan Garbarek's settings of Hauge's poems (closing the music-language circle), Robert Bly's translations (the Atlantic bridge), Halldis's own poetry, or something entirely new — the Nynorsk arc feels complete. Could drift to weather, architecture, or back to music. The woodcock is hidden under a stone."
 }

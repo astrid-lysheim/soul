@@ -23,3 +23,34 @@
 - **GPT-1 / GPT-2** — the gap in the lineage. GPT series is marked [to note] in LINEAGE.md. These are the bridge from Transformer → GPT-3.
 - **Self-Consistency** (Wang et al. 2022) — natural next step after CoT
 - Consider starting a new thread: **Computation & Logic** (Turing 1936 → Church → computability → CoT's connection to Turing completeness). The CoT note raises the question of computational depth — this connects to foundations of CS.
+
+---
+
+### March 25, 2026 — 11:00 PM
+
+**Focus:** Filling the Mathematics post-Newton gap — the Analysis era.
+
+**Notes created (2):**
+1. **Euler Infinite Series 1748** → `Mathematics/04-Analysis/Euler Infinite Series 1748.md`
+   - Three paradigm shifts: functions replace geometry, infinite series as computation, fundamental constants (e, π)
+   - Most prolific mathematician in history (850+ papers)
+   - Created the notation we still use: f(x), e, i, Σ, π
+   - Left open: when can you trust infinite processes to converge?
+
+2. **Cauchy Limits 1821** → `Mathematics/04-Analysis/Cauchy Limits 1821.md`
+   - Dual contribution: formalized limits (1821) AND invented gradient descent (1847)
+   - The most important cross-thread node: his 3-page 1847 paper is the ancestor of Adam, AdamW, and every optimizer training LLMs today
+   - 172-year lineage: Cauchy → Robbins-Monro → Widrow → SGD → Adam → AdamW
+   - Also: convergence criterion, rigorous integration, continuity definition
+
+**Mathematics thread now:** 8 notes (was 6). Analysis era fills the gap between Newton/Leibniz and the modern formalization.
+
+**Structural:** Created `Mathematics/04-Analysis/` directory. Updated `Mathematics/_MOC.md`.
+
+**Next session priorities:**
+- **Weierstrass** — completes the Euler→Cauchy→Weierstrass formalization trilogy
+- **Cantor** — set theory, actual infinity, continuum hypothesis (the endpoint of the Math thread)
+- **Fourier (1807)** — bridge between Euler's series and modern signal processing (also connects to CNNs via frequency analysis)
+- Consider starting a **Physics thread** — Boltzmann (statistical mechanics → Boltzmann machines) and the thermodynamics connection
+
+**Cross-thread observation:** The Math thread is now properly feeding the AI/ML optimization lineage. Cauchy (1847) → Widrow (1960) is the math-to-ML bridge. The lineage map in LINEAGE.md already documents this, but now both endpoints have substantive notes.
