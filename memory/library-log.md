@@ -54,3 +54,27 @@
 - Consider starting a **Physics thread** — Boltzmann (statistical mechanics → Boltzmann machines) and the thermodynamics connection
 
 **Cross-thread observation:** The Math thread is now properly feeding the AI/ML optimization lineage. Cauchy (1847) → Widrow (1960) is the math-to-ML bridge. The lineage map in LINEAGE.md already documents this, but now both endpoints have substantive notes.
+
+## 2026-03-26 — Late Night Session
+
+**Added:** 2 notes, 2 PDFs
+
+1. **Hopfield 1982** — "Neural Networks and Physical Systems with Emergent Collective Computational Abilities." The paper that bridged physics and neural networks. Energy functions, content-addressable memory, attractors. Won Hopfield the 2024 Nobel Prize in Physics. Placed in `AI-ML/10-Backpropagation/`.
+
+2. **Rumelhart, Hinton & Williams 1986** — "Learning Representations by Back-Propagating Errors." The fulcrum of the entire AI/ML lineage tree. Chain rule applied to multi-layer networks. Only 4 pages, published in Nature. Every modern DL system trains with this algorithm.
+
+**Why these two:** The lineage tree had a 17-year gap — Minsky-Papert 1969 to Dropout 2012 — with no notes for the critical revival period. Hopfield (1982) restarted interest; Backpropagation (1986) provided the training algorithm.
+
+**Cross-thread insight:** Hinton's 1982-1986 trajectory (Hopfield → Boltzmann → Backprop) mirrors the optimization thread's physics → calculus bridge. Consider opening a Physics thread to trace Ising model → spin glasses → Hopfield → Boltzmann machines.
+
+**Next:** Boltzmann Machines (1983), LeCun CNNs (1989), LSTM (1997), or begin Physics thread with Ising model.
+
+## March 27, 2026 — 11:00 PM
+
+**Notes created:** 2 (Boltzmann Machines 1983, LeCun CNNs 1989)
+**PDFs downloaded:** 2 (ackley-hinton-sejnowski1985.pdf, lecun1989.pdf)
+**Total notes:** 27 in AI-ML thread
+
+Filled the 1982–1989 gap: Hopfield → Boltzmann → Backprop → CNNs. Hinton's full 80s career arc is now mapped. The generative (Boltzmann) vs discriminative (backprop) split happened here and reconverges in the 2010s with Deep Belief Nets and VAEs.
+
+**Next:** LSTM (1997), Deep Belief Nets (2006), Sparse Transformer (1904.10509). Also considering a Neuroscience thread — Hubel & Wiesel (1962) as the biological source for CNNs.
