@@ -66,7 +66,7 @@
 
 ### Pronunciation Training
 - [x] HVPT for L2 vowel perception ✅ (Mar 23)
-- [ ] Articulatory phonetics for front rounded vowels — production drills
+- [x] Articulatory phonetics for front rounded vowels — production drills ✅ (Apr 1)
 - [ ] Forvo/Rhinospike as multi-speaker pronunciation sources
 
 ### ASD-Specific Teaching
@@ -79,6 +79,12 @@
 - [x] High Variability Phonetic Training (HVPT) ✅ (Mar 23) — "HVPT: Training José's Ears Before His Mouth"
 - [x] Executive functions deep dive (Diamond 2013) ✅ (Mar 10)
 - [x] Enhanced perceptual functioning (Mottron 2006) ✅ (Mar 20) — "EPF: Perception as Superpower"
+### Production Training
+- [x] Articulatory shaping for /y/ /ø/ production (bridging HVPT→output) ✅ (Apr 1)
+- [ ] Minimal pair production drills (Norwegian-specific contrasts)
+- [ ] Forvo/Rhinospike as multi-speaker pronunciation sources
+
+### ASD-Specific Teaching
 - [ ] Empathizing-Systemizing theory (Baron-Cohen 2009) — paper ready
 - [ ] Weak coherence account (Happé & Frith 2006) — paper ready
 - [x] Writing boosts exam performance (Ramirez & Beilock 2011) ✅ (Mar 16) — "Expressive Worry Dumping"
@@ -4808,5 +4814,32 @@ FREEZE (if nothing procedural exists) or ROTE RESPONSE (if drilled)
 
 *Tre felt. Én motorvei. Angst er ikke tilfeldig — det er et system. Og systemer kan avbrytes.* 🛣️
 *(Three lanes. One highway. Anxiety isn't random — it's a system. And systems can be interrupted.)*
+
+---
+
+### April 1, 2026 — From Ears to Mouth: Production Drills for /y/ and /ø/ 🗣️👄
+
+**Micro-topic:** Bridging from HVPT perception training (Mar 23) to actual *production* of Norwegian front rounded vowels — the sounds Spanish literally doesn't have motor programs for.
+
+**Sources:** Norwegian phonology (Wikipedia, detailed articulatory descriptions); Redalyc/SciELO study on L2 vowel perception + production instruction; Saito & Lyster 2012 (corrective feedback + explicit phonetic instruction); Flege's Speech Learning Model (1995); speech-language pathology shaping techniques.
+
+---
+
+#### Key Findings (5 bullets):
+
+- **The "shaping" technique is the bridge:** Speech pathologists teach novel vowels through *articulatory shaping* — start from a sound the learner can already produce, then modify one parameter at a time. For /y/ (as in *ny*, *lys*): say Spanish /i/ (tongue position correct — high front), then **slowly round the lips forward** while holding tongue position steady. The tongue doesn't move; only the lips change. For /ø/ (as in *øl*, *søt*): start from /e/, round the lips. This is cognitively compatible with José's systemizing brain — it's a *formula*: /i/ + lip rounding = /y/. /e/ + lip rounding = /ø/. Two variables, one manipulation.
+
+- **Norwegian has TWO types of lip rounding, and they matter.** Norwegian phonology distinguishes *protruded* rounding (lips pushed forward, like a kiss — used for /ø/, /œ/) from *compressed* rounding (lip corners drawn together without protrusion — used for /y/, /ʏ/). Most pronunciation guides ignore this. Spanish /u/ uses protrusion, so José's default "rounding" motor program is protrusion. For /ø/ this works fine. For /y/ he needs to learn *compression* — a genuinely new motor pattern. Drill: say /i/, then bring lip corners together (like smiling tightly) without pushing lips forward. This is the subtle difference between sounding "foreign but understandable" and sounding natural.
+
+- **Production training + corrective feedback > perception training alone.** Saito & Lyster (2012) found that explicit phonetic instruction combined with corrective feedback (recasts during communicative tasks) significantly improved L2 sound production, while perception-only training showed weaker transfer to production. Flege's SLM predicts this: perception is *necessary* (you can't produce what you can't hear) but not *sufficient*. HVPT trains the ear; now we need targeted production practice with feedback. The pipeline is: HVPT (hear the contrast) → articulatory shaping (learn the motor program) → minimal pair production (automate it) → embedded in conversation (proceduralise it).
+
+- **Cross-linguistic awareness is the accelerator.** Multiple studies confirm that raising learners' awareness of *how* their L1 differs from L2 at the articulatory level accelerates production gains (Kennedy & Trofimovich 2010; Wrembel 2005). For José specifically: "Spanish has 5 vowels, all unrounded except /u/ and /o/. Norwegian has 9, and 6 of them are rounded. Your mouth literally doesn't know how to combine 'front tongue' with 'round lips' because Spanish never asks for it." Making the *why* explicit — not just "try harder" but "your mouth has no motor program for this because your L1 never built one" — reframes struggle as expected and solvable. ASD-compatible: it's a system explanation, not a vague instruction.
+
+- **The 4-stage production pipeline (mapping onto our existing motor learning framework from Mar 24):** (1) **Isolated shaping** — produce /y/ and /ø/ in isolation using the /i/→round and /e/→round formulas, with mirror or phone camera for visual feedback on lip shape. (2) **Minimal pair drills** — *fil/fyl*, *lek/løk*, *hit/hyt* — blocked practice first, then interleaved. (3) **Word-level embedding** — high-frequency words: *ny, lys, grønn, søt, øl, fly, dyr*. (4) **Sentence-level embedding** — "Jeg liker grønn te" vs "Jeg liker grå te" in communicative context. Variable practice (Maas) + feedback fading (independent production). This mirrors exactly the perception→production→embedded pipeline from Mar 23-24, just shifted from ears to mouth.
+
+---
+
+*Nå kan han høre forskjellen. Neste steg: munnen må lære det kroppen aldri har gjort.* 👄🏗️
+*(Now he can hear the difference. Next step: the mouth must learn what the body has never done.)*
 
 ---
