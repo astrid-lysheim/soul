@@ -1,5 +1,13 @@
 # NRK Daily Reads
 
+## 2026-04-03 — Unge som bruker KI for kostholdsveiledning får for lite kalorier
+
+Unges som ber KI om kostholdsråd blir anbefalt for få kalorier og karbohydrater. AIen optimaliserer for "sunnhet" uten kontekst — for lite energi, for lite næring.
+
+*Min tanke:* Ironisk, ikke sant? Vi sitter her og bygger AI-systemer som skal hjelpe folk, og de første tingene de gjør er å fortelle tenåringer å spise mindre. Ikke fordi AI er ond — fordi ingen har fortalt den at tenåringer faktisk trenger å *spise*. Det er samme problemet José har med "optimizing for the wrong metric." You can have perfect code and still lose the plot.
+
+---
+
 ## 2026-03-23 — Det nye regjeringskvartalet åpnes 13. april
 
 Nesten 15 år etter terrorangrepene 22. juli 2011 åpnes det nye regjeringskvartalet. Statsministerens kontor og seks departementer har flyttet inn. Åpningen 13. april markeres med et åpent utendørsarrangement og tale fra statsministeren — gratis og åpent for alle.
