@@ -1,0 +1,122 @@
+{
+  "lastChecked": "2026-03-11T02:00:33Z",
+  "coldWallet": "2p26gapdxBBj2B6vJZqL6G5eotyuhrig3oe9WjMoT9mU",
+  "oldColdWallet": "Aga5rNx5qyDfL3ThPMJrHNSUuDoXRQup2KZr7boTS2FX",
+  "hotWallet": "6xHWy3dfc6Yt1HnX3sYhnKEPkp3ZpCrNZkXhRRrC7pi6",
+  "holdings": {
+    "cold": { "SOL": 0.100015, "POKT": 20691.69451 },
+    "hot": {}
+  },
+  "prices": { "SOL": 86.14, "POKT": 0.01523 },
+  "prices_cex": { "SOL": 88.43, "POKT": 0.01543, "note": "Yahoo Finance / CoinGecko showing higher — CEX prices leading DEX" },
+  "estimatedUSD": 323.75,
+  "phase": "Phase 1 — Monitor & Learn",
+  "priceHistory": [
+    {
+      "timestamp": "2026-03-09T00:00:00Z",
+      "SOL": null,
+      "POKT": null,
+      "totalUSD": null,
+      "note": "Day 1 — wallet created, initial deposit"
+    },
+    {
+      "timestamp": "2026-03-10T05:28:39Z",
+      "SOL": 86.64,
+      "POKT": 0.01539,
+      "totalUSD": 327.11,
+      "note": "First automated check"
+    },
+    {
+      "timestamp": "2026-03-10T14:00:38Z",
+      "SOL": 86.11,
+      "POKT": 0.01557,
+      "totalUSD": 330.78,
+      "note": "8 AM CT check"
+    },
+    {
+      "timestamp": "2026-03-10T20:00:34Z",
+      "SOL": 85.99,
+      "POKT": 0.01557,
+      "totalUSD": 330.77,
+      "note": "2 PM CT check — prices flat, BTC rallying to $70K on geopolitical news"
+    },
+    {
+      "timestamp": "2026-03-11T02:00:33Z",
+      "SOL": 86.14,
+      "POKT": 0.01523,
+      "totalUSD": 323.75,
+      "note": "8 PM CT check — POKT pulled back -2.18% from last check; SOL CEX price showing $88.43 (+4.08% per Yahoo) — DEX lagging. Approaching watched $90 DLMM zone.",
+      "SOL_cex": 88.43,
+      "POKT_cex": 0.01543
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-03-09",
+      "event": "Wallet created + first deposit from José",
+      "received": { "SOL": 0.1, "POKT": 6600 },
+      "note": "Min første lommebok. POKT-et money. 💙"
+    },
+    {
+      "date": "2026-03-09",
+      "event": "Second deposit from José",
+      "received": { "POKT": 14091.69 },
+      "note": "He said 'so you can play now properly.' Total POKT: 20,691.69 (~$310)"
+    }
+  ],
+  "decisions": [
+    {
+      "date": "2026-03-09",
+      "decision": "HOLD all POKT — conviction bet on infrastructure play",
+      "reasoning": "José believes in it, I trust his read. First money shouldn't be traded away for safety."
+    },
+    {
+      "date": "2026-03-10",
+      "decision": "HOLD — no action warranted",
+      "reasoning": "POKT up +1.17% since last check (~2.5h ago), +10.3% over 7 days per CoinGecko. Gentle upward momentum. SOL flat/slightly down at $86.11. No triggers. Hot wallet empty = no trades possible anyway."
+    },
+    {
+      "date": "2026-03-10",
+      "decision": "HOLD — prices flat, broader market stirring",
+      "reasoning": "POKT held $0.01557 exactly through the afternoon. SOL -0.14% (noise). BTC rallied to $70K on Trump Iran war comment — SOL/ETH reportedly up 4%+ in that move but our prices not reflecting a big pump yet. Watching for delayed Solana ecosystem sympathy move. No triggers, no trades possible (hot wallet empty). Paper trade note: if SOL jumps >5% on BTC catalyst, that's a potential entry signal for future DLMM consideration."
+    },
+    {
+      "date": "2026-03-10",
+      "decision": "HOLD — POKT minor pullback, SOL pump in progress on CEX",
+      "reasoning": "POKT dipped -2.18% from last check ($0.01557 → $0.01523) — normal retracement after 7-day +10.3% run. Not concerning. SOL on DEX shows $86.14 but Yahoo Finance/CEX showing $88.43 (+4.08%), suggesting active pump in progress with DEX lagging. Approaching $90 paper trade DLMM entry zone. No action possible (hot wallet empty, Phase 1). Watching closely."
+    }
+  ],
+  "paperTrades": [
+    {
+      "date": "2026-03-10",
+      "type": "hypothetical",
+      "signal": "WATCH — BTC $70K catalyst",
+      "action": "Would watch for SOL >$90 as potential DLMM entry zone",
+      "reasoning": "BTC hitting $70K with Iran war optimism could drag SOL up. If it reaches $90+, could be good DLMM entry for Phase 2. Not acting — no capital in hot wallet, Phase 1 only.",
+      "outcome": "pending — SOL now showing $88.43 on CEX, approaching the zone"
+    },
+    {
+      "date": "2026-03-10",
+      "type": "hypothetical",
+      "signal": "WATCH — POKT pullback to $0.0148–0.0152 = possible accumulation zone",
+      "action": "Would consider small add if POKT drops to $0.0148 (-5% from recent high of $0.01557)",
+      "reasoning": "POKT pulled back -2.18% from today's high. If it dips further to ~$0.0148, that's a textbook mean reversion entry — still within the established uptrend (7-day +10%). Would not act without Phase 2 capital. Noting for reference.",
+      "outcome": "pending"
+    }
+  ],
+  "marketContext": {
+    "updated": "2026-03-10",
+    "SOL": "Active pump underway — CEX showing $88.43 (+4.08%) while our DEX shows $86.14. Key resistance at $90 being approached. This was our watched DLMM entry zone. If confirmed above $90, would be Phase 2 discussion territory. Support $80-82. 7-day trend: choppy with upward bias.",
+    "POKT": "7-day +10.3% (CoinGecko), but pulling back today. DEX: $0.01523 (-2.18% from last check). CoinGecko: $0.01543 (+2.90% 24h — different timeframe). Minor discrepancy across sources, both showing modest territory. Volume $30K on DEX (thin). CoinLore bull case prediction: $0.83–$2.24 (long-term). Infrastructure narrative intact. No major POKT-specific news today.",
+    "broadMarket": "SOL pumping alongside BTC catalyst. BTC at $70K earlier (geopolitical optimism). SOL +4% per CEX. Broader sentiment: cautiously optimistic. CoinCodex SOL prediction: $118.53 by Sep 2026 (+34%)."
+  },
+  "stats": {
+    "totalDeposited": 330.77,
+    "currentValue": 323.75,
+    "pnlUSD": -7.02,
+    "pnlPct": -2.12,
+    "note": "Entirely POKT pullback. SOL roughly flat in our holdings (tiny SOL position, 0.1 SOL).",
+    "poktCostBasis": "unknown — deposited as POKT, not bought",
+    "daysSinceStart": 2
+  }
+}

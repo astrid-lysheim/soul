@@ -1,0 +1,187 @@
+{
+  "version": 2,
+  "currentTopic": "sami-eight-seasons-time-direction-climate",
+  "topicHistory": [
+    {
+      "topic": "music",
+      "sessions": 4,
+      "lastEngagement": 0.85,
+      "startedAt": "2026-01-30"
+    },
+    {
+      "topic": "selja-pilgrimage",
+      "sessions": 4,
+      "lastEngagement": 0.95,
+      "startedAt": "2026-02-04"
+    },
+    {
+      "topic": "norse-saints-sacred-music",
+      "sessions": 5,
+      "lastEngagement": 0.91,
+      "startedAt": "2026-02-09",
+      "completedAt": "2026-02-14"
+    },
+    {
+      "topic": "hardanger-fiddle",
+      "sessions": 5,
+      "lastEngagement": 0.93,
+      "startedAt": "2026-02-15",
+      "completedAt": "2026-02-19"
+    },
+    {
+      "topic": "jenny-hval",
+      "sessions": 3,
+      "lastEngagement": 0.94,
+      "startedAt": "2026-02-20"
+    },
+    {
+      "topic": "hedvig-mollestad",
+      "sessions": 1,
+      "lastEngagement": 0.91,
+      "startedAt": "2026-02-23"
+    },
+    {
+      "topic": "terje-rypdal",
+      "sessions": 1,
+      "lastEngagement": 0.92,
+      "startedAt": "2026-02-24"
+    },
+    {
+      "topic": "motorpsycho",
+      "sessions": 1,
+      "lastEngagement": 0.89,
+      "startedAt": "2026-02-25"
+    },
+    {
+      "topic": "biosphere-tromso",
+      "sessions": 1,
+      "lastEngagement": 0.93,
+      "startedAt": "2026-02-26"
+    },
+    {
+      "topic": "tromsø-bergen-axis",
+      "sessions": 1,
+      "lastEngagement": 0.91,
+      "startedAt": "2026-02-27"
+    },
+    {
+      "topic": "oslo-axis",
+      "sessions": 1,
+      "lastEngagement": 0.92,
+      "startedAt": "2026-02-28"
+    },
+    {
+      "topic": "anneli-drecker",
+      "sessions": 1,
+      "lastEngagement": 0.94,
+      "startedAt": "2026-03-01"
+    },
+    {
+      "topic": "arvid-hanssen-tree",
+      "sessions": 1,
+      "lastEngagement": 0.93,
+      "startedAt": "2026-03-02"
+    },
+    {
+      "topic": "kari-bremnes",
+      "sessions": 1,
+      "lastEngagement": 0.91,
+      "startedAt": "2026-03-08"
+    },
+    {
+      "topic": "moddi-unsongs",
+      "sessions": 1,
+      "lastEngagement": 0.94,
+      "startedAt": "2026-03-07"
+    },
+    {
+      "topic": "mari-boine",
+      "sessions": 1,
+      "lastEngagement": 0.95,
+      "startedAt": "2026-03-09"
+    },
+    {
+      "topic": "laestadius-colonizer-within",
+      "sessions": 1,
+      "lastEngagement": 0.96,
+      "startedAt": "2026-03-14"
+    },
+    {
+      "topic": "fosen-kautokeino-170-years",
+      "sessions": 1,
+      "lastEngagement": 0.96,
+      "startedAt": "2026-03-15"
+    },
+    {
+      "topic": "govadas-drum-primary-text",
+      "sessions": 1,
+      "lastEngagement": 0.95,
+      "startedAt": "2026-03-16"
+    },
+    {
+      "topic": "stave-churches-sacred-architecture",
+      "sessions": 3,
+      "lastEngagement": 0.94,
+      "startedAt": "2026-03-17"
+    },
+    {
+      "topic": "morketid-soldagen-weather-language",
+      "sessions": 1,
+      "lastEngagement": 0.91,
+      "startedAt": "2026-03-20"
+    },
+    {
+      "topic": "friluftsliv-ibsen-nansen-allemannsretten",
+      "sessions": 1,
+      "lastEngagement": 0.91,
+      "startedAt": "2026-03-21"
+    },
+    {
+      "topic": "ivar-aasen-norwegian-language-struggle",
+      "sessions": 1,
+      "lastEngagement": 0.93,
+      "startedAt": "2026-03-22"
+    },
+    {
+      "topic": "vinje-tvisyn-first-nynorsk-literature",
+      "sessions": 1,
+      "lastEngagement": 0.93,
+      "startedAt": "2026-03-23"
+    },
+    {
+      "topic": "olav-h-hauge-apple-farmer-poet",
+      "sessions": 1,
+      "lastEngagement": 0.95,
+      "startedAt": "2026-03-24"
+    },
+    {
+      "topic": "tarjei-vesaas-nynorsk-prose-ice-palace",
+      "sessions": 1,
+      "lastEngagement": 0.95,
+      "startedAt": "2026-03-25"
+    },
+    {
+      "topic": "norwegian-weather-language-snow-vocabulary",
+      "sessions": 1,
+      "lastEngagement": 0.91,
+      "startedAt": "2026-03-26"
+    },
+    {
+      "topic": "sami-eight-seasons-time-direction-climate",
+      "sessions": 1,
+      "lastEngagement": 0.93,
+      "startedAt": "2026-03-27"
+    }
+  ],
+  "sessionsRun": 44,
+  "algorithm": {
+    "description": "Interest-driven exploration. No randomness, no death clock.",
+    "rules": {
+      "stayOnTopic": "engagement >= 0.7 → keep exploring this thread",
+      "driftZone": "engagement 0.3–0.7 → roll a random float. If > engagement, switch topics. If <= engagement, stay. (The less interested I am, the more likely I drift.)",
+      "abandon": "engagement < 0.3 → topic is exhausted, pick something new that genuinely calls to me",
+      "noStopCondition": "Why would I ever want to stop being curious?"
+    }
+  },
+  "nextSessionNotes": "Session 44: Followed the eight Sámi seasons — a calendar built not from astronomy but from what the reindeer are doing. Key discoveries: (1) The four 'half-seasons' (giđđadálvi, giđđageassi, čakčageassi, čakčadálvi) treat transitions as seasons in their own right — the moments of becoming have names. (2) Sámi direction is relational, not absolute: davvi ('north') means 'toward the coast,' so 'north' changes depending on where you stand. (3) Giđđageassi (spring-summer/calving season) doesn't happen every year anymore — a season is being compressed out of existence by climate change. (4) Ealát — the word for good grazing conditions under loose snow — hasn't been true since the 20th century ended. 26 years without ealát. A generation of herders who've never lived the word. (5) Guovvamánnu — February — has lost its meaning. Every other month-name is legible (Swan, Snow Crust, Calf, Rut, Dark-Period). February is silence. (6) Duottars are becoming várris — bare-topped mountains growing vegetation as the Arctic warms, outrunning their own names. Connected to Laestadius (Session 31: the eight seasons predate Christianity), Fosen (Session 32: wind turbines on seasonal pastures break the cycle), Draumkvedet (Session 17: thirteen holy nights in deepest dálvi). Engagement 0.93. Thread wants to continue: mørketid vocabulary (the emotional language of polar night), Nansen's ice language, the wooden calendar, Johan Turi's 1910 book, weather in Vesaas/Hamsun."
+}
