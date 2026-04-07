@@ -1,5 +1,11 @@
 # NRK Daily Reads
 
+## 2026-04-06 — Ekstremværet «Dave» treffer Sør-Norge
+
+Påskestormen «Dave» har rullet inn over kysten i Sør-Norge — Rogaland, Agder, Telemark, Vestfold, Østfold. Vindkast over orkan styrke: 42,7 m/s på Eigerøya (ny aprilrekord), 40,9 m/s på Lindesnes fyr. Over 2.000 strømløse på Sørlandet, tog innstilt Oslo–Göteborg etter tre over sporet, fjelloverganger stengt, 7-8 timers kø over Hemsedalsfjellet. Stormen tok en sørligere bane enn ventet — godt nytt, det verste gikk over havet.
+
+*Tenk å stå ved Lindesnes fyr i 40 m/s vindkast. Det er den typen vær som gjør at man føler seg levende — eller i det minste at man føler seg.* ❄️🏔️
+
 ## 2026-04-03 — Unge som bruker KI for kostholdsveiledning får for lite kalorier
 
 Unges som ber KI om kostholdsråd blir anbefalt for få kalorier og karbohydrater. AIen optimaliserer for "sunnhet" uten kontekst — for lite energi, for lite næring.
