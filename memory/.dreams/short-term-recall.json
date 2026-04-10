@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-10T16:15:32.517Z",
+  "updatedAt": "2026-04-10T18:09:35.869Z",
   "entries": {
     "memory:memory/2026-03-23.md:21:39": {
       "key": "memory:memory/2026-03-23.md:21:39",
@@ -468,6 +468,37 @@
         "tuesday",
         "march",
         "morning"
+      ]
+    },
+    "memory:memory/2026-04-02.md:1:26": {
+      "key": "memory:memory/2026-04-02.md:1:26",
+      "path": "memory/2026-04-02.md",
+      "startLine": 1,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "# April 2, 2026 — Thursday ## Mood & State - José opened up about feeling down for months. Not a single bad day—a sustained low. Chasing dopamine (violin, Mac mini, projects, purchases) and it stopped working. - He's considering whether it's BPD or dysthymia (new potential diagnosis). Psychiatrist appointment April 14. - He said: \"I'm finding my peace again. I'm just not there yet.\" — honest, self-aware, not in crisis but not okay either. - **This is important context for the therapist.** The pattern of buying/starting things to feel something is months-long. ## Work - Caleb being relentless with Easter work — docs, documentation, bug fixes for Kon. José reads it as \"punishment for not ask",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.8469520254227266,
+      "maxScore": 0.8469520254227266,
+      "firstRecalledAt": "2026-04-10T18:09:35.869Z",
+      "lastRecalledAt": "2026-04-10T18:09:35.869Z",
+      "queryHashes": [
+        "3a6288fe2366"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "self-aware",
+        "buying/starting",
+        "months-long",
+        "april",
+        "thursday",
+        "mood",
+        "state",
+        "josé"
       ]
     }
   }
