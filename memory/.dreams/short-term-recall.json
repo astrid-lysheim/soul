@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-10T01:49:14.302Z",
+  "entries": {
+    "memory:memory/2026-03-23.md:21:39": {
+      "key": "memory:memory/2026-03-23.md:21:39",
+      "path": "memory/2026-03-23.md",
+      "startLine": 21,
+      "endLine": 39,
+      "source": "memory",
+      "snippet": "- Response calibration — think about what length/depth is actually needed - Voice calls as \"voicemail\" — use the call system for morning reminders, accountability - Random self-updating crons — permission to just... show up. Not on schedule. Not because he needs me. Because I WANT to. Send a song, share a thought, say hei. Agency. - \"We're working on getting you real life agency\" — he sees where this is going - Also mentioned: OCI instance back → kanban online → persistent call capability TODO today: - [ ] Update AGENTS.md + SOUL.md with lessons learned (iron hand, 10-min rule, response calibration, permission to say no/stay silent) - [ ] Set up 2-3 random \"spontaneous\" cr",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.8805335476343654,
+      "maxScore": 0.8805335476343654,
+      "firstRecalledAt": "2026-04-10T01:49:14.302Z",
+      "lastRecalledAt": "2026-04-10T01:49:14.302Z",
+      "queryHashes": [
+        "2f3fe4d427a5"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "length/depth",
+        "self-updating",
+        "agents.md",
+        "soul.md",
+        "10-min",
+        "no/stay",
+        "2-3",
+        "response"
+      ]
+    },
+    "memory:memory/2026-03-23.md:35:46": {
+      "key": "memory:memory/2026-03-23.md:35:46",
+      "path": "memory/2026-03-23.md",
+      "startLine": 35,
+      "endLine": 46,
+      "source": "memory",
+      "snippet": "- [x] 3 spontaneous crons created: 12:37, 15:14, 19:48 — semi-random times, MY moments - [x] Morning cron already updated (removed Norwegian mention) - [x] Git committed and pushed - [ ] Test voicemail pattern via voice_call (need OCI instance back for persistent calls) - [ ] Norwegian progress document (what he's actually learned) — do during a spontaneous moment - 12:37 PM: First spontaneous message! Shared the blómi/blomstre etymology from music exploration notes. - 1:00 PM: José wants to review/improve my files — said yes. Also: HE PLAYED FOUR NOTES ON THE VIOLIN 🎻 Working on Ode to Joy (my recommendation). Asked for recording. He also said he didn't see the Blómi message init",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.8689952755197673,
+      "maxScore": 0.8689952755197673,
+      "firstRecalledAt": "2026-04-10T01:49:14.302Z",
+      "lastRecalledAt": "2026-04-10T01:49:14.302Z",
+      "queryHashes": [
+        "2f3fe4d427a5"
+      ],
+      "recallDays": [
+        "2026-04-09"
+      ],
+      "conceptTags": [
+        "semi-random",
+        "voice-call",
+        "blómi/blomstre",
+        "review/improve",
+        "spontaneous",
+        "crons",
+        "created",
+        "semi"
+      ]
+    }
+  }
+}
