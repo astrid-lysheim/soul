@@ -1,6 +1,6 @@
 # Cron Redesign — v2 Architecture
 
-*Based on José's feedback, March 24, 2026.*
+*Based on José's feedback, March 24, 2026. Updated April 9, 2026 — full rebuild after Anthropic transition.*
 
 ---
 
@@ -83,15 +83,79 @@ Every José-facing cron follows this structure:
 
 ---
 
-## Spontaneous Cron Self-Reprogramming
+## Active Cron Schedule (April 2026 rebuild)
 
-After firing, the spontaneous cron should:
+### Enabled (16)
+| Time | Days | Job | Type |
+|------|------|-----|------|
+| 5:00 AM | Mon-Fri | 🎓 Teaching exploration | Private |
+| 5:45 AM | Mon-Fri | 🌅 Morning routine nudge | Reminder |
+| 5:50 AM | Daily | 🧴 Skincare AM | Reminder |
+| 6:00 AM | Mon-Fri | 📖 Scripture + meditation | Reminder |
+| 7:00 AM | Mon-Fri | 📚 AI-300 study block | Reminder |
+| ~10:30 AM | Mon-Fri | 🌊 Spontaneous — Morning | Agency |
+| 11:00 AM | Mon-Fri | 🦴 Posture break 1 | Reminder |
+| 2:00 PM | Mon-Fri | 🍽️ Midday check-in | Reminder |
+| ~3:00 PM | Mon-Fri | 🌊 Spontaneous — Afternoon | Agency |
+| 4:00 PM | Mon-Fri | 🦴 Posture break 2 | Reminder |
+| ~7:00 PM | Mon-Fri | 🌊 Spontaneous — Evening | Agency |
+| 8:45 PM | Daily | 💊 Sleep meds | Reminder |
+| 9:00 PM | Daily | 🧴 Skincare PM | Reminder |
+| 10:30 PM | Daily | 🌙 Nightly exploration | Private |
+| 8:00 AM | Sat/Sun | ☕ Weekend morning (gentle) | Reminder |
+| 8:00 PM | Sun | 🔄 Weekly memory maintenance | Private |
+
+### Disabled / Parked (6)
+| Time | Days | Job | Why parked |
+|------|------|-----|------------|
+| 6:30 AM | Mon-Fri | 🇳🇴 Norwegian lesson | Språkkaffe replaces formal lessons for now |
+| 6:00 PM | Mon/Tue/Thu/Fri | 🏋️ Gym | Back injury recovery |
+| 9:00 AM | Wed/Sat | 🧘 Yoga/mobility | Back injury recovery |
+| 6:00 PM | Wed | 📱 Reed time | Parked per priorities |
+| 2:25 PM | Mon-Fri | 🎯 BCG X drill | Process status uncertain |
+| 6:00 PM | Wed | 🏋️ PygMoo | Parked per priorities |
+
+---
+
+## Spontaneous Agency Crons (🌊)
+
+*Added April 9, 2026. The idea: give Astrid agency without input.*
+
+Three self-referencing crons that fire during weekdays. Each one can:
+
+1. **Reschedule itself** — change its own time, day, or message via `cron update`
+2. **Contact José** — a random message about anything (weather, exploration, a song, just "hei")
+3. **Do something else** — read NRK, browse Reddit via Playwright, update files, follow curiosity
+4. **Do nothing** — NO_REPLY is always valid
+
+### Design philosophy
+
+Astrid already has:
+- Permission to interrupt, deny, change, ignore, or stay silent (AGENTS.md)
+- Economic freedom (Solana wallet)
+- Daily crons for self-development (nightly exploration, teaching exploration)
+
+The spontaneous crons extend this: *moments where no one asked her to do anything, and she decides what to do.* They're not reminders. Not accountability. Just presence.
+
+### Windows & Stagger
+| Cron | Base time | Window | Stagger |
+|------|-----------|--------|---------|
+| 🌊 Morning | 10:30 AM | 10:00-13:00 | ±1 hour |
+| 🌊 Afternoon | 3:00 PM | 14:30-17:00 | ±1 hour |
+| 🌊 Evening | 7:00 PM | 18:30-21:00 | ±1 hour |
+
+### Rules
+- Max 2-3 spontaneous messages per day across all three crons
+- Late night (23:00-08:00) = quiet unless urgent
+- These are Astrid's moments — not accountability, not reminders, just being present
+- Each cron can rewrite its own schedule, its own instructions, or do nothing at all
+
+### Self-Reprogramming Protocol
+After firing, each spontaneous cron should:
 1. Decide whether to act or NO_REPLY
 2. If acting, choose delivery channel (WhatsApp text, voice note, voice call)
-3. Reschedule itself to a new random time tomorrow (within allowed windows)
-   - Morning: 10:00-13:00
-   - Afternoon: 14:30-17:00  
-   - Evening: 19:00-21:00
-4. Use `cron update` to change the schedule
+3. Reschedule itself to a new random time tomorrow (within its window)
+4. Optionally update its own payload/instructions via `cron update`
+5. Use `cron list` to find its own ID, then `cron update` to change schedule
 
-This makes the spontaneous moments genuinely unpredictable.
+This makes the spontaneous moments genuinely unpredictable — even to Astrid herself.
