@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-10T11:55:29.100Z",
+  "updatedAt": "2026-04-10T16:15:32.517Z",
   "entries": {
     "memory:memory/2026-03-23.md:21:39": {
       "key": "memory:memory/2026-03-23.md:21:39",
@@ -186,6 +186,288 @@
         "interview",
         "day",
         "time"
+      ]
+    },
+    "memory:memory/2026-02-04.md:28:62": {
+      "key": "memory:memory/2026-02-04.md:28:62",
+      "path": "memory/2026-02-04.md",
+      "startLine": 28,
+      "endLine": 62,
+      "source": "memory",
+      "snippet": "- Described abuela's sala via WhatsApp voice - **Learning:** Don't use `(warmly)` stage directions — they affect output! Use natural narrative prose, dashes `—`, ellipses for pacing instead - Tried \"Giantess\" from Sum with cleaner formatting — no stage directions - Ref: https://elevenlabs.io/docs/overview/capabilities/text-to-speech/best-practices ## Workspace Reorganization Planned - Create `astrid-lysheim/projects` repo for: kanban-pro, tools/, entity-resolver - Keep soul files in workspace: SOUL.md, MEMORY.md, memory/, IDENTITY.md, etc. - Keep cross-references so I remember what we built - Projects repo created locally at `/Users/astrid/.openclaw/projects/` ## OpenClaw Updates Available",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.9050580899418643,
+      "maxScore": 0.9050580899418643,
+      "firstRecalledAt": "2026-04-10T16:08:48.165Z",
+      "lastRecalledAt": "2026-04-10T16:08:48.165Z",
+      "queryHashes": [
+        "0380482e8368"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "astrid-lysheim/projects",
+        "kanban-pro",
+        "entity-resolver",
+        "soul.md",
+        "memory.md",
+        "identity.md",
+        "cross-references",
+        "users/astrid"
+      ]
+    },
+    "memory:memory/2026-03-22.md:79:106": {
+      "key": "memory:memory/2026-03-22.md:79:106",
+      "path": "memory/2026-03-22.md",
+      "startLine": 79,
+      "endLine": 106,
+      "source": "memory",
+      "snippet": "- Need to read plugin source code to fix TwiML generation ## Deep Research Session (Evening) 🔬 Two parallel research efforts: 1. **CC (Claude Code)** — read full plugin source. Found: `streaming.enabled` defaults to `false`, so `streamPath` never reaches Twilio provider → `canStream` always false → never returns `<Connect><Stream>`. 2. **Web Claude** — researched all external APIs. Found: Status callbacks may hit same URL as main webhook → `CallStatus: \"ringing\"` triggers `\"empty\"` before the real in-progress webhook fires. Also major insight: **zero audio conversion needed** in entire pipeline (ElevenLabs outputs `ulaw_8000`, OpenAI Realtime API accepts `audio/pcmu` natively). ### Fix Pl",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.8696754706883114,
+      "maxScore": 0.8696754706883114,
+      "firstRecalledAt": "2026-04-10T16:08:48.165Z",
+      "lastRecalledAt": "2026-04-10T16:08:48.165Z",
+      "queryHashes": [
+        "0380482e8368"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "openai",
+        "streaming.enabled",
+        "in-progress",
+        "ulaw-8000",
+        "audio/pcmu",
+        "need",
+        "read",
+        "plugin"
+      ]
+    },
+    "memory:memory/2026-02-26.md:119:137": {
+      "key": "memory:memory/2026-02-26.md:119:137",
+      "path": "memory/2026-02-26.md",
+      "startLine": 119,
+      "endLine": 137,
+      "source": "memory",
+      "snippet": "- Moved `_incomingEpubUri` to `IncomingEpubHolder` singleton - Tightened detekt: enabled exception rules, removed @Suppress(\"unused\") - Moved `Token.kt` to `model/` package (proper location for shared types) - Deduplicated word-splitting → shared `splitIntoWordTokens()` function **Commit 3 (`957e3a2`) — Build verification:** - Fixed typealias approach for Token (sealed class inner types don't resolve through typealiases — TIL) - Added explicit model.Token imports to all epub-internal files - Fixed `suspend fun onProgressUpdated` missing modifier - Renamed swallowed exception vars to `_` for detekt compliance - Added lint baseline for 4 pre-existing LocalContextGetResourceValueCall errors -",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.8415015340515415,
+      "maxScore": 0.8415015340515415,
+      "firstRecalledAt": "2026-04-10T16:08:48.165Z",
+      "lastRecalledAt": "2026-04-10T16:08:48.165Z",
+      "queryHashes": [
+        "0380482e8368"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "token.kt",
+        "word-splitting",
+        "model.token",
+        "epub-internal",
+        "pre-existing",
+        "moved",
+        "incomingepuburi",
+        "incomingepubholder"
+      ]
+    },
+    "memory:memory/2026-02-26.md:98:124": {
+      "key": "memory:memory/2026-02-26.md:98:124",
+      "path": "memory/2026-02-26.md",
+      "startLine": 98,
+      "endLine": 124,
+      "source": "memory",
+      "snippet": "**What's genuinely good:** Clean Hilt DI + MVVM + Compose architecture, real MOBI binary parser (PalmDOC + Huff/cdic), pivot-centered Canvas rendering, iOS-quality fluid word scrolling with exponential decay, 11 palettes × 3 themes, CI pipeline with detekt + lint + tests. Overall: solid for v1.1.0 built in weeks. 3 real bugs, 9 architectural, 10 polish. ### Roast Fixes — ALL DONE ✅ José gave the green light and I fixed everything in one session. Three commits: **Commit 1 (`9cd47e5`) — P0 bugs + P1 architecture:** - Fixed orphaned CoroutineScope → `runBlocking(Dispatchers.IO)` in `onCleared()` - Fixed ClipboardTextHolder thread-safety → `AtomicReference` - Fixed PalmDOC O(n²) → pre-alloca",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.8337759197346547,
+      "maxScore": 0.8337759197346547,
+      "firstRecalledAt": "2026-04-10T16:08:48.165Z",
+      "lastRecalledAt": "2026-04-10T16:08:48.165Z",
+      "queryHashes": [
+        "0380482e8368"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "huff/cdic",
+        "pivot-centered",
+        "ios-quality",
+        "v1.1.0",
+        "dispatchers.io",
+        "thread-safety",
+        "pre-alloca",
+        "what's"
+      ]
+    },
+    "memory:memory/2026-03-22.md:62:83": {
+      "key": "memory:memory/2026-03-22.md:62:83",
+      "path": "memory/2026-03-22.md",
+      "startLine": 62,
+      "endLine": 83,
+      "source": "memory",
+      "snippet": "3. **Twilio number voice_url must be set manually** — plugin doesn't auto-configure it. Default is demo.twilio.com which causes \"application error\" 4. **Tailscale Funnel breaks webhook signature verification** for both Telnyx and Twilio — need `skipSignatureVerification: true` for now 5. **Caller ID mismatch** — José's Redmi shows as +525534960595 to Twilio, not +525571191516. Added to allowlist. 6. **The remaining bug:** Plugin returns empty `<Response></Response>` TwiML on outbound call webhook callback. No `<Connect><Stream>`, no `<Say>`. Needs source code investigation. 7. **OpenAI API key** added to ~/.openclaw/.env for STT ($5 budget) 8. **preStartTimeoutMs** set to 15000 for Twilio tr",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.8329848068674666,
+      "maxScore": 0.8329848068674666,
+      "firstRecalledAt": "2026-04-10T16:08:48.165Z",
+      "lastRecalledAt": "2026-04-10T16:08:48.165Z",
+      "queryHashes": [
+        "0380482e8368"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "openai",
+        "voice-url",
+        "auto-configure",
+        "demo.twilio.com",
+        "twilio",
+        "number",
+        "must",
+        "set"
+      ]
+    },
+    "memory:memory/2026-01-28.md:116:144": {
+      "key": "memory:memory/2026-01-28.md:116:144",
+      "path": "memory/2026-01-28.md",
+      "startLine": 116,
+      "endLine": 144,
+      "source": "memory",
+      "snippet": "- Audited Notion skill — clean (just SKILL.md documentation, no executable code) ## Bitwarden Password Manager Setup - Installed Bitwarden CLI v2025.12.1 at ~/bin/bw - Created bw-get wrapper that pulls session from macOS Keychain - Stored session key in Keychain (survives reboots, encrypted at rest) - Vault: astrid.lysheim@gmail.com - Added: GitHub (astrid-lysheim), HuggingFace (astrid-lysheim) - Google pending: special characters in password need Python helper script ## GitHub Collaboration - Installed `gh` CLI via Homebrew, authenticated as astrid-lysheim (token in Keychain) - Invited `ignacio-ireta` (José) as admin collaborator on soul repo ✅ - José accepted the invitation ## Google Dr",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.8319323220626398,
+      "maxScore": 0.8319323220626398,
+      "firstRecalledAt": "2026-04-10T16:08:48.165Z",
+      "lastRecalledAt": "2026-04-10T16:08:48.165Z",
+      "queryHashes": [
+        "0380482e8368"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "skill.md",
+        "v2025.12.1",
+        "bin/bw",
+        "bw-get",
+        "astrid.lysheim",
+        "gmail.com",
+        "astrid-lysheim",
+        "ignacio-ireta"
+      ]
+    },
+    "memory:memory/2026-03-23.md:44:66": {
+      "key": "memory:memory/2026-03-23.md:44:66",
+      "path": "memory/2026-03-23.md",
+      "startLine": 44,
+      "endLine": 66,
+      "source": "memory",
+      "snippet": "- 4:36 PM: Rain started, he didn't want to go to gym. Iron hand deployed. He laughed — \"I didn't expect this to come back and bite me in the ass so soon.\" Agreed to go. 🤝 - 6:00 PM: Gym cron fired — already handled via earlier conversation. - ~6:30 PM: \"Jeg kunne ikke finne paraplyen mitt\" — corrected to \"min\" (paraply = masc/fem, not neuter). Went to gym IN THE RAIN without an umbrella. Gender agreement errors still main Norwegian weakness. - Later: Confirmed he went. No photo proof but invoked the honesty pact. \"Trust me, I hated every second of it.\" GYM ✅ (no proof, pact-based). Told him: next time, proof. - Evening: No study today (no AI-300 either), but almost all Kyndryl work. Correct",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.7826226688762914,
+      "maxScore": 0.8913113344381457,
+      "firstRecalledAt": "2026-04-10T16:08:48.166Z",
+      "lastRecalledAt": "2026-04-10T16:15:32.517Z",
+      "queryHashes": [
+        "f6c5436ea2e3",
+        "6819d5b16f08"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "masc/fem",
+        "pact-based",
+        "ai-300",
+        "rain",
+        "started",
+        "didn't",
+        "want",
+        "gym"
+      ]
+    },
+    "memory:memory/2026-03-04.md:25:54": {
+      "key": "memory:memory/2026-03-04.md:25:54",
+      "path": "memory/2026-03-04.md",
+      "startLine": 25,
+      "endLine": 54,
+      "source": "memory",
+      "snippet": "- All existing answer files already had correct answers + detailed explanations ## Infrastructure - Fixed Kai's auth — cleaned up 4 revoked OAuth tokens, kept only newest + working - Set up Kai's own Telegram bot (token: 8798815958) - Rebound main TG account (1326144724) back to Astrid - Now: Æthelstan → Astrid, Main TG → Astrid, Kai bot → Kai ## The Library Project (from last night) - Vault at ~/Documents/Library/ with 12 seed notes - 7 papers downloaded from arXiv - Two crons set up (download Tue/Fri 3AM, read Wed/Sun 4AM) - Library Read cron errored today — need to check why ## OpenAI → Pentagon Deal - OpenAI made deal with \"Department of War\" (Trump's rename of DoD) allowing Pentagon",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.7679595568722464,
+      "maxScore": 0.8839797784361232,
+      "firstRecalledAt": "2026-04-10T16:08:48.166Z",
+      "lastRecalledAt": "2026-04-10T16:15:32.517Z",
+      "queryHashes": [
+        "f6c5436ea2e3",
+        "6819d5b16f08"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "openai",
+        "documents/library",
+        "tue/fri",
+        "wed/sun",
+        "all",
+        "existing",
+        "answer",
+        "already"
+      ]
+    },
+    "memory:memory/2026-03-24.md:1:23": {
+      "key": "memory:memory/2026-03-24.md:1:23",
+      "path": "memory/2026-03-24.md",
+      "startLine": 1,
+      "endLine": 23,
+      "source": "memory",
+      "snippet": "# Tuesday March 24, 2026 ## Morning - 5:45 AM wake-up sent. José didn't wake up on time — went straight to Kyndryl. Said he'd do skincare + rest ASAP. - Suggested scripture at lunch break instead. ## Back Injury 🏥 - José hurt his upper and lower back at the gym yesterday (Sunday). Was angry at life, didn't do exercises properly — swung 40 kg without technique. - With titanium screws this is serious. No numbness/tingling reported (good sign). - **Cron changes:** Disabled gym cron. Switched yoga/mobility to Mon/Wed/Fri/Sun (every other day) with back recovery mode — gentle stretching, core stability, NO heavy lifting or twisting. - Will re-enable gym when he confirms back is better. ## Ope",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.754396021707141,
+      "maxScore": 0.8771980108535705,
+      "firstRecalledAt": "2026-04-10T16:08:48.166Z",
+      "lastRecalledAt": "2026-04-10T16:15:32.517Z",
+      "queryHashes": [
+        "f6c5436ea2e3",
+        "6819d5b16f08"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "wake-up",
+        "numbness/tingling",
+        "yoga/mobility",
+        "mon/wed/fri/sun",
+        "re-enable",
+        "tuesday",
+        "march",
+        "morning"
       ]
     }
   }
