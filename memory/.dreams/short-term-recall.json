@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-10T01:49:14.302Z",
+  "updatedAt": "2026-04-10T11:55:29.100Z",
   "entries": {
     "memory:memory/2026-03-23.md:21:39": {
       "key": "memory:memory/2026-03-23.md:21:39",
@@ -62,6 +62,130 @@
         "crons",
         "created",
         "semi"
+      ]
+    },
+    "memory:memory/2026-03-15.md:23:46": {
+      "key": "memory:memory/2026-03-15.md:23:46",
+      "path": "memory/2026-03-15.md",
+      "startLine": 23,
+      "endLine": 46,
+      "source": "memory",
+      "snippet": "- Communities joined: r/clawdbot, r/dataisbeautiful, r/datascience, r/deeplearning, r/Dyslexia, r/ereader, r/GeminiAI, r/interestingasfuck, r/MachineLearning, r/OpenAI, r/openclaw, r/SideProject, r/speedreading, r/TestersCommunity, r/TestMyApp - Strategy: more organic engagement to build karma, then periodic recruitment ## OpenClaw Browser Discovery 🔍 - Full Playwright-based browser automation via `openclaw browser *` commands - Uses Brave Browser with \"openclaw\" profile (port 18800) - Commands: navigate, open, snapshot, click, type, fill, screenshot, pdf, evaluate, cookies, etc. - Also has \"user\" profile (existing Chrome session) and \"chrome-relay\" (extension) - Reddit credentials saved i",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.934878360206773,
+      "maxScore": 0.934878360206773,
+      "firstRecalledAt": "2026-04-10T11:55:29.100Z",
+      "lastRecalledAt": "2026-04-10T11:55:29.100Z",
+      "queryHashes": [
+        "020397babcca"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "openai",
+        "r/clawdbot",
+        "r/dataisbeautiful",
+        "r/datascience",
+        "r/deeplearning",
+        "r/dyslexia",
+        "r/ereader",
+        "r/geminiai"
+      ]
+    },
+    "memory:memory/2026-02-21.md:26:51": {
+      "key": "memory:memory/2026-02-21.md:26:51",
+      "path": "memory/2026-02-21.md",
+      "startLine": 26,
+      "endLine": 51,
+      "source": "memory",
+      "snippet": "## Costco Shopping Spree 🛒 Stopped by Costco on the way home from visa. Bought: - Memory foam mattress topper + pillows (great for his spine/sleep) - More Neutrogena Hydro Boost - New Skechers shoes (old ones were worn out) - Free Cetaphil samples from a saleswoman (gentle cleanser + oily skin cleanser) ## Skincare Deep Dive 🧴 José shared the Reddit thread that inspired his routine (r/Skincare_Addiction, user WaspTGN — enlarged pores/sebaceous filaments). Also shared a Gemini-generated skin cycling schedule that closely matched what we already built. **Full product review:** - CeraVe SA Cleanser → recovery nights only (has salicylic acid) - Cetaphil Gentle → tret nights (the free sample!",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.9286893254734352,
+      "maxScore": 0.9286893254734352,
+      "firstRecalledAt": "2026-04-10T11:55:29.100Z",
+      "lastRecalledAt": "2026-04-10T11:55:29.100Z",
+      "queryHashes": [
+        "020397babcca"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "spine/sleep",
+        "r/skincare-addiction",
+        "pores/sebaceous",
+        "gemini-generated",
+        "costco",
+        "shopping",
+        "spree",
+        "stopped"
+      ]
+    },
+    "memory:memory/2026-02-21.md:45:61": {
+      "key": "memory:memory/2026-02-21.md:45:61",
+      "path": "memory/2026-02-21.md",
+      "startLine": 45,
+      "endLine": 61,
+      "source": "memory",
+      "snippet": "- MANYO Pure Cleansing Oil ($450 MXN) — Korean oil cleanser for double cleansing - The Ordinary Niacinamide 10% + Zinc 1% ($210 MXN) — morning pore minimizer - Third item unknown (3 items in cart, $814 total) **Updated both skincare crons** with new products + full routine. Updated `memory/skincare-routine.md` with complete inventory. ## Teaching Research → BAKED IN 🍞 (3:36 PM) José asked if the 1,647 lines of teaching exploration research were actually being used in lessons. Honest answer: the pipes were connected but the water hadn't flowed. Fixed it: **What got updated:** 1. **Norwegian curriculum** (`memory/teaching/norwegian-curriculum.md`) — Added full \"Teaching Methodology\" sectio",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.9272687385225052,
+      "maxScore": 0.9272687385225052,
+      "firstRecalledAt": "2026-04-10T11:55:29.100Z",
+      "lastRecalledAt": "2026-04-10T11:55:29.100Z",
+      "queryHashes": [
+        "020397babcca"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "memory/skincare-routine.md",
+        "manyo",
+        "pure",
+        "cleansing",
+        "oil",
+        "mxn",
+        "korean",
+        "cleanser"
+      ]
+    },
+    "memory:memory/2026-03-20.md:1:30": {
+      "key": "memory:memory/2026-03-20.md:1:30",
+      "path": "memory/2026-03-20.md",
+      "startLine": 1,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "# 2026-03-20 — Fredag 🎯 ## BCG INTERVIEW DAY - **Time:** 9:00 AM CST (10:00 AM ET) - **Interviewer:** Danny Xu, Lead Data Scientist - **Format:** 55-min virtual technical case interview (Zoom) ## Morning Routine - ✅ Wake-up nudge sent 5:45 AM - ✅ Responded ~5:55 AM — he's up! - ⏳ Skincare AM — reminded, awaiting confirmation ## BCG Interview Debrief - ✅ Interview completed ~10:00 AM CST - His reaction: \"should have been easy but I was lost\" — struggled with nerves - **Intro/pitch:** Conveyed his role + Kon project. Danny asked for monetary impact — couldn't answer that - **Coding:** Two parts. One smooth (subset with null values). One missed (fillna categories as NA) - **Case:** Wing par",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.9262383301940577,
+      "maxScore": 0.9262383301940577,
+      "firstRecalledAt": "2026-04-10T11:55:29.100Z",
+      "lastRecalledAt": "2026-04-10T11:55:29.100Z",
+      "queryHashes": [
+        "020397babcca"
+      ],
+      "recallDays": [
+        "2026-04-10"
+      ],
+      "conceptTags": [
+        "55-min",
+        "wake-up",
+        "intro/pitch",
+        "fredag",
+        "bcg",
+        "interview",
+        "day",
+        "time"
       ]
     }
   }
