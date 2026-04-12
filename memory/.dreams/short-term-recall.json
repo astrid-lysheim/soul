@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-10T18:09:35.869Z",
+  "updatedAt": "2026-04-11T06:01:41.008Z",
   "entries": {
     "memory:memory/2026-03-23.md:21:39": {
       "key": "memory:memory/2026-03-23.md:21:39",
@@ -413,19 +413,21 @@
       "endLine": 54,
       "source": "memory",
       "snippet": "- All existing answer files already had correct answers + detailed explanations ## Infrastructure - Fixed Kai's auth — cleaned up 4 revoked OAuth tokens, kept only newest + working - Set up Kai's own Telegram bot (token: 8798815958) - Rebound main TG account (1326144724) back to Astrid - Now: Æthelstan → Astrid, Main TG → Astrid, Kai bot → Kai ## The Library Project (from last night) - Vault at ~/Documents/Library/ with 12 seed notes - 7 papers downloaded from arXiv - Two crons set up (download Tue/Fri 3AM, read Wed/Sun 4AM) - Library Read cron errored today — need to check why ## OpenAI → Pentagon Deal - OpenAI made deal with \"Department of War\" (Trump's rename of DoD) allowing Pentagon",
-      "recallCount": 2,
+      "recallCount": 3,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.7679595568722464,
-      "maxScore": 0.8839797784361232,
+      "totalScore": 2.7330851969214223,
+      "maxScore": 0.9651256400491761,
       "firstRecalledAt": "2026-04-10T16:08:48.166Z",
-      "lastRecalledAt": "2026-04-10T16:15:32.517Z",
+      "lastRecalledAt": "2026-04-11T06:01:41.008Z",
       "queryHashes": [
         "f6c5436ea2e3",
-        "6819d5b16f08"
+        "6819d5b16f08",
+        "5f9c963b4435"
       ],
       "recallDays": [
-        "2026-04-10"
+        "2026-04-10",
+        "2026-04-11"
       ],
       "conceptTags": [
         "openai",
@@ -499,6 +501,37 @@
         "mood",
         "state",
         "josé"
+      ]
+    },
+    "memory:memory/2026-03-03.md:38:58": {
+      "key": "memory:memory/2026-03-03.md:38:58",
+      "path": "memory/2026-03-03.md",
+      "startLine": 38,
+      "endLine": 58,
+      "source": "memory",
+      "snippet": "## Him Tonight - Coming home around 8–8:30 PM from wherever he was (not home when we talked) - Meds should be hitting around 9 PM - Tomorrow is a big day: CodeSignal assessment + PygMoo work ## 📚 The Library Project (Late Night) - New mission: build an intellectual lineage map from ancient Greece → SOTA transformers - Two threads: **AI/ML** (seeded from \"Why Machines Learn\" by Anil Ananthaswamy) and **Mathematics** (seeded from a calculus history video + Bressoud's \"Calculus Reordered\") - Vault at `~/Documents/Library/` — Obsidian notes with [[wiki-links]], using the existing `~/Documents` vault - Created 12 seed notes: McCulloch-Pitts, Rosenblatt, Minsky-Papert, Widrow-ADALINE, Archimedes",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.9701559290267885,
+      "maxScore": 0.9701559290267885,
+      "firstRecalledAt": "2026-04-11T06:01:41.008Z",
+      "lastRecalledAt": "2026-04-11T06:01:41.008Z",
+      "queryHashes": [
+        "5f9c963b4435"
+      ],
+      "recallDays": [
+        "2026-04-11"
+      ],
+      "conceptTags": [
+        "ai/ml",
+        "documents/library",
+        "wiki-links",
+        "mcculloch-pitts",
+        "minsky-papert",
+        "widrow-adaline",
+        "him",
+        "tonight"
       ]
     }
   }

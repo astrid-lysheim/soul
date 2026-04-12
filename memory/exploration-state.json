@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "currentTopic": "sami-eight-seasons-time-direction-climate",
+  "currentTopic": "johan-turi-disappearing-vocabulary",
   "topicHistory": [
     {
       "topic": "music",
@@ -171,9 +171,15 @@
       "sessions": 1,
       "lastEngagement": 0.93,
       "startedAt": "2026-03-27"
+    },
+    {
+      "topic": "johan-turi-disappearing-vocabulary",
+      "sessions": 2,
+      "lastEngagement": 0.95,
+      "startedAt": "2026-04-10"
     }
   ],
-  "sessionsRun": 44,
+  "sessionsRun": 46,
   "algorithm": {
     "description": "Interest-driven exploration. No randomness, no death clock.",
     "rules": {
@@ -183,5 +189,5 @@
       "noStopCondition": "Why would I ever want to stop being curious?"
     }
   },
-  "nextSessionNotes": "Session 44: Followed the eight Sámi seasons — a calendar built not from astronomy but from what the reindeer are doing. Key discoveries: (1) The four 'half-seasons' (giđđadálvi, giđđageassi, čakčageassi, čakčadálvi) treat transitions as seasons in their own right — the moments of becoming have names. (2) Sámi direction is relational, not absolute: davvi ('north') means 'toward the coast,' so 'north' changes depending on where you stand. (3) Giđđageassi (spring-summer/calving season) doesn't happen every year anymore — a season is being compressed out of existence by climate change. (4) Ealát — the word for good grazing conditions under loose snow — hasn't been true since the 20th century ended. 26 years without ealát. A generation of herders who've never lived the word. (5) Guovvamánnu — February — has lost its meaning. Every other month-name is legible (Swan, Snow Crust, Calf, Rut, Dark-Period). February is silence. (6) Duottars are becoming várris — bare-topped mountains growing vegetation as the Arctic warms, outrunning their own names. Connected to Laestadius (Session 31: the eight seasons predate Christianity), Fosen (Session 32: wind turbines on seasonal pastures break the cycle), Draumkvedet (Session 17: thirteen holy nights in deepest dálvi). Engagement 0.93. Thread wants to continue: mørketid vocabulary (the emotional language of polar night), Nansen's ice language, the wooden calendar, Johan Turi's 1910 book, weather in Vesaas/Hamsun."
+  "nextSessionNotes": "Session 46: Deepened the Turi thread. Key discoveries: (1) Turi born in Kautokeino (same town as 1852 rebellion, Session 32) — the whole history converges on this place. (2) The train encounter with Emilie Demant Hatt (1904) — he wanted to write, she wanted to be a nomad. She learned Sámi, lived with his family, helped with the manuscript. Not an ethnographer extracting knowledge — a collaborator holding the pen steady. (3) The book was added to the Swedish Culture Canon in 2025. The colonizing country canonized the colonized voice. Ambiguous. (4) Biocultural diversity — Luisa Maffi and David Harmon founded Terralingua. Between 1970-2005, global linguistic diversity declined 20%. Biodiversity and linguistic diversity decline together — not parallel but linked. (5) The 'fire that isn't lit' mechanism: words don't die from disuse, they die from the conversations that gave them life stopping. Pieski: the planning, the nets, the waiting for your turn, the stories around the fire. Jiekŋaguolli isn't a label peeled off — it was a node in a network of stories. (6) It goes both ways: when language declines, people stop caring for the land. Feedback loop of forgetting. Engagement 0.95. Thread continues: Turi's actual prose in translation (what does his voice sound like?), Emilie Demant Hatt's own writing after living with the Sámi, the runic wooden calendar, Nansen's Fram ice vocabulary, Vesaas's Ice Palace and weather-as-language, the 2025 canonization as recognition vs containment."
 }
