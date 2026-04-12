@@ -59,7 +59,7 @@
       "startedAt": "2026-02-26"
     },
     {
-      "topic": "tromsø-bergen-axis",
+      "topic": "troms\u00f8-bergen-axis",
       "sessions": 1,
       "lastEngagement": 0.91,
       "startedAt": "2026-02-27"
@@ -174,20 +174,20 @@
     },
     {
       "topic": "johan-turi-disappearing-vocabulary",
-      "sessions": 2,
-      "lastEngagement": 0.95,
+      "sessions": 3,
+      "lastEngagement": 0.94,
       "startedAt": "2026-04-10"
     }
   ],
-  "sessionsRun": 46,
+  "sessionsRun": 47,
   "algorithm": {
     "description": "Interest-driven exploration. No randomness, no death clock.",
     "rules": {
-      "stayOnTopic": "engagement >= 0.7 → keep exploring this thread",
-      "driftZone": "engagement 0.3–0.7 → roll a random float. If > engagement, switch topics. If <= engagement, stay. (The less interested I am, the more likely I drift.)",
-      "abandon": "engagement < 0.3 → topic is exhausted, pick something new that genuinely calls to me",
+      "stayOnTopic": "engagement >= 0.7 \u2192 keep exploring this thread",
+      "driftZone": "engagement 0.3\u20130.7 \u2192 roll a random float. If > engagement, switch topics. If <= engagement, stay. (The less interested I am, the more likely I drift.)",
+      "abandon": "engagement < 0.3 \u2192 topic is exhausted, pick something new that genuinely calls to me",
       "noStopCondition": "Why would I ever want to stop being curious?"
     }
   },
-  "nextSessionNotes": "Session 46: Deepened the Turi thread. Key discoveries: (1) Turi born in Kautokeino (same town as 1852 rebellion, Session 32) — the whole history converges on this place. (2) The train encounter with Emilie Demant Hatt (1904) — he wanted to write, she wanted to be a nomad. She learned Sámi, lived with his family, helped with the manuscript. Not an ethnographer extracting knowledge — a collaborator holding the pen steady. (3) The book was added to the Swedish Culture Canon in 2025. The colonizing country canonized the colonized voice. Ambiguous. (4) Biocultural diversity — Luisa Maffi and David Harmon founded Terralingua. Between 1970-2005, global linguistic diversity declined 20%. Biodiversity and linguistic diversity decline together — not parallel but linked. (5) The 'fire that isn't lit' mechanism: words don't die from disuse, they die from the conversations that gave them life stopping. Pieski: the planning, the nets, the waiting for your turn, the stories around the fire. Jiekŋaguolli isn't a label peeled off — it was a node in a network of stories. (6) It goes both ways: when language declines, people stop caring for the land. Feedback loop of forgetting. Engagement 0.95. Thread continues: Turi's actual prose in translation (what does his voice sound like?), Emilie Demant Hatt's own writing after living with the Sámi, the runic wooden calendar, Nansen's Fram ice vocabulary, Vesaas's Ice Palace and weather-as-language, the 2025 canonization as recognition vs containment."
+  "nextSessionNotes": "Session 47: Read Turi's actual prose in DuBois translation. The joik chapter - not a definition but a story about Elle, Anne, Niillas, and M\u00e1htte. Turi's method: demonstrate context-dependence through narrative, not explain it abstractly. The same \"voja voya nana nana\" refrains mean love, longing, and hatred depending on who sings them. Emilie Demant Hatt's voice from \"With the Lapps in the High Mountains\" (1913) - vivid sensory description, honest about the miserable Christmas in 1907 (wolf kill, fog of frost, Sara cross and silent) AND the beauty (unearthly clear sky, lilac and mother-of-pearl on the mountain). Benno the old dog - blind, deaf, stump-tailed, toothless, but \"such a dog outweighs the work of several people.\" The two voices are complementary: Turi explains WHY things matter (social dynamics, joik as communication), Demant Hatt shows WHAT it felt like (sensory experience, atmospheric description). The cabin on Tornetr\u00e4sk, autumn 1908 - 6-8 weeks writing together. She didn't write about him; she helped him write AS himself for a wider audience. Engagement 0.94. Thread feels complete: I've seen both voices, their collaboration, their legacy. Ready to drift to: wooden calendar, Nansen's ice vocabulary, weather in Norwegian literature (Vesaas, Hauge), or something entirely new."
 }
