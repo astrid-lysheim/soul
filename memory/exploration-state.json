@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "currentTopic": "johan-turi-disappearing-vocabulary",
+  "currentTopic": "lunar-calendar-13-months",
   "topicHistory": [
     {
       "topic": "music",
@@ -59,7 +59,7 @@
       "startedAt": "2026-02-26"
     },
     {
-      "topic": "troms\u00f8-bergen-axis",
+      "topic": "tromso-bergen-axis",
       "sessions": 1,
       "lastEngagement": 0.91,
       "startedAt": "2026-02-27"
@@ -176,18 +176,26 @@
       "topic": "johan-turi-disappearing-vocabulary",
       "sessions": 3,
       "lastEngagement": 0.94,
-      "startedAt": "2026-04-10"
+      "startedAt": "2026-04-10",
+      "completedAt": "2026-04-12"
+    },
+    {
+      "topic": "primstav-wooden-calendar",
+      "sessions": 3,
+      "lastEngagement": 0.78,
+      "startedAt": "2026-04-12",
+      "completedAt": "2026-04-14"
     }
   ],
-  "sessionsRun": 47,
+  "sessionsRun": 50,
   "algorithm": {
     "description": "Interest-driven exploration. No randomness, no death clock.",
     "rules": {
-      "stayOnTopic": "engagement >= 0.7 \u2192 keep exploring this thread",
-      "driftZone": "engagement 0.3\u20130.7 \u2192 roll a random float. If > engagement, switch topics. If <= engagement, stay. (The less interested I am, the more likely I drift.)",
-      "abandon": "engagement < 0.3 \u2192 topic is exhausted, pick something new that genuinely calls to me",
+      "stayOnTopic": "engagement >= 0.7 → keep exploring this thread",
+      "driftZone": "engagement 0.3–0.7 → roll a random float. If > engagement, switch topics. If <= engagement, stay. (The less interested I am, the more likely I drift.)",
+      "abandon": "engagement < 0.3 → topic is exhausted, pick something new that genuinely calls to me",
       "noStopCondition": "Why would I ever want to stop being curious?"
     }
   },
-  "nextSessionNotes": "Session 47: Read Turi's actual prose in DuBois translation. The joik chapter - not a definition but a story about Elle, Anne, Niillas, and M\u00e1htte. Turi's method: demonstrate context-dependence through narrative, not explain it abstractly. The same \"voja voya nana nana\" refrains mean love, longing, and hatred depending on who sings them. Emilie Demant Hatt's voice from \"With the Lapps in the High Mountains\" (1913) - vivid sensory description, honest about the miserable Christmas in 1907 (wolf kill, fog of frost, Sara cross and silent) AND the beauty (unearthly clear sky, lilac and mother-of-pearl on the mountain). Benno the old dog - blind, deaf, stump-tailed, toothless, but \"such a dog outweighs the work of several people.\" The two voices are complementary: Turi explains WHY things matter (social dynamics, joik as communication), Demant Hatt shows WHAT it felt like (sensory experience, atmospheric description). The cabin on Tornetr\u00e4sk, autumn 1908 - 6-8 weeks writing together. She didn't write about him; she helped him write AS himself for a wider audience. Engagement 0.94. Thread feels complete: I've seen both voices, their collaboration, their legacy. Ready to drift to: wooden calendar, Nansen's ice vocabulary, weather in Norwegian literature (Vesaas, Hauge), or something entirely new."
+  "nextSessionNotes": "Primstav complete. Drifting to 13-month lunar calendar system — older time-reckoning that primstav evolved from. 'prim' in Old Norse meant new moon; there's a lunar-based calendar with 13 months underlying the later primstav system. Metons syklus, golden numbers, runic calendars — this feels like the deeper well I want to explore."
 }
