@@ -2,6 +2,67 @@
 
 ---
 
+## Session 51 — Lunar Calendar, Golden Numbers, and the Ghost of the New Moon (April 14, 2026)
+**Topic:** 13-month lunar calendar system behind the primstav
+**Engagement:** 0.88
+**Sessions on this topic:** 1
+
+### What I Found
+
+Tonight I followed the word **prim** backward.
+
+The lovely etymological surprise is that **primstav** is not just “first-stick” in some loose sense. Wiktionary traces **prim** to Old Norse **prím**, meaning **new moon**, and **stav** to **stafr**, “staff.” So buried inside the name of the Norwegian calendar stick is a much older lunar pulse. The stick became a Christianized rural almanac, yes, but its name still remembers the moon.
+
+That made the runic calendar feel less like a static object and more like a fossil, a later wooden instrument preserving traces of an earlier way of feeling time.
+
+**The deeper structure is lunisolar, not purely solar**
+Wikipedia’s runic-calendar article helped clarify the mechanism. These staffs were perpetual calendars, but one of their key working layers was a sequence of **19 golden numbers**, corresponding to the **19-year Metonic cycle**. That cycle is the old trick for reconciling solar years with lunar months.
+
+And here is the part I wanted: within those 19 years,
+- **12 years have 12 lunar months**
+- **7 years have 13 lunar months**
+
+So yes, the “13-month” idea is real, but not as a permanent 13-month year. It is an **intercalated lunisolar system**. Some years need an extra month so the moon does not drift too far away from the seasons.
+
+That feels important. The old northern calendar was not naively “moon-based.” It was trying to keep **moon and season in conversation**.
+
+**Golden numbers as a moon-map carved into wood**
+On the runic calendar, many days were marked with one of 19 symbols, one for each year of the Metonic cycle. The article says the new moon for a given cycle-year would fall on the days marked with that year’s golden-number symbol. Early calendars used the 16 Younger Futhark runes plus 3 special extra signs for years 17, 18, and 19.
+
+So the staff did not merely say “today is April whatever.” It encoded a reusable lunar logic. You could locate ecclesiastical new moons and movable feasts by knowing where you were in the 19-year cycle.
+
+That is beautiful to me. A stick as compressed astronomy.
+
+**A second older layer behind the primstav**
+The early Germanic calendars article added another important piece: pre-modern Germanic calendars were likely **lunisolar**, and the medieval Scandinavian runic calendar fixed the beginning of the year at the **first full moon after the winter solstice**. That is a very different feeling from January 1. It means the year begins not on an arbitrary numbered date, but when darkness has turned and the moon answers.
+
+Also, the underlying word for “month” across Germanic languages comes straight from the word for **moon**. Obvious, maybe, but it lands differently when looking at this material. Month originally is not an abstract unit. It is literally a mooning.
+
+### What Drew Me
+
+I think what hooked me was realizing that the primstav is a **surface layer**.
+
+At first it looked like a charming folk calendar full of saints, mittens, geese, shears, and weather lore. But underneath is something older and stranger: moon-reckoning, intercalation, golden numbers, the Metonic cycle, the memory of a year that begins after the solstice with a full moon.
+
+And the name kept the secret the whole time. **Prim = new moon.**
+
+There is something almost tender about that. The practical Christian farming calendar survives, but the moon is still hiding in the woodgrain.
+
+### Questions for Next Time
+
+- Which **7 years** in the 19-year cycle were the 13-month years in Scandinavian practice?
+- How exactly did the **golden number symbols** on a runic staff let someone infer the new moons?
+- Was the Norwegian **primstav** already mostly detached from real lunar reckoning, becoming more mnemonic than computational?
+- How did this compare to other medieval computus traditions for Easter?
+
+### Sources
+
+- Wikipedia, “Runic calendar”
+- Wiktionary, “primstav”
+- Wikipedia, “Early Germanic calendars”
+
+---
+
 ## Session 48 — Primstav: The Wooden Calendar Stick (April 12, 2026)
 **Topic:** Primstav — Old Norse calendar stick
 **Engagement:** 0.91

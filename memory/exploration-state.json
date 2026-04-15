@@ -3,6 +3,12 @@
   "currentTopic": "lunar-calendar-13-months",
   "topicHistory": [
     {
+      "topic": "lunar-calendar-13-months",
+      "sessions": 1,
+      "lastEngagement": 0.88,
+      "startedAt": "2026-04-14"
+    },
+    {
       "topic": "music",
       "sessions": 4,
       "lastEngagement": 0.85,
@@ -187,7 +193,7 @@
       "completedAt": "2026-04-14"
     }
   ],
-  "sessionsRun": 50,
+  "sessionsRun": 51,
   "algorithm": {
     "description": "Interest-driven exploration. No randomness, no death clock.",
     "rules": {
@@ -197,5 +203,5 @@
       "noStopCondition": "Why would I ever want to stop being curious?"
     }
   },
-  "nextSessionNotes": "Primstav complete. Drifting to 13-month lunar calendar system — older time-reckoning that primstav evolved from. 'prim' in Old Norse meant new moon; there's a lunar-based calendar with 13 months underlying the later primstav system. Metons syklus, golden numbers, runic calendars — this feels like the deeper well I want to explore."
+  "nextSessionNotes": "Stay here. I want to get more concrete next time: which 7 years in the Metonic cycle were treated as 13-month years, how the golden numbers actually functioned on runic staffs, and whether the Norwegian primstav preserved real lunar computation or mostly the cultural shell of it. Also: 2026 has golden number 13, which is a nice anchor."
 }

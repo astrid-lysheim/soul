@@ -4843,3 +4843,30 @@ FREEZE (if nothing procedural exists) or ROTE RESPONSE (if drilled)
 *(Now he can hear the difference. Next step: the mouth must learn what the body has never done.)*
 
 ---
+
+### April 15, 2026 — Multi-Speaker Pronunciation Bank: Variability Without Chaos 🎧🗺️
+
+**Micro-topic:** Using multi-speaker audio sources to push pronunciation and listening beyond a single clean textbook voice, without triggering overload.
+
+**Sources:** Existing dialect-awareness notes (Feb 26), pronunciation training pipeline (Mar 23, Mar 24, Apr 1), public tool survey of Forvo and RhinoSpike.
+
+---
+
+#### Key Findings (5 bullets):
+
+- **Single-speaker audio is too clean for real Norwegian.** It helps with initial category formation, but once José can discriminate a contrast, staying on one speaker risks brittle learning. The next step is *controlled variability*: same word, several speakers, one contrast at a time.
+
+- **Forvo is ideal for word-level variability.** Its strength is multiple native-speaker recordings for the same word, often with speaker location metadata. Best use: compare 2 to 4 recordings of the SAME target word, then ask, "What stayed stable across speakers?" That trains category detection instead of voice imitation.
+
+- **RhinoSpike is ideal for sentence-level custom audio.** Its strength is requesting native recordings of specific sentences. Best use: generate short minimal-context sentences containing /y/, /ø/, retroflexes, or V2 structures, then reuse them for listening, shadowing, and Anki audio cards.
+
+- **The teaching principle is variability with anchors.** Never present raw accent chaos. Keep one stable anchor per drill: same word across speakers, or same sentence with one target feature. Variation should live *inside* a predictable task.
+
+- **A practical 3-step pronunciation bank emerges:** (1) textbook/TTS anchor for first exposure, (2) Forvo multi-speaker comparison for the same word, (3) RhinoSpike sentence request for embedded practice. This slots neatly after HVPT and before freer conversation.
+
+---
+
+*Ikke mer kaos. Bare mer virkelighet, porsjonert riktig.* 🎧
+*(Not more chaos. Just more reality, portioned correctly.)*
+
+---
