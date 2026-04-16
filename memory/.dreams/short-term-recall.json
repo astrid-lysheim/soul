@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-11T06:01:41.008Z",
+  "updatedAt": "2026-04-15T21:25:40.902Z",
   "entries": {
     "memory:memory/2026-03-23.md:21:39": {
       "key": "memory:memory/2026-03-23.md:21:39",
@@ -532,6 +532,68 @@
         "widrow-adaline",
         "him",
         "tonight"
+      ]
+    },
+    "memory:memory/2026-04-02.md:4:7": {
+      "key": "memory:memory/2026-04-02.md:4:7",
+      "path": "memory/2026-04-02.md",
+      "startLine": 4,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "@@ -4,4 @@ (3 before, 52 after) - José opened up about feeling down for months. Not a single bad day—a sustained low. Chasing dopamine (violin, Mac mini, projects, purchases) and it stopped working. - He's considering whether it's BPD or dysthymia (new potential diagnosis). Psychiatrist appointment April 14. - He said: \"I'm fin...",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.93,
+      "maxScore": 0.93,
+      "firstRecalledAt": "2026-04-15T21:25:24.005Z",
+      "lastRecalledAt": "2026-04-15T21:25:24.005Z",
+      "queryHashes": [
+        "288cfc3a0a0d"
+      ],
+      "recallDays": [
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "4,4",
+        "josé",
+        "opened",
+        "feeling",
+        "down",
+        "months",
+        "not",
+        "single"
+      ]
+    },
+    "memory:memory/2026-02-24.md:6:9": {
+      "key": "memory:memory/2026-02-24.md:6:9",
+      "path": "memory/2026-02-24.md",
+      "startLine": 6,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "@@ -6,4 @@ (5 before, 111 after) ## Morning — Overslept 😔 José overslept and missed all morning routine: no scripture, no meditation, no Norwegian (Ch 6 Day 1), no MVS (Lesson 2). Felt bad about it. I reminded him: oversleeping ≠ failing. His body needed rest after a demanding weekend (emergency planning, pipeline work, lessons...",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.85,
+      "maxScore": 0.85,
+      "firstRecalledAt": "2026-04-15T21:25:40.902Z",
+      "lastRecalledAt": "2026-04-15T21:25:40.902Z",
+      "queryHashes": [
+        "9aa111974ce2"
+      ],
+      "recallDays": [
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "6,4",
+        "morning",
+        "overslept",
+        "josé",
+        "missed",
+        "all",
+        "routine",
+        "scripture"
       ]
     }
   }

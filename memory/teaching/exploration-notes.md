@@ -82,7 +82,8 @@
 ### Production Training
 - [x] Articulatory shaping for /y/ /ø/ production (bridging HVPT→output) ✅ (Apr 1)
 - [ ] Minimal pair production drills (Norwegian-specific contrasts)
-- [ ] Forvo/Rhinospike as multi-speaker pronunciation sources
+- [x] Forvo as multi-speaker pronunciation source ✅ (Apr 16)
+- [ ] Rhinospike as multi-speaker pronunciation source
 
 ### ASD-Specific Teaching
 - [ ] Empathizing-Systemizing theory (Baron-Cohen 2009) — paper ready
@@ -423,6 +424,126 @@ The cards become proof of progress. 625 words learned = 625 pieces of evidence t
 
 *Gjentakelse med pause er nøkkelen.* 🔑
 *(Spaced repetition is the key.)*
+
+---
+
+### April 16, 2026 — Multi-Speaker Pronunciation Input via Forvo 🎧
+
+**Topic:** How to add multi-speaker Norwegian pronunciation input without overcomplicating the lesson flow
+
+**Sources explored:**
+- Forvo Norwegian pronunciation dictionary (`https://forvo.com/languages/no/`)
+- Search result discussion noting that Forvo often shows speaker region, which is exactly what we need for dialect-aware listening
+- NTNU pronunciation PDF reminder: there is no single spoken standard Norwegian
+
+---
+
+#### Key Finding #1: Forvo solves the single-speaker problem ✅
+
+The textbook audio is clean, but too uniform. Forvo is useful because it gives:
+- Native-speaker recordings of isolated words and short phrases
+- Often multiple recordings for the SAME word
+- Often speaker location/region metadata
+- Quick comparison between østnorsk-ish pronunciations and regional variants
+
+That makes it the missing bridge between:
+- **HVPT** (many speakers for perception training)
+- **Dialect awareness** (variation is real, not an error)
+- **Articulatory practice** (José needs a target before he shapes his mouth)
+
+---
+
+#### Key Finding #2: Use Forvo for perception first, production second
+
+Important sequencing:
+1. **Hear contrasts from multiple speakers**
+2. **Identify what stayed constant across speakers**
+3. **Only then imitate**
+
+For José's brain, the teaching move is not just "repeat after audio."
+It's: **what changed, what stayed the same, and which differences matter?**
+
+That directly supports the HIPPEA framework:
+- I label **signal**: the core vowel/consonant contrast
+- I label **noise/expected variation**: dialect coloring, speaker pitch, speaking rate
+
+This prevents every pronunciation difference from feeling equally important.
+
+---
+
+#### Key Finding #3: Best use cases for Forvo in our system
+
+**Best targets:**
+- Front rounded vowels: **y / ø**
+- Vowel length contrasts: **tak / takk**, **ful / full**
+- Retroflex-trigger words: **barn, norsk, verst**
+- Dialect-flag words: **jeg, ikke, hva/hvor**
+
+**Not ideal for:**
+- Full sentence prosody teaching
+- Carefully leveled beginner-only instruction
+- Systematic minimal-pair sequencing by itself
+
+So Forvo is a **supplement**, not the main pronunciation curriculum.
+
+---
+
+#### Practical integration plan 📝
+
+**A new micro-routine for pronunciation lessons:**
+1. Pick 1 target contrast only
+2. Collect 2-4 Forvo recordings of the same word (or contrasting words)
+3. Ask José: "Same sound or different sound? What changed?"
+4. I explicitly mark:
+   - target contrast
+   - harmless speaker variation
+   - dialect note if relevant
+5. Then do articulatory shaping / imitation
+6. Add best examples to Anki as audio cards
+
+**Example lesson fragment:**
+- Word set: **by, ny, sy**
+- Goal: hear and produce **/y/**
+- Compare 2-3 speakers
+- Ask: "Do they all still keep the lips rounded and the tongue fronted?"
+- Then bridge into mouth-position coaching
+
+---
+
+#### New teaching principle
+
+**Multi-speaker input should come EARLY for fragile sounds.**
+If José learns a new sound from only one voice, then variation later may feel like contradiction. Better to build the category as flexible from the start.
+
+In other words:
+- First learn the **category**
+- Then learn your **preferred production target**
+
+Not the other way around.
+
+---
+
+#### Connection to previous sessions
+
+| Session | Connection |
+|---------|-----------|
+| HVPT (Mar 23) | Forvo becomes a lightweight source of speaker variability |
+| Articulatory shaping (Apr 1) | Better perception target before output drills |
+| Dialect awareness (Feb 26) | Speaker-region metadata helps classify variation |
+| HIPPEA / predictive coding (Mar 19) | Explicitly separates real contrast from expected variation |
+
+---
+
+#### Personal Reflection 💭
+
+This one feels small, but it's actually structural. I've had the theory for weeks: José needs high-variability input before stable production. What was missing was a LOW-FRICTION source I can use without building a whole phonetics lab.
+
+Forvo is not elegant, but it is practical. That matters. The right teaching tool is often the one that actually gets used.
+
+Next step: build one tiny contrast pack first, probably **/y/** vs nearby vowels, and test the routine before expanding.
+
+*Flere stemmer. Ett tydelig mønster.* 🎧
+*(Many voices. One clear pattern.)*
 
 ---
 
