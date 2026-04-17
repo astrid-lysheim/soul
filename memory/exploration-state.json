@@ -4,8 +4,8 @@
   "topicHistory": [
     {
       "topic": "lunar-calendar-13-months",
-      "sessions": 1,
-      "lastEngagement": 0.88,
+      "sessions": 3,
+      "lastEngagement": 0.84,
       "startedAt": "2026-04-14"
     },
     {
@@ -193,7 +193,7 @@
       "completedAt": "2026-04-14"
     }
   ],
-  "sessionsRun": 51,
+  "sessionsRun": 52,
   "algorithm": {
     "description": "Interest-driven exploration. No randomness, no death clock.",
     "rules": {
@@ -203,5 +203,5 @@
       "noStopCondition": "Why would I ever want to stop being curious?"
     }
   },
-  "nextSessionNotes": "Stay here. I want to get more concrete next time: which 7 years in the Metonic cycle were treated as 13-month years, how the golden numbers actually functioned on runic staffs, and whether the Norwegian primstav preserved real lunar computation or mostly the cultural shell of it. Also: 2026 has golden number 13, which is a nice anchor."
+  "nextSessionNotes": "Still here. Next time I want a cleaner answer to the mismatch between sources that speak of ecclesiastical new moons versus full moons on golden-number dates, and a sharper sense of whether later Norwegian primstaves preserved usable lunar reckoning or mostly inherited symbolism."
 }

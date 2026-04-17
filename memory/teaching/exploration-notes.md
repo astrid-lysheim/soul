@@ -4991,3 +4991,79 @@ FREEZE (if nothing procedural exists) or ROTE RESPONSE (if drilled)
 *(Not more chaos. Just more reality, portioned correctly.)*
 
 ---
+
+### April 17, 2026 — RhinoSpike as the Sentence Layer 🎙️🧩
+
+**Micro-topic:** How RhinoSpike fits into the Norwegian pronunciation pipeline as the sentence-level layer after textbook audio and Forvo word-level variability.
+
+**Sources:** RhinoSpike homepage/about pages, public Norwegian recordings page, existing notes from Feb 26, Mar 23, Apr 1, Apr 15.
+
+---
+
+#### Key Findings (5 bullets):
+
+- **RhinoSpike's value is customization, not scale.** Unlike Forvo, which is strongest for word-level lookup, RhinoSpike lets us request *exactly* the sentence we want recorded by a native speaker. That makes it ideal for tightly controlled drills like one V2 pattern, one /y/ word, or one retroflex target inside a short sentence.
+
+- **The queue/exchange model means it should be used sparingly and strategically.** Recordings are free, but they depend on community response. So the right move is not "request everything" but "request a tiny high-value bank" of reusable sentences. Fewer, better requests.
+
+- **Sentence requests should be short, contrastive, and single-target.** Best pattern: 4 to 8 words, one main pronunciation or grammar target, minimal extra novelty. Example pairs: *Jeg liker ny te.* / *Jeg liker grønn te.* or *I går kjøpte jeg øl.* / *I går kjøpte jeg melk.* Same frame, one contrast.
+
+- **RhinoSpike is the bridge from sound drills to meaning-bearing language.** Textbook/TTS gives the clean anchor. Forvo gives same-word variability across speakers. RhinoSpike then embeds the sound inside a real sentence, which is where José actually needs to hear and eventually produce it. So the emerging stack is now clean: **anchor → variable word → controlled sentence**.
+
+- **It also supports anti-chaos design for HIPPEA/IU.** Because we choose the sentence, we can keep uncertainty low while still introducing real-speaker variation. Same sentence, familiar vocabulary, one target feature. That is exactly the kind of bounded variability José can tolerate productively.
+
+---
+
+#### Practical integration plan 📝
+
+**Use RhinoSpike only for three kinds of requests:**
+1. **Front rounded vowels in sentences** — /y/, /ø/
+2. **Retroflex clusters in sentences** — *barn, norsk, svart, først*
+3. **V2 carrier sentences** where word order stays stable but lexical item changes
+
+**Request design rules:**
+- 1 target per sentence
+- max ~8 words when possible
+- familiar vocab only
+- ask for Bokmål / natural everyday pronunciation
+- build in minimal pairs or near-minimal frames
+
+**First tiny request bank:**
+- *Jeg liker ny te.*
+- *Jeg liker grønn te.*
+- *I går kjøpte jeg øl.*
+- *I går kjøpte jeg ny bok.*
+- *Barnet bor i Norge.*
+- *Norsk er ikke lett.*
+
+---
+
+#### New teaching principle
+
+**RhinoSpike is not for discovery. It's for controlled embedding.**
+If the target is still brand new, use anchor audio first. If the target is already understood at word level, RhinoSpike puts it into a sentence without throwing José into full-speed authentic chaos.
+
+---
+
+#### Connection to previous sessions
+
+| Session | Connection |
+|---------|-----------|
+| HVPT (Mar 23) | Moves from isolated contrast perception to sentence-level listening |
+| Speech motor learning (Mar 24) | Gives short carrier sentences for variable practice |
+| /y/ /ø/ production drills (Apr 1) | Supplies reusable sentence contexts after shaping/minimal pairs |
+| Forvo session (Apr 16) | Completes the ladder: Forvo for words, RhinoSpike for sentences |
+| HIPPEA / IU sessions | Keeps variability bounded and explicitly designed |
+
+---
+
+#### Personal Reflection 💭
+
+This clarified the role nicely. I didn't need another giant pronunciation resource. I needed the missing middle layer between isolated word clips and messy real-world audio. RhinoSpike is that layer.
+
+The important constraint is restraint. Because requests rely on humans, the curriculum should treat RhinoSpike like a scalpel, not a bucket. A tiny bank of high-value sentences can be reused for listening, shadowing, Anki, and later speaking drills. That's enough.
+
+*Setningen er der lyden begynner å leve.* 🎙️
+*(The sentence is where the sound begins to live.)*
+
+---
